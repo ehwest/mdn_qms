@@ -16,16 +16,39 @@ description: "(PDP) Product Development Process"
 
 ## Purpose
 
-This files within this folder PDP (Product Development Process) is intended to convey
-the means by which Medical Data Networks LLC invokes change in the service product T1Pal.
-This includes a sequence of phases in the overall PDP process.  Each such phase is described in detail.
+This file contains an overview of the Medical Data Networks LLC Product Development Process.
 
-## References
+The Product Development Process is by definition the process by which changes to software and services that are used in the T1Pal application and its supporting infrastructure.
 
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-4. ISO 13485:2016 Clause 4.2.5
+The complete Product Developmetn Process is composed of 5 phases.
++ Phase 1:  Research and select specific changes to Standard Operating Procedures to capture in a modified system design.
+The deliverable for this phase is the requirements for the change to be made.
++ Phase 2: Develop Software changes by modifying, deleteing, and/or adding code.
+There are 6 steps in this phase:
+
+++ Cut a new feature branch for the change and do development on that feature branch.
+++ When ready, the developer puts the code on a shared developer branch (DEV) for team review and automated testing.
+++ Automated testing happens, triggered by placement of developed code onto the DEV branch.
+++ Technical reviewers sign-off on changes based on test findings.
+++ Changed software is pushed to master branch (per gitflow process)
+++ Cut a new software relase to production using semantic versioning.
+
++ Phase 3: Maintenance Operations
+++ Review and adjust Fault Management solution (health checks)
+++ perform backups of any impacted dataset.
+++ perform system health checks
+++ validate events detected
+++ fix or roll back software
+
++ Phase 4:  Release changes to production
+++ go through release process to deploy code on servers
+++ refer to standard operating procedure for release.
+++ if needed, update the SOP
+
++ Phase 5:  Post Market Surveillance
+++ identify new features
+++ identify and triage operations and bug fixs
+
 
 ## Responsibilities
 
