@@ -19,7 +19,7 @@ description: "T1Pal Product Requirements"
 This document conveys the general requirements of the T1Pal service product.
 T1Pal is a service that is provided by executing software applications that 
 run on compute servers operated by
-Medical Data Networks, LLC.   Consumers apply for a monthly subscription-based
+Medical Data Networks, LLC.   To use the software, consumers must apply for a monthly subscription-based
 access to the server complex to receive the benefits of the service.
 Subscribers access the service by using any of the following devices:
 + iPhone cell phone with an interent data service plan
@@ -62,6 +62,16 @@ Subscriber data will be archived for five years after such data is first deliver
 
 ### REQ_1040
 T1Pal enforces compliance to HIPAA privacy requirements.
+
+### REQ_1050
+T1Pal provides for the subscriber to generate secure internet service links that, when transferred to other individuals, enables them to temporarily gain access to view the T1Pal reports.
+These links become expired under control of the subscriber.
+
+### REQ_1060
+T1Pal software shall operate in such a way that new features may be added, existing bugs may be fixed, and performance may be improved without pausing services delivered to subscribers.
+
+### REQ_1070
+T1Pal software shall operate in such a way that subscribers may access assistance and report apparant bugs at any time.
 
 
 
