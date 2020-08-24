@@ -1,7 +1,7 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "/"
-title: "REAMDE.md"
+title: "README.md"
 document_id: ""
 authors:
 - github.com/ehwest
