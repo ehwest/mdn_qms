@@ -11,7 +11,6 @@ revision: "05"
 approval_date: "2020-08-24"
 effective_date: "2020-08-24"
 description: "Control of Quality Records"
-weight: 20
 ---
 
 
