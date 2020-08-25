@@ -1,8 +1,8 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "mdn_qms/SOP_Standard_Operating_Procedures"
-title: "SOP_0001_Control_of_Quality_Records.md"
-document_id: "SOP-0001"
+title: "SOP_0003_Corrective_and_Preventative_action.md"
+document_id: "SOP-0004"
 authors:
 - github.com/ehwest
 approvers:
@@ -11,69 +11,70 @@ revision: "05"
 approval_date: "2020-07-18"
 effective_date: "2020-07-18"
 content_type: concept
-description: "Control of Quality Records"
+description: "Corrective and Preventative Action"
 ---
+Purpose
+This procedure outlines how Medical Data Networks LLC receives, reviews, and evaluates complaints. It is compliant with 21 CFR 820.198 (see Appendix I).
+Scope
+This procedure is used by Customer Operations personnel, who have the necessary education, background, training and experience to receive and document complaints for all of Medical Data Networks LLC’s products.
+References
+SOP-0001, Helpy.io Tickets - How to Create Support Helpy.io Tickets
+Definitions
+Complaint:  Any written, electronic, or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety, effectiveness, or performance of a Medical Data Networks LLC product after it is released for commercial distribution. See 21 CFR 820.3(b).
+Inquiry:  A user question regarding the use of a Medical Data Networks LLC product that does not meet the definition of a complaint (e.g., a question about how a feature works, or how to update apps). If repeated inquiries are received from different users regarding the same topic, corrective action may be needed because repeated inquiries of the same nature may indicate a user/use problem.
+Malfunction: The failure of a device to meet any of its performance specifications or otherwise to perform as intended. Performance specifications include all claims made in the labeling for the device. The intended performance of a device refers to the objective intent of the person legally responsible for the labeling of the device. See 21 CFR 803.3. 
+MDR (Medical Device Report): The MDR regulation is a mandatory information reporting system that requires manufacturers, distributors, and importers to report certain adverse experiences caused or contributed to by their devices.  A report will be submitted to the Food & Drug Administration (FDA) whenever a manufacturer, distributor or an importer becomes aware of information that its device (1) may have caused or contributed to a death or serious injury, or (2) has malfunctioned and, if the malfunction recurs, is likely to cause or contribute to a death or a serious injury.
+Reportable Event: Any Complaint that involves serious injury, permanent impairment, or permanent injury to patient, user, or other person, related to the use of a Medical Data Networks LLC device.  The event may be caused by device malfunction, deterioration in characteristics and/or performance, or inadequacy in labeling or instructions for use.  In this SOP, “reportable event” means any complaint that has been determined to be a reportable event under applicable regulation.  Referred to as an “MDR” in the US FDA reporting requirements, and as an “incident” or a “reportable event” in the EU, Australian, and Canadian reporting requirements.
+Serious Injury: An injury that (1) is life threatening, (2) results in permanent impairment of a body function or permanent damage to body structure, or (3) necessitates medical or surgical intervention by a healthcare professional to (i) preclude permanent impairment of a body function or permanent damage to body structure or (ii) relieve unanticipated temporary impairment of a body function or unanticipated temporary damage to body structure. Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device. See 21 CFR 803.3.
+User Communication: Any contact (phone, email, support ticket, website inquiry, in person) from a user regarding a Medical Data Networks LLC product.
+Complaint Handling Policy
+Medical Data Networks LLC may receive Complaints through any form of User Communication.
+All Complaints will be submitted to, or forwarded to Medical Data Networks LLC's Support team within 1 business day, in order to handle as follows (see Appendix II):
+Create a Zendesk ticket, per TWI-0001, to reply to the customer.
+Create a Jira ticket, per TWI-0002, if a new bug is identified that needs to be investigated.
+Create a record in AssurX, per TWI-0003, if the report meets the definition of a complaint.
+All Complaints/Reports for products manufactured by Partners will be transferred to Partners for handling/reporting, per SOP-000x.
+All Complaints will be evaluated by a Medical Data Networks LLC employee. Complaints that meet the definition of a Reportable Event will be clearly tagged and escalated to a Medical Data Networks LLC executive (VP level or higher).
+All Reportable Events will be promptly investigated by a Medical Data Networks LLC executive. Risk analysis, mitigation and control will be performed per SOP-0006 Risk Management.
+Complaints that are not deemed to be Reportable Events will be evaluated regularly as part of a routine review.
+Reportable Events that result in Serious Injury will be reported to the appropriate regulatory authority. See SOP-0008 Medical Device Reporting.
+
+Appendices
+6.1. 	Appendix I. Reference: 21 CFR 820.198 Complaint Files
 
 
-## Purpose
+(a) Each manufacturer shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
 
-This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
+(1) All complaints are processed in a uniform and timely manner;
+(2) Oral complaints are documented upon receipt; and
+(3) Complaints are evaluated to determine whether the complaint represents an event which is required to be reported to FDA under part 803 of this chapter, Medical Device Reporting.
 
-## References
+(b) Each manufacturer shall review and evaluate all complaints to determine whether an investigation is necessary. When no investigation is made, the manufacturer shall maintain a record that includes the reason no investigation was made and the name of the individual responsible for the decision not to investigate.
 
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-4. ISO 13485:2016 Clause 4.2.5
+(c) Any complaint involving the possible failure of a device, labeling, or packaging to meet any of its specifications shall be reviewed, evaluated, and investigated, unless such investigation has already been performed for a similar complaint and another investigation is not necessary.
 
-## Responsibilities
+(d) Any complaint that represents an event which must be reported to FDA under part 803 of this chapter shall be promptly reviewed, evaluated, and investigated by a designated individual(s) and shall be maintained in a separate portion of the complaint files or otherwise clearly identified. In addition to the information required by 820.198(e), records of investigation under this paragraph shall include a determination of:
 
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
+(1) Whether the device failed to meet specifications;
+(2) Whether the device was being used for treatment or diagnosis; and
+(3) The relationship, if any, of the device to the reported incident or adverse event.
 
-## Procedures
+(e) When an investigation is made under this section, a record of the investigation shall be maintained by the formally designated unit identified in paragraph (a) of this section. The record of investigation shall include:
 
-1. **Record Retention and Archiving.** 
+(1) The name of the device;
+(2) The date the complaint was received;
+(3) Any unique device identifier (UDI) or universal product code (UPC), and any other device identification(s) and control number(s) used;
+(4) The name, address, and phone number of the complainant;
+(5) The nature and details of the complaint;
+(6) The dates and results of the investigation;
+(7) Any corrective action taken; and
+(8) Any reply to the complainant.
 
-All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks uses these mechanisms for digital storage:
+(f) When the manufacturer's formally designated complaint unit is located at a site separate from the manufacturing establishment, the investigated complaint(s) and the record(s) of investigation shall be reasonably accessible to the manufacturing establishment.
 
-  * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.
-  * Google Docs (including Google Sheets, etc) and Google Drive with unlimited Google Vault storage.
-  * GitHub, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.
+(g) If a manufacturer's formally designated complaint unit is located outside of the United States, records required by this section shall be reasonably accessible in the United States at either:
 
-2. **Electronic Signatures**
+(1) A location in the United States where the manufacturer's records are regularly kept; or
+(2) The location of the initial distributor.
 
- * Records requiring signature approval per above shall be digitally signed with text similar to &quot;Approved. /s/ Name Of Approver, YYYY-MM-DD&quot;.
- * Digital signatures must be made with accounts that are authenticated by all three means: 1) unique username/email, 2) password 3) Two-Factor Authentication via mobile device.
- * Digital signatures must only be made by the actual person associated with the authentication credentials, and only over secure connections using https, TLS or SSL.
- * Medical Data Networks tools that currently meet these requirements include: Gmail, Google Docs and GitHub.
-
-3. **Date and Time Marks**
-
-For most documents, dates shall be expressed in the form similar to YYYY-MM-DD. If time specification is necessary to remove ambiguity, it should be in a form similar to HH:MM:SS reflecting 24-hour clock time and local Time Zone. For example: 2016-08-15 18:43:00 EST.
-
-4. **Electronic Records.** 
-
-All records at Medical Data Networks are created and maintained in electronic format and maintained on the "GIT" repository under the account "github.com/ehwest/mdn_quality_system".  The github repository is used to support authentication, labelling of meta data, recording of changes, and storage of the documents for each and every release of the "Managed Data Networks LLC. Quality system. ( Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  Any records containing confidential health information and not made publicly available and are kept in internally-only folders on the github repository, and configured within github to limit access to authorized users. 
-
-5. **Lost Documents and Disaster Recovery.** 
-
-Since all records and changes to records are retained in perpetuity, records should never be lost.
-
- * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0004 Corrective and Preventive Action](https://github.com/ehwest/mdn_quality_system/blob/master/01_Standard_Operating_Procedures/SOP-0004_Corrective_And_Preventive_Action.md)
- * The Github repository that archive Medical Data Networks documents (github.com/ehwest/mdn_quality_system) is cloned whenever any document is changed to the computers of all of the officers of Medical Data Networks. This ensures full recovery of the repository from any selected clone instance. 
-
-6. **Provision of Records to Customers.** 
-
-Where contractually specified, in accordance with regulatory requirements, or at the discretion of Medical Data Networks, copies of the quality records may be released to a customer or potential customer.
-
-7. **Provision of Records to Auditors or Government Agencies.** 
-
-Where applicable, quality records will be provided for examination during normal company operating hours at the request of an authorized quality systems auditor or government agency representative.   A tool of the github repository is provided for creating a PDF export of the documents within the quality management system.   
-
-However, the authoritative documents are retained within the github repository, and all printed documents and/or abstracts are uncontrolled documents.
-
- * Internal Audit Reports, Supplier Audit Reports, and Management Review Minutes are not available for review by US FDA, according to 21 CFR 820.180(c), but may be reviewed by other regulatory agencies, as required.
- * For any audits performed by the US FDA, it is the policy of Medical Data Networks that an employee with executive responsibility will provide a written statement that the management reviews, quality audits and supplier audits were performed and documented. This statement will include the dates on which they were performed, and a statement that any required corrective action has been undertaken according to Medical Data Networks&#39;s Corrective and Preventive Action procedure.
- * A copy of an associated log or schedule (e.g., internal audit log, management review schedule, supplier audit schedule) may be provided as proof that the activities were performed.
-
+6.2. Appendix II. Complaint Handling Flowchart
