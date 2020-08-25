@@ -17,7 +17,16 @@ description: "(PD) T1Pal Product Definition"
 ## Purpose
 
 The files within this folder (PD) for T1Pal Product Definition, are intended to convey
-a description of the service product of Medical Data Networks LLC, along with the intended use, requirements, verification methods, validation of methods, and artifacts supporting these documents.
+a description of the "T1Pal" software as a service (SaaS) product of Medical Data Networks LLC, along with the intended use, requirements, verification methods, validation of methods, and artifacts supporting these documents.
+
+Within this section, the following files are stored and subject to change control procedures.
+
+ + PD_0001_T1PAL_Product_Requirements.md
+ + PD_0002_Intended_Use.md
+ + PD_0003_Verification_Methods.md
+ + PD_0004_Validation_Methods.md
+ + PD_0005_Artifacts_of_Validation.md
+ + PD_0006_HIPPA_Compliance_Statement.md
 
 
 ## References
