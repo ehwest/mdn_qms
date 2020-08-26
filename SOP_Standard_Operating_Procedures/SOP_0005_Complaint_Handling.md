@@ -31,13 +31,13 @@ This procedure is used by Customer Operations personnel, who have the necessary 
 ## Definitions
 
 ### Complaint:  
-Any written, electronic, or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety, effectiveness, or performance of a Medical Data Networks LLC product after it is released for commercial distribution. See 21 CFR 820.3(b).
+Any written, electronic, or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety, effectiveness, or performance of a Medical Data Networks LLC product after it is released for commercial distribution.
 
 ### Inquiry:  
 A user question regarding the use of a Medical Data Networks LLC product that does not meet the definition of a complaint (e.g., a question about how a feature works, or how to update apps). If repeated inquiries are received from different users regarding the same topic, corrective action may be needed because repeated inquiries of the same nature may indicate a user/use problem.
 
 ### Malfunction: 
-The failure of a device to meet any of its performance specifications or otherwise to perform as intended. Performance specifications include all claims made in the labeling for the device. The intended performance of a device refers to the objective intent of the person legally responsible for the labeling of the device. See 21 CFR 803.3. 
+The failure of a device to meet any of its performance specifications or otherwise to perform as intended. Performance specifications include all claims made in the labeling for the device. The intended performance of a device refers to the objective intent of the person legally responsible for the labeling of the device. 
 
 ### MDR (Medical Device Report): 
 The MDR regulation is a mandatory information reporting system that requires manufacturers, distributors, and importers to report certain adverse experiences caused or contributed to by their devices.  A report will be submitted to the Food & Drug Administration (FDA) whenever a manufacturer, distributor or an importer becomes aware of information that its device (1) may have caused or contributed to a death or serious injury, or (2) has malfunctioned and, if the malfunction recurs, is likely to cause or contribute to a death or a serious injury.
@@ -46,7 +46,7 @@ The MDR regulation is a mandatory information reporting system that requires man
 Any Complaint that involves serious injury, permanent impairment, or permanent injury to patient, user, or other person, related to the use of a Medical Data Networks LLC device.  The event may be caused by device malfunction, deterioration in characteristics and/or performance, or inadequacy in labeling or instructions for use.  In this SOP, “reportable event” means any complaint that has been determined to be a reportable event under applicable regulation.  Referred to as an “MDR” in the US FDA reporting requirements, and as an “incident” or a “reportable event” in the EU, Australian, and Canadian reporting requirements.
 
 ## Serious Injury: 
-An injury that (1) is life threatening, (2) results in permanent impairment of a body function or permanent damage to body structure, or (3) necessitates medical or surgical intervention by a healthcare professional to (i) preclude permanent impairment of a body function or permanent damage to body structure or (ii) relieve unanticipated temporary impairment of a body function or unanticipated temporary damage to body structure. Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device. See 21 CFR 803.3.
+An injury that (1) is life threatening, (2) results in permanent impairment of a body function or permanent damage to body structure, or (3) necessitates medical or surgical intervention by a healthcare professional to (i) preclude permanent impairment of a body function or permanent damage to body structure or (ii) relieve unanticipated temporary impairment of a body function or unanticipated temporary damage to body structure. Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device.
 
 ### User Communication: 
 
@@ -65,7 +65,7 @@ All Reportable Events will be promptly investigated by a Medical Data Networks L
 
 Complaints that are not deemed to be Reportable Events will be evaluated regularly as part of a routine review.
 
-Reportable Events that result in Serious Injury will be reported to the appropriate regulatory authority. See SOP-0008 Medical Device Reporting.
+Reportable Events that result in Serious Injury will be reported to the appropriate regulatory authority.
 
 # Appendices
 
