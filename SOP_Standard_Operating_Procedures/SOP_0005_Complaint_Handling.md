@@ -115,7 +115,9 @@ Reportable Events that result in Serious Injury will be reported to the appropri
 
 [Complaint Handling Flowchart](./complaint_handling_flowchart.pdf)
 
-§820.198   Complaint files.
+# §820.198 Requirements
+
+## Complaint files.
 (a) Each manufacturer shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
 
 (1) All complaints are processed in a uniform and timely manner;
