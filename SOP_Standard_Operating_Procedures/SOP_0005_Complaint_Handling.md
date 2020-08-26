@@ -45,7 +45,7 @@ The MDR regulation is a mandatory information reporting system that requires man
 ### Reportable Event: 
 Any Complaint that involves serious injury, permanent impairment, or permanent injury to patient, user, or other person, related to the use of a Medical Data Networks LLC device.  The event may be caused by device malfunction, deterioration in characteristics and/or performance, or inadequacy in labeling or instructions for use.  In this SOP, “reportable event” means any complaint that has been determined to be a reportable event under applicable regulation.  Referred to as an “MDR” in the US FDA reporting requirements, and as an “incident” or a “reportable event” in the EU, Australian, and Canadian reporting requirements.
 
-## Serious Injury: 
+### Serious Injury: 
 An injury that (1) is life threatening, (2) results in permanent impairment of a body function or permanent damage to body structure, or (3) necessitates medical or surgical intervention by a healthcare professional to (i) preclude permanent impairment of a body function or permanent damage to body structure or (ii) relieve unanticipated temporary impairment of a body function or unanticipated temporary damage to body structure. Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device.
 
 ### User Communication: 
@@ -56,12 +56,16 @@ Any contact (phone, email, support ticket, website inquiry, in person) from a us
 
 Medical Data Networks LLC may receive Complaints through any form of User Communication.
 
-All Complaints will be submitted to, or forwarded to Medical Data Networks LLC's Support team within 1 business day, in order to handle as follows (see Appendix II):
-This is accomplished by creating a (HELPY.io) support ticket, per TWI-0001, to reply to the customer. This may be done by sending an email message to support@t1pal.com and/or by an agent logging in and creating a ticket at https://t1pal.helpy.io.
+All Complaints will be submitted to, or forwarded to Medical Data Networks LLC's Support team within 1 business day.
+This is accomplished when a support ticket is created on the technical support [web page](https://t1pal.HELPY.io).
+In addition, this particular ticketing
+system facilitates the collection of additional detail by linked email exchanges as needed to fully explain the complaint and/or any conditions surrounding the complaint.
+Alternatively, complaints may also be received when an email is sent to support@t1pal.com and/or support@t1pa.helpy.com.
 
-All Complaints will be evaluated by a Medical Data Networks LLC employee. Complaints that meet the definition of a Reportable Event will be clearly tagged and escalated to a Medical Data Networks LLC executive (VP level or higher).
+All Complaints will be evaluated by a Medical Data Networks LLC employee. Complaints that meet the definition of a Reportable Event will be clearly tagged within the ticketing system and added to (or used to update) a Reportable Event Spreadsheet maintained by Medical Data Networks LLC quality VP.
 
-All Reportable Events will be promptly investigated by a Medical Data Networks LLC executive. Risk analysis, mitigation and control will be performed per SOP-0006 Risk Management.
+All Reportable Events will be promptly investigated by a Medical Data Networks LLC quality VP. 
+Risk analysis, mitigation and control will be performed per SOP-0006 Risk Management.
 
 Complaints that are not deemed to be Reportable Events will be evaluated regularly as part of a routine review.
 
@@ -73,7 +77,7 @@ Reportable Events that result in Serious Injury will be reported to the appropri
 
 [Complaint Handling Flowchart](./complaint_handling_flowchart.pdf)
 
-## Appendix II §820.198 Requirements
+## Appendix II §820.198 Requirements adopted by Medical Data Networks LLC.
 
 ### Complaint files.
 (a) Each manufacturer shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
