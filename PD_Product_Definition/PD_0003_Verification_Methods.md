@@ -28,15 +28,11 @@ For each of these, two methods will be used.
 The following table
 
 |Method|Approach|Use Case|
-|-------------------|------------------|---------------|
-|Inspection|Double Entry|0001|
-|Inspection|Proof Reading|0001|
-|Demonstration|Double Entry|0002|
-|Demonstration|Proof Reading|0002|
-|Test|Double Entry|0003|
-|Test|Proof Reading|0003|
-|Analysis|Double Entry|0004|
-|Analysis|Proof Reading|0004|
+|-----------------------------|---------------------------|------------------------|
+|REQ_1000 Secondary Display|Inspection   |Code Review of Engineering Team|
+|REQ_1010 Remote Access    |Demonstration|Execute End-to-End Dynamic Test Suite|
+|REQ_1020 Documentation Support|Demonstration|Execute End-to-End Dynamic Test Suite|
+|REQ_1030 Technical Support|Demonstration|Execute End-to-End Dynamic Test Suite|
 
 ## Responsibilities
 
