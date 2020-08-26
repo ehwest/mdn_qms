@@ -28,8 +28,7 @@ For each of these, two methods will be used.
 The following table
 
 |Method|Approach|Use Case|
-|----------------|--------------|---------------|
-
+|-------------------|------------------|---------------|
 |Inspection|Double Entry|0001|
 |Inspection|Proof Reading|0001|
 |Demonstration|Double Entry|0002|
