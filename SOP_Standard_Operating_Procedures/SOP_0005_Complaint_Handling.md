@@ -19,52 +19,45 @@ description: "Complaint Handling"
 This procedure outlines how Medical Data Networks LLC receives, reviews, and evaluates complaints. 
 It is intended to be compliant with [FDA Title 21 Part 820 Section 820.198 Complaint files.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCFR/CFRSearch.cfm?fr=820.198)
 
-# Scope
+## Scope
 
 This procedure is used by Customer Operations personnel, who have the necessary education, background, training and experience to receive and document complaints for all of Medical Data Networks LLC’s products.
 
 ## References
 
- + TWI-0001, Zendesk Tickets - How to Create Support Zendesk Tickets
- + TWI-0002, Jira Tickets - How to Create Support Jira Tickets
- + TWI-0003, AssurX Records - How to Create Support AssurX Records
  + SOP-0006, Risk Management
  + SOP-000x, Partner Complaint/Transfer Process
 
-# Definitions
+## Definitions
 
-## Complaint:  
+### Complaint:  
 Any written, electronic, or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety, effectiveness, or performance of a Medical Data Networks LLC product after it is released for commercial distribution. See 21 CFR 820.3(b).
 
-## Inquiry:  
+### Inquiry:  
 A user question regarding the use of a Medical Data Networks LLC product that does not meet the definition of a complaint (e.g., a question about how a feature works, or how to update apps). If repeated inquiries are received from different users regarding the same topic, corrective action may be needed because repeated inquiries of the same nature may indicate a user/use problem.
 
-## Malfunction: 
+### Malfunction: 
 The failure of a device to meet any of its performance specifications or otherwise to perform as intended. Performance specifications include all claims made in the labeling for the device. The intended performance of a device refers to the objective intent of the person legally responsible for the labeling of the device. See 21 CFR 803.3. 
 
-## MDR (Medical Device Report): 
+### MDR (Medical Device Report): 
 The MDR regulation is a mandatory information reporting system that requires manufacturers, distributors, and importers to report certain adverse experiences caused or contributed to by their devices.  A report will be submitted to the Food & Drug Administration (FDA) whenever a manufacturer, distributor or an importer becomes aware of information that its device (1) may have caused or contributed to a death or serious injury, or (2) has malfunctioned and, if the malfunction recurs, is likely to cause or contribute to a death or a serious injury.
 
-## Reportable Event: 
+### Reportable Event: 
 Any Complaint that involves serious injury, permanent impairment, or permanent injury to patient, user, or other person, related to the use of a Medical Data Networks LLC device.  The event may be caused by device malfunction, deterioration in characteristics and/or performance, or inadequacy in labeling or instructions for use.  In this SOP, “reportable event” means any complaint that has been determined to be a reportable event under applicable regulation.  Referred to as an “MDR” in the US FDA reporting requirements, and as an “incident” or a “reportable event” in the EU, Australian, and Canadian reporting requirements.
 
 ## Serious Injury: 
 An injury that (1) is life threatening, (2) results in permanent impairment of a body function or permanent damage to body structure, or (3) necessitates medical or surgical intervention by a healthcare professional to (i) preclude permanent impairment of a body function or permanent damage to body structure or (ii) relieve unanticipated temporary impairment of a body function or unanticipated temporary damage to body structure. Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device. See 21 CFR 803.3.
 
-## User Communication: 
+### User Communication: 
 
 Any contact (phone, email, support ticket, website inquiry, in person) from a user regarding a Medical Data Networks LLC product.
 
-# Complaint Handling Policy
+## Complaint Handling Policy
 
 Medical Data Networks LLC may receive Complaints through any form of User Communication.
 
 All Complaints will be submitted to, or forwarded to Medical Data Networks LLC's Support team within 1 business day, in order to handle as follows (see Appendix II):
-Create a Zendesk ticket, per TWI-0001, to reply to the customer.
-Create a Jira ticket, per TWI-0002, if a new bug is identified that needs to be investigated.
-Create a record in AssurX, per TWI-0003, if the report meets the definition of a complaint.
-
-All Complaints/Reports for products manufactured by Partners will be transferred to Partners for handling/reporting, per SOP-000x.
+This is accomplished by creating a (HELPY.io) support ticket, per TWI-0001, to reply to the customer. This may be done by sending an email message to support@t1pal.com and/or by an agent logging in and creating a ticket at https://t1pal.helpy.io.
 
 All Complaints will be evaluated by a Medical Data Networks LLC employee. Complaints that meet the definition of a Reportable Event will be clearly tagged and escalated to a Medical Data Networks LLC executive (VP level or higher).
 
@@ -82,7 +75,7 @@ Reportable Events that result in Serious Injury will be reported to the appropri
 
 ## Appendix II §820.198 Requirements
 
-## Complaint files.
+### Complaint files.
 (a) Each manufacturer shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
 
 (1) All complaints are processed in a uniform and timely manner;
