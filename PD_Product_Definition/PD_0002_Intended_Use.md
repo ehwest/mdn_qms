@@ -16,18 +16,23 @@ description: "T1Pal Intended Use"
 ## T1Pal Definitive List of Intended Use Cases
 
 ### REQ_1000 -- Secondary Display
-T1Pal is intended to be used to allow "followers" of patients using iCGM,CGM, ACE, Infusion Pumps devices to remotely observe "secondary displays" of the same data otherwise provided by "primary" displays that are provided with such devices.
+T1Pal is intended to be used to allow "followers" of patients using iCGM,CGM, ACE, Infusion Pumps and/or similar medical devices to remotely observe "secondary displays" of the same data otherwise provided by "primary" displays that are provided with such devices.
 
 ### REQ_1010 -- Remote Access
-Because T1Pal intended followers can remotely observe secondary data delivery, it is an intended use that such followers be able to observe and/or be notified of certain device faults, errors, power outages, or other events consistent with missing or bad data delivered by medical devices for the purposes of secondary display of data.
+It is an intended use that followers (described in REQ_1000 above) be able to observe and/or be notified of certain device faults, errors, power outages, or other events consistent with missing or bad data delivered by medical devices for the purposes of secondary display of data.
 
 ### REQ_1020 -- Documentation Support
-It is an intended use of T1Pal to provide documentation supporting medical device warranty claims and automated ordering of consumable supplies consistent with the secondary data made available by T1Pal displays.
+It is an intended use of T1Pal to provide documentation/evidence supporting medical device warranty claims, and automated ordering of consumable supplies consistent with the secondary data made available by T1Pal displays.
 
 ### REQ_1030 -- Technical Support
-It is an intended use of T1Pal to provide "technical support" to both patients and followers as may be needed to 
+It is an intended use of T1Pal to provide "Technical Support" to both patients and followers as may be needed to 
 resolve mechanical assembly, power supply, settings, configuration, and/or tests of proper operations related to 
 those medical devices configured to provide secondary display capabilities to T1Pal.
+Such Technical Support activities shall be provided to T1Pal subscribers using the T1Pal trouble ticketing system
+to access helpers having access to their secondary data displays.
+
+Technical Support provided by enrolled T1Pal helpers shall be limited to mechanical assembly, power supply, settings, configurations, and/or tests of proper operation.  No medical guidance, interpretation, or therapy shall be provided by such helpers.  In the event subscribers or followers request medical guidance, interpretation, or therapy, referrals to qualified medical practitioners will be provided.
+
 
 # Responsibilities
 The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
