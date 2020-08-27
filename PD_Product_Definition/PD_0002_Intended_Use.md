@@ -16,10 +16,10 @@ description: "T1Pal Intended Use"
 ## T1Pal Definitive List of Intended Use Cases
 
 ### REQ_1000 -- Secondary Display
-T1Pal is intended to be used to allow "followers" of patients using iCGM,CGM, ACE, Infusion Pumps and/or similar medical devices to remotely observe "secondary displays" of the same data otherwise provided by "primary" displays that are provided with such devices.
+T1Pal is intended to be used to allow "followers" of patients using iCGM,CGM, ACE, Infusion Pumps and/or similar medical devices to observe "secondary displays" of the same data otherwise provided by "primary" displays that are provided with such devices.
 
 ### REQ_1010 -- Remote Access
-It is an intended use that followers (described in REQ_1000 above) be able to observe and/or be notified of certain device faults, errors, power outages, or other events consistent with missing or bad data delivered by medical devices for the purposes of secondary display of data.
+It is an intended use for patients to share to followers (described in REQ_1000 above) all data and/or notifications of certain device faults, errors, power outages, or other events consistent with missing or bad data delivered by medical devices for the purposes of secondary display of data.
 
 ### REQ_1020 -- Documentation Support
 It is an intended use of T1Pal to provide documentation/evidence supporting medical device warranty claims, and automated ordering of consumable supplies consistent with the secondary data made available by T1Pal displays.
