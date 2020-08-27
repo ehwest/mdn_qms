@@ -17,6 +17,24 @@ This document is intended to capture the results of Verification and Validation 
 As such, it will be populated with data as those tests are carried out.
 
 
+|Micro_Service_ID|Micro_Service Description|APIs Tested|Github Repo|
+|----------------|-------------------------|-----------|-----------|
+|t1dpalsys|Installs all other micro-services|||
+|t1paldashboard|Provides Content for Web site |||
+|consul|provides Real Time Configuration Data|||
+|mongo|Patient Database|||
+|multienv|Nightscout Server |||
+|cluster|Kubernetes Control API|||
+|backends|Nightscout Proxy|||
+||Nightscout Proxy|||
+|Helpy Ticketing|Technical Support Processor|||
+|Stripe Processor|Credit Card Managment|||
+|servicebot.io|Product Management|||
+|resolver|Tenant View Resolver|||
+|runner|Tenant Runner|||
+|dispatcher|Tenant Dispatcher|||
+|tenant inspector API|System API|||
+
 
 ## Responsibilities
 
