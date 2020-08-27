@@ -32,6 +32,7 @@ code review, and/or manual testing operations.
 |Micro_Service_ID|Micro_Service Description|APIs Tested|Github Repo|
 |----------------|-------------------------|-----------|-----------|
 |DNS|Standard commercial DNS service of AWS||3rd party service|
+|NTP|Standard commercial NTP service of Digital Ocean||3rd party service|
 |SSL Certificate|Standard commercial service of letsencrypt.org||3rd party service|
 |Google OAuth Service |Standard commercial serviceof Google||3rd party service|
 |t1dpalsys|Installs all other micro-services|||
