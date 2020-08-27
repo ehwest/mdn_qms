@@ -86,58 +86,6 @@ Subscribers access the service by using any of the following devices:
 T1Pal is intended to comply with the FDA definition of 
 [Software as a Medical Device](https://www.fda.gov/media/119722/download)
 
-## Enumerated Product Requrements
-
-### REQ_1000
-T1Pal is an "Integrated Continuous Glucose Monitoring System" intended to be a secondary display
-of real-time measures of bodily fluids frequently. 
-
-### REQ_1010
-T1Pal displays data that is securely obtained and delivered by electronic messages from multiple "other" devices that themselves that provide "primary" display data.
-These "multiple other" devices include:  
- + insulin dosing systems, 
- + integrated Continuous Glucose Monitoring systems (iCGM).
- + software devices that collect food consumption data
- + software devices that collect exercise and related event data
-
-### REQ_1020
-T1Pal provides a display of data that combines data from multiple sources and displays a consolidated view of the data such that the timing of reports of bodily fluids are synchronized in time.
-Sources of data displayed on the T1Pal system are required to comply with agreed data communications requirements.  
-
-Products that currently do comply with T1Pal system agrements include:  
- + Dexcom G4, G5 products that use the Dexcom Share Service phone-based application and bluetooth bridge.
- + Dexcom's G6 continuous glucose monitoring system, using Dexcom Follow service. 
- + Insulet's Omnipod Insulin Management system, 
- + MiniMed insulin pump system from Medtronic, 
- + Medtronic's Guardian Connect CGM system.
-
-
-### REQ_1030
-T1Pal, as a "secondary display" depends on the continuous performance and reliability 
-of the "primary" sources of data displays.
-Since the intended use of the T1Pal software device is to provide supplemental technical support to device users,  the continuous performance and reliability of T1Pal shall exceed that of its data sources.
-Therefore, individual medical device outages shall be highlighted on the T1Pal display.
-
-Please see [PD_0002 Intended Use](./PD_Product_Definition/PD_0002_Intended_Use.md) for a definitive 
-statement of T1Pal intended use.
-
-### REQ_1040
-T1Pal enforces compliance to HIPAA privacy requirements.
-
-### REQ_1050
-T1Pal provides for the subscriber to generate secure internet service links that, when transferred to other individuals, enables them to temporarily gain access to view the T1Pal reports.
-These links become expired under control of the subscriber.
-
-Please see [PD_0002 Intended Use](./PD_Product_Definition/PD_0002_Intended_Use.md) for a definitive 
-statement of T1Pal intended use.
-
-### REQ_1060
-T1Pal software shall operate in such a way that new features may be added, existing bugs may be fixed, and performance may be improved without pausing services delivered to subscribers.
-
-### REQ_1070
-T1Pal software shall operate in such a way that subscribers may access assistance and report apparant bugs at any time.
-
-
 ## Responsibilities
 
  1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
