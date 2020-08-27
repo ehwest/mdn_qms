@@ -26,7 +26,7 @@ As such, it will be populated with data as those tests are carried out.
 |multienv|Nightscout Server |||
 |cluster|Kubernetes Control API|||
 |backends|Nightscout Proxy|||
-||Nightscout Proxy|||
+|Nightscout|Nightscout|||
 |Helpy Ticketing|Technical Support Processor|||
 |Stripe Processor|Credit Card Managment|||
 |servicebot.io|Product Management|||
