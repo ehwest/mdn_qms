@@ -16,6 +16,18 @@ description: "T1Pal Artifacts of Validation and Verification"
 This document is intended to capture the results of Verification and Validation activities.
 As such, it will be populated with data as those tests are carried out.
 
+# Design Verification Review Results
+
+The following table is a work product of the T1Pal Design Review
+undertaken 8/27/2020 by Earle West (VP Systems Engineering)  and Ben West (CEO).
+This work product is an enumeration of all of the component services
+of T1Pal.com, which itself is a micro-service based design.
+
+The function of each and every component in this T1Pal design is completely
+captured by its API as shown in the table below.
+Each and every API listed has been the target of either automated tests,
+code review, and/or manual testing operations.
+
 
 |Micro_Service_ID|Micro_Service Description|APIs Tested|Github Repo|
 |----------------|-------------------------|-----------|-----------|
@@ -43,6 +55,20 @@ As such, it will be populated with data as those tests are carried out.
 |dispatcher|Tenant Dispatcher|||
 |tenant inspector API|System API|||
 |postgres|Application databsse|postgres||
+
+
+# Product Validation Review Results
+
+Validation of the T1Pal software "device" is routinely the target of one or more tests
+of each and every "intended use" as described in the PD_0002_Intended_Use.md document.
+Such tests are carried out prior to and during T1Pal operations.
+
+|Requirement|Method of Test|Result|
+|-----------------|-------------------------|-------------|
+|REQ_1000 Secondary Display|Dynamic with Test Datasets|passed 8/27/2020|
+|REQ_1010 Remote Access|Dynamic with Test Datasets|passed 8/27/2020|
+|REQ_1020 Documentation Support|Inspection|failed 8/27/2020|
+|REQ_1020 Technical Support|Dynamic with Test Datasets|faild 8/27/2020|
 
 
 ## Responsibilities
