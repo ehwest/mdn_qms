@@ -15,24 +15,25 @@ description: "T1Pal Verification Methods"
 
 # Verification 
 
-T1Pal shall be the target of continuous Verification by four means:
-1. Inspection
-2. Demonstration
-3. Test
-4. Analysis
+Part 20, CFR 820 defines product verification as ensuring
+*each element* of a device meets the appropriate specifications and standards.
+The focus on Verification is therefore on each element of a device, and
+the demonstration that each such element meets design specifications and standards.
 
-For each of these, two methods will be used.
-1. Double Entry -- entering the data twice and comparing the two copies.
-2. Proofreading data -- checking the data processed against the original data.
+Software verification provides objective evidence that the design outputs of a particular phase of the software development life cycle meet all of the specified requirements for that phase. 
 
-The following table
+Software verification looks for consistency, completeness, and correctness of the software and its supporting documentation, as it is being developed, and provides support for a subsequent conclusion that software is validated. 
 
-|Method|Approach|Use Case|
-|-----------------------------|---------------------------|------------------------|
-|REQ_1000 Secondary Display|Inspection   |Code Review of Engineering Team|
-|REQ_1010 Remote Access    |Demonstration|Execute End-to-End Dynamic Test Suite|
-|REQ_1020 Documentation Support|Demonstration|Execute End-to-End Dynamic Test Suite|
-|REQ_1030 Technical Support|Demonstration|Execute End-to-End Dynamic Test Suite|
+Software testing is one of many verification activities intended to confirm that software development output meets its input requirements. Other verification activities include various static and dynamic analyses, code and document inspections, walkthroughs, and other techniques.
+
+Because the T1Pal software is a collection of "micro-services" the approach for
+product verification is largely accomplished by a technical review of
+each of the component micro-services as implemented in code.
+
+Each such micro-service is (and shall be) be developed together with a suite of tests for testing
+each and every micro-service.  The tests for each such micro-service are intended to be
+comprehensive, including all known logical states traversed in use of the overall T1pal product.
+
 
 ## Responsibilities
 
