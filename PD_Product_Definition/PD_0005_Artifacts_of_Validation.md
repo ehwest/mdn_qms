@@ -19,21 +19,30 @@ As such, it will be populated with data as those tests are carried out.
 
 |Micro_Service_ID|Micro_Service Description|APIs Tested|Github Repo|
 |----------------|-------------------------|-----------|-----------|
+|DNS|Standard commercial DNS service of AWS||3rd party service|
+|SSL Certificate|Standard commercial service of letsencrypt.org||3rd party service|
+|Google OAuth Service |Standard commercial serviceof Google||3rd party service|
 |t1dpalsys|Installs all other micro-services|||
-|t1paldashboard|Provides Content for Web site |||
+|host|provides administrative hosting to T1Pal.com containers - Digital Ocean||3rd party service|
+|kubernetes|provides kubernetes control;  commercial service of Digital Ocean||3rd party service|
+|front|nginx reverse proxy service|||
+|t1paldashboard|Provides Content for Web site ||t1paldashboard|
 |consul|provides Real Time Configuration Data|||
-|mongo|Patient Database|||
+|landingdb|Patient Database|mongo||
+|t1palbackplane|backlib, restify||
+|provisioner|Updates multienv|||
 |multienv|Nightscout Server |||
 |cluster|Kubernetes Control API|||
 |backends|Nightscout Proxy|||
-|Nightscout|Nightscout|||
-|Helpy Ticketing|Technical Support Processor|||
-|Stripe Processor|Credit Card Managment|||
+|Nightscout|Nightscout|CGM Remote Monitor||
+|Helpy Ticketing|Technical Support Processor||3rd party service|
+|stripe|Credit Card Transactions|stripe API|3rd party service|
 |servicebot.io|Product Management|||
 |resolver|Tenant View Resolver|||
 |runner|Tenant Runner|||
 |dispatcher|Tenant Dispatcher|||
 |tenant inspector API|System API|||
+|postgres|Application databsse|postgres||
 
 
 ## Responsibilities
