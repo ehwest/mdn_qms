@@ -15,6 +15,19 @@ description: "T1Pal Intended Use"
 
 ## T1Pal Definitive List of Intended Use Cases
 
+This document provides the list of Intended Use cases for T1Pal.
+
+
+The following terms are defined within the context of these Intended Use cases.
+
+|Term|Definition|
+|----------------|---------------------------------|
+|User|Subscriber to the T1Pal service platform.|
+|Patient|Subscriber to the T1Pal service platform.|
+|Follower|Person who is allowed access to T1Pal user's data.|
+|Primary Display|Dispay generated directly by a medical device.|
+|Secondary Display|Dispay generated from a copy of data provided to a Primary Display|
+|Location|An immutable electronic address that is a destination for data display|.
 
 ### REQ_1000 -- Secondary Display
 T1Pal receives data from one or more "other" medical devices and provides a secondary 
@@ -44,8 +57,7 @@ device warranty claims, and automated ordering of consumable supplies consistent
 
 ### REQ_1030 -- Technical Support
 It is an intended use of T1Pal to provide "Technical Support" to both T1Pal users and 
-followers as may be needed to hasten the resolution of  
-mechanical assembly, power supply, settings, configuration, and/or tests of 
+followers as may be needed to hasten the resolution of mechanical assembly, power supply, settings, configuration, and/or tests of 
 proper operations related to those medical devices configured to provide secondary display capabilities to T1Pal.
 
 Such Technical Support activities shall be provided to T1Pal subscribers using the T1Pal 
