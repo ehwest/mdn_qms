@@ -15,7 +15,7 @@ description: "T1Pal Product Component Validation"
 
 
 # Verification Defined
-The FDA [PD_Product_Definition/General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff.pdf](PD_Product_Definition/General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff.pdf
+The FDA [PD_Product_Definition/General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff.pdf](https://github.com/ehwest/mdn_qms/PD_Product_Definition/General-Principles-of-Software-Validation---Final-Guidance-for-Industry-and-FDA-Staff.pdf
 )
 
 Part 20, CFR 820 defines product validation as ensuring 
