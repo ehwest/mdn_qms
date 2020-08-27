@@ -20,7 +20,8 @@ Nightscout receives data from the displays of devices primarily in service of in
 
 
 ### REQ_1010 -- Remote Access
-It is an intended use for patients to share to followers (described in REQ_1000 above) all data and/or notifications of certain device faults, errors, power outages, or other events consistent with missing or bad data delivered by medical devices for the purposes of secondary display of data.
+Nightscout provides a secure way for people to share across devices and with people they trust.  The data will only flow to locations authorized by users.  The data includes signals including operational status and provenance of the originating medical device to support accurate and up to date representations of the therapeutic status.
+
 
 ### REQ_1020 -- Documentation Support
 It is an intended use of T1Pal to provide documentation/evidence supporting medical device warranty claims, and automated ordering of consumable supplies consistent with the secondary data made available by T1Pal displays.
@@ -33,6 +34,8 @@ Such Technical Support activities shall be provided to T1Pal subscribers using t
 to access helpers having access to their secondary data displays.
 
 Technical Support provided by enrolled T1Pal helpers shall be limited to mechanical assembly, power supply, settings, configurations, and/or tests of proper operation.  No medical guidance, interpretation, or therapy shall be provided by such helpers.  In the event subscribers or followers request medical guidance, interpretation, or therapy, referrals to qualified medical practitioners will be provided.
+It is an intended use for patients to share to followers (described in REQ_1000 above) all data and/or notifications of certain device faults, errors, power outages, or other events consistent with missing or bad data delivered by medical devices for the purposes of secondary display of data.
+
 
 
 # Responsibilities
