@@ -25,7 +25,7 @@ The complete Quality Management System (QMS) followed by Medical Data Networks L
 One or more other files are also provided within each such QMS folder, and altogether these folders and files capture the authoritative description of the QMS.
 
   + [Standard Operating Procedures (SOP)](https://github.com/ehwest/mdn_qms/tree/master/SOP_Standard_Operating_Procedures)
-  + [Communication Materials (CM)](https://github.com/ehwest/mdn_qms/tree/master/CM_Communication_Matterials)
+  + [Communication Materials (CM)](https://github.com/ehwest/mdn_qms/tree/master/CM_Communication_Materials)
   + [Product Development Process (PDP)](https://github.com/ehwest/mdn_qms/tree/master/PDP_Product_Development_Process)
   + [Product Definition (PD)](https://github.com/ehwest/mdn_qms/tree/master/PD_Product_Definition)
   + [System Design (SD)](https://github.com/ehwest/mdn_qms/tree/master/SD_System_Design)
