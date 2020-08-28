@@ -42,18 +42,23 @@ be needed for regulatory purposes.  However, at this writing, all copies
 of the software are operated within the United States.
 
 # FDA Regulatory Authority
-The requirements for T1Pal are intentionally aligned with requirements set forth by the FDA for
-"Software as a Medical Device" found in the FDA regulations
-[here.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668)
+The requirements for T1Pal are intentionally aligned with requirements set forth by the FDA for a
 
-## Reference to Intended use
-One of the purposes of T1Pal is to create notifications to notify another person, a follower, 
+"Continuous Glucose Monitor Secondary Display" found in the FDA classification of such devices [here.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668).
+
+The intended uses of this T1Pal system is therefore consistent with such classification.
+
+## Notes on Intended Use
+
+Please see [PD_0002_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md) for a definitive 
+statement of T1Pal intended use(s).
+
+Based on observations of users, 
+one of the more valuable purposes of T1Pal is to create notifications to notify another person, a follower, 
 of the patient's continuous glucose monitoring system sensor glucose information in real time. 
 Therefore, based on the FDA applicable language, T1Pal is a "Continuous Glucose Monitor Secondary Display".
-Please see [PD_0002_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md) for a definitive 
-statement of T1Pal intended use.
 
-## Scope Limited to Secondary Display
+## Scope Limited to Secondary Display And Its Capabilities
 The *secondary* 
 display of T1PAL.COM does not replace primary real time continuous glucose monitoring or standard 
 home blood glucose monitoring -- for any purpose whatsoever.
@@ -86,16 +91,17 @@ Consistent with its role as a secondary display, T1Pal.com should require no pre
 
 To use the software, consumers must apply for a monthly subscription-based
 access to the server complex to receive the benefits of the service.
+
 Subscribers access the service by using any of the following devices:
  + iPhone cell phone with an interent data service plan
  + Androidcell phone with an internet  data service plan
  + desktop or laptop PC with Firefox browser and Internet connectivity
 
-# FDA de-novo Pathway Defined
+# FDA de novo Pathway Defined
 T1Pal is intended to comply with the FDA definition of 
 [Software as a Medical Device](https://www.fda.gov/media/119722/download)
 
-Based on [2/13/2015 FDA Meeting Notes for Q141084/S002](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/minutes-pdfjam.pdf) the T1Pal project intends to follow the proposed "de-novo" regulatory pathway as follows:
+Based on [2/13/2015 FDA Meeting Notes for Q141084/S002](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/minutes-pdfjam.pdf) the T1Pal project intends to follow the proposed "de novo" regulatory pathway as follows:
 
   + register with the FDA
   + meet special controls
