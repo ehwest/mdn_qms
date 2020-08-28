@@ -24,7 +24,7 @@ T1Pal should be understood to be both:
  2. "Software "as a service" (SaaS, an Information Technology term)."
 
 A definitive description of the intended use for the T1Pal product is described in 
-[PD_2220_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md), within this folder.
+[PD_0002_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md), within this folder.
 Therefore, the information in this file should be understood to interpret those intended uses, and is provided as an aid to understanding the specific intended use statements.
 This document should NOT be understood as expanding or adding to the authoritative statements of Intended Use in the referenced document.
 
