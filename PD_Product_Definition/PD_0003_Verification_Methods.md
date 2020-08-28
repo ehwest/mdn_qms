@@ -15,7 +15,8 @@ description: "T1Pal Verification Methods"
 
 # Verification 
 
-Part 20, CFR 820 defines product verification as ensuring
+The FDA web site providing quality system regulations [Part 20, CFR 820]( https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820)
+defines product verification as ensuring
 *each element* of a device meets the appropriate specifications and standards.
 The focus on Verification is therefore on each element of a device, and
 the demonstration that each such element meets design specifications and standards.
