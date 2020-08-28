@@ -19,6 +19,10 @@ description: "Standard Operating Procedures (SOP)"
 This collection of documents in the folder "SOP" for Standard Operating Procedures
 is intended to convey normative practices followed by Medical Data Networks LLC.
 
+The name of each file in this folder is intended to convey the subject matter within the QMS as a whole.
+The numbering scheme and the ordering of these files is NOT intended to represent anything more than a convenient tool for reference purposes.
+
+
 ## References
 
 1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
