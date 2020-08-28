@@ -112,8 +112,15 @@ However, based on [2/13/2015 FDA Meeting Notes for Q141084/S002](https://github.
    + Device labelling must display the following warning "Dosing decisions should not be made based on this device.  The user should follow instructions on the continuous glucose monitoring system."
    + Device labelling must include the following limitation " this device is not intended to replace self-monitoring practices advised by a physician."
    
-   The Quality Management System of the Medical Data Networks LLC is the means for providing guidance on device design so that the device supports special controls, meets appropriate validations.  In addition, the QMS provides for all documentation of quality controls.
-  
+
+ # FDA Quality System Requirements
+ 
+In addition, the FDA web site for provides that  [Title 21, Part 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&showFR=1&subpartNode=21:8.0.1.1.12.1) regulations govern the Quality System for T1Pal as follows:
+
+"Each manufacturer shall establish and maintain a quality system that is appropriate for the specific medical device(s) designed or manufactured, and that meets the requirements of this part."
+
+The Quality Management System of the Medical Data Networks LLC is the means for providing guidance on device design so that the device supports special controls, meets appropriate validations.  
+   
 ## Responsibilities
 
  1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
