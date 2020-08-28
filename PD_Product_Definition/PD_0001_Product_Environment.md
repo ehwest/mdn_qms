@@ -50,7 +50,7 @@ The requirements for T1Pal are intentionally aligned with requirements set forth
 One of the purposes of T1Pal is to create notifications to notify another person, a follower, 
 of the patient's continuous glucose monitoring system sensor glucose information in real time. 
 Therefore, based on the FDA applicable language, T1Pal is a "Continuous Glucose Monitor Secondary Display".
-Please see [PD_0002_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md)for a definitive 
+Please see [PD_0002_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md) for a definitive 
 statement of T1Pal intended use.
 
 ## Scope Limited to Secondary Display
