@@ -44,7 +44,7 @@ of the software are operated within the United States.
 # FDA Regulatory Authority
 The requirements for T1Pal are intentionally aligned with requirements set forth by the FDA for a
 
-"Continuous Glucose Monitor Secondary Display" found in the FDA classification of such devices [here.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668).
+"Continuous Glucose Monitor Secondary Display" found in the FDA classification of such devices [here.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668)
 
 The intended uses of this T1Pal system is therefore consistent with such classification.
 
