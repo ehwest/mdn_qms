@@ -16,6 +16,7 @@ description: "Product Environment Information"
 
 # Product Environment Information
 
+## Software as a Medical Device
 This document provides information regarding the environment within which T1Pal is expected to operate.
 T1Pal should be understood to be both:
 
@@ -40,16 +41,19 @@ Copies of the software complex may be deployed in other countries as may
 be needed for regulatory purposes.  However, at this writing, all copies
 of the software are operated within the United States.
 
+# FDA Regulatory Authority
 The requirements for T1Pal are intentionally aligned with requirements set forth by the FDA for
 "Software as a Medical Device" found in the FDA regulations
 [here.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668)
 
+## Reference to Intended use
 One of the purposes of T1Pal is to create notifications to notify another person, a follower, 
 of the patient's continuous glucose monitoring system sensor glucose information in real time. 
 Therefore, based on the FDA applicable language, T1Pal is a "Continuous Glucose Monitor Secondary Display".
 Please see [PD_2220_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md)for a definitive 
 statement of T1Pal intended use.
 
+## Scope Limited to Secondary Display
 The *secondary* 
 display of T1PAL.COM does not replace primary real time continuous glucose monitoring or standard 
 home blood glucose monitoring -- for any purpose whatsoever.
@@ -87,9 +91,25 @@ Subscribers access the service by using any of the following devices:
  + Androidcell phone with an internet  data service plan
  + desktop or laptop PC with Firefox browser and Internet connectivity
 
+# FDA de-novo Pathway Defined
 T1Pal is intended to comply with the FDA definition of 
 [Software as a Medical Device](https://www.fda.gov/media/119722/download)
 
+Based on [2/13/2015 FDA Meeting Notes for Q141084/S002](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/minutes-pdfjam.pdf) the T1Pal project intends to follow the proposed "de-novo" regulatory pathway as follows:
+
+  + register with the FDA
+  + meet special controls
+  + meet apprpriate validations
+  + document quality controls
+  
+  Included in the list above are "special controls" which are enumerated as follows:
+  
+   + Devices must protect against unauthorizd access to and modification of data.
+   + Device labelling must display the following warning "Dosing decisions should not be made based on this device.  The user should follow instructions on the continuous glucose monitoring system."
+   + Device labelling must include the following limitation " this device is not intended to replace self-monitoring practices advised by a physician."
+   
+   The Quality Management System of the Medical Data Networks LLC is the means for providing guidance on design and document controls.
+  
 ## Responsibilities
 
  1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
