@@ -16,17 +16,26 @@ description: "Product Environment Information"
 
 # Product Environment Information
 
-## Software as a Medical Device
 This document provides information regarding the environment within which T1Pal is expected to operate.
 T1Pal should be understood to be both:
 
  1. "Medical Device" (an FDA term), and 
  2. "Software "as a service" (SaaS, an Information Technology term)."
 
+## Software as a Medical Device
+
+The requirements for T1Pal are intentionally aligned with requirements set forth by the FDA for a
+
+"Continuous Glucose Monitor Secondary Display" found in the FDA classification of such devices [here.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668)
+
+
 A definitive description of the intended use for the T1Pal product is described in 
 [PD_0002_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md), within this folder.
+
 Therefore, the information in this file should be understood to interpret those intended uses, and is provided as an aid to understanding the specific intended use statements.
 This document should NOT be understood as expanding or adding to the authoritative statements of Intended Use in the referenced document.
+
+## Software as a Service
 
 T1pal (aka T-one-pal, t1pal.com, T1Pal) is an operating software complex that is entirely
 accessed through the Internet for all its purposes and capabilities.  All users of this T1Pal.com software access it 
@@ -41,28 +50,15 @@ Copies of the software complex may be deployed in other countries as may
 be needed for regulatory purposes.  However, at this writing, all copies
 of the software are operated within the United States.
 
-# FDA Regulatory Authority
-The requirements for T1Pal are intentionally aligned with requirements set forth by the FDA for a
-
-"Continuous Glucose Monitor Secondary Display" found in the FDA classification of such devices [here.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668)
-
-The intended uses of this T1Pal system is therefore consistent with such classification.
-
-## Notes on Intended Use
-
-Please see [PD_0002_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md) for a definitive 
-statement of T1Pal intended use(s).
-
-Based on observations of users, 
-one of the more valuable purposes of T1Pal is to create notifications to notify another person, a follower, 
-of the patient's continuous glucose monitoring system sensor glucose information in real time. 
-Therefore, based on the FDA applicable language, T1Pal is a "Continuous Glucose Monitor Secondary Display".
-
-## Scope Limited to Secondary Display And Its Capabilities
+## Scope Limited to Secondary Display And Its Capabilities & Limitations
 The *secondary* 
 display of T1PAL.COM does not replace primary real time continuous glucose monitoring or standard 
 home blood glucose monitoring -- for any purpose whatsoever.
 The T1Pal product will be labelled appropriately to convey this important principle.
+Based on observations of users, 
+one of the more valuable purposes of T1Pal is to create notifications to notify another person, a follower, 
+of the patient's continuous glucose monitoring system sensor glucose information in real time. 
+Such follower may be a relative, close friend, and/or physician, or a physician's Information Technology tools.
 
 The complete T1Pal software complex is comprised of a number of semi-independent 
 components and "micro-services", each installed on 
@@ -96,6 +92,7 @@ Subscribers access the service by using any of the following devices:
  + iPhone cell phone with an interent data service plan
  + Androidcell phone with an internet  data service plan
  + desktop or laptop PC with Firefox browser and Internet connectivity
+ 
 
 # FDA de novo Pathway Defined
 T1Pal is intended to comply with the FDA definition of 
