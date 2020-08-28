@@ -22,7 +22,7 @@ T1Pal should be understood to be both:
  1. "Medical Device" (an FDA term), and 
  2. "Software "as a service" (SaaS, an Information Technology term)."
 
-## Software as a Medical Device
+## T1Pal Software as a Medical Device
 
 The requirements for T1Pal are intentionally aligned with requirements set forth by the FDA for a
 
@@ -34,7 +34,7 @@ A definitive description of the intended use(s) for the T1Pal product is describ
 The information in this present file should be understood to provide an aid to understanding those intended uses.
 This document should NOT be understood as expanding or adding to the authoritative statements of Intended Use in the referenced document.
 
-## Software as a Service
+## T1Pal Software as a Service
 
 T1pal (aka T-one-pal, t1pal.com, T1Pal) is an operating software complex that provides
 service to many individual independent users at once.  It is entirely
