@@ -97,7 +97,7 @@ Subscribers access the service by using any of the following devices:
  
 
 # FDA de novo Pathway Defined
-Software devices normally are expected to align with the FDA definition of 
+Software devices might normally are expected to align with the FDA definition of 
 "Software as a Medical Device" as defined in the FDA guide ["Developing a Software Precertification Program -- A Working Model v1.0 January 2019](https://www.fda.gov/media/119722/download).
 
 However, based on [2/13/2015 FDA Meeting Notes for Q141084/S002](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/minutes-pdfjam.pdf) the T1Pal project intends to use the proposed "de novo" regulatory pathway for the T1Pal "device" having these steps:
