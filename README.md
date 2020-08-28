@@ -40,6 +40,6 @@ As such, all documents and artifacts that are part of the Quality Management Sys
 
 ## Responsibilities
 
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
+1. The CEO and VP-level employees are responsible for overseeing and maintaining this QMS under QMS change-control procedures, and for assuring that all employees are trained in its applicable requirements.
+2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this QMS.
 
