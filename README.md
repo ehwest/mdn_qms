@@ -20,13 +20,13 @@ This document provides an overview of each element of the Quality Management Sys
 
 The Quality Management System includes these components:
 
- + Communication Materials (CM)
- + Product Development Process (PDP)
- + Product Definition (PD)
- + Reference Materials (RM)
- + Regulatory Support Artifacts (RSA)
- + System Design (SD)
- + Standard Operating Procedures (SOP).
+ + [Communication Materials (CM)](https://github.com/ehwest/mdn_qms/tree/master/CM_Communication_Matterials)
+ + [Product Development Process (PDP](https://github.com/ehwest/mdn_qms/tree/master/PDP_Product_Development_Process)
+ + [Product Definition (PD)](https://github.com/ehwest/mdn_qms/tree/master/PD_Product_Definition+ Reference Materials (RM))
+ + [Reference Materials (RM)](https://github.com/ehwest/mdn_qms/tree/master/RM_Reference_Material)
+ + [Regulatory Support Artifacts (RSA)](https://github.com/ehwest/mdn_qms/tree/master/RSA_Regulatory_Support_Artifacts)
++ [System Design (SD)](https://github.com/ehwest/mdn_qms/tree/master/SD_System_Design)
++ [Standard Operating Procedures (SOP)](https://github.com/ehwest/mdn_qms/tree/master/SOP_Standard_Operating_Procedures)
 
 Note that the each and every one of the above components corresponds to a folder within the Medical Data Networks LLC Quality Management System maintained in a "git" repository located here:  https://github.com/ehwest/mdn_qms
 As such, all documents and artifacts that are part of the Quality Management System are subject to change-control procedures such that each and every change to the Quality Management System documentation is tracked by explicit versioning enforced by the git repository system.
