@@ -21,7 +21,8 @@ a description of the "T1Pal" software as a service (SaaS) product of Medical Dat
 
 Within this section, the following files are stored and subject to change control procedures.
 
- + PD_0001_T1PAL_Product_Requirements.md
+ + README.md -- this document
+ + PD_0001_Product_Environment.md
  + PD_0002_Intended_Use.md
  + PD_0003_Verification_Methods.md
  + PD_0004_Validation_Methods.md
