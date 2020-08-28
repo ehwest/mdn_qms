@@ -97,23 +97,23 @@ Subscribers access the service by using any of the following devices:
  
 
 # FDA de novo Pathway Defined
-T1Pal is intended to comply with the FDA definition of 
-[Software as a Medical Device](https://www.fda.gov/media/119722/download)
+T1Pal is intended to align with the FDA definition of 
+"Software as a Medical Device" as defined in the FDA guide ["Developing a Software Precertification Program -- A Working Model v1.0 January 2019](https://www.fda.gov/media/119722/download).
 
-Based on [2/13/2015 FDA Meeting Notes for Q141084/S002](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/minutes-pdfjam.pdf) the T1Pal project intends to follow the proposed "de novo" regulatory pathway as follows:
+In addition, based on [2/13/2015 FDA Meeting Notes for Q141084/S002](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/minutes-pdfjam.pdf) the T1Pal project intends to use the proposed "de novo" regulatory pathway for the T1Pal "device" having these steps:
 
-  + register with the FDA
-  + meet special controls
-  + meet apprpriate validations
-  + document quality controls
+   + Register with the FDA
+   + Meet special controls
+   + Meet appropriate validations
+   + Document quality controls
   
-  Included in the list above are "special controls" which are enumerated as follows:
+ Note that in the list above, there are "special controls" which are further enumerated as follows:
   
    + Devices must protect against unauthorizd access to and modification of data.
    + Device labelling must display the following warning "Dosing decisions should not be made based on this device.  The user should follow instructions on the continuous glucose monitoring system."
    + Device labelling must include the following limitation " this device is not intended to replace self-monitoring practices advised by a physician."
    
-   The Quality Management System of the Medical Data Networks LLC is the means for providing guidance on design and document controls.
+   The Quality Management System of the Medical Data Networks LLC is the means for providing guidance on device design so that the device supports special controls, meets appropriate validations.  In addition, the QMS provides for all documentation of quality controls.
   
 ## Responsibilities
 
