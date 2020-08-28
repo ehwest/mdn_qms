@@ -16,7 +16,7 @@ description: "Medical Data networks Quality Management System"
 
 # Purpose
 
-This document provides an overview of each element of the Quality Management System used by Medical Data Networks LLC, and in particular, the system supporting the T1Pal software product.
+This document provides an overview of each element of the Quality Management System used by Medical Data Networks LLC, and in particular, the system supporting the T1Pal software product.  The order of these folders and/or files is not intended to convey any particular meaning, except that as a whole, the folders and documents capture the definition of the QMS.
 
 # Scope
 
