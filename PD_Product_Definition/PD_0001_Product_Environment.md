@@ -97,17 +97,16 @@ Subscribers access the service by using any of the following devices:
  
 
 # FDA de novo Pathway Defined
-Software devices might normally are expected to align with the FDA definition of 
-"Software as a Medical Device" as defined in the FDA guide ["Developing a Software Precertification Program -- A Working Model v1.0 January 2019](https://www.fda.gov/media/119722/download).
+Software devices might normally be expected to align with the FDA guidance for ["Developing a Software Precertification Program -- A Working Model v1.0 January 2019](https://www.fda.gov/media/119722/download).
 
-However, based on [2/13/2015 FDA Meeting Notes for Q141084/S002](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/minutes-pdfjam.pdf) the T1Pal project intends to use the proposed "de novo" regulatory pathway for the T1Pal "device" having these steps:
+However, based on [2/13/2015 FDA Meeting Notes for Q141084/S002](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/minutes-pdfjam.pdf) and the uniqueness of the T1Pal "device", the T1Pal project intends to use the proposed "de novo" regulatory pathway for the T1Pal "device" having these steps:
 
    + Register with the FDA
    + Meet special controls
    + Meet appropriate validations
    + Document quality controls
   
- Note that in the list above, there are "special controls" which are further enumerated as follows:
+ We note that in the list above, there are "special controls" which are further enumerated as follows:
   
    + Devices must protect against unauthorizd access to and modification of data.
    + Device labelling must display the following warning "Dosing decisions should not be made based on this device.  The user should follow instructions on the continuous glucose monitoring system."
