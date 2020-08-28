@@ -57,6 +57,7 @@ The *secondary*
 display of T1PAL.COM does not replace primary real time continuous glucose monitoring or standard 
 home blood glucose monitoring -- for any purpose whatsoever.
 The T1Pal product will be labelled appropriately to convey this important principle.
+
 Based on observations of users, 
 one of the more valuable purposes of T1Pal is to create notifications to notify another person, a follower, 
 of the patient's continuous glucose monitoring system sensor glucose information in real time. 
@@ -70,12 +71,11 @@ The T1Pal system receives and then creates displays
 of real-time patient data from one or more continuous glucose monitors (CGMs).
 
 In addition to CGM data, however, 
-the T1Pal system receives and displays real-time patient data derived from sources other
-than a CGM system sensor. 
+the T1Pal system receives and displays real-time patient data derived from other sources.
 
-Specifically, T1Pal also displays secondary display data transmitted by one or more
-infusion pump devices, and one or more control processor
-(such as the Tidepool Loop controller).
+Specifically, T1Pal also displays secondary display data of one or more
+infusion pump devices, and/or one or more control processors (as may be provided
+to control infusion pump activity).
 
 Like the CGM data, pump infusion data (including settings, changes to settings, and faults), and
 contoller data (including settings, changes to settings, and faults) also supporting secondary
