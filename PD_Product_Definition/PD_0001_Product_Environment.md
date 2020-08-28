@@ -1,7 +1,7 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "PD"
-title: "PD_0001_T1PAL_Product_Requirements.md"
+title: "PD_0001_Product_Environment.md"
 document_id: "PD_0001"
 authors:
 - github.com/ehwest
@@ -10,18 +10,21 @@ approvers:
 revision: "05"
 approval_date: "2020-08-24"
 effective_date: "2020-08-24"
-description: "T1Pal Product Requirements"
+description: "Product Environment Information"
 ---
 
 
-## T1Pal System Requirements
+# Product Environment Information
 
-### Informative Framework Information
+This document provides information regarding the environment within which T1Pal is expected to operate.
+T1Pal should be understood to be both:
 
-This document provides the framework and requirements for T1Pal software
-both understood to be as a:
  1. "Medical Device" (an FDA term), and 
  2. "Software "as a service" (SaaS, an Information Technology term)."
+
+A definitive description of the intended use for the T1Pal product is described in PD_2220_Intended_Use.md, within this folder.
+Therefore, the information in this file should be understood to interpret those intended uses, and is provided as an aid to understanding the specific intended use statements.
+This document should NOT be understood as expanding or adding to the authoritative statements of Intended Use in the referenced document.
 
 T1pal (aka T-one-pal, t1pal.com, T1Pal) is an operating software complex that is entirely
 accessed through the Internet for all its purposes and capabilities.  All users of this T1Pal.com software access it 
