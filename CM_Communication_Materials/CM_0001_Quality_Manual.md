@@ -16,7 +16,9 @@ description: "Quality Manual"
 
 ## Purpose
 
-This document identifies the content of the Quality Manual of Medical Data Networks LLC.
+The Quality Manual used by all associates, including employees is the current baselined "master" branch of the
+Quality Management System documented by the mdn_qms "git" repository.   Changes to the Quality Management system
+are therefore immediately applicable to all work following the QMS.
 
 
 ## References
