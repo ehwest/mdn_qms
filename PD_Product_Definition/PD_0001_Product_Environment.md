@@ -26,22 +26,24 @@ T1Pal should be understood to be both:
 
 The requirements for T1Pal are intentionally aligned with requirements set forth by the FDA for a
 
-"Continuous Glucose Monitor Secondary Display" found in the FDA classification of such devices [here.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668)
+"Continuous Glucose Monitor Secondary Display" found in the FDA classification of such "devices" on the FDA web site [here.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668)
 
-
-A definitive description of the intended use for the T1Pal product is described in 
+A definitive description of the intended use(s) for the T1Pal product is described in the QMS here: 
 [PD_0002_Intended_Use.md](https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md), within this folder.
 
-Therefore, the information in this file should be understood to interpret those intended uses, and is provided as an aid to understanding the specific intended use statements.
+The information in this present file should be understood to provide an aid to understanding those intended uses.
 This document should NOT be understood as expanding or adding to the authoritative statements of Intended Use in the referenced document.
 
 ## Software as a Service
 
-T1pal (aka T-one-pal, t1pal.com, T1Pal) is an operating software complex that is entirely
-accessed through the Internet for all its purposes and capabilities.  All users of this T1Pal.com software access it 
+T1pal (aka T-one-pal, t1pal.com, T1Pal) is an operating software complex that provides
+service to many individual independent users at once.  It is entirely
+accessed through the Internet for all its purposes and capabilities.  
+All users of this T1Pal.com software access it 
 through the Internet, including administrative users, anonymous users, subscribers, 
 security auditors, lawful law enforcement investigators, and maintenance
-workers.
+workers.  Controls within the complex provide for reliable separation of 
+users based on strong authorization and encryption features consistent with HIPPA regulations.
 
 T1pal is operated by, and is the product of, Medical Data Networks LLC., and other "partner organizations."
 Notably, this includes developers of "Nightscout" project, and multiple open-source software providers.
