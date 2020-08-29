@@ -64,10 +64,18 @@ This procedure applies to all products developed by Managed Data Networks.
 
 ## Risk Management Plan and File
 
-  1. Managed Data Networks has designed its own Risk Management Plan based on analysis of existing state of the art for software and medical device. We base our model on these tenets:
-    A. **Reduction of risk through software iteration over time.** Processes that inhibit iteration cycles add risk. Managed Data Networks uses agile design and development methodology, including verification and validation processes. The more quickly we can iterate on our software, the more quickly we can converge on high quality software that meets the user&#39;s needs while maintaining (or improving) software safety and efficacy.
-    B. **Comparison of risks and mitigations, including comparison to baseline risk of living with diabetes** : All software and medical devices contain risks and flaws, both known and unknown. Diabetes is also an inherently risky disease. Existence of a residual risk in Managed Data Networks&#39;s software must be compared against the risk of unavailability of Managed Data Networks software or other diabetes management software for a person living with diabetes.
+  - Managed Data Networks has designed its own Risk Management Plan based on analysis of existing state of the art for software and medical device. We base our model on these tenets:
+  
+    A. **Reduction** of risk through software iteration over time.
+    
+    Processes that inhibit iteration cycles add risk. Managed Data Networks uses agile design and development methodology, including verification and validation processes. The more quickly we can iterate on our software, the more quickly we can converge on high quality software that meets the user&#39;s needs while maintaining (or improving) software safety and efficacy.
+    
+    B. **Comparison**  of risks and mitigations, including comparison to baseline risk of living with diabetes.
+    
+    All software and medical devices contain risks and flaws, both known and unknown. Diabetes is also an inherently risky disease. Existence of a residual risk in Managed Data Networks&#39;s software must be compared against the risk of unavailability of Managed Data Networks software or other diabetes management software for a person living with diabetes.
+    
     C. Managed Data Networks establishes a risk management plan for each medical device. This plan includes the scope of the risk management activities, assignment of responsibilities and authorities, criteria for risk acceptability, verification activities and activities related to the collection and review of production and post-production information.
+    
     D. This risk management plan, risk evaluation, implementation and verification of risk control measures, and the assessment of acceptability of any residual risks comprise the Risk Management File. The Risk Management File is an index with pointers to the required documentation.
 
 
@@ -80,7 +88,9 @@ This procedure applies to all products developed by Managed Data Networks.
   3. The associated risk for each hazardous situation is estimated using available information or data. Risk estimation is based on assigning Severity and Probability to a given hazard. Severity and Probability are defined below.
   
   4. For each identified risk, these questions are asked and the results are documented:
+  
     A. What is the severity of this risk?
+    
     B. What is the probability of this risk (i.e., the probability that the harm, not the bug, will occur)?
     
   5. Baseline Risks.It is assumed that all tasks have baseline risks. Baseline risks are documented on this [Trello board](https://trello.com/b/OZL0VkxX). New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
@@ -109,7 +119,7 @@ This procedure applies to all products developed by Managed Data Networks.
 | 2 | Remote | .000001 ≤ P \&lt; 0.0001 | Likely to occur between (1 in 10,000) and (1 in 1,000,000) times. |
 | 1 | Improbable | P ≤ 0.000001 | Likely to occur less frequently than 1 in a million times. |
 
-Probability of a risk is determined by estimating the likelihood that the risk will manifest as a harm for any given use of Managed Data Networks&#39;s software. &quot;Use&quot; means an instance of using a Managed Data Networks software for its intended use.
+Probability of a risk is determined by estimating the likelihood that the risk will manifest as a harm for any given use of Managed Data Networks software. &quot;Use&quot; means an instance of using a Managed Data Networks software for its intended use.
 
 ## Risk Rating
 
