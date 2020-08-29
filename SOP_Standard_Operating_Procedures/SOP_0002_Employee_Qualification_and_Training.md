@@ -26,20 +26,10 @@ To establish a standard method for documenting employee training in Company proc
 ## References
 
 * U.S. Food and Drug Administration, 
-[21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=820.25)
-[FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=820.25)
-[Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=820.25).
-* ISO 13485:2016 Clause 6.2
-* [SOP-0001](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit)
-[Medical Data Networks](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit)
-[Control of Documents](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit)
+[21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=820.25) FDA Quality System Requirements -- Personnel.
 
-* [TMP](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
-[TRN](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
-[-0001,](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
-[HIPAA Security Audit Checklist](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
-* TRN-0002, Medical Data Networks Employee Security Practices [TRN-0002, Medical Data Networks Employee Security Practices](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
-*  DOC-0003, Medical Data Networks Employee Job Descriptions
+* [ISO 13485:2016 Clause 6.2](https://www.iso.org/obp/ui#iso:std:iso:13485:ed-3:v1:en) ISO Medical Devices -- Quality management systems -- Requirements for regulatory purposes.
+
 
 ## Definitions
 
@@ -49,7 +39,7 @@ To establish a standard method for documenting employee training in Company proc
 * An individual assigned a specific task or project, and providing services defined in a contract or consulting agreement.
 * Any formal or informal instructions given to an employee in the form of education, which includes, but is not limited to, past experiences, formal courses, seminars, self-training or on-the-job training. Training may be either internal or external.
 
-## Responsibilitiesy
+## Responsibilities
 
 * The management function at Medical Data Networks is responsible for:
  * Mmaintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
@@ -72,7 +62,7 @@ To establish a standard method for documenting employee training in Company proc
  *  Self-training: training that can be initiated by the recipient by reading instructions or materials
  * Group/classroom training: more formal training conducted by a trainer
  * On-the-job training: training that takes place with a qualified trainer during the performance of an actual process. Consequences and outcomes of improper performance of employees&#39; jobs to product quality or service will be emphasized during training
- * Training curriculum and presentation materials that are used with groups or used multiple times may be developed, reviewed and approved in accordance with [SOP-0001 Control of Documents](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit#), where appropriate.
+ * Training curriculum and presentation materials that are used with groups or used multiple times may be developed, reviewed and approved in accordance with the QMS document control procedures.
 
 **Training Records and File**
 * A record is maintained for each employee&#39;s training. Required training is documented and updated as needed when an employee&#39;s roles and responsibilities change due to job changes or when new responsibilities are added to a job description. Training to new or revised quality system documents are also documented.
@@ -85,9 +75,9 @@ To establish a standard method for documenting employee training in Company proc
 
 **Training Curriculum and Presentation**
 
-* Training curriculum and presentation materials that arewill be used with groups or used multiple times may be developed, reviewed and approved in accordance with [SOP-0001 Control of Documents](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit#)the Control of Documents procedure, where appropriate.
+* Training curriculum and presentation materials that arewill be used with groups or used multiple times may be developed, reviewed and approved in accordance with QMS Document Control Procedures.
 
-For example, New Employee Orientation training materials may be given a document number so that the content does not have to be prepared each time, and for ease of reference on the Training Record, TMP-0001.
+For example, New Employee Orientation training materials may be given a QMS document number so that the content does not have to be prepared each time.
 
 **New Employee Orientation**
 
@@ -96,11 +86,11 @@ For example, New Employee Orientation training materials may be given a document
  * New employee orientation includes overviews of the following topics:
   * Medical Data Networks development process and quality system overview as per DOC-0001 Medical Data Networks Design and Development Process;
   *  Medical Data Networks control of documents as per SOP-0001 Control of Documents;
- * HIPAA and basic security practices at Medical Data Networks as per TRN-0001 HIPAA Security Audit Checklist and TRN-0002 Employee Security Practices.
+ * HIPAA and basic security practices at Medical Data Networks as per the QMS HIPAA Security Audit Checklist and QMS Employee Security Practices.
 
 **Training Records**
 
-Training activities are documented by placing a record of the training as a document stored in [Google Drive](https://drive.google.com/open?id=0Bzqw_G5XWp9KYXBYazJfcGpHcGc).
+Training activities are documented by placing a record of the training as a document stored in the QMS system as artifacts of the QMS SOP.
 
 ## Reference: 21 CFR Section 820.25 Personnel
 
