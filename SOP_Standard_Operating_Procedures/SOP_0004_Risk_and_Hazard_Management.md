@@ -134,28 +134,42 @@ Probability of a risk is determined by estimating the likelihood that the risk w
 ## Risk Evaluation
 
   1. For each identified hazardous situation, Managed Data Networks will decide whether the risk can be further reduced. Any requirement for risk reduction, or if none is required, is recorded in the risk analysis.
+  
   2. All risks shall be reduced as far as possible.
+  
   3. Risks will generally be categorized as Acceptable or Unacceptable. Any risks determined unacceptable require risk reduction prior to going to market.
 
-1. Risk Control
+## Risk Control
   1. When risk reduction is required, risk control activities as described below will be performed.
   2. In the event that risk reduction is necessary, risk control measures will be identified and documented. Risk control measures are applied in the following priority:
     - Safety by design (inherent) - eliminates hazard or hazardous situation via design feature
     - Protective measures - prevent or reduce likelihood of occurrence of hazard or hazardous situation
     - Information for safety - warnings, precautions, and/or information provided regarding hazard or hazardous situation
+    
   3. The risk control measures that are identified are verified and the effectiveness of the risk control measures, which may include validation activities, are documented accordingly.
+  
   4. Upon implementing the risk control measures, the residual risks are then evaluated according to the criteria established above. Generally, if the residual risk has a risk rating ≤11, then it is determined to be acceptable.
+  
   5. If residual risks are still determined to be unacceptable, additional risk controls will be identified and implemented.
+  
   6. For residual risks that have been reduced as low as possible, top management will decide which residual risks to disclose and what information for safety is necessary to include in the Instructions for Use in order to disclose those residual risks.
+  
   7. Following the residual risk evaluation, an assessment is made as to whether the medical benefits of the device outweigh the residual risks. Clinical evaluation of the product and any other relevant published clinical literature may be considered in making the determination. If the evaluation demonstrates that the medical benefits of the device do not outweigh the residual risks, the device is not released to production.
+  
   8. The risk control measures that have been implemented are also evaluated to determine if they have introduced any new hazards or hazardous situations and whether the estimated risks for previously identified hazardous situations are affected.
+  
   9. Once all risk control measures have been implemented, a review is performed to determine whether the risks from all identified hazardous situations have been considered.
-2. Evaluation of Overall Residual Risk Acceptability
+  
+## Evaluation of Overall Residual Risk Acceptability
   1. After all the risk control measures have been implemented and verified, it will be determined whether the overall residual risk posed by the medical device has been reduced as low as possible using the criteria defined in the Risk Management Plan.
+  
   2. If the overall residual risk is not judged to be reduced as far as possible using the criteria established in the Risk Management Plan, then further data and literature may be gathered and reviewed to determine if the medical benefits of the intended use outweigh the overall residual risk. If the evidence supports that the benefits outweigh the overall residual risks, the the overall residual risk can be judged to be as low as possible. Otherwise, the overall residual risk remains unacceptable.
-3. Risk Management Report
-  1. Prior to release, Managed Data Networkss reviews the risk management process to ensure that it has been appropriately implemented and that the overall residual risk is accepted.
+  
+ 3. Risk Management Report:  Prior to release, Managed Data Networkss reviews the risk management process to ensure that it has been appropriately implemented and that the overall residual risk is accepted.
+  
 4. These results will be documented in the Risk Management Report and included in the Risk Management File.
+
 5. Production and Post-production Information
-  1. On an iterative, ongoing basis, complaints, bug reports and other user feedback are compiled and evaluated per [SOP-0004 Corrective and Preventive Action](https://docs.google.com/document/d/1r-VBHLstUGshl9AGBQvkBaPoW15k0JThU9ptiuRzSXA/edit#heading=h.i0qutf74udcd) and [SOP-0007 Complaint Handling](https://docs.google.com/document/d/1DcWocJumuyz08Apx0MkE6aZD6Zh0Hq9PdXOACBLskZU/edit).
+
+  - On an iterative, ongoing basis, complaints, bug reports and other user feedback are compiled and evaluated per [SOP-0004 Corrective and Preventive Action](https://docs.google.com/document/d/1r-VBHLstUGshl9AGBQvkBaPoW15k0JThU9ptiuRzSXA/edit#heading=h.i0qutf74udcd) and [SOP-0007 Complaint Handling](https://docs.google.com/document/d/1DcWocJumuyz08Apx0MkE6aZD6Zh0Hq9PdXOACBLskZU/edit).
 
