@@ -1,8 +1,8 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures"
-title: "SOP_0001_Control_of_Quality_Records.md"
-document_id: "SOP-0001"
+folder: "mdn_qms/SOP_Standard_Operating_Procedures/"
+title: "SOP_0002_Employee_Qualification_and_Training.md"
+document_id: "SOP_0002"
 authors:
 - github.com/ehwest
 approvers:
@@ -11,69 +11,104 @@ revision: "05"
 approval_date: "2020-07-18"
 effective_date: "2020-07-18"
 content_type: concept
-description: "Control of Quality Records"
+description: "Employee_Qualification_and_Training"
 ---
-
 
 ## Purpose
 
-This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
+To establish a standard method for documenting employee training in Company procedures and policies, and to implement and document employee job requirements, qualifications and training programs at Medical Data Networks.
+
+## Scope
+
+1. Applies to all procedures and policies related to the Medical Data Networks quality management system.
+2. Applies to full-time, part-time, and temporary employees, contractors, and consultants.
 
 ## References
 
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-4. ISO 13485:2016 Clause 4.2.5
+* U.S. Food and Drug Administration, 
+[21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=820.25)
+[FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=820.25)
+[Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=820.25).
+* ISO 13485:2016 Clause 6.2
+* [SOP-0001](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit)
+[Medical Data Networks](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit)
+[Control of Documents](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit)
 
-## Responsibilities
+* [TMP](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
+[TRN](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
+[-0001,](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
+[HIPAA Security Audit Checklist](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
+* TRN-0002, Medical Data Networks Employee Security Practices [TRN-0002, Medical Data Networks Employee Security Practices](https://docs.google.com/document/d/1hglBzWaLCeefwMJQUzKrtFnU-x5yYeXdyNcKluuYX5w/edit#heading=h.axqlsqfv5ia)
+*  DOC-0003, Medical Data Networks Employee Job Descriptions
 
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
+## Definitions
 
-## Procedures
+* An individual assigned to a job function and compensated as a &quot;W-2&quot; employee, full-time or part-time.
+* The employees whose responsibilities include the oversight of other employees or the oversight of company matters that apply to more than one employee.
+* An individual assigned to a job function, but compensated by a third-party agency or directly as a &quot;1099&quot; employee, full-time or part-time.
+* An individual assigned a specific task or project, and providing services defined in a contract or consulting agreement.
+* Any formal or informal instructions given to an employee in the form of education, which includes, but is not limited to, past experiences, formal courses, seminars, self-training or on-the-job training. Training may be either internal or external.
 
-1. **Record Retention and Archiving.** 
+## Responsibilitiesy
 
-All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks uses these mechanisms for digital storage:
+* The management function at Medical Data Networks is responsible for:
+ * Mmaintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
+ * Tthe development, review and approval of employee job descriptions, and training requirements.
+ * Aassuring that the requirements of this procedure are met.
+ * All employees are responsible for completing all training and maintaining an individual training file.
 
-  * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.
-  * Google Docs (including Google Sheets, etc) and Google Drive with unlimited Google Vault storage.
-  * GitHub, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.
+## Procedure
 
-2. **Electronic Signatures**
+1. **General Requirements**
+ * All employees, contractors, and consultants must complete and document all required training and retraining in a timely manner.
+ * Training needs are identified by specific job descriptions/requirements necessary to perform particular functions. Training may be internal or external.
+ * As part of their training, personnel are made aware of device defects which may occur from the improper performance of their specific jobs.
+ * Personnel who perform verification and validation activities are made aware of defects and errors that may be encountered as part of their job functions.
+ * Contractors and consultants are trained on applicable Medical Data Networks procedures as defined by the scope of their contract/consulting agreement.
 
- * Records requiring signature approval per above shall be digitally signed with text similar to &quot;Approved. /s/ Name Of Approver, YYYY-MM-DD&quot;.
- * Digital signatures must be made with accounts that are authenticated by all three means: 1) unique username/email, 2) password 3) Two-Factor Authentication via mobile device.
- * Digital signatures must only be made by the actual person associated with the authentication credentials, and only over secure connections using https, TLS or SSL.
- * Medical Data Networks tools that currently meet these requirements include: Gmail, Google Docs and GitHub.
+**Training Process Needs**
+1. Training needs are identified by specific job descriptions/requirements necessary to perform particular functions.
+2. Personnel may receive internal training as follows, as determined by their manager:
+ *  Self-training: training that can be initiated by the recipient by reading instructions or materials
+ * Group/classroom training: more formal training conducted by a trainer
+ * On-the-job training: training that takes place with a qualified trainer during the performance of an actual process. Consequences and outcomes of improper performance of employees&#39; jobs to product quality or service will be emphasized during training
+ * Training curriculum and presentation materials that are used with groups or used multiple times may be developed, reviewed and approved in accordance with [SOP-0001 Control of Documents](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit#), where appropriate.
 
-3. **Date and Time Marks**
+**Training Records and File**
+* A record is maintained for each employee&#39;s training. Required training is documented and updated as needed when an employee&#39;s roles and responsibilities change due to job changes or when new responsibilities are added to a job description. Training to new or revised quality system documents are also documented.
+ * At a minimum, all employees are trained in the Company&#39;s quality system requirements, including regulatory requirements, the quality policy, security awareness, control of documents and records, and specific procedures and policies relevant to each job function. This training is conducted for each new employee and is repeated annually, at a minimum.
+ * Training activities are documented by placing a record of the training as a document stored in [Google Drive](https://drive.google.com/open?id=0Bzqw_G5XWp9KYXBYazJfcGpHcGc).
+ * All personnel are responsible for maintaining and updating his/her training file.
+ * As part of their training, personnel are made aware of device defects which may occur from the improper performance of their specific jobs.
+  Personnel who perform verification and validation activities are made aware of defects and errors that may be encountered as part of their job functions.
+ * Contractors and consultants are trained on applicable Medical Data Networks procedures as defined by the scope of their contract/consulting agreement.
 
-For most documents, dates shall be expressed in the form similar to YYYY-MM-DD. If time specification is necessary to remove ambiguity, it should be in a form similar to HH:MM:SS reflecting 24-hour clock time and local Time Zone. For example: 2016-08-15 18:43:00 EST.
+**Training Curriculum and Presentation**
 
-4. **Electronic Records.** 
+* Training curriculum and presentation materials that arewill be used with groups or used multiple times may be developed, reviewed and approved in accordance with [SOP-0001 Control of Documents](https://docs.google.com/document/d/10EC5B4FWYvhCOsxM3cRXgy1Up77ulc_XwITCt0VjWZw/edit#)the Control of Documents procedure, where appropriate.
 
-All records at Medical Data Networks are created and maintained in electronic format and maintained on the "GIT" repository under the account "github.com/ehwest/mdn_quality_system".  The github repository is used to support authentication, labelling of meta data, recording of changes, and storage of the documents for each and every release of the "Managed Data Networks LLC. Quality system. ( Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  Any records containing confidential health information and not made publicly available and are kept in internally-only folders on the github repository, and configured within github to limit access to authorized users. 
+For example, New Employee Orientation training materials may be given a document number so that the content does not have to be prepared each time, and for ease of reference on the Training Record, TMP-0001.
 
-5. **Lost Documents and Disaster Recovery.** 
+**New Employee Orientation**
 
-Since all records and changes to records are retained in perpetuity, records should never be lost.
+ *  New Employee Orientation is completed within the first month of employment.
+ * A [Medical Data Networks New Employee and Consultant Onboarding Checklist](https://docs.google.com/document/d/1Unwaduz-bmVg7agFAM9AhOL9kUXSXQFoZVWz7UbmNEM/edit#) is completed and stored on an internal Google Drive folder for new employees, consultants and contractors that have an @tidepool.org email address.
+ * New employee orientation includes overviews of the following topics:
+  * Medical Data Networks development process and quality system overview as per DOC-0001 Medical Data Networks Design and Development Process;
+  *  Medical Data Networks control of documents as per SOP-0001 Control of Documents;
+ * HIPAA and basic security practices at Medical Data Networks as per TRN-0001 HIPAA Security Audit Checklist and TRN-0002 Employee Security Practices.
 
- * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0004 Corrective and Preventive Action](https://github.com/ehwest/mdn_quality_system/blob/master/01_Standard_Operating_Procedures/SOP-0004_Corrective_And_Preventive_Action.md)
- * The Github repository that archive Medical Data Networks documents (github.com/ehwest/mdn_quality_system) is cloned whenever any document is changed to the computers of all of the officers of Medical Data Networks. This ensures full recovery of the repository from any selected clone instance. 
+**Training Records**
 
-6. **Provision of Records to Customers.** 
+Training activities are documented by placing a record of the training as a document stored in [Google Drive](https://drive.google.com/open?id=0Bzqw_G5XWp9KYXBYazJfcGpHcGc).
 
-Where contractually specified, in accordance with regulatory requirements, or at the discretion of Medical Data Networks, copies of the quality records may be released to a customer or potential customer.
+## Reference: 21 CFR Section 820.25 Personnel
 
-7. **Provision of Records to Auditors or Government Agencies.** 
+* General. Each manufacturer shall have sufficient personnel with the necessary education, background, training, and experience to assure that all activities required by this part are correctly performed.
 
-Where applicable, quality records will be provided for examination during normal company operating hours at the request of an authorized quality systems auditor or government agency representative.   A tool of the github repository is provided for creating a PDF export of the documents within the quality management system.   
+* Training. Each manufacturer shall establish procedures for identifying training needs and ensure that all personnel are trained to adequately perform their assigned responsibilities. Training shall be documented.
 
-However, the authoritative documents are retained within the github repository, and all printed documents and/or abstracts are uncontrolled documents.
+* As part of their training, personnel shall be made aware of device defects which may occur from the improper performance of their specific jobs.
 
- * Internal Audit Reports, Supplier Audit Reports, and Management Review Minutes are not available for review by US FDA, according to 21 CFR 820.180(c), but may be reviewed by other regulatory agencies, as required.
- * For any audits performed by the US FDA, it is the policy of Medical Data Networks that an employee with executive responsibility will provide a written statement that the management reviews, quality audits and supplier audits were performed and documented. This statement will include the dates on which they were performed, and a statement that any required corrective action has been undertaken according to Medical Data Networks&#39;s Corrective and Preventive Action procedure.
- * A copy of an associated log or schedule (e.g., internal audit log, management review schedule, supplier audit schedule) may be provided as proof that the activities were performed.
+* Personnel who perform verification and validation activities shall be made aware of defects and errors that may be encountered as part of their job functions.
 
