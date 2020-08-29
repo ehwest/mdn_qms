@@ -21,7 +21,7 @@ This document establishes a standard method for completing, identifying, collect
 ## References & Tutorial Information
 
 1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13) - "Code of Fedeeral Records -- Subpart M -- Records"
-2. [ISO 13485:2016 -- Medical devices -- Quality Management Systesm -- Requirements for regulatory purposes] (https://www.iso.org/obp/ui#iso:std:iso:13485:ed-3:v1:en)
+2. [ISO 13485:2016](https://www.iso.org/obp/ui#iso:std:iso:13485:ed-3:v1:en) -- Medical devices -- Quality Management Systesm -- Requirements for regulatory purposes 
 
 ## Responsibilities
 
