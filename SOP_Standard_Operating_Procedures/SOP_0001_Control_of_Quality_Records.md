@@ -49,20 +49,26 @@ All records and communications will be maintained in perpetuity via digital arch
 
 For most documents, dates shall be expressed in the form similar to YYYY-MM-DD. If time specification is necessary to remove ambiguity, it should be in a form similar to HH:MM:SS reflecting 24-hour clock time and local Time Zone. For example: 2016-08-15 18:43:00 EST.
 
-## Electronic Recorda
+## Electronic Records
 
-All records at Medical Data Networks are created and maintained in electronic format and maintained on the "GIT" repository under the account "github.com/ehwest/mdn_quality_system".  The github repository is used to support authentication, labelling of meta data, recording of changes, and storage of the documents for each and every release of the "Managed Data Networks LLC. Quality system. ( Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  Any records containing confidential health information and not made publicly available and are kept in internally-only folders on the github repository, and configured within github to limit access to authorized users. 
+As generally described in the github paragraph above, all formal records at Medical Data Networks LLC are created and maintained in electronic format and maintained on a specific "github" [repository](https://github.com/ehwest/mdn_qms).
+
+This github repository is used to support authentication, labelling of meta data, recording of changes, and storage of the documents for each and every release of the "Managed Data Networks LLC. Quality system. 
+
+Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  
+
+Any records containing confidential health information and not made publicly available and are kept in internally-only folders on the github repository, and configured within github to limit access to authorized users. 
 
 ## Lost Documents and Disaster Recovery
 
 Since all records and changes to records are retained in perpetuity, records should never be lost.
 
- * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0004 Corrective and Preventive Action](https://github.com/ehwest/mdn_quality_system/blob/master/01_Standard_Operating_Procedures/SOP-0004_Corrective_And_Preventive_Action.md)
- * The Github repository that archive Medical Data Networks documents (github.com/ehwest/mdn_quality_system) is cloned whenever any document is changed to the computers of all of the officers of Medical Data Networks. This ensures full recovery of the repository from any selected clone instance. 
+ * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0003 Corrective and Preventive Action](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md)
+ * The Github repository that archives [Medical Data Networks documents](https://github.com/ehwest/mdn_qms) is cloned whenever any document is changed to the computers of all of the officers of Medical Data Networks. This ensures full recovery of the repository from any selected clone instance. 
 
 ## Provision of Records to Customers
 
-Where contractually specified, in accordance with regulatory requirements, or at the discretion of Medical Data Networks, copies of the quality records may be released to a customer or potential customer.
+Where contractually specified, in accordance with regulatory requirements, or at the discretion of Medical Data Networks, copies of the quality records may be released to a customer, potential customer, regulatory authorities, investors, and/or lawful law enforcement personnell.
 
 ## Provision of Records to Auditors or Government Agencies
 
