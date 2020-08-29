@@ -74,12 +74,17 @@ This procedure applies to all products developed by Managed Data Networks.
 ## Risk Analysis
 
   1. For each medical device, Managed Data Networks documents the intended use and reasonably foreseeable misuse, as well as documenting qualitative and quantitative characteristics that could affect the safety of the medical device. Form SOP-0006-1 Device Characteristics is used to document the results of this review.
+  
   2. Hazardous situation(s) are recorded after conducting an assessment of reasonably foreseeable sequences or combinations of events that can result in a hazardous situation.
+  
   3. The associated risk for each hazardous situation is estimated using available information or data. Risk estimation is based on assigning Severity and Probability to a given hazard. Severity and Probability are defined below.
+  
   4. For each identified risk, these questions are asked and the results are documented:
     A. What is the severity of this risk?
     B. What is the probability of this risk (i.e., the probability that the harm, not the bug, will occur)?
+    
   5. Baseline Risks.It is assumed that all tasks have baseline risks. Baseline risks are documented on this [Trello board](https://trello.com/b/OZL0VkxX). New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
+  
   6. Risk analysis occurs regularly and continuously as a part of all processes. If a task is determined to have risk(s), then those risk(s) are documented.
 
 ## Definitions of Severity Terms
@@ -110,17 +115,12 @@ Probability of a risk is determined by estimating the likelihood that the risk w
 
   1. A Risk Rating is determined by multiplying the occurrence rating by the severity rating to obtain a result ranging from 1-25. Decisions about risk acceptability are based on the following table:
 
-|
- |
- |
-Severity |
-| --- | --- | --- |
-|
- |
- | None | Negligible | Minor | Serious | Critical | Catastrophic |
-|
 
-Probability | Frequent | 0 | 6 | 13 | 17 | 21 | 25 |
+
+|--------|--------|-----|-----|-----|------|
+| None | Negligible | Minor | Serious | Critical | Catastrophic |
+
+|Frequent | 0 | 6 | 13 | 17 | 21 | 25 |
 | Probable | 0 | 5 | 12 | 16 | 20 | 24 |
 | Occasional | 0 | 4 | 8 | 15 | 19 | 23 |
 | Remote | 0 | 2 | 7 | 14 | 18 | 22 |
