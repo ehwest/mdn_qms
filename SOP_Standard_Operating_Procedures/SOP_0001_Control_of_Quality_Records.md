@@ -18,27 +18,25 @@ description: "Control of Quality Records"
 
 This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
 
-## References
+## References & Tutorial Information
 
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-4. ISO 13485:2016 Clause 4.2.5
+1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13) - "Code of Fedeeral Records -- Subpart M -- Records"
+2. [ISO 13485:2016 -- Medical devices -- Quality Management Systesm -- Requirements for regulatory purposes] (https://www.iso.org/obp/ui#iso:std:iso:13485:ed-3:v1:en)
 
 ## Responsibilities
 
 1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
 2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
 
-# Procedures
+# QMS Procedures
 
 ## Record Retention and Archiving.
 
 All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks uses these mechanisms for digital storage:
 
-  * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.
-  * Google Docs (including Google Sheets, etc) and Google Drive with unlimited Google Vault storage.
-  * GitHub, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.
+  * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.  Google Gmail Service is provided for every Medical Data Networks LLC associate under the <user>@medicaldatanetworks.com user name.  All company business for all matters shall use that service for all email communications.
+  * Google Docs (including Google Sheets, etc) and Google Drive with unlimited Google Vault storage.  Google Docs is for use in communicating informal work in progress and/or draft documents.  It is not to be used for official baselined document management.
+  * GitHub, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.  GitHub repositories --under control of Medical Data Networks LLC VPs and officers-- is the official repository for all software, instructions, and/or Quality Management System [mdn-qms](https://github.com/ehwest/mdn_qms) documents.
 
 ## Electronic Signatures
 
