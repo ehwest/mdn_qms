@@ -16,7 +16,7 @@ description: "Risk Management"
 
 # Purpose
 
-The purpose of this procedure is to define the risk management process used by Managed Data Networks to document and maintain an ongoing process for identifying hazards associated with Managed Data Networks&#39;s medical devices, estimating and evaluating the associated risks, controlling these risks, and monitoring the effectiveness of the controls. This procedure defines the risk management activities required, including criteria for risk acceptability.
+The purpose of this procedure is to define the risk management process used by Managed Data Networks to document and maintain an ongoing process for identifying hazards associated with Managed Data Networks medical devices, estimating and evaluating the associated risks, controlling these risks, and monitoring the effectiveness of the controls. This procedure defines the risk management activities required, including criteria for risk acceptability.
 
 # Scope
 
