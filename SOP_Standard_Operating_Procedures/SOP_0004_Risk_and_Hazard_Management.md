@@ -115,7 +115,7 @@ Probability of a risk is determined by estimating the likelihood that the risk w
 
   1. A Risk Rating is determined by multiplying the occurrence rating by the severity rating to obtain a result ranging from 1-25. Decisions about risk acceptability are based on the following table:
 
-
+|----------|----------|----------|----------|----------|----------|----------|
 |Severity|None | Negligible | Minor | Serious | Critical | Catastrophic |
 |Probability ||||||||
 | Frequent | 0 | 6 | 13 | 17 | 21 | 25 |
