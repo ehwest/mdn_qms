@@ -33,25 +33,25 @@ This procedure applies to all products developed by Managed Data Networks.
 
 # Definitions
 
-## Harm - Physical injury or damage to the health of people, or damage to property or the environment
-## Hazard - Potential source of harm
-## Hazardous Situation - Circumstance in which people, property, or the environment are exposed to one or more hazard(s)
-## Life-cycle – All phases in the life of a medical device, from the initial conception to final decommissioning and disposal
-## Post-production – Part of the life-cycle of the product after the design has been completed and medical device has been manufactured
-## Residual Risk – Risk remaining after risk control measures have been taken
-## Risk – Combination of the probability of occurrence of harm and the severity of that harm
-## Risk Analysis – Systematic use of available information to identify hazards and to estimate the risk
-## Risk Assessment – Overall process comprising a risk analysis and a risk evaluation
-## Risk Control – Process in which decisions are made and measures implemented by which risks are reduced to, or maintained within, specified levels
-## Risk Estimation – Process used to assign values to the probability of occurrence of harm and the severity of that harm
-## Risk Evaluation – Process of comparing the estimated risk against given risk criteria to determine the acceptability of the risk
-## Risk Management – Systematic application of management policies, procedures and practices to the tasks of analyzing, evaluating, controlling and monitoring risk
-## Risk Management File (RMF) – Set of records and other documents that are produced by risk management
-## Safety – Freedom from unacceptable risk
-## Senior Management – CEO and other senior executives
-## Severity – Measure of the possible consequences of a hazard
-## Use error – Act or omission of an act that results in a different medical device !response than intended by the manufacturer or expected by the user
-## Verification – Confirmation, through the provision of objective evidence, that specified requirements have been fulfilled
+ * Harm - Physical injury or damage to the health of people, or damage to property or the environment
+ * Hazard - Potential source of harm
+ * Hazardous Situation - Circumstance in which people, property, or the environment are exposed to one or more hazard(s)
+ * ife-cycle – All phases in the life of a medical device, from the initial conception to final decommissioning and disposal
+ * Post-production – Part of the life-cycle of the product after the design has been completed and medical device has been manufactured
+ * Residual Risk – Risk remaining after risk control measures have been taken
+ * Risk – Combination of the probability of occurrence of harm and the severity of that harm
+ * Risk Analysis – Systematic use of available information to identify hazards and to estimate the risk
+ * Risk Assessment – Overall process comprising a risk analysis and a risk evaluation
+ * Risk Control – Process in which decisions are made and measures implemented by which risks are reduced to, or maintained within, specified levels
+ * Risk Estimation – Process used to assign values to the probability of occurrence of harm and the severity of that harm
+ * Risk Evaluation – Process of comparing the estimated risk against given risk criteria to determine the acceptability of the risk
+ * Risk Management – Systematic application of management policies, procedures and practices to the tasks of analyzing, evaluating, controlling and monitoring risk
+ * Risk Management File (RMF) – Set of records and other documents that are produced by risk management
+ * Safety – Freedom from unacceptable risk
+ * Senior Management – CEO and other senior executives
+ * Severity – Measure of the possible consequences of a hazard
+ * Use error – Act or omission of an act that results in a different medical device !response than intended by the manufacturer or expected by the user
+ * Verification – Confirmation, through the provision of objective evidence, that specified requirements have been fulfilled
 
 # Summary of Managed Data Networks Risk Management Activities
 
