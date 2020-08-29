@@ -23,7 +23,7 @@ description: "Corrective and Preventative Action"
 
 ## Scope
 
-This applies to all medical and research software devices designed and developed by Medical Data Networks_._
+This applies to all medical and research software devices designed and developed by Medical Data Networks.
 
 ## References
 
