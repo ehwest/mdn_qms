@@ -28,27 +28,24 @@ This applies to all medical and research software devices designed and developed
 ## References
 
 1. U.S. Food and Drug Administration, [21 CFR Subpart J Section 820.100 - Corrective and Preventive Action](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCFR/CFRSearch.cfm?fr=820.100)
-2. [ISO 13485:2016](https://www.iso.org/standard/59752.html) Clauses 8.5.2 and 8.5.3
-3. Medical Data Networks [SOP-0002 Control of Quality Records](https://docs.google.com/document/d/11CaVJcIHQPp6gvABqF2QZAErC3ewIbw1SPJO8AEm7Y0/edit#heading=h.usyasxjjdsru)
-4. Medical Data Networks [SOP-0005 Design, Development and Release](https://docs.google.com/document/d/19vWtyDNesVyxE5gKXwppgRGWvn-EXrttCLJH5nRys1U/edit#heading=h.ehyx1pcwafdd)
-5. [T](https://docs.google.com/document/d/19vWtyDNesVyxE5gKXwppgRGWvn-EXrttCLJH5nRys1U/edit#heading=h.ehyx1pcwafdd)i[d](https://docs.google.com/document/d/19vWtyDNesVyxE5gKXwppgRGWvn-EXrttCLJH5nRys1U/edit#heading=h.ehyx1pcwafdd)e[p](https://docs.google.com/document/d/19vWtyDNesVyxE5gKXwppgRGWvn-EXrttCLJH5nRys1U/edit#heading=h.ehyx1pcwafdd)o[o](https://docs.google.com/document/d/19vWtyDNesVyxE5gKXwppgRGWvn-EXrttCLJH5nRys1U/edit#heading=h.ehyx1pcwafdd)l[SOP-0006 Risk Management](https://github.com/ehwest/mdn_quality_system/blob/master/01_Standard_Operating_Procedures/SOP-0006_Risk_Management.md)
-6. Medical Data Networks [DOC-0001 Medical Data Networks Design and Development Process](https://docs.google.com/document/d/1OiK40Vye-rWOhkOdwPl7U4jZzvtuluqaxmvYDRAMINo/edit#heading=h.16khdqx8798f)
+2. [ISO 13485:2016](https://www.iso.org/standard/59752.html) ISO Standard for Medical Devices -- Quality Managment Systems -- Requirements for regulatory purposes;  Clauses 8.5.2 and 8.5.3
 
 ## Analysis and Work Operations, Quality Reports and Records
 
 Medical Data Networks may receive reports of quality issues, complaints and nonconformities, or opportunities for improvement through email, phone calls, social media, or verbal conversations. Nonconformances may also be identified through other means such as external or internal audits, and automated monitoring tools. Possible mechanisms for handling issues include (but are not limited to):
 
- * The employee may generate a new Jira issue or comment on an existing Jira issue indicating a Bug, Feature Request, Suggestion. New Jira issues may include risk analysis per [SOP-0006 Risk Management](https://github.com/ehwest/mdn_quality_system/blob/master/01_Standard_Operating_Procedures/SOP-0002_Control_of_Quality_Records.md)
+ * The employee may generate a new GIT repository issue or comment on an existing GIT repository issue indicating a Bug, Feature Request, Suggestion. New GIT repository issues may include risk analysis per QMS SOP Risk Managmeent Procedures.
  * The employee may respond to the report over email, phone, or using our customer support tracking system.
- * Statistical methods will be applied when necessary and as appropriate at the discretion of management. For example, emails to [support@Medical Data Networks.org](mailto:support@tidepool.org) may be analyzed for patterns of recurring customer complaints. When performed, such analysis will be documented and stored in Google Drive.
+ * Statistical methods will be applied when necessary and as appropriate at the discretion of management. 
+ For example, emails to [support@t1pal.com](mailto:support@t1pal.com) may be analyzed for patterns of recurring customer complaints. When performed, such analysis will be documented and stored in Google Drive.
  * Based upon the analysis of these issues, it is determined whether a corrective action or preventive action is required.
 
 ## Investigation of Cause, Identifying Actions, Implementing and Recording Changes
 
-1. At the conclusion of each development sprint, Medical Data Networks analyzes its processes and operations by holding a Sprint Retrospective meeting. At this retrospective meeting, Medical Data Networks documents, in a Google Doc:
-    * What went well (processes that worked well during the sprint)
+1. At the conclusion of each development sprint, Medical Data Networks analyzes its processes and operations by holding a Retrospective meeting. At this retrospective meeting the following topics will be addressed.
+    * What went well 
     * What didn&#39;t go well (process that can use improvement)
-    *  What could use improvement (processes or development efforts that should be considered for improvement)
+    * What could use improvement (processes or development efforts that should be considered for improvement)
 2. At the discretion of Medical Data Networks management or employees, non-conformities that involve severe operational issues, security issues or invalid data may also be detailed in a root cause analysis document (which may be referred to as a &quot;5 Why&#39;s?&quot; document) with details of the cause and actions to prevent recurrence or occurrence of the non-conformity (corrective action or preventive action).
 
 ## Verification of Effectiveness
@@ -59,8 +56,9 @@ Medical Data Networks may receive reports of quality issues, complaints and nonc
 ## Dissemination of Information
 
  * All information will be disseminated to appropriate Medical Data Networks employees using email, Google Docs, Jira, Slack and/or Github.
- * Management will review all relevant information. Decisions about corrective and preventive action to be taken in current or future sprints will be documented as Jira issues. This information is also presented at Management Review meetings.
+ * Management will review all relevant information. Decisions about corrective and preventive action to be taken in current or future activities will be documented as GIT repository issues. This information is also presented at Management Operations Review meetings.
 
 ## Documentation
 
-All documentation regarding quality issues and corrective and preventive action are stored in Jira, Google Docs, Zendesk and GitHub in accordance with [SOP-0002 Control of Quality Records](https://github.com/ehwest/mdn_quality_system/blob/master/01_Standard_Operating_Procedures/SOP-0002_Control_of_Quality_Records.md).
+All documentation regarding quality issues and corrective and preventive action are stored in Jira, Google Docs, Zendesk and GitHub in accordance with QMS procedures for Control of Quality Records.
+
