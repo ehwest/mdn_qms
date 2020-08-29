@@ -1,7 +1,7 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "mdn_qms/SOP_Standard_Operating_Procedures"
-title: "SOP_0001_Control_of_Quality_Records.md"
+title: "SOP_0006_Risk_Management.md"
 document_id: "SOP-0001"
 authors:
 - github.com/ehwest
@@ -11,69 +11,153 @@ revision: "05"
 approval_date: "2020-07-18"
 effective_date: "2020-07-18"
 content_type: concept
-description: "Control of Quality Records"
+description: "Risk Management"
 ---
 
+# Purpose
 
-## Purpose
+The purpose of this procedure is to define the risk management process used by Managed Data Networks to document and maintain an ongoing process for identifying hazards associated with Managed Data Networks&#39;s medical devices, estimating and evaluating the associated risks, controlling these risks, and monitoring the effectiveness of the controls. This procedure defines the risk management activities required, including criteria for risk acceptability.
 
-This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
+# Scope
 
-## References
+This procedure applies to all products developed by Managed Data Networks.
 
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-4. ISO 13485:2016 Clause 4.2.5
+# References
 
-## Responsibilities
+  1. [ISO 14971:2007](https://www.iso.org/standard/38193.html) ISO Medical Devices -- Application of risk management to medical devices later revised by [ISO 14971:2019](https://www.iso.org/standard/38193.html)
+  2. [ISO 13485:2016](https://www.iso.org/standard/59752.html) ISO Medical Devices -- Quality Management Systems -- Requirements for regulatory purposes.
+  4. [21 CFR Part 820, US FDA Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820) -- FDA Code of Federal Regulations Title 21 -- Part 820 Quality System Regulation
+  5. Form SOP-0006-1 (TBD), Risk Management Plan
+  6. Form SOP-0006-2 (TBD), Device Characteristics
+  7. Form SOP-0006-3 (TBD), Risk Management Report
 
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
+# Definitions
 
-## Procedures
+## Harm - Physical injury or damage to the health of people, or damage to property or the environment
+## Hazard - Potential source of harm
+## Hazardous Situation - Circumstance in which people, property, or the environment are exposed to one or more hazard(s)
+## Life-cycle – All phases in the life of a medical device, from the initial conception to final decommissioning and disposal
+## Post-production – Part of the life-cycle of the product after the design has been completed and medical device has been manufactured
+## Residual Risk – Risk remaining after risk control measures have been taken
+## Risk – Combination of the probability of occurrence of harm and the severity of that harm
+## Risk Analysis – Systematic use of available information to identify hazards and to estimate the risk
+## Risk Assessment – Overall process comprising a risk analysis and a risk evaluation
+## Risk Control – Process in which decisions are made and measures implemented by which risks are reduced to, or maintained within, specified levels
+## Risk Estimation – Process used to assign values to the probability of occurrence of harm and the severity of that harm
+## Risk Evaluation – Process of comparing the estimated risk against given risk criteria to determine the acceptability of the risk
+## Risk Management – Systematic application of management policies, procedures and practices to the tasks of analyzing, evaluating, controlling and monitoring risk
+## Risk Management File (RMF) – Set of records and other documents that are produced by risk management
+## Safety – Freedom from unacceptable risk
+## Senior Management – CEO and other senior executives
+## Severity – Measure of the possible consequences of a hazard
+## Use error – Act or omission of an act that results in a different medical device !response than intended by the manufacturer or expected by the user
+## Verification – Confirmation, through the provision of objective evidence, that specified requirements have been fulfilled
 
-1. **Record Retention and Archiving.** 
+# Summary of Managed Data Networks Risk Management Activities
 
-All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks uses these mechanisms for digital storage:
+  1. All software and medical devices have risks. Managed Data Networks&#39;s risk management activities reduce risk as far as possible.
+  2. Unless otherwise documented, all Managed Data Networks software is assumed to have Baseline Risks, as defined below.
+  3. All risks, including Baseline Risks, are analyzed, estimated, evaluated and documented as described below.
+  4. Risk Management activities, including review of the Risk Management process, are iterative and continuous. There are no point-in-time &quot;Risk Acceptance&quot; gates.
+  5. Managed Data Networks&#39;s risk management process follows the process identified in ISO 14971, as detailed in the figure below.
+  6. Managed Data Networks&#39;s CEO ensures that there are adequate resources for the risk management process and that these personnel are qualified for risk management with the knowledge and experience appropriate to the tasks assigned to them.
 
-  * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.
-  * Google Docs (including Google Sheets, etc) and Google Drive with unlimited Google Vault storage.
-  * GitHub, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.
+## Risk Management Plan and File
 
-2. **Electronic Signatures**
+  1. Managed Data Networks has designed its own Risk Management Plan based on analysis of existing state of the art for software and medical device. We base our model on these tenets:
+    A. **Reduction of risk through software iteration over time.** Processes that inhibit iteration cycles add risk. Managed Data Networks uses agile design and development methodology, including verification and validation processes. The more quickly we can iterate on our software, the more quickly we can converge on high quality software that meets the user&#39;s needs while maintaining (or improving) software safety and efficacy.
+    B. **Comparison of risks and mitigations, including comparison to baseline risk of living with diabetes** : All software and medical devices contain risks and flaws, both known and unknown. Diabetes is also an inherently risky disease. Existence of a residual risk in Managed Data Networks&#39;s software must be compared against the risk of unavailability of Managed Data Networks software or other diabetes management software for a person living with diabetes.
+    C. Managed Data Networks establishes a risk management plan for each medical device. This plan includes the scope of the risk management activities, assignment of responsibilities and authorities, criteria for risk acceptability, verification activities and activities related to the collection and review of production and post-production information.
+    D. This risk management plan, risk evaluation, implementation and verification of risk control measures, and the assessment of acceptability of any residual risks comprise the Risk Management File. The Risk Management File is an index with pointers to the required documentation.
 
- * Records requiring signature approval per above shall be digitally signed with text similar to &quot;Approved. /s/ Name Of Approver, YYYY-MM-DD&quot;.
- * Digital signatures must be made with accounts that are authenticated by all three means: 1) unique username/email, 2) password 3) Two-Factor Authentication via mobile device.
- * Digital signatures must only be made by the actual person associated with the authentication credentials, and only over secure connections using https, TLS or SSL.
- * Medical Data Networks tools that currently meet these requirements include: Gmail, Google Docs and GitHub.
 
-3. **Date and Time Marks**
+## Risk Analysis
 
-For most documents, dates shall be expressed in the form similar to YYYY-MM-DD. If time specification is necessary to remove ambiguity, it should be in a form similar to HH:MM:SS reflecting 24-hour clock time and local Time Zone. For example: 2016-08-15 18:43:00 EST.
+  1. For each medical device, Managed Data Networks documents the intended use and reasonably foreseeable misuse, as well as documenting qualitative and quantitative characteristics that could affect the safety of the medical device. Form SOP-0006-1 Device Characteristics is used to document the results of this review.
+  2. Hazardous situation(s) are recorded after conducting an assessment of reasonably foreseeable sequences or combinations of events that can result in a hazardous situation.
+  3. The associated risk for each hazardous situation is estimated using available information or data. Risk estimation is based on assigning Severity and Probability to a given hazard. Severity and Probability are defined below.
+  4. For each identified risk, these questions are asked and the results are documented:
+    A. What is the severity of this risk?
+    B. What is the probability of this risk (i.e., the probability that the harm, not the bug, will occur)?
+  5. Baseline Risks.It is assumed that all tasks have baseline risks. Baseline risks are documented on this [Trello board](https://trello.com/b/OZL0VkxX). New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
+  6. Risk analysis occurs regularly and continuously as a part of all processes. If a task is determined to have risk(s), then those risk(s) are documented.
 
-4. **Electronic Records.** 
+## Definitions of Severity Terms
 
-All records at Medical Data Networks are created and maintained in electronic format and maintained on the "GIT" repository under the account "github.com/ehwest/mdn_quality_system".  The github repository is used to support authentication, labelling of meta data, recording of changes, and storage of the documents for each and every release of the "Managed Data Networks LLC. Quality system. ( Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  Any records containing confidential health information and not made publicly available and are kept in internally-only folders on the github repository, and configured within github to limit access to authorized users. 
+| **Rating** | **Term** | **Description** | **Short example** |
+| --- | --- | --- | --- |
+| 5 | Catastrophic | Results in patient death. | Death due to hypoglycemia. |
+| 4 | Critical | Results in permanent impairment or life-threatening injury. | Hypoglycemic coma. |
+| 3 | Serious | Results in injury or impairment requiring professional medical intervention. | Hypoglycemic seizure or diabetic ketoacidosis requiring hospitalization. Serious injury due to hypoglycemia-induced fainting. |
+| 2 | Minor | Results in temporary injury or impairment not requiring professional medical intervention. | Confusion or disorientation due to minor hypoglycemia. |
+| 1 | Negligible | Inconvenience or temporary discomfort. | Feeling a little low, quickly recovering. |
+| 0 | None | A bug or issue that has no chance of causing harm. | Minor user interface issue that will not cause misinterpretation of data. Bug found and fixed prior to delivery to production |
 
-5. **Lost Documents and Disaster Recovery.** 
 
-Since all records and changes to records are retained in perpetuity, records should never be lost.
+## Definition of &quot;Probability of Harm&quot; Terms
 
- * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0004 Corrective and Preventive Action](https://github.com/ehwest/mdn_quality_system/blob/master/01_Standard_Operating_Procedures/SOP-0004_Corrective_And_Preventive_Action.md)
- * The Github repository that archive Medical Data Networks documents (github.com/ehwest/mdn_quality_system) is cloned whenever any document is changed to the computers of all of the officers of Medical Data Networks. This ensures full recovery of the repository from any selected clone instance. 
+| **Rating** | **Term** | **Probability (P) of Occurrence of the Harm** **(not the bug)** | **Description for Clarity** |
+| --- | --- | --- | --- |
+| 5 | Frequent | P ≥ 0.1 | Likely to occur 1 in 10 times or more often. |
+| 4 | Probable | .01 ≤ P \&lt; 0.1 | Likely to occur between (1 in 10) and (1 in 100) times. |
+| 3 | Occasional | .0001 ≤ P \&lt; 0.01 | Likely to occur between (1 in 100) and (1 in 10,000) times. |
+| 2 | Remote | .000001 ≤ P \&lt; 0.0001 | Likely to occur between (1 in 10,000) and (1 in 1,000,000) times. |
+| 1 | Improbable | P ≤ 0.000001 | Likely to occur less frequently than 1 in a million times. |
 
-6. **Provision of Records to Customers.** 
+Probability of a risk is determined by estimating the likelihood that the risk will manifest as a harm for any given use of Managed Data Networks&#39;s software. &quot;Use&quot; means an instance of using a Managed Data Networks software for its intended use.
 
-Where contractually specified, in accordance with regulatory requirements, or at the discretion of Medical Data Networks, copies of the quality records may be released to a customer or potential customer.
+## Risk Rating
 
-7. **Provision of Records to Auditors or Government Agencies.** 
+  1. A Risk Rating is determined by multiplying the occurrence rating by the severity rating to obtain a result ranging from 1-25. Decisions about risk acceptability are based on the following table:
 
-Where applicable, quality records will be provided for examination during normal company operating hours at the request of an authorized quality systems auditor or government agency representative.   A tool of the github repository is provided for creating a PDF export of the documents within the quality management system.   
+|
+ |
+ |
+Severity |
+| --- | --- | --- |
+|
+ |
+ | None | Negligible | Minor | Serious | Critical | Catastrophic |
+|
 
-However, the authoritative documents are retained within the github repository, and all printed documents and/or abstracts are uncontrolled documents.
+Probability | Frequent | 0 | 6 | 13 | 17 | 21 | 25 |
+| Probable | 0 | 5 | 12 | 16 | 20 | 24 |
+| Occasional | 0 | 4 | 8 | 15 | 19 | 23 |
+| Remote | 0 | 2 | 7 | 14 | 18 | 22 |
+| Improbable | 0 | 1 | 3 | 9 | 10 | 11 |
 
- * Internal Audit Reports, Supplier Audit Reports, and Management Review Minutes are not available for review by US FDA, according to 21 CFR 820.180(c), but may be reviewed by other regulatory agencies, as required.
- * For any audits performed by the US FDA, it is the policy of Medical Data Networks that an employee with executive responsibility will provide a written statement that the management reviews, quality audits and supplier audits were performed and documented. This statement will include the dates on which they were performed, and a statement that any required corrective action has been undertaken according to Medical Data Networks&#39;s Corrective and Preventive Action procedure.
- * A copy of an associated log or schedule (e.g., internal audit log, management review schedule, supplier audit schedule) may be provided as proof that the activities were performed.
+
+## Risk Acceptability
+
+  1. Risk levels 1, 2 and 3: Further risk reduction will be assessed. Once this risk has been reduced as far as possible, this risk is acceptable for users to continue using Managed Data Networks software with these residual risks. For known risks that may have potential fixes or mitigations, the potential fix or mitigation should be documented so that it can be considered relative to future work during future prioritization.
+  2. Risk levels 4 through 11: Risk reductions must be considered and a mitigation plan must be documented and put in place. Once these risks have been reduced as far as possible, these risks are considered acceptable.
+  3. Risk levels 12 through 25: These risks must be reduced. The work must be prioritized and addressed ahead of other work on the same feature area. A mitigation plan must be documented and put in place. A communication plan to users must be documented and implemented. Prior to product release, risk must be reduced to an acceptable level or a Risk/Benefit analysis must be performed prior to product release for human use. If the medical benefits outweigh the overall residual risk, then the overall residual risk can be judged acceptable.
+
+## Risk Evaluation
+
+  1. For each identified hazardous situation, Managed Data Networks will decide whether the risk can be further reduced. Any requirement for risk reduction, or if none is required, is recorded in the risk analysis.
+  2. All risks shall be reduced as far as possible.
+  3. Risks will generally be categorized as Acceptable or Unacceptable. Any risks determined unacceptable require risk reduction prior to going to market.
+
+1. Risk Control
+  1. When risk reduction is required, risk control activities as described below will be performed.
+  2. In the event that risk reduction is necessary, risk control measures will be identified and documented. Risk control measures are applied in the following priority:
+    - Safety by design (inherent) - eliminates hazard or hazardous situation via design feature
+    - Protective measures - prevent or reduce likelihood of occurrence of hazard or hazardous situation
+    - Information for safety - warnings, precautions, and/or information provided regarding hazard or hazardous situation
+  3. The risk control measures that are identified are verified and the effectiveness of the risk control measures, which may include validation activities, are documented accordingly.
+  4. Upon implementing the risk control measures, the residual risks are then evaluated according to the criteria established above. Generally, if the residual risk has a risk rating ≤11, then it is determined to be acceptable.
+  5. If residual risks are still determined to be unacceptable, additional risk controls will be identified and implemented.
+  6. For residual risks that have been reduced as low as possible, top management will decide which residual risks to disclose and what information for safety is necessary to include in the Instructions for Use in order to disclose those residual risks.
+  7. Following the residual risk evaluation, an assessment is made as to whether the medical benefits of the device outweigh the residual risks. Clinical evaluation of the product and any other relevant published clinical literature may be considered in making the determination. If the evaluation demonstrates that the medical benefits of the device do not outweigh the residual risks, the device is not released to production.
+  8. The risk control measures that have been implemented are also evaluated to determine if they have introduced any new hazards or hazardous situations and whether the estimated risks for previously identified hazardous situations are affected.
+  9. Once all risk control measures have been implemented, a review is performed to determine whether the risks from all identified hazardous situations have been considered.
+2. Evaluation of Overall Residual Risk Acceptability
+  1. After all the risk control measures have been implemented and verified, it will be determined whether the overall residual risk posed by the medical device has been reduced as low as possible using the criteria defined in the Risk Management Plan.
+  2. If the overall residual risk is not judged to be reduced as far as possible using the criteria established in the Risk Management Plan, then further data and literature may be gathered and reviewed to determine if the medical benefits of the intended use outweigh the overall residual risk. If the evidence supports that the benefits outweigh the overall residual risks, the the overall residual risk can be judged to be as low as possible. Otherwise, the overall residual risk remains unacceptable.
+3. Risk Management Report
+  1. Prior to release, Managed Data Networkss reviews the risk management process to ensure that it has been appropriately implemented and that the overall residual risk is accepted.
+4. These results will be documented in the Risk Management Report and included in the Risk Management File.
+5. Production and Post-production Information
+  1. On an iterative, ongoing basis, complaints, bug reports and other user feedback are compiled and evaluated per [SOP-0004 Corrective and Preventive Action](https://docs.google.com/document/d/1r-VBHLstUGshl9AGBQvkBaPoW15k0JThU9ptiuRzSXA/edit#heading=h.i0qutf74udcd) and [SOP-0007 Complaint Handling](https://docs.google.com/document/d/1DcWocJumuyz08Apx0MkE6aZD6Zh0Hq9PdXOACBLskZU/edit).
 
