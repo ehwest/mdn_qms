@@ -1,8 +1,8 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "mdn_qms/SOP_Standard_Operating_Procedures"
-title: "SOP_0001_Control_of_Quality_Records.md"
-document_id: "SOP-0001"
+title: "SOP_0006_Medical_Device_Reporting.md"
+document_id: "SOP-0006"
 authors:
 - github.com/ehwest
 approvers:
@@ -11,7 +11,7 @@ revision: "05"
 approval_date: "2020-07-18"
 effective_date: "2020-07-18"
 content_type: concept
-description: "Control of Quality Records"
+description: "SOP 0006 Medical Device Reporting"
 ---
 
 
@@ -21,10 +21,12 @@ This document establishes a standard method for completing, identifying, collect
 
 ## References
 
+These instructions are intended to support compliance to the following published reference works:
+
 1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
 2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-4. ISO 13485:2016 Clause 4.2.5
+3. [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
+4. [ISO 13485:2016 Clause 4.2.5](https://www.iso.org/obp/ui#iso:std:iso:13485:ed-3:v1:en
 
 ## Responsibilities
 
