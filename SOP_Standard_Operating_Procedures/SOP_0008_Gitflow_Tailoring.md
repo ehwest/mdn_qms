@@ -20,7 +20,9 @@ description: "Control of Quality Records"
 This document describes the Gitflow procedure for developing and managing change to the existing software base of T1Pal.com
 
 [Vincent Driessen's Gitflow Workflow](https://nvie.com/posts/a-successful-git-branching-model/)  
-is a software workflow design that was first published and made popular by Vincent Driessen. The Gitflow Workflow defines a strict branching model designed around the project release. 
+
+The Gitflow workflow is a software workflow design that was first published and made popular by Vincent Driessen. 
+The Gitflow Workflow defines a strict branching model designed around the project release. It relies on the functions and capabililities of "github."
 
 All software and QMS documentation will be managed using this "Gitflow" procedures.
 
