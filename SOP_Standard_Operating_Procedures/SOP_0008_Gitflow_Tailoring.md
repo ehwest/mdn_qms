@@ -30,7 +30,7 @@ Key principles of this process are conventions described as follows:
 
 1.  The GITHUB repository for Medical Data Networks LLC (MDN) is distributed.  As such, each and every developer and officer of the firm retains a complete copy of the MDN repositories on their laptop.  This provides adequate storage, security, and reliability of all company records.
 
-2.  The firm's GITHUB server has the origin.
+2.  The firm's GITHUB server has as the "origin" a server assigned by github.com an application service provider.
 
 3.  The central repo holds two main branches with infinite lifetime:  
 
@@ -44,6 +44,7 @@ When the source code in the develop branch reaches a stable point and is ready t
 Next to the main branches master and develop, our development model uses a variety of supporting branches to aid parallel development between team members, ease tracking of features, prepare for production releases and to assist in quickly fixing live production problems. Unlike the main branches, these branches always have a limited life time, since they will be removed eventually.
 
 The different types of branches we may use are:
+
 * Feature branches
 * Release branches
 * Hotfix branches
@@ -59,6 +60,7 @@ Feature branches typically exist in developer repos only, not in origin.
 When starting work on a new feature, branch off from the develop branch.
 
 $ git checkout -b myfeature develop
+
 Switched to a new branch "myfeature"
 
 ##Incorporating a finished feature on develop
@@ -86,17 +88,17 @@ The --no-ff flag causes the merge to always create a new commit object, even if 
 
 ## Release branches
 
-May branch off from:
+* May branch off from:
 
-develop
+* dev
 
-Must merge back into:
+* Must merge back into:
 
-develop and master
+* dev and master
 
-Branch naming convention:
+* Branch naming convention:
 
-release-*
+* release-*
 
 
 Release branches support preparation of a new production release. They allow for last-minute dotting of i’s and crossing t’s. Furthermore, they allow for minor bug fixes and preparing meta-data for a release (version number, build dates, etc.). By doing all of this work on a release branch, the develop branch is cleared to receive features for the next big release.
