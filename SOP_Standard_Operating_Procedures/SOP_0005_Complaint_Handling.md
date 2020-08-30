@@ -11,7 +11,7 @@ revision: "05"
 approval_date: "2020-07-18"
 effective_date: "2020-07-18"
 content_type: concept
-description: "Complaint Handling"
+description: "SOP 0005 Complaint Handling"
 ---
 
 # Purpose
@@ -87,7 +87,7 @@ Reportable Events that result in Serious Injury will be reported to the appropri
 ## Appendix II §820.198 Requirements adopted by Medical Data Networks LLC.
 
 ### Complaint files.
-  a. Each manufacturer shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
+1. Each manufacturer shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
 
     1.  All complaints are processed in a uniform and timely manner;
 
@@ -95,11 +95,11 @@ Reportable Events that result in Serious Injury will be reported to the appropri
 
     3.  Complaints are evaluated to determine whether the complaint represents an event which is required to be reported to FDA under part 803 of this chapter, Medical Device Reporting.
 
-  b. Each manufacturer shall review and evaluate all complaints to determine whether an investigation is necessary. When no investigation is made, the manufacturer shall maintain a record that includes the reason no investigation was made and the name of the individual responsible for the decision not to investigate.
+ 2. Each manufacturer shall review and evaluate all complaints to determine whether an investigation is necessary. When no investigation is made, the manufacturer shall maintain a record that includes the reason no investigation was made and the name of the individual responsible for the decision not to investigate.
 
-  c. Any complaint involving the possible failure of a device, labeling, or packaging to meet any of its specifications shall be reviewed, evaluated, and investigated, unless such investigation has already been performed for a similar complaint and another investigation is not necessary.
+3. Any complaint involving the possible failure of a device, labeling, or packaging to meet any of its specifications shall be reviewed, evaluated, and investigated, unless such investigation has already been performed for a similar complaint and another investigation is not necessary.
 
-  d. Any complaint that represents an event which must be reported to FDA under part 803 of this chapter shall be promptly reviewed, evaluated, and investigated by a designated individual(s) and shall be maintained in a separate portion of the complaint files or otherwise clearly identified. In addition to the information required by §820.198(e), records of investigation under this paragraph shall include a determination of:
+4. Any complaint that represents an event which must be reported to FDA under part 803 of this chapter shall be promptly reviewed, evaluated, and investigated by a designated individual(s) and shall be maintained in a separate portion of the complaint files or otherwise clearly identified. In addition to the information required by §820.198(e), records of investigation under this paragraph shall include a determination of:
 
    1. Whether the device failed to meet specifications;
 
@@ -107,7 +107,7 @@ Reportable Events that result in Serious Injury will be reported to the appropri
 
    3. The relationship, if any, of the device to the reported incident or adverse event.
 
-  e.When an investigation is made under this section, a record of the investigation shall be maintained by the formally designated unit identified in paragraph (a) of this section. The record of investigation shall include:
+5. When an investigation is made under this section, a record of the investigation shall be maintained by the formally designated unit identified in paragraph (a) of this section. The record of investigation shall include:
 
     1. The name of the device;
 
@@ -125,9 +125,9 @@ Reportable Events that result in Serious Injury will be reported to the appropri
 
     8. Any reply to the complainant.
 
-  f.  When the manufacturer's formally designated complaint unit is located at a site separate from the manufacturing establishment, the investigated complaint(s) and the record(s) of investigation shall be reasonably accessible to the manufacturing establishment.
+6.  When the manufacturer's formally designated complaint unit is located at a site separate from the manufacturing establishment, the investigated complaint(s) and the record(s) of investigation shall be reasonably accessible to the manufacturing establishment.
 
-  g.  If a manufacturer's formally designated complaint unit is located outside of the United States, records required by this section shall be reasonably accessible in the United States at either:
+7.  If a manufacturer's formally designated complaint unit is located outside of the United States, records required by this section shall be reasonably accessible in the United States at either:
 
     1. A location in the United States where the manufacturer's records are regularly kept; or
 
