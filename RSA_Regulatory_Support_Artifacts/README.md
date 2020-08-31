@@ -33,11 +33,11 @@ In the same meeting the FDA outlined the definition of **"Special Controls"** as
 
   **Dosing decisions should not be made based on this device.**
   
-  **The user should follow instructions on the continuous glucose monitoring system."**
+  **The user should follow instructions on the continuous glucose monitoring system.**
   
 * Device labeling must include the following limitation:  
 
-  **This device is not intended to replace self-monitoring practices advised by a physician."**
+  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
 ## Registering with the FDA
 
