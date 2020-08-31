@@ -20,22 +20,22 @@ This document sets forth the specific means for following the FDA de novo regula
 
 In a [meeting with FDA on 1/27/2015, -- Q141084/S002 ](https://github.com/ehwest/mdn_qms/blob/master/RSA_Regulatory_Support_Artifacts/minutes-pdfjam.pdf) the FDA set forth the de novo regulatory pathway for Nightscout to accomplish the following.
 
-[ ]  Register with the FDA
-[ ]  Meet "Special Controls"
-[ ]  Meet "Appropriate Validations"
-[ ]  Document "Quality Controls"
+- [ ]  Register with the FDA
+- [ ]  Meet "Special Controls"
+- [ ]  Meet "Appropriate Validations"
+- [ ]  Document "Quality Controls"
 
 In the same meeting the FDA outlined the definition of **"Special Controls"** as follows:
 
-[ ]  Devices must protect against unauthorized access to and modification of data.
+- [ ]  Devices must protect against unauthorized access to and modification of data.
 
-[ ]  Device labeling must display the following warning: 
+- [ ]  Device labeling must display the following warning: 
 
   **Dosing decisions should not be made based on this device.**
   
   **The user should follow instructions on the continuous glucose monitoring system.**
   
-[ ]  Device labeling must include the following limitation:  
+- [ ]  Device labeling must include the following limitation:  
 
   **This device is not intended to replace self-monitoring practices advised by a physician.**
 
