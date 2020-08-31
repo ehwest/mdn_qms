@@ -16,10 +16,43 @@ description: "(RSA) Regulatory Suppport Artifacts"
 
 ## Purpose
 
-The files within this folder are intended to convey a library of Regulatory Support Artifacts (RSA)
-as a means of change-control and quick reference.
-Files within this folder are generally sourced outside of Medical Data Networks LLC.
-As such, we refer to external document numbering schemes.
+This document sets forth the specific means for following the FDA de novo regulatory pathway for the T1Pal product.
+
+In a [meeting with FDA on 1/27/2015,](https://github.com/ehwest/mdn_qms/blob/master/RSA_Regulatory_Support_Artifacts/minutes-pdfjam.pdf) the FDA set forth the de novo regulatory pathway for Nightscout to accomplish the following.
+
+* Register with the FDA
+* Meet "Special Controls"
+* Meet "Appropriate Validations"
+* Document "Quality Controls"
+
+In the same meeting the FDA outlined the definition of #"Special Controls"# as follows:
+* Devices must protect against unauthorized access to and modification of data.
+* Device labeling must display the following warning: 
+  # Dosing decisions should not be made based on this device.#
+  # The user should follow instructions on the continuous glucose monitoring system."#
+* Device labeling must include the following limitation:  
+  # This device is not intended to replace self-monitoring practices advised by a physician."#
+
+## Registering with the FDA
+
+Medical Data Networks LLC the organization providing the T1Pal.com "device." intends to Register with the FDA as soon as possible.
+As of this release of the Quality Management System, the high fees (for the size of company) represents a very real barrier 
+to compliance.  The fees for establishing identity are currently approximately 10 times the sum of the current annual expenses of the T1Pal service provider, and more than 3 times the sum of expected annual revenues.   Until monthly revenues approach the Establishment Identity fee, this is not possible.
+
+## Meeting Special Controls
+
+The "special controls" outlined above may all be directly linked to T1Pal.com product requirements that are also the target of verification by Medical Data Networks LLC Quality Management system.
+
+## Meeting Appropriate Validations
+
+A spreadsheet that is part of this Quality Management System is provided and links product requirements and validations.
+
+## Document Quality Controls
+
+This Quality Management System provides an enumeration of all of the Document Quality Controls applicable to the T1Pal.com product.
+
+
+
 
 ## References
 
