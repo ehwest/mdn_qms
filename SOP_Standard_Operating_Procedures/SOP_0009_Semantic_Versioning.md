@@ -1,8 +1,8 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "mdn_qms/SOP_Standard_Operating_Procedures"
-title: "SOP_0001_Control_of_Quality_Records.md"
-document_id: "SOP-0001"
+title: "SOP_0009_Semantic_Versioning"
+document_id: "SOP-0009"
 authors:
 - github.com/ehwest
 approvers:
@@ -11,69 +11,77 @@ revision: "05"
 approval_date: "2020-07-18"
 effective_date: "2020-07-18"
 content_type: concept
-description: "Control of Quality Records"
+description: "SOP 0009 Semantic Versioning"
 ---
 
 
 ## Purpose
 
-This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
+["Semantic Versioning"](https://semver.org/) is the process of asigning version numbers to software products that expose Application Programming Interfaces (APIs). 
+"Semantic Versioning" or "SemVer" contain a set of rules and requirements that dictate how version numbers are assigned and incremented. 
 
-## References
+The full specification is readable here: [semver.md](https://github.com/semver/semver/blob/master/README.md)
 
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-4. ISO 13485:2016 Clause 4.2.5
+Semantic Versioning is a time and cost saving approach to support release and upgrade packages without having to roll new versions of dependent packages. 
+
+Prefixing a semantic version with a “v” is a common way (in English) to indicate it is a version number. Abbreviating “version” as “v” is often seen with version control.  Example: git tag v1.2.3 -m "Release version 1.2.3", in which case “v1.2.3” is a tag name and the semantic version is “1.2.3”.
+
+It is also dependent on accurate and complete API definitions.
+
+It is hereby adopted as a standard means of conveying robust dependency information for all T1Pal services.
+For reference purposes the github repository defining [Semantic Versioning](https://github.com/semver/semver)  is available.
+
+Semantic Versioning is used for all software artifacts produced or used by Medical Data Networks LLC.   
+This document provides the guidance for this usage, much of which is copied within this QMS from the link above.
+
+The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in RFC 2119.
+
+Software using Semantic Versioning MUST declare a public API. This API could be declared in the code itself or exist strictly in documentation. However it is done, it SHOULD be precise and comprehensive.
+
+A normal version number MUST take the form X.Y.Z where X, Y, and Z are non-negative integers, and MUST NOT contain leading zeroes. X is the major version, Y is the minor version, and Z is the patch version. Each element MUST increase numerically. For instance: 1.9.0 -> 1.10.0 -> 1.11.0.
+
+Once a versioned package has been released, the contents of that version MUST NOT be modified. Any modifications MUST be released as a new version.
+
+Major version zero (0.y.z) is for initial development. Anything MAY change at any time. The public API SHOULD NOT be considered stable.
+
+Version 1.0.0 defines the public API. The way in which the version number is incremented after this release is dependent on this public API and how it changes.
+
+Patch version Z (x.y.Z | x > 0) MUST be incremented if only backwards compatible bug fixes are introduced. A bug fix is defined as an internal change that fixes incorrect behavior.
+
+Minor version Y (x.Y.z | x > 0) MUST be incremented if new, backwards compatible functionality is introduced to the public API. It MUST be incremented if any public API functionality is marked as deprecated. It MAY be incremented if substantial new functionality or improvements are introduced within the private code. It MAY include patch level changes. Patch version MUST be reset to 0 when minor version is incremented.
+
+Major version X (X.y.z | X > 0) MUST be incremented if any backwards incompatible changes are introduced to the public API. It MAY also include minor and patch level changes. Patch and minor version MUST be reset to 0 when major version is incremented.
+
+A pre-release version MAY be denoted by appending a hyphen and a series of dot separated identifiers immediately following the patch version. Identifiers MUST comprise only ASCII alphanumerics and hyphens [0-9A-Za-z-]. Identifiers MUST NOT be empty. Numeric identifiers MUST NOT include leading zeroes. Pre-release versions have a lower precedence than the associated normal version. A pre-release version indicates that the version is unstable and might not satisfy the intended compatibility requirements as denoted by its associated normal version. Examples: 1.0.0-alpha, 1.0.0-alpha.1, 1.0.0-0.3.7, 1.0.0-x.7.z.92, 1.0.0-x-y-z.–.
+
+Build metadata MAY be denoted by appending a plus sign and a series of dot separated identifiers immediately following the patch or pre-release version. Identifiers MUST comprise only ASCII alphanumerics and hyphens [0-9A-Za-z-]. Identifiers MUST NOT be empty. Build metadata MUST be ignored when determining version precedence. Thus two versions that differ only in the build metadata, have the same precedence. Examples: 1.0.0-alpha+001, 1.0.0+20130313144700, 1.0.0-beta+exp.sha.5114f85, 1.0.0+21AF26D3—-117B344092BD.
+
+Precedence refers to how versions are compared to each other when ordered.
+
+Precedence MUST be calculated by separating the version into major, minor, patch and pre-release identifiers in that order (Build metadata does not figure into precedence).
+
+Precedence is determined by the first difference when comparing each of these identifiers from left to right as follows: Major, minor, and patch versions are always compared numerically.
+
+Example: 1.0.0 < 2.0.0 < 2.1.0 < 2.1.1.
+
+When major, minor, and patch are equal, a pre-release version has lower precedence than a normal version:
+
+Example: 1.0.0-alpha < 1.0.0.
+
+Precedence for two pre-release versions with the same major, minor, and patch version MUST be determined by comparing each dot separated identifier from left to right until a difference is found as follows:
+
+Identifiers consisting of only digits are compared numerically.
+
+Identifiers with letters or hyphens are compared lexically in ASCII sort order.
+
+Numeric identifiers always have lower precedence than non-numeric identifiers.
+
+A larger set of pre-release fields has a higher precedence than a smaller set, if all of the preceding identifiers are equal.
+
+Example: 1.0.0-alpha < 1.0.0-alpha.1 < 1.0.0-alpha.beta < 1.0.0-beta < 1.0.0-beta.2 < 1.0.0-beta.11 < 1.0.0-rc.1 < 1.0.0.
 
 ## Responsibilities
 
 1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
 2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
-
-## Procedures
-
-1. **Record Retention and Archiving.** 
-
-All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks uses these mechanisms for digital storage:
-
-  * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.
-  * Google Docs (including Google Sheets, etc) and Google Drive with unlimited Google Vault storage.
-  * GitHub, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.
-
-2. **Electronic Signatures**
-
- * Records requiring signature approval per above shall be digitally signed with text similar to &quot;Approved. /s/ Name Of Approver, YYYY-MM-DD&quot;.
- * Digital signatures must be made with accounts that are authenticated by all three means: 1) unique username/email, 2) password 3) Two-Factor Authentication via mobile device.
- * Digital signatures must only be made by the actual person associated with the authentication credentials, and only over secure connections using https, TLS or SSL.
- * Medical Data Networks tools that currently meet these requirements include: Gmail, Google Docs and GitHub.
-
-3. **Date and Time Marks**
-
-For most documents, dates shall be expressed in the form similar to YYYY-MM-DD. If time specification is necessary to remove ambiguity, it should be in a form similar to HH:MM:SS reflecting 24-hour clock time and local Time Zone. For example: 2016-08-15 18:43:00 EST.
-
-4. **Electronic Records.** 
-
-All records at Medical Data Networks are created and maintained in electronic format and maintained on the "GIT" repository under the account "github.com/ehwest/mdn_quality_system".  The github repository is used to support authentication, labelling of meta data, recording of changes, and storage of the documents for each and every release of the "Managed Data Networks LLC. Quality system. ( Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  Any records containing confidential health information and not made publicly available and are kept in internally-only folders on the github repository, and configured within github to limit access to authorized users. 
-
-5. **Lost Documents and Disaster Recovery.** 
-
-Since all records and changes to records are retained in perpetuity, records should never be lost.
-
- * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0004 Corrective and Preventive Action](https://github.com/ehwest/mdn_quality_system/blob/master/01_Standard_Operating_Procedures/SOP-0004_Corrective_And_Preventive_Action.md)
- * The Github repository that archive Medical Data Networks documents (github.com/ehwest/mdn_quality_system) is cloned whenever any document is changed to the computers of all of the officers of Medical Data Networks. This ensures full recovery of the repository from any selected clone instance. 
-
-6. **Provision of Records to Customers.** 
-
-Where contractually specified, in accordance with regulatory requirements, or at the discretion of Medical Data Networks, copies of the quality records may be released to a customer or potential customer.
-
-7. **Provision of Records to Auditors or Government Agencies.** 
-
-Where applicable, quality records will be provided for examination during normal company operating hours at the request of an authorized quality systems auditor or government agency representative.   A tool of the github repository is provided for creating a PDF export of the documents within the quality management system.   
-
-However, the authoritative documents are retained within the github repository, and all printed documents and/or abstracts are uncontrolled documents.
-
- * Internal Audit Reports, Supplier Audit Reports, and Management Review Minutes are not available for review by US FDA, according to 21 CFR 820.180(c), but may be reviewed by other regulatory agencies, as required.
- * For any audits performed by the US FDA, it is the policy of Medical Data Networks that an employee with executive responsibility will provide a written statement that the management reviews, quality audits and supplier audits were performed and documented. This statement will include the dates on which they were performed, and a statement that any required corrective action has been undertaken according to Medical Data Networks&#39;s Corrective and Preventive Action procedure.
- * A copy of an associated log or schedule (e.g., internal audit log, management review schedule, supplier audit schedule) may be provided as proof that the activities were performed.
 
