@@ -25,19 +25,19 @@ In a [meeting with FDA on 1/27/2015, -- Q141084/S002 ](https://github.com/ehwest
 * Meet "Appropriate Validations"
 * Document "Quality Controls"
 
-In the same meeting the FDA outlined the definition of _"Special Controls"_ as follows:
+In the same meeting the FDA outlined the definition of **"Special Controls"** as follows:
 
 * Devices must protect against unauthorized access to and modification of data.
 
 * Device labeling must display the following warning: 
 
-  _Dosing decisions should not be made based on this device._
+  **Dosing decisions should not be made based on this device.**
   
-  _The user should follow instructions on the continuous glucose monitoring system."_
+  **The user should follow instructions on the continuous glucose monitoring system."**
   
 * Device labeling must include the following limitation:  
 
-  _This device is not intended to replace self-monitoring practices advised by a physician."_
+  **This device is not intended to replace self-monitoring practices advised by a physician."**
 
 ## Registering with the FDA
 
