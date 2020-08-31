@@ -18,7 +18,6 @@ description: "(SD Representative Artifacts of the System Design (SD)"
 
 |repository|api|Service|
 |------------|--------------------|-------------|
-
 |t1paldashboard||
 |t1dpalsys||
 |node_multienv||
