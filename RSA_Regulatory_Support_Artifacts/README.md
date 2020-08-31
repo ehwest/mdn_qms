@@ -25,7 +25,7 @@ In a [meeting with FDA on 1/27/2015, -- Q141084/S002 ](https://github.com/ehwest
 * Meet "Appropriate Validations"
 * Document "Quality Controls"
 
-In the same meeting the FDA outlined the definition of #"Special Controls"# as follows:
+In the same meeting the FDA outlined the definition of _"Special Controls"_ as follows:
 
 * Devices must protect against unauthorized access to and modification of data.
 
@@ -43,7 +43,7 @@ In the same meeting the FDA outlined the definition of #"Special Controls"# as f
 
 Medical Data Networks LLC the organization providing the T1Pal.com "device." intends to Register with the FDA as soon as possible.
 As of this release of the Quality Management System, the high fees (for the size of company) represents a very real barrier 
-to compliance.  The fees for establishing identity are currently approximately 10 times the sum of the current annual expenses of the T1Pal service provider, and more than 3 times the sum of expected annual revenues.   Until monthly revenues approach the Establishment Identity fee, this is not possible.
+to compliance.  The fees for establishing identity are currently approximately 10 times the sum of the current annual expenses of the T1Pal service provider, and more than 3 times the sum of expected annual revenues.   Until monthly revenues approach the Establishment Identity fee, this is not possible and itself jeopardizes subscriber access to T1Pal.com
 
 ## Meeting Special Controls
 
