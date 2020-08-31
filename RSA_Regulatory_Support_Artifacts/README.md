@@ -51,6 +51,15 @@ to compliance.  The fees for establishing identity are currently approximately 1
 
 The "special controls" outlined above may all be directly linked to T1Pal.com product requirements that are also the target of verification by Medical Data Networks LLC Quality Management system.
 
+
+* Protect against unauthorized access to and modification of data.
+
+* Warning Labels: dosing warning, follow instructions, not intended to replace self-monitoring
+
+Inaddition, not specifically mentioned is an obvious requirement to provide labelling for intended use:
+
+* T1Pal Intended Use (TBD)
+
 ## Meeting Appropriate Validations
 
 A spreadsheet that is part of this Quality Management System is provided and links product requirements and validations.
