@@ -18,7 +18,7 @@ description: "(RSA) Regulatory Suppport Artifacts"
 
 This document sets forth the specific means for following the FDA de novo regulatory pathway for the T1Pal product.
 
-In a [meeting with FDA on 1/27/2015,](https://github.com/ehwest/mdn_qms/blob/master/RSA_Regulatory_Support_Artifacts/minutes-pdfjam.pdf) the FDA set forth the de novo regulatory pathway for Nightscout to accomplish the following.
+In a [meeting with FDA on 1/27/2015, -- Q141084/S002 ](https://github.com/ehwest/mdn_qms/blob/master/RSA_Regulatory_Support_Artifacts/minutes-pdfjam.pdf) the FDA set forth the de novo regulatory pathway for Nightscout to accomplish the following.
 
 * Register with the FDA
 * Meet "Special Controls"
