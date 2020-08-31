@@ -41,6 +41,8 @@ In the same meeting the FDA outlined the definition of **"Special Controls"** as
 
 ## Registering with the FDA
 
+**Note:  This section will be updated once Medical Data Networks LLC raises the cash to pay FDA Registration Fees**
+
 Medical Data Networks LLC the organization providing the T1Pal.com "device." intends to Register with the FDA as soon as possible.
 As of this release of the Quality Management System, the high fees (for the size of company) represents a very real barrier 
 to compliance.  The fees for establishing identity are currently approximately 10 times the sum of the current annual expenses of the T1Pal service provider, and more than 3 times the sum of expected annual revenues.   Until monthly revenues approach the [2020 Establishment Identity fee of $5286](https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing), this is not possible and itself jeopardizes subscriber access to T1Pal.com
