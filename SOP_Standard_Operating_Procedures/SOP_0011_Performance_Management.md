@@ -15,14 +15,9 @@ description: "Performance Management"
 ---
 
 
-## Purpose
-
-This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
-
-
 For all software services provided via API, "health check" probes shall be provided to measure the response time of the API under load.  The response time should include measures of internal "real-world" function of the API, preferably using test credentials that fully test database connectivity, database functions, and health checks of subtending API services.
 
-Time series logs of healthcheck calls shall be logged for the most recent 30 days.  Tools to use the logs to display charts and graphs shall be provided with the deployment of new API versions.
+Time series logs of health check calls shall be logged for the most recent 30 days.  Tools to use the logs to display charts and graphs shall be provided with the deployment of new API versions.
 
 
 ## References
