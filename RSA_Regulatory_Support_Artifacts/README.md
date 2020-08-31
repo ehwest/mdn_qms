@@ -58,7 +58,7 @@ The "special controls" outlined above may all be directly linked to T1Pal.com pr
 
 Inaddition, not specifically mentioned is an obvious requirement to provide labelling for intended use:
 
-* T1Pal Intended Use (TBD)
+* A definitieve statement of the [T1Pal Intended Use]( https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md)  is provided within this Quality Managemnet System.
 
 ## Meeting Appropriate Validations
 
