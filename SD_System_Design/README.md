@@ -1,6 +1,6 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "SD"
+folder: "SD_System_Design"
 title: "README.md"
 document_id: ""
 authors:
@@ -12,6 +12,27 @@ approval_date: "2020-08-24"
 effective_date: "2020-08-24"
 description: "(SD Representative Artifacts of the System Design (SD)"
 ---
+
+# System Design
+
+
+|repository|api|Service|
+|------------|--------------------|-------------|
+
+|t1paldashboard||
+|t1dpalsys||
+|node_multienv||
+|tenantview||
+|echoenv||
+|provisioner||
+|loopdocs||
+|dossia.org-examples||
+|t1dpal-backplane||
+|nightscoutdotnet-landing||
+|vouch-proxy||
+|cgm-remote-monitor-1||
+
+
 
 
 ## Purpose
