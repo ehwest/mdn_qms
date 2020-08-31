@@ -1,8 +1,8 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "CM"
-title: "CM_0001_Quality_Manual.md"
-document_id: "CM_0001"
+title: "CM_0002_DEV_OPS_Software_Process.md"
+document_id: "CM_0002"
 authors:
 - github.com/ehwest
 approvers:
@@ -10,13 +10,13 @@ approvers:
 revision: "05"
 approval_date: "2020-08-24"
 effective_date: "2020-08-24"
-description: "Quality Manual"
+description: "CM 0002 DEVOPS Software Process"
 ---
 
 
 ## Purpose
 
-This document identifies the content of the Quality Manual of Medical Data Networks LLC.
+This document identifies the DEVOPS process followed by Medical Data Networks LLC.  All associates and employees of Medical Data Networks LLC are expected to align their work proceses to support this generic process.
 
 
 ## References
