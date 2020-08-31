@@ -16,7 +16,7 @@ description: "CM 0001 Quality Manual"
 
 ## Purpose
 
-The "Quality Manual" used by all associates and/or employees is the current baselined "master" branch of the
+The "Quality Manual" used by all Medical Data Networks LLC associates and/or employees is the current baselined "master" branch of the
 [Quality Management System](https://github.com/ehwest/mdn_qms) documented by the mdn_qms "git" repository.   Changes to the Quality Management system
 are therefore immediately applicable to all work following the QMS.
 
