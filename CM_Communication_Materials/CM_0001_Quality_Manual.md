@@ -20,6 +20,8 @@ The "Quality Manual" used by all associates and/or employees is the current base
 [Quality Management System](https://github.com/ehwest/mdn_qms) documented by the mdn_qms "git" repository.   Changes to the Quality Management system
 are therefore immediately applicable to all work following the QMS.
 
+This QMS is intended to track alignment with Quality Management System requirements documented in the references listed below.
+
 
 ## References
 
