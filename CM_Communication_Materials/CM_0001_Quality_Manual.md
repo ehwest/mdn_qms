@@ -10,14 +10,14 @@ approvers:
 revision: "05"
 approval_date: "2020-08-24"
 effective_date: "2020-08-24"
-description: "Quality Manual"
+description: "CM 0001 Quality Manual"
 ---
 
 
 ## Purpose
 
-The Quality Manual used by all associates, including employees is the current baselined "master" branch of the
-Quality Management System documented by the mdn_qms "git" repository.   Changes to the Quality Management system
+The "Quality Manual" used by all associates and/or employees is the current baselined "master" branch of the
+[Quality Management System](https://github.com/ehwest/mdn_qms) documented by the mdn_qms "git" repository.   Changes to the Quality Management system
 are therefore immediately applicable to all work following the QMS.
 
 
