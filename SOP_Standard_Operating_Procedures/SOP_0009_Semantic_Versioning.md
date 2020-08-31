@@ -17,16 +17,14 @@ description: "SOP 0009 Semantic Versioning"
 
 ## Purpose
 
-["Semantic Versioning"](https://semver.org/) is the process of asigning version numbers to software products that expose Application Programming Interfaces (APIs). 
-"Semantic Versioning" or "SemVer" contain a set of rules and requirements that dictate how version numbers are assigned and incremented. 
+["Semantic Versioning 2.0.0"](https://github.com/semver/semver/blob/master/semver.md) is the well-defined process of assigning version numbers to software products that expose Application Programming Interfaces (APIs). 
+It is a set of rules and requirements that dictate how version numbers are assigned and incremented. 
 
-The full specification is readable here: [semver.md](https://github.com/semver/semver/blob/master/README.md)
-
-Semantic Versioning is a time and cost saving approach to support release and upgrade packages without having to roll new versions of dependent packages. 
+It is a consistent approach that saves time and cost otherwise needed to support release and upgrade packages without having to roll new versions of dependent packages. 
 
 Prefixing a semantic version with a “v” is a common way (in English) to indicate it is a version number. Abbreviating “version” as “v” is often seen with version control.  Example: git tag v1.2.3 -m "Release version 1.2.3", in which case “v1.2.3” is a tag name and the semantic version is “1.2.3”.
 
-It is also dependent on accurate and complete API definitions.
+Semantic Versioning is also dependent on accurate and complete API definitions. 
 
 It is hereby adopted as a standard means of conveying robust dependency information for all T1Pal services.
 For reference purposes the github repository defining [Semantic Versioning](https://github.com/semver/semver)  is available.
