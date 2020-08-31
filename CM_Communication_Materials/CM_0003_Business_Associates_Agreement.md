@@ -1,8 +1,8 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "CM"
-title: "CM_0001_Quality_Manual.md"
-document_id: "CM_0001"
+title: "CM_0003_Buisness_Asspcoate_Agreement"
+document_id: "CM_0003"
 authors:
 - github.com/ehwest
 approvers:
@@ -10,23 +10,27 @@ approvers:
 revision: "05"
 approval_date: "2020-08-24"
 effective_date: "2020-08-24"
-description: "Quality Manual"
+description: "Annual Notification to Employees"
 ---
 
 
-## Purpose
+Hello Medical Data Networks Team!
 
-This document identifies the content of the Quality Manual of Medical Data Networks LLC.
+As you are likely aware, Medical Data Networks has established a Quality Management System (QMS) that includes processes, procedures and documentation that conform with U.S. and international regulatory requirements.
+
+One of the requirements is that the organization receives communication regarding our QMS, including information about the importance of meeting customer and applicable regulatory requirements. This email does just that and will be sent annually.
+
+If you have not done so already, please read these documents, available in Medical Data Networks Quality Management System:
+Medical Data Networks Quality Objectives, available in DOC-0003 Medical Data Networks Quality Manual
+TRN-0002 Employee Security Practices
+DOC-0001 Medical Data Networks Design and Development Process
+
+If you understand the above documents, then please reply to support@t1pal.com and say "I have reviewed and understand Tidepool's Quality Management System. I understand the importance of meeting customer as well as applicable regulatory requirements."
+
+If you do not understand anything about our QMS, please send email to support@t1pal.com with your question(s). Also feel free to escalate issues to Medical Data Networks Board of Directors or with the appropriate regulatory authority.
+
+Thank you for your commitment to Medical Data Networks quality objectives and to fulfilling Medical Data Networks mission! And for being an awesome person.
 
 
-## References
-
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-4. ISO 13485:2016 Clause 4.2.5
-
-## Responsibilities
-
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
+Ben West
+CEO, Medical Data Networks LLC
