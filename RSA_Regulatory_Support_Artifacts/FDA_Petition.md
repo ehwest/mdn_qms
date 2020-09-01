@@ -25,11 +25,11 @@ ATTN:  Dr. Stayce Bek
 Silver Spring, MD 20993-0002
 
 
---Class II 510(k) exemption petition--
+__Class II 510(k) exemption petition__
 
 This letter is our petition for an exemption for a 
 new "software as a Medical Device (SaMD)", a web site,
-branded --"T1Pal.com"--) 
+branded __"T1Pal.com"__) 
 that we assert aligns with FDA classification of a Class II device requiring no PMN.
 
 As provided by FDAMA, FDA exempted through a FEDERAL REGISTER (FR) notice, 62 class II 
@@ -39,8 +39,6 @@ Within the document for "Procedures for Class II Device Exemption from
 Premarket Notification, Guidance for Industry and CDRH staff", the
 FDA, upon its own initiative or upon a petition of an interested person, 
 may exempt a class II device from premarket notification requirements under section510(m)(2).  
-
-
 
 FDA Website:  [FDA Definition of Software as a Medical Device](https://www.fda.gov/medical-devices/digital-health/software-medical-device-samd).
 
