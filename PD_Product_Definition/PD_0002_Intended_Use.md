@@ -17,64 +17,40 @@ description: "T1Pal Intended Use"
 
 This document provides the list of Intended Use cases for T1Pal.
 
-
 The following terms are defined within the context of these Intended Use cases.
 
-|Term|Definition|
-|----------------|---------------------------------|
-|User|Subscriber to the T1Pal service platform.|
-|Patient|Subscriber to the T1Pal service platform.|
-|Follower|Person who is allowed access to T1Pal user's data.|
-|Primary Display|Dispay generated directly by a medical device.|
-|Secondary Display|Dispay generated from a copy of data provided to a Primary Display|
-|Location|An immutable electronic address that is a destination for data display|.
+### REQ_1010 -- Secondary Display
+It is an intended use for T1Pal to receive data from one or more medical devices and provide a secondary 
+display of the data.
 
-### REQ_1000 -- Secondary Display
-T1Pal receives data from one or more "other" medical devices and provides a secondary 
-display for each of those "other" devices, using the same data shown in the respective primary display.
+### REQ_1020 -- Remote Access
 
-These "other" devices are intended to include devices supporting insulin intensive therapy, including insulin pumps, continuous glucose monitors, connected insulin pens, and glucose meters.  
-
-All data and/or notifications of certain device faults, errors, power outages, or other events 
-consistent with missing or bad data delivered by medical devices 
-are intended to be included in data displayed in a secondary display.
-
-While "other" devices have primary displays, and in some cases, primary control functions,
-access to control functions is not an intended or enabled use of T1Pal. 
-
-### REQ_1010 -- Remote Access
-
-T1Pal provides a secure way for secondary display data to be shared with remotely-located people they trust. 
-Such data will only flow to locations authorized by T1Pal users, and may be revoked by the same user.  
-
-It is an intended use for T1Pal users to share their secondary display data with 
-one or more remotely-located "followers".
-
-### REQ_1020 -- Documentation Support
-
-It is an intended use of T1Pal to provide documentation/evidence supporting medical
-device warranty claims, and automated ordering of consumable supplies consistent with the secondary data made available by T1Pal displays.
+It is an intended use that authorized "followers" will have access to a secondary display of the same data.
 
 ### REQ_1030 -- Technical Support
-It is an intended use of T1Pal to provide "Technical Support" to both T1Pal users and 
-followers as may be needed to hasten the resolution of mechanical assembly, power supply, settings, configuration, and/or tests of 
-proper operations related to those medical devices configured to provide secondary display capabilities to T1Pal.
 
-Such Technical Support activities shall be provided to T1Pal subscribers using the T1Pal 
-trouble ticketing system to access Technical Support "helpers" having specifically authorized access to
-secondary data displays.
+It is intended that the display of secondary data will be used to provide "Technical Support."  "Technical Support" in this
+case is limited to providing documentation that may support 
+* device warranty claims, 
+* guidance on replacement of devices or consumables, and 
+*acts
+to remedy impairments to requisite data communications.
 
-Technical Support provided by enrolled T1Pal helpers shall be limited to 
-mechanical assembly, power supply, settings, configurations, and/or tests of proper operation. 
+## Additional System Requirements
 
-No medical guidance, interpretation, or therapy shall be provided by such helpers. 
+In addition to delivering the capabilities for intended use above, the following additional system requirements are targets of validation for each release.
 
-In the event subscribers or followers request medical guidance, interpretation, or therapy, referrals to 
-qualified medical practitioners will be provided. 
+### REQ_2010 -- Data Privacy and Modification Protections
 
+The T1Pal is intended to be HIPPA compliant with respect to privacy and access to data.
 
-### REQ_1040
-T1Pal is intended to enforce compliance to HIPAA privacy requirements.
+### REQ_2020 -- Protection against modification of data.
+
+The T1Pal is intended to protect against modification of data provided for secondary display.
+
+### REQ_2030 -- T1Pal Labelling
+
+The T1Pal software shall provide clear and unambiguous labelling that describes both intended use, and warnings against all other uses.
 
 
 # Responsibilities
