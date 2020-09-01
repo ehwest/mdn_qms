@@ -27,6 +27,11 @@ Silver Spring, MD 20993-0002
 
 --Class II 510(k) exemption petition--
 
+This letter is our petition for an exemption for a 
+new "software as a Medical Device (SaMD)", a web site,
+branded --"T1Pal.com"--) 
+that we assert aligns with FDA classification of a Class II device requiring no PMN.
+
 As provided by FDAMA, FDA exempted through a FEDERAL REGISTER (FR) notice, 62 class II 
 device types from premarket notification (section 510(k)) requirements on January 21, 1998 (63 FR 3142). 
 
@@ -36,8 +41,6 @@ FDA, upon its own initiative or upon a petition of an interested person,
 may exempt a class II device from premarket notification requirements under section510(m)(2).  
 
 
-This letter is our petition for such exemption for a new "software as a Medical Device" (T1Pal.com) 
-that we assert aligns with FDA classification of a Class II device requiring no PMN.
 
 FDA Website:  [FDA Definition of Software as a Medical Device](https://www.fda.gov/medical-devices/digital-health/software-medical-device-samd).
 
