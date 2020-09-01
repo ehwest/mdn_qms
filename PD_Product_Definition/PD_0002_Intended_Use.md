@@ -17,7 +17,11 @@ description: "T1Pal Intended Use"
 
 This document provides the list of Intended Use cases for T1Pal.
 
-The following terms are defined within the context of these Intended Use cases.
+These Intended Use cases together with additional requirements listed below,
+convey the T1Pal system requirements that will be the target of validation for each and every release. 
+
+Altogether, the three Intended Use cases, and the Additional System Requirements below, together with the present Quality Management system, T1Pal should meet FDA all of the rules for clearance -- using the de novo pathway, and the T1Pal realization of "Special Controls" enumerated in 2005.
+
 
 ### REQ_1010 -- Secondary Display
 It is an intended use for T1Pal to receive data from one or more medical devices and provide a secondary 
