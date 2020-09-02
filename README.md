@@ -35,7 +35,7 @@ One or more other files are also provided within each such QMS folder, and altog
 
 # Change Control
 
-Note that the each and every one of the above folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  The integrity and traceability of all changes to the Quality Management system is maintained in a "git" repository having its document root located here:  https://github.com/ehwest/mdn_qms
+Note that the each and every one of the above folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  The integrity and traceability of all changes to the Quality Management system is maintained in a "git" repository having its document root located here:  https://github.com/ehwest/mdn_qms. It should be noted that the "master" branch of this repository is the current operational repository of the QMS.  Other branches may be used to draft and test changes to the QMS, but are not further described within the QMS.
 
 As such, all documents and artifacts that are part of the Quality Management System are subject to change-control procedures such that each and every change to the Quality Management System documentation is tracked by explicit versioning enforced by the git repository system.
 
