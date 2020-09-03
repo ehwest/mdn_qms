@@ -104,7 +104,7 @@ One or more files are also provided within each  QMS folder, and altogether thes
   + [Reference Materials (RM)](https://github.com/ehwest/mdn_qms/tree/master/RM_Reference_Material)
     + [README.md](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/README.md)
     + [RM_0001_Government_Identity_Information.md](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/RM_0001_Government_Identity_Information)
-    + [RM_0002_Security_Audit_Template.md]( https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/RM_0002_Security_Audit_Template.md
+    + [RM_0002_Security_Audit_Template.md]( https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/RM_0002_Security_Audit_Template.md)
     + [RM_0003_Security_Privacy_Regulatory_Information.md](https://github.com/ehwest/mdn_qms/blob/master/RM_Reference_Materials/RM_0003.Security_Privacy_Regulatory_Information.md)
     + minutes-pdfjam.pdf
 
