@@ -196,5 +196,6 @@ and
 
 __Notes on "As Far As Possible"__
 
-The term regarding reducing risk "As Far As Possible" is hereby understood to be a holistic definition that balances unit cost, business goals, and the incremental benefits and impact for improving risk.
+The term and understanding of the phrase for reducing risk "As Far As Possible" is hereby understood to be a holistic definition that balances unit cost, business goals, the incremental benefits and impact for improving risk.  What is "possible" is defined in the context of a specific and contemporary
+"willingess to pay" for the realization of the "possible."   If there is no one willing to pay for the possible then, by definition, it is not possible.
 
