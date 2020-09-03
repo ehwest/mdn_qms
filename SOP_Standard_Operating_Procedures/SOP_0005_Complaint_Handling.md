@@ -45,8 +45,8 @@ The MDR system is an Information Technology reporting system that requires manuf
 
 A report will be submitted to the Food & Drug Administration (FDA) whenever a manufacturer, distributor or an importer becomes aware of information that its device:
 
-  1. may have caused or contributed to a __death or serious injury__, or 
-  2. has malfunctioned and, if the malfunction recurs, is likely to cause or contribute to a __death or a serious injury__.
+  * may have caused or contributed to a __death or serious injury__, or 
+  * has malfunctioned and, if the malfunction recurs, is likely to cause or contribute to a __death or a serious injury__.
 
 ### Reportable Event Definition 
 
