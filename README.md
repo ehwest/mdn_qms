@@ -57,19 +57,19 @@ One or more files are also provided within each  QMS folder, and altogether thes
   + [Standard Operating Procedures (SOP)](https://github.com/ehwest/mdn_qms/tree/master/SOP_Standard_Operating_Procedures)
     + [README.md](https://github.com/ehwest/mdn_qms/blob/master/README.md)
     + [SOP_0001_Control_of_Quality_Records.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0001_Control_of_Quality_Records.md)
-    + [SOP_0002_Employee_Qualification_and_Training.md](mdn_qms/SOP_Standard_Operating_Procedures/SOP_0002_Employee_Qualification_and_Training.md )
-    + SOP_0003_Corrective_and_Preventative_action.md
-    + SOP_0004_Risk_and_Hazard_Management.md
-    + SOP_0005_Complaint_Handling.md
-    + SOP_0006_Medical_Device_Reporting.md
-    + SOP_0007_Access_Controls_to_Software.md
-    + SOP_0008_Gitflow_Tailoring.md
-    + SOP_0009_Semantic_Versioning.md
-    + SOP_0010_Configuration_Management.md
-    + SOP_0011_Performance_Management.md
-    + SOP_0012_Billing_Management.md
-    + SOP_0013_Release_And_Operations_Docker-based.md
-    + SOP_0014_Release_And_Operations_k8s-based.md
+    + [SOP_0002_Employee_Qualification_and_Training.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0002_Employee_Qualification_and_Training.md)
+    + [SOP_0003_Corrective_and_Preventative_action.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md)
+    + [SOP_0004_Risk_and_Hazard_Management.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0004_Risk_and_Hazard_Management.md)
+    + [SOP_0005_Complaint_Handling.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0005_Complaint_Handling.md)
+    + [SOP_0006_Medical_Device_Reporting.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0006_Medical_Device_Reporting.md)
+    + [SOP_0007_Access_Controls_to_Software.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0007_Access_Controls_to_Software.md)
+    + [SOP_0008_Gitflow_Tailoring.md]( https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0008_Gitflow_Tailoring.md
+    + [SOP_0009_Semantic_Versioning.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0009_Semantic_Versioning.md)
+    + [SOP_0010_Configuration_Management.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0010_Configuration_Management.md)
+    + [SOP_0011_Performance_Management.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0011_Performance_Management.md)
+    + [SOP_0012_Billing_Management.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0012_Billing_Management.md)
+    + [SOP_0013_Release_And_Operations_Docker-based.md]( https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0013_Release_And_Operations_docker-based.md
+    + [SOP_0014_Release_And_Operations_k8s-based.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0014_Relase_and_Operations_k8s-based.md)
 
   + [Communication Materials (CM)](https://github.com/ehwest/mdn_qms/tree/master/CM_Communication_Materials)
     + README.md
