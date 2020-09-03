@@ -63,8 +63,8 @@ One or more files are also provided within each  QMS folder, and altogether thes
   + [Regulatory Support Artifacts (RSA)](https://github.com/ehwest/mdn_qms/tree/master/RSA_Regulatory_Support_Artifacts)
 
   + Standard Operating procedures (SOP)
-   + README.md
-   + OP_0001_Control_of_Quality_Recprds.md
+   ++ README.md
+   ++ OP_0001_Control_of_Quality_Recprds.md
    + SOP_0002_Employee_Qualification_and_Training.md
    + SOP_0003_Corrective_and_Preventative_action.md
    + SOP_0004_Risk_and_Hazard_Management.md
