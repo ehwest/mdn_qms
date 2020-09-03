@@ -117,12 +117,16 @@ One or more files are also provided within each  QMS folder, and altogether thes
 
 # Change Control
 
-Note that the each and every one of the above folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  The integrity and traceability of all changes to the Quality Management system is maintained in a "git" repository having its document root located here:  https://github.com/ehwest/mdn_qms. It should be noted that the "master" branch of this repository is the current operational repository of the QMS.  Other branches may be used to draft and test changes to the QMS, but are not further described within the QMS.
+Note that the each and every one of the above folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  
+
+The integrity and traceability of all changes to the Quality Management system is maintained in a "git" repository having its document root located here:  https://github.com/ehwest/mdn_qms. It should be noted that the "master" branch of this repository is the current operational repository of the QMS.  Other branches may be used to draft and test changes to the QMS, but are not further described within the QMS.
 
 As such, all documents and artifacts that are part of the Quality Management System are subject to change-control procedures such that each and every change to the Quality Management System documentation is tracked by explicit versioning enforced by the git repository system.
 
 # License
-All documents that are part of the Medical Data Networks LLC repository are either licensed to Medical Data Networks LLC and/or are the private property of Medical Data Networks LLC. All documents created or owned by Medical Data Network's employees are considered proprietary trade secrets and are not for disclosure outside of Medical Data Networks LLC, without specific written permission of an officer of Medical Data Networks LLC.
+All documents that are part of the Medical Data Networks LLC repository are either licensed to Medical Data Networks LLC and/or are the private property of Medical Data Networks LLC. 
+
+All documents created or owned by Medical Data Network's employees are considered proprietary trade secrets and are not for disclosure outside of Medical Data Networks LLC, without specific written permission of an officer of Medical Data Networks LLC.
 
 
 ## Responsibilities
