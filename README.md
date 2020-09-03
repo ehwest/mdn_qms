@@ -55,9 +55,9 @@ This conveniently enables all consumers of the Quality Management System data pr
 One or more files are also provided within each  QMS folder, and altogether these folders and files capture the authoritative description of the QMS.  Note that within each of the folders listed below, a special README.md file is included.  The README.md file in each folder is intended to provide an overview of all of the files within the QMS folder.
 
   + [Standard Operating Procedures (SOP)](https://github.com/ehwest/mdn_qms/tree/master/SOP_Standard_Operating_Procedures)
-    + README.md
+    + [README.md](https://github.com/ehwest/mdn_qms/blob/master/README.md)
     + [SOP_0001_Control_of_Quality_Records.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0001_Control_of_Quality_Records.md)
-    + SOP_0002_Employee_Qualification_and_Training.md
+    + [SOP_0002_Employee_Qualification_and_Training.md](mdn_qms/SOP_Standard_Operating_Procedures/SOP_0002_Employee_Qualification_and_Training.md )
     + SOP_0003_Corrective_and_Preventative_action.md
     + SOP_0004_Risk_and_Hazard_Management.md
     + SOP_0005_Complaint_Handling.md
