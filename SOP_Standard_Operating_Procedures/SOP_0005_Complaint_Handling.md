@@ -58,6 +58,16 @@ The definition of a "Reportable Event" is:
 
 * In this SOP_0006_Medical_Device_Reporting.md,  a “reportable event” means any complaint that has been determined to be a reportable event under applicable regulation.  This is referred to as an “MDR, Medical Device Report” in the US FDA reporting requirements, and as an “incident” or a “reportable event” in the EU, Australian, and Canadian reporting requirements.
 
+* Notwithstanding the above elements of the definition of a Reportable Event, [FDA Product Classification for
+a CGM Secondary Display](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668) includes this wording:
+
+__Continuous glucose monitor secondary display__
+
+Definition:  	The purpose of the continuous glucose monitor secondary display is to notify another person, the follower, of the patient's continuous glucose monitoring system sensor glucose information in real time. 
+
+The secondary display is intended for providing secondary notification of a continuous glucose monitoring system and does not replace primary real time continuous glucose monitoring or standard home blood glucose monitoring
+
+
 ### Serious Injury Definition
 
 An injury that:
