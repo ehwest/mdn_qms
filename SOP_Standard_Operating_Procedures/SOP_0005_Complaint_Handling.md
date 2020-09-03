@@ -45,14 +45,14 @@ The MDR system is an Information Technology reporting system that requires manuf
 
 A report will be submitted to the Food & Drug Administration (FDA) whenever a manufacturer, distributor or an importer becomes aware of information that its device:
 
-  1 may have caused or contributed to a __death or serious injury__, or 
-  2 has malfunctioned and, if the malfunction recurs, is likely to cause or contribute to a __death or a serious injury__.
+  1. may have caused or contributed to a __death or serious injury__, or 
+  2. has malfunctioned and, if the malfunction recurs, is likely to cause or contribute to a __death or a serious injury__.
 
 ### Reportable Event Definition 
 
 The definition of a "Reportable Event" is:
 
-* Any __complaint__ that involves serious injury, permanent impairment, or permanent injury to patient, user, or other person, related to the use of a Medical Data Networks LLC device.  
+* Any __complaint__ that __involves__ serious injury, permanent impairment, or permanent injury to patient, user, or other person, __related to the use__ of a Medical Data Networks LLC device.  
 
 * The event may be caused by device malfunction, deterioration in characteristics and/or performance, or inadequacy in labeling or instructions for use. 
 
@@ -62,17 +62,15 @@ The definition of a "Reportable Event" is:
 
 An injury that:
 
-  1. Is life threatening, 
+   * Is life threatening, 
   
-  2. Results in permanent impairment of a body function or permanent damage to body structure, or 
+   * Results in permanent impairment of a body function or permanent damage to body structure, or 
   
-  3. Necessitates medical or surgical intervention by a healthcare professional to:
+   * Necessitates medical or surgical intervention by a healthcare professional to:
   
-    i.  preclude permanent impairment of a body function or permanent damage to body structure or 
+     * preclude permanent impairment of a body function or permanent damage to body structure or 
     
-    ii. relieve unanticipated temporary impairment of a body function or unanticipated temporary damage to body structure. 
-    
-    Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device.
+     *relieve unanticipated temporary impairment of a body function or unanticipated temporary damage to body structure. Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device.
 
 ### User Communication: 
 
