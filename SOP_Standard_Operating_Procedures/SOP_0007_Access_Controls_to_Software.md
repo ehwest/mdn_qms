@@ -21,13 +21,6 @@ This document and supporting references establish a standard operating procedure
 
 This applies to all medical and research software devices designed and developed by Medical Data Networks LLC.
 
-## 3.  References
-
-1. U.S. Food and Drug Administration, 21 CFR Part 820: Quality System Regulation.
-2. General Principles of Software Validation; Final Guidance for Industry and FDA Staff
-3. AAMI TIR45:2012 Technical Information Report Guidance on the use of AGILE practices in the development of medical device softwareOverview
-
-
 ## 4. Tools
 
 The following tools are currently in use by Medical Data Networks:
@@ -274,3 +267,10 @@ _3. **Identification**. All documents in Jira, Pixelapse, GitHub and Google Docs
 **(h) Design changes**. Each manufacturer shall establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation.
 
 **(i) Design history file**. Each manufacturer shall establish and maintain a DHF for each type of device. The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of this part.
+
+
+## 3.  References
+
+1. U.S. Food and Drug Administration, 21 CFR Part 820: Quality System Regulation.
+2. General Principles of Software Validation; Final Guidance for Industry and FDA Staff
+3. AAMI TIR45:2012 Technical Information Report Guidance on the use of AGILE practices in the development of medical device softwareOverview
