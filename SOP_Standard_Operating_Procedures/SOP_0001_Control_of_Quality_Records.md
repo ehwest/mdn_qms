@@ -25,14 +25,19 @@ This document establishes a standard method for completing, identifying, collect
 All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks LLC uses these mechanisms for digital storage:
 
   * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.  Google Gmail Service is provided for every Medical Data Networks LLC associate under the <user>@medicaldatanetworks.com user name.  All company business for all matters shall use that service for all email communications.
+ 
   * Google Docs (including Google Sheets, etc) and Google Drive with unlimited Google Vault storage.  Google Docs is for use in communicating informal work in progress and/or draft documents.  It is not to be used for official baselined document management.
+  
   * GitHub, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.  GitHub repositories --under control of Medical Data Networks LLC VPs and officers-- is the official repository for all software, instructions, and/or Quality Management System [mdn-qms](https://github.com/ehwest/mdn_qms) documents.
 
 ## Electronic Signatures
 
  * Records requiring signature approval per above shall be digitally signed with text similar to &quot;Approved. /s/ Name Of Approver, YYYY-MM-DD&quot;.
+ 
  * Digital signatures must be made with accounts that are authenticated by all three means: 1) unique username/email, 2) password 3) Two-Factor Authentication via mobile device.
+ 
  * Digital signatures must only be made by the actual person associated with the authentication credentials, and only over secure connections using https, TLS or SSL.
+ 
  * Medical Data Networks tools that currently meet these requirements include: Gmail, Google Docs and GitHub.
 
 ## Date and Time Marks
@@ -54,6 +59,7 @@ Any records containing confidential health information and not made publicly ava
 Since all records and changes to records are retained in perpetuity, records should never be lost.
 
  * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0003 Corrective and Preventive Action](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md)
+ 
  * The Github repository that archives [Medical Data Networks documents](https://github.com/ehwest/mdn_qms) is cloned whenever any document is changed to the computers of all of the officers of Medical Data Networks. This ensures full recovery of the repository from any selected clone instance. 
 
 ## Provision of Records to Customers
@@ -67,7 +73,9 @@ Where applicable, quality records will be provided for examination during normal
 However, the authoritative documents are retained within the github repository, and all printed documents and/or abstracts are uncontrolled documents.
 
  * Internal Audit Reports, Supplier Audit Reports, and Management Review Minutes are not available for review by US FDA, according to 21 CFR 820.180(c), but may be reviewed by other regulatory agencies, as required.
+ 
  * For any audits performed by the US FDA, it is the policy of Medical Data Networks that an employee with executive responsibility will provide a written statement that the management reviews, quality audits and supplier audits were performed and documented. This statement will include the dates on which they were performed, and a statement that any required corrective action has been undertaken according to Medical Data Networks&#39;s Corrective and Preventive Action procedure.
+ 
  * A copy of an associated log or schedule (e.g., internal audit log, management review schedule, supplier audit schedule) may be provided as proof that the activities were performed.
  
  ## Responsibilities
