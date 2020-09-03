@@ -25,6 +25,8 @@ This procedure applies to all products developed by Managed Data Networks.
 # References
 
 This Quality Management System is designed to meet or exceed the applicable ISO standards for Quality Management Systems, and Risk Management standards found in the following references.
+The plans and practices outlined in these references are believed to be entirely contained in the specific definitions, Plans, and Risk Assessment Activities described below the reference section.
+If and/or when there is some difference in the references compared to to the QMS details following the references, the QMS documentation is authoritative and is used.
 ............................................................
   1. [ISO 14971:2007](https://www.iso.org/standard/38193.html) ISO Medical Devices -- Application of risk management to medical devices later revised by [ISO 14971:2019](https://www.iso.org/standard/38193.html)
   2. [ISO 13485:2016](https://www.iso.org/standard/59752.html) ISO Medical Devices -- Quality Management Systems -- Requirements for regulatory purposes.
@@ -191,4 +193,8 @@ On an iterative, ongoing basis, complaints, bug reports and other user feedback 
 [mdn_qms/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md)
 and
 [mdn_qms/SOP_Standard_Operating_Procedures/SOP_0005_Complaint_Handling.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0005_Complaint_Handling.md)
+
+__Notes on "As Far As Possible"__
+
+The term regarding reducing risk "As Far As Possible" is hereby understood to be a holistic definition that balances unit cost, business goals, and the incremental benefits and impact for improving risk.
 
