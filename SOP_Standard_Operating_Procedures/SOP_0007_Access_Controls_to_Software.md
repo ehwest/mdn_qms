@@ -213,41 +213,41 @@ __2. **Date and Responsibility**. The date of running the verification test as w
 
 ## Design Transfer
 
-_1. **Reference 21 CFR 820.30 (h) Design transfer**. Each manufacturer shall establish and maintain procedures to ensure that the device design is correctly translated into production specifications.
+1. **Reference 21 CFR 820.30 (h) Design transfer**. Each manufacturer shall establish and maintain procedures to ensure that the device design is correctly translated into production specifications.
 
-_2. **Transfer of development code to production**. A software developer is assigned during the Sprint Planning meeting and identified on the Jira issue for implementation of the task. It is the responsibility of the software developer to implement the software per requirements detailed on the Jira issue or via UI design in Google Drive. If there are ambiguous requirements or designs, the ambiguity may be resolved through conversation. For substantial ambiguity, resolution will be documented in the Jira card. For minor changes or ambiguity, the resolution may be documented in the software code itself.
+2. **Transfer of development code to production**. A software developer is assigned during the Sprint Planning meeting and identified on the Jira issue for implementation of the task. It is the responsibility of the software developer to implement the software per requirements detailed on the Jira issue or via UI design in Google Drive. If there are ambiguous requirements or designs, the ambiguity may be resolved through conversation. For substantial ambiguity, resolution will be documented in the Jira card. For minor changes or ambiguity, the resolution may be documented in the software code itself.
 
-_3 **Responsibility and Approval**. It is the responsibility of the VP of Product and/or CEO to assure that all requirements have been met, that designs have been correctly translated into Production, and that all appropriate verification and validation activities have been performed. VP of Product or CEO approval is required for deployment to Production of all substantial, customer-facing functionality.
+3 **Responsibility and Approval**. It is the responsibility of the VP of Product and/or CEO to assure that all requirements have been met, that designs have been correctly translated into Production, and that all appropriate verification and validation activities have been performed. VP of Product or CEO approval is required for deployment to Production of all substantial, customer-facing functionality.
 
-_4**Documentation**. All development transfer activities are documented in Jira. For deployments to Production servers, a new Jira list will be created that contains the name, date and version number of software being deployed.
+4 **Documentation**. All development transfer activities are documented in Jira. For deployments to Production servers, a new Jira list will be created that contains the name, date and version number of software being deployed.
 
 
 ## Design Changes
 
-_1. **Reference 21 CFR 820.30 (i) Design changes**. Each manufacturer shall establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation.
+1. **Reference 21 CFR 820.30 (i) Design changes**. Each manufacturer shall establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation.
 
-_2. **Iteration of Design Changes.** Medical Data Networks uses an agile development model. Design changes may occur in any sprint. In addition to documenting design as described above in Section 7, Design and Development Activities, ongoing changes to design will be documented as described below.
+2. **Iteration of Design Changes.** Medical Data Networks uses an agile development model. Design changes may occur in any sprint. In addition to documenting design as described above in Section 7, Design and Development Activities, ongoing changes to design will be documented as described below.
 
-_3. **Identification**. All documents in Jira, Pixelapse, GitHub and Google Docs are uniquely identified by a unique Uniform Resource Identifier (URI) that is assigned by the respective service. Documents may additionally have a human-readable document title and document ID. For example, this document is:
+3. **Identification**. All documents in Jira, Pixelapse, GitHub and Google Docs are uniquely identified by a unique Uniform Resource Identifier (URI) that is assigned by the respective service. Documents may additionally have a human-readable document title and document ID. For example, this document is:
 
 **URI** : https://docs.google.com/a/tidepool.org/document/d/
  19vWtyDNesVyxE5gKXwppgRGWvn-EXrttCLJH5nRys1U
 **Human-readable Document ID** : SOP-0005
 **Human-readable Title** : Design, Development and Release
-  4. **Documentation of design changes**.
+ 
+ 4. **Documentation of design changes**.
     1. All changes to requirements, design, software source code, functionality, verification and validation are documented and tracked in Jira, Pixelapse, GitHub and Google Docs. Revision history is maintained in perpetuity.
     2. Changes to requirements are identified and documented in Jira issues. A history of changes to Jira issues is maintained in perpetuity.
     3. Changes to UI designs are maintained in Pixelapse. Revision history is maintained in perpetuity.
     4. Changes to software source code are maintained in GitHub. Revision history is maintained in perpetuity.
     5. Changes to Google Docs. If design changes are documented in Google Docs, changes and revision history to those documents will be maintained in perpetuity and stored in the &quot;Medical Data Networks Quality System&quot; folder in Google Drive.
     6. **Review and Approval.** Design changes are reviewed and approved before deployment to production. All review and approval will be documented in Jira, Pixelapse, GitHub or Google Docs.
-10.
+
 ## Design History File (DHF)
 
   1. **Reference 21 CFR 820.30 (j) Design history file**. Each manufacturer shall establish and maintain a DHF for each type of device. The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of this part.
   2. Together, the documentation maintained in Jira, Zendesk, GitHub and Google Docs comprises each Tidepool product&#39;s Design History File (DHF).
-  3.
-11.
+
 ## CFR Reference: 21 CFR 820.30 Design Controls
 
 **(a) Design and development planning**. Each manufacturer shall establish and maintain plans that describe or reference the design and development activities and define responsibility for implementation. The plans shall identify and describe the interfaces with different groups or activities that provide, or result in, input to the design and development process. The plans shall be reviewed, updated, and approved as design and development evolves.
