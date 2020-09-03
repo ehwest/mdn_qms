@@ -38,10 +38,10 @@ To establish a standard method for documenting employee training in Company proc
 ## Responsibilities
 
 * The management function at Medical Data Networks is responsible for:
- * Mmaintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
- * Tthe development, review and approval of employee job descriptions, and training requirements.
- * Aassuring that the requirements of this procedure are met.
- * All employees are responsible for completing all training and maintaining an individual training file.
+  * Maintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
+  * The development, review and approval of employee job descriptions, and training requirements.
+  * Aassuring that the requirements of this procedure are met.
+  * All employees are responsible for completing all training and maintaining an individual training file.
 
 ## Procedure
 
