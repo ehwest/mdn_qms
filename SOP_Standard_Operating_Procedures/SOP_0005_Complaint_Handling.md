@@ -23,11 +23,6 @@ It is intended to be compliant with [FDA Title 21 Part 820 Section 820.198 Compl
 
 This procedure is used by Customer Operations personnel, who have the necessary education, background, training and experience to receive and document complaints for all of Medical Data Networks LLC’s products.
 
-## References
-
- + SOP-0006, Risk Management
- + SOP-000x, Partner Complaint/Transfer Process
-
 ## Definitions
 
 ### Complaint:  
