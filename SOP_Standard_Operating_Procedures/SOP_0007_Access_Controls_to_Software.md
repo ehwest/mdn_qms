@@ -156,17 +156,17 @@ For all non-trivial changes, the software developer must seek review from anothe
 
 Prior to deployment to production servers, software is deployed to a staging server environment where it is tested. The QA department is responsible for developing and executing verification tests (see section 10) although others including volunteer testers, other employees, and the CEO may also execute tests.
 
-**Documentation**.
+4. **Documentation**.
 
-1. All verification tests, both templates and executed tests, are documented in Google Docs and stored indefinitely in Google Drive, including a record of all changes to each file.
+   1. All verification tests, both templates and executed tests, are documented in Google Docs and stored indefinitely in Google Drive, including a record of all changes to each file.
 
-2. Deployment of software to development, staging and production server environments is documented as a Jira list for each deployment.
+   2. Deployment of software to development, staging and production server environments is documented as a Jira list for each deployment.
 
-3. **Review and approval**. The QA department is responsible for review and approval of all verification tests. VP-level or CEO approval is required for deployment to production servers.
+   3. **Review and approval**. The QA department is responsible for review and approval of all verification tests. VP-level or CEO approval is required for deployment to production servers.
 
 ## Design Review
 
-1, **Review**.
+**Review**.
  * **User interface reviews**. User interface designs are reviewed via Google Drive. Comments on designs in Google Drive are maintained in perpetuity.
  * **Code reviews**. All substantial changes to software source code intended to be deployed to production must be reviewed by a Medical Data Networks employee other than the author of the source code. Review of design results.
  * **Review by individuals without direct responsibility.**
