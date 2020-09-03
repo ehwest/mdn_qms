@@ -55,14 +55,6 @@ This conveniently enables all consumers of the Quality Management System data pr
 One or more files are also provided within each  QMS folder, and altogether these folders and files capture the authoritative description of the QMS.  Note that within each of the folders listed below, a special README.md file is included.  The README.md file in each folder is intended to provide an overview of all of the files within the QMS folder.
 
   + [Standard Operating Procedures (SOP)](https://github.com/ehwest/mdn_qms/tree/master/SOP_Standard_Operating_Procedures)
-  + [Communication Materials (CM)](https://github.com/ehwest/mdn_qms/tree/master/CM_Communication_Materials)
-  + [Product Development Process (PDP)](https://github.com/ehwest/mdn_qms/tree/master/PDP_Product_Development_Process)
-  + [Product Definition (PD)](https://github.com/ehwest/mdn_qms/tree/master/PD_Product_Definition)
-  + [System Design (SD)](https://github.com/ehwest/mdn_qms/tree/master/SD_System_Design)
-  + [Reference Materials (RM)](https://github.com/ehwest/mdn_qms/tree/master/RM_Reference_Material)
-  + [Regulatory Support Artifacts (RSA)](https://github.com/ehwest/mdn_qms/tree/master/RSA_Regulatory_Support_Artifacts)
-
-  + Standard Operating procedures (SOP)
     + README.md
     + OP_0001_Control_of_Quality_Recprds.md
     + SOP_0002_Employee_Qualification_and_Training.md
@@ -79,14 +71,14 @@ One or more files are also provided within each  QMS folder, and altogether thes
     + SOP_0013_Release_And_Operations_Docker-based.md
     + SOP_0014_Release_And_Operations_k8s-based.md
 
-  + Communication Materials (CM)
+  + [Communication Materials (CM)](https://github.com/ehwest/mdn_qms/tree/master/CM_Communication_Materials)
     + README.md
     + CM_0001_Quality_Manual.md
     + CM_0002_DEV_OPS_Software_DEV_Process.md
     + CM_0003_Business_Associates_Agreement.md
     + CM_0004_Training_Documents.md
 
-  + Product Development process (PDP)
+  + [Product Development Process (PDP)](https://github.com/ehwest/mdn_qms/tree/master/PDP_Product_Development_Process)
     + REAMDE.md
     + PDP_Phase_1_Research_Select_Changes.md
     + PDP_Phase_2_Develop.md
@@ -94,7 +86,7 @@ One or more files are also provided within each  QMS folder, and altogether thes
     + PDP_Phase_4_Release_to_Production.md
     + PDP_Phase 5_Post_Market_Surveillance.md
 
-  + Product Definition (PD)
+  + [Product Definition (PD)](https://github.com/ehwest/mdn_qms/tree/master/PD_Product_Definition)
     + README.md
     + PD_0001_Product_Environment.md
     + PD_0002_Intended_Use.md
@@ -103,20 +95,21 @@ One or more files are also provided within each  QMS folder, and altogether thes
     + PD_0005_Artifacts_of_Validation.md
     + PD_0006_HIPPA_Compliance_Statement.md
 
-  + System Design (SD)
+  + [System Design (SD)](https://github.com/ehwest/mdn_qms/tree/master/SD_System_Design)
     + README.md
     + SD_0001_Drawings.md
     + SD_0002_API_Specifications.md
     + SD_0003_Informative_text.md
 
- + Reference Materials (RM)
+  + [Reference Materials (RM)](https://github.com/ehwest/mdn_qms/tree/master/RM_Reference_Material)
     + README.md
     + RM_0001_Government_Identity_Information.md
     + RM_0002_Security_Audit_Template.md
     + RM_0003_Security_Privacy_Regulatory_Information.md
     + minutes-pdfjam.pdf
 
-+ Regulatory Support Artifacts (RSA)
+  + [Regulatory Support Artifacts (RSA)](https://github.com/ehwest/mdn_qms/tree/master/RSA_Regulatory_Support_Artifacts)
+
     + README.md
     + FDA_Petition.md
     + FDA_Policy_for_Device_Software_Functions.pdf
