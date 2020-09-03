@@ -72,19 +72,19 @@ One or more files are also provided within each  QMS folder, and altogether thes
     + [SOP_0014_Release_And_Operations_k8s-based.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0014_Relase_and_Operations_k8s-based.md)
 
   + [Communication Materials (CM)](https://github.com/ehwest/mdn_qms/tree/master/CM_Communication_Materials)
-    + README.md
-    + CM_0001_Quality_Manual.md
-    + CM_0002_DEV_OPS_Software_DEV_Process.md
-    + CM_0003_Business_Associates_Agreement.md
-    + CM_0004_Training_Documents.md
+    + [README.md](https://github.com/ehwest/mdn_qms/blob/master/CM_Communication_Materials/README.md)
+    + [CM_0001_Quality_Manual.md](https://github.com/ehwest/mdn_qms/blob/master/CM_Communication_Materials/CM_0001_Quality_Manual.md)
+    + [CM_0002_DEV_OPS_Software_DEV_Process.md](https://github.com/ehwest/mdn_qms/blob/master/CM_Communication_Materials/CM_0002_DEV_OPS_Software_DEV_Process.md) 
+    + [CM_0003_Business_Associates_Agreement.md](https://github.com/ehwest/mdn_qms/blob/master/CM_Communication_Materials/CM_0003_Business_Associates_Agreement.md)
+    + [CM_0004_Training_Documents.md](https://github.com/ehwest/mdn_qms/blob/master/CM_Communication_Materials/CM_0004_Training_Documents.md)
 
   + [Product Development Process (PDP)](https://github.com/ehwest/mdn_qms/tree/master/PDP_Product_Development_Process)
-    + REAMDE.md
-    + PDP_Phase_1_Research_Select_Changes.md
-    + PDP_Phase_2_Develop.md
-    + PDP_Phase_3_Maintenance_Operations.md
-    + PDP_Phase_4_Release_to_Production.md
-    + PDP_Phase 5_Post_Market_Surveillance.md
+    + [REAMDE.md](https://github.com/ehwest/mdn_qms/blob/master/PDP_Product_Development_Process/README.md)
+    + [PDP_Phase_1_Research_Select_Changes.md](https://github.com/ehwest/mdn_qms/blob/master/PDP_Product_Development_Process/PDP_phase_1_Research_Select_Changes.md)
+    + [PDP_Phase_2_Develop.md](https://github.com/ehwest/mdn_qms/blob/master/PDP_Product_Development_Process/PDP_phase_2_Develop.md)
+    + [PDP_Phase_3_Maintenance_Operations.md](https://github.com/ehwest/mdn_qms/blob/master/PDP_Product_Development_Process/PDP_phase_3_Maintenance_Operations.md)
+    + [PDP_Phase_4_Release_to_Production.md]( https://github.com/ehwest/mdn_qms/blob/master/PDP_Product_Development_Process/PDP_phase_4_Release_to_Production.md
+    + [PDP_Phase 5_Post_Market_Surveillance.md](https://github.com/ehwest/mdn_qms/blob/master/PDP_Product_Development_Process/PDP_phase_5_Post_Market_Surveillance.md)
 
   + [Product Definition (PD)](https://github.com/ehwest/mdn_qms/tree/master/PD_Product_Definition)
     + README.md
