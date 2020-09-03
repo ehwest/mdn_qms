@@ -18,21 +18,11 @@ description: "Control of Quality Records"
 
 This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
 
-## References & Tutorial Information
-
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13) - "Code of Fedeeral Records -- Subpart M -- Records"
-2. [ISO 13485:2016](https://www.iso.org/obp/ui#iso:std:iso:13485:ed-3:v1:en) -- Medical devices -- Quality Management Systesm -- Requirements for regulatory purposes 
-
-## Responsibilities
-
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
-
 # QMS Procedures
 
 ## Record Retention and Archiving.
 
-All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks uses these mechanisms for digital storage:
+All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks LLC uses these mechanisms for digital storage:
 
   * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.  Google Gmail Service is provided for every Medical Data Networks LLC associate under the <user>@medicaldatanetworks.com user name.  All company business for all matters shall use that service for all email communications.
   * Google Docs (including Google Sheets, etc) and Google Drive with unlimited Google Vault storage.  Google Docs is for use in communicating informal work in progress and/or draft documents.  It is not to be used for official baselined document management.
@@ -79,3 +69,8 @@ However, the authoritative documents are retained within the github repository, 
  * Internal Audit Reports, Supplier Audit Reports, and Management Review Minutes are not available for review by US FDA, according to 21 CFR 820.180(c), but may be reviewed by other regulatory agencies, as required.
  * For any audits performed by the US FDA, it is the policy of Medical Data Networks that an employee with executive responsibility will provide a written statement that the management reviews, quality audits and supplier audits were performed and documented. This statement will include the dates on which they were performed, and a statement that any required corrective action has been undertaken according to Medical Data Networks&#39;s Corrective and Preventive Action procedure.
  * A copy of an associated log or schedule (e.g., internal audit log, management review schedule, supplier audit schedule) may be provided as proof that the activities were performed.
+ 
+ ## Responsibilities
+
+1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
+2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
