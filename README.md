@@ -24,9 +24,11 @@ The order of the folders and files of the QMS system is not intended to convey a
 
 All documents that are a part of the Medical Data Networks LLC "Quality Management System" are "electronic records" as defined in FDA Part 11 regulations for the purposes of access, validation, audit, copying, and record retention. 
 
-As electronic records, these documents are stored in the private (and secured) root "github" repository owned and under control of the CEO of Medical Data Networks LLC. 
+These QMS documents are stored in the private (and secured) root of a "github" repository owned and under control of the CEO of Medical Data Networks LLC. 
 
-As electronic records, they include a collection of organizing electronic folders and individual files that are rendered using "github.com markdown" style of controlling text document display. Electronic files that are stored within this repository may have embedded document metadata and markdown symbols that constitute a material part of the controlled document.
+As electronic records, they include a collection of organizing electronic folders and individual files that are rendered using "github.com markdown" style of controlling text document display. 
+
+Electronic files that are stored within this repository may have embedded document metadata and markdown symbols that constitute a material part of the controlled document.
 
 Each and every electronic record that is part of the Quality Management System is uniquely named using a string of characters that is the concatenation of the repository root, the folder name under that root, and the file name within that folder.
 
