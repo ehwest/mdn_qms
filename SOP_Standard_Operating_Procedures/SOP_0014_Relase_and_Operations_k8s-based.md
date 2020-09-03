@@ -17,3 +17,6 @@ description: "SOP 0014 Kubernetes Release and Operations"
 This document sets for the methods and procedures for deploying Kubernetes applications.
 
 The ISP providing hosting services shall be Digital Ocean and the Kubernetes master used is created by the Digital Ocean service.
+
+
+A specific BASH script shall be used to trigger the transfer and activation of new product instances.
