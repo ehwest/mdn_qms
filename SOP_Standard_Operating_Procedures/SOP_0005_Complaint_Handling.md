@@ -63,12 +63,14 @@ a CGM Secondary Display](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpc
 
 __Continuous glucose monitor secondary display__
 
-Definition:  	The purpose of the continuous glucose monitor secondary display is to notify another person, the follower, of the patient's continuous glucose monitoring system sensor glucose information in real time. 
-
-The secondary display is intended for providing secondary notification of a continuous glucose monitoring system and does not replace primary real time continuous glucose monitoring or standard home blood glucose monitoring
-
+Definition:  The purpose of the __continuous glucose monitor secondary display__ is to notify another person, the follower, of the patient's continuous glucose monitoring system sensor glucose information in real time. The secondary display is intended for providing secondary notification of a continuous glucose monitoring system and does not replace primary real time continuous glucose monitoring or standard home blood glucose monitoring.
 
 __Insulin Pump Secondary Display__
+
+Definition:  The purpose of the __insulin pump secondary display__ is to notify another person of the patient's insulin pump usage information in real time. The secondary display is intended for providing secondary notification of insulin pump usage and does not replace primary real time insulin pump monitoring or standard home blood glucose monitoring.
+
+
+
 ### Serious Injury Definition
 
 An injury that:
