@@ -20,3 +20,5 @@ This document describes the methods and procedures to be followed for software o
 Services provided by Docker containers shall be "built" using Docker files that is run by a script.
 Configuration parameters for all functions shall be provided within the Docker file.
 
+A specific BASH script shall be used to trigger the transfer and activation of new product instances.
+
