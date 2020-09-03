@@ -67,60 +67,60 @@ One or more files are also provided within each  QMS folder, and altogether thes
     + OP_0001_Control_of_Quality_Recprds.md
     + SOP_0002_Employee_Qualification_and_Training.md
     + SOP_0003_Corrective_and_Preventative_action.md
-   + SOP_0004_Risk_and_Hazard_Management.md
-   + SOP_0005_Complaint_Handling.md
-   + OP_0006_Medical_Device_Reporting.md
-   + SOP_0007_Access_Controls_to_Software.md
-   + SOP_0008_Gitflow_Tailoring.md
-   + OP_0009_Semantic_Versioning.md
-   + SOP_0010_Configuration_Management.md
-   + SOP_0011_Performance_Management.md
-   + SOP_0012_Billing_Management.md
-   + SOP_0013_Release_And_Operations_Docker-based.md
-   + SOP_0014_Release_And_Operations_k8s-based.md
+    + SOP_0004_Risk_and_Hazard_Management.md
+    + SOP_0005_Complaint_Handling.md
+    + OP_0006_Medical_Device_Reporting.md
+    + SOP_0007_Access_Controls_to_Software.md
+    + SOP_0008_Gitflow_Tailoring.md
+    + OP_0009_Semantic_Versioning.md
+    + SOP_0010_Configuration_Management.md
+    + SOP_0011_Performance_Management.md
+    + SOP_0012_Billing_Management.md
+    + SOP_0013_Release_And_Operations_Docker-based.md
+    + SOP_0014_Release_And_Operations_k8s-based.md
 
   + Communication Materials (CM)
-   + README.md
-### CM_0001_Quality_Manual.md
-### CM_0002_DEV_OPS_Software_DEV_Process.md
-### CM_0003_Business_Associates_Agreement.md
-### CM_0004_Training_Documents.md
+    + README.md
+    + CM_0001_Quality_Manual.md
+    + CM_0002_DEV_OPS_Software_DEV_Process.md
+    + CM_0003_Business_Associates_Agreement.md
+    + CM_0004_Training_Documents.md
 
-## Product Development process (PDP)
-### REAMDE.md
-### PDP_Phase_1_Research_Select_Changes.md
-### PDP_Phase_2_Develop.md
-### PDP_Phase_3_Maintenance_Operations.md
-### PDP_Phase_4_Release_to_Production.md
-### PDP_Phase 5_Post_Market_Surveillance.md
+  + Product Development process (PDP)
+    + REAMDE.md
+    + PDP_Phase_1_Research_Select_Changes.md
+    + PDP_Phase_2_Develop.md
+    + PDP_Phase_3_Maintenance_Operations.md
+    + PDP_Phase_4_Release_to_Production.md
+    + PDP_Phase 5_Post_Market_Surveillance.md
 
-## Product Definition (PD)
-### README.md
-### PD_0001_Product_Environment.md
-### PD_0002_Intended_Use.md
-### PD_0003_Verification_Methods.md
-### PD_0004_Validation_Methods.md
-### PD_0005_Artifacts_of_Validation.md
-### PD_0006_HIPPA_Compliance_Statement.md
+  + Product Definition (PD)
+    + README.md
+    + PD_0001_Product_Environment.md
+    + PD_0002_Intended_Use.md
+    + PD_0003_Verification_Methods.md
+    + PD_0004_Validation_Methods.md
+    + PD_0005_Artifacts_of_Validation.md
+    + PD_0006_HIPPA_Compliance_Statement.md
 
-## System Design (SD)
-### README.md
-### SD_0001_Drawings.md
-### SD_0002_API_Specifications.md
-### SD_0003_Informative_text.md
+  + System Design (SD)
+    + README.md
+    + SD_0001_Drawings.md
+    + SD_0002_API_Specifications.md
+    + SD_0003_Informative_text.md
 
-## Reference Materials (RM)
-### README.md
-### RM_0001_Government_Identity_Information.md
-### RM_0002_Security_Audit_Template.md
-### RM_0003_Security_Privacy_Regulatory_Information.md
-### minutes-pdfjam.pdf
+ + Reference Materials (RM)
+    + README.md
+    + RM_0001_Government_Identity_Information.md
+    + RM_0002_Security_Audit_Template.md
+    + RM_0003_Security_Privacy_Regulatory_Information.md
+    + minutes-pdfjam.pdf
 
-## Regulatory Support Artifacts (RSA)
-### README.md
-### FDA_Petition.md
-### FDA_Policy_for_Device_Software_Functions.pdf
-### Software_as_a_Medical_Device_FDA.pdf
++ Regulatory Support Artifacts (RSA)
+    + README.md
+    + FDA_Petition.md
+    + FDA_Policy_for_Device_Software_Functions.pdf
+    + Software_as_a_Medical_Device_FDA.pdf
 
 # Change Control
 
