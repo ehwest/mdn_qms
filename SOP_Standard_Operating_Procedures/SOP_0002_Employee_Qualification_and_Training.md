@@ -95,17 +95,18 @@ For example, New Employee Orientation training materials may be given a QMS docu
 
  *  New Employee Orientation is completed within the first month of employment.
  
- * A [Medical Data Networks New Employee and Consultant Onboarding Checklist](https://docs.google.com/document/d/1Unwaduz-bmVg7agFAM9AhOL9kUXSXQFoZVWz7UbmNEM/edit#) is completed and stored on an internal Google Drive folder for new employees, consultants and contractors that have an @tidepool.org email address.
+ * A "Medical Data Networks New Employee and Consultant Onboarding Checklist" is completed and stored on an internal Google Drive folder for new employees, consultants and contractors that have an @medicaldatanetworks.com email address.
  
  * New employee orientation includes overviews of the following topics:
-  * Medical Data Networks development process and quality system overview as per DOC-0001 Medical Data Networks Design and Development Process;
-  *  Medical Data Networks control of documents as per SOP-0001 Control of Documents;
+ 
+   * Medical Data Networks development process and quality system overview as per [PDP_Product Development_Process](https://github.com/ehwest/mdn_qms/tree/master/PDP_Product_Development_Process)
+   *  Medical Data Networks control of documents as per [SOP_0001_Control_of_Quality_Records.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0001_Control_of_Quality_Records.md);
   
- * HIPAA and basic security practices at Medical Data Networks as per the QMS HIPAA Security Audit Checklist and QMS Employee Security Practices.
+ * HIPAA and basic security practices at Medical Data Networks as per the [PD_0006_HIPPA_Compliance_Statement.md]( https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0006_HIPPA_Compliance_Statement.md).
 
 ### Training Records
 
-Training activities are documented by placing a record of the training as a document stored in the QMS system as artifacts of the QMS SOP.
+Training activities are documented by placing a record of the training as a document stored in the corporate Email system, under the user ID of the employee's supervisor.
 
 ## Reference: 21 CFR Section 820.25 Personnel
 
