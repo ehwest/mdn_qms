@@ -166,14 +166,14 @@ Prior to deployment to production servers, software is deployed to a staging ser
 
 ## Design Review
 
-**Review**.
+**Review**
  * **User interface reviews**. User interface designs are reviewed via Google Drive. Comments on designs in Google Drive are maintained in perpetuity.
  * **Code reviews**. All substantial changes to software source code intended to be deployed to production must be reviewed by a Medical Data Networks employee other than the author of the source code. Review of design results.
  * **Review by individuals without direct responsibility.**
   - UI Design Review. All UI designs are reviewed by someone other than the UI designer.
   - Code Review. A Medical Data Networks employee or contractor is responsible for reviewing all substantial code changes that will result in customer-facing functionality. The employee who proposed the changes (via GitHub pull request) may not review the proposed changes.
 
- * **Documentation.** 
+**Documentation** 
 
 All relevant reviews are documented in Jira or Google Docs and stored in perpetuity in Google Drive. All changes and records, including the date and individuals performing the review, are maintained in perpetuity.
 
