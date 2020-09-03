@@ -62,25 +62,25 @@ One or more files are also provided within each  QMS folder, and altogether thes
   + [Reference Materials (RM)](https://github.com/ehwest/mdn_qms/tree/master/RM_Reference_Material)
   + [Regulatory Support Artifacts (RSA)](https://github.com/ehwest/mdn_qms/tree/master/RSA_Regulatory_Support_Artifacts)
 
-## Standard Operating procedures (SOP)
-### README.md
-### SOP_0001_Control_of_Quality_Recprds.md
-### SOP_0002_Employee_Qualification_and_Training.md
-### SOP_0003_Corrective_and_Preventative_action.md
-### SOP_0004_Risk_and_Hazard_Management.md
-### SOP_0005_Complaint_Handling.md
-### SOP_0006_Medical_Device_Reporting.md
-### SOP_0007_Access_Controls_to_Software.md
-### SOP_0008_Gitflow_Tailoring.md
-### SOP_0009_Semantic_Versioning.md
-### SOP_0010_Configuration_Management.md
-### SOP_0011_Performance_Management.md
-### SOP_0012_Billing_Management.md
-### SOP_0013_Release_And_Operations_Docker-based.md
-### SOP_0014_Release_And_Operations_k8s-based.md
+  + Standard Operating procedures (SOP)
+   + README.md
+   + OP_0001_Control_of_Quality_Recprds.md
+   + SOP_0002_Employee_Qualification_and_Training.md
+   + SOP_0003_Corrective_and_Preventative_action.md
+   + SOP_0004_Risk_and_Hazard_Management.md
+   + SOP_0005_Complaint_Handling.md
+   + OP_0006_Medical_Device_Reporting.md
+   + SOP_0007_Access_Controls_to_Software.md
+   + SOP_0008_Gitflow_Tailoring.md
+   + OP_0009_Semantic_Versioning.md
+   + SOP_0010_Configuration_Management.md
+   + SOP_0011_Performance_Management.md
+   + SOP_0012_Billing_Management.md
+   + SOP_0013_Release_And_Operations_Docker-based.md
+   + SOP_0014_Release_And_Operations_k8s-based.md
 
-## Communication Materials (CM)
-### README.md
+  + Communication Materials (CM)
+   + README.md
 ### CM_0001_Quality_Manual.md
 ### CM_0002_DEV_OPS_Software_DEV_Process.md
 ### CM_0003_Business_Associates_Agreement.md
