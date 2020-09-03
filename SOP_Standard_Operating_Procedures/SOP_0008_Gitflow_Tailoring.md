@@ -18,11 +18,10 @@ description: "Control of Quality Records"
 ## Purpose
 
 This document describes the Gitflow procedure for developing and managing change to the existing software base of T1Pal.com
+The content and principles for this procedure is drawn from
+[Vincent Driessen's Gitflow Workflow](https://nvie.com/posts/a-successful-git-branching-model/), herein incorporated as a reference for further detail. 
 
-[Vincent Driessen's Gitflow Workflow](https://nvie.com/posts/a-successful-git-branching-model/)  
-
-The Gitflow workflow is a software workflow design that was first published and made popular by Vincent Driessen. 
-The Gitflow Workflow defines a strict branching model designed around the project release. It relies on the functions and capabililities of "github."
+This Gitflow Workflow defines a strict branching model designed around the project release. It relies on the functions and capabililities of "github."
 
 All software and QMS documentation will be managed using this "Gitflow" procedures.
 
@@ -48,7 +47,7 @@ Next to the main branches master and develop, our development model uses a varie
 The different types of branches we may use are:
 
 * Feature branches
-* Release branches
+* Staging branches
 * Hotfix branches
 
 Each of these branches have a specific purpose and are bound to strict rules as to which branches may be their originating branch and which branches must be their merge targets. 
@@ -88,7 +87,7 @@ $ git push origin develop
 
 The --no-ff flag causes the merge to always create a new commit object, even if the merge could be performed with a fast-forward. This avoids losing information about the historical existence of a feature branch and groups together all commits that together added the feature.
 
-## Release branches
+## Staging branches
 
 * May branch off from:
 
