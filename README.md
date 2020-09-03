@@ -52,7 +52,7 @@ This conveniently enables all consumers of the Quality Management System data pr
 
 # Folder and File Organization
 
-One or more files are also provided within each  QMS folder, and altogether these folders and files capture the authoritative description of the QMS.
+One or more files are also provided within each  QMS folder, and altogether these folders and files capture the authoritative description of the QMS.  Note that within each of the folders listed below, a special README.md file is included.  The README.md file in each folder is intended to provide an overview of all of the files within the QMS folder.
 
   + [Standard Operating Procedures (SOP)](https://github.com/ehwest/mdn_qms/tree/master/SOP_Standard_Operating_Procedures)
   + [Communication Materials (CM)](https://github.com/ehwest/mdn_qms/tree/master/CM_Communication_Materials)
