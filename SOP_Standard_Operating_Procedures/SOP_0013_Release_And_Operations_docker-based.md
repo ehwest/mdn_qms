@@ -35,7 +35,7 @@ Configuration parameters for all functions of a docker container shall be provid
 A specific BASH script shall be used to trigger the transfer and activation of new product instances.
 
 T1Pal uses a number of external services that are configured manually and then operationally accessed using a well-defined
-API.  These including stripe.com, servicebot.io, MongoDB, postgresdb, DNS, and Digital Ocean hosting services.
+API.  These including stripe.com, servicebot.io, MongoDB, postgresdb, DNS, Kubernetes clusters, and Digital Ocean hosting services.
 It is the goal of T1Pal to leverage all such public services to the maximum extent possible, subject
 to operational cost, reliability, security, and performance requirements.
 
