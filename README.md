@@ -38,7 +38,7 @@ In this environment, **"Special Controls"** has been defined by the FDA as follo
  3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
 
-Wwb-site content (and/or any distributed promotional information) for the T1Pal "device" 
+Web-site content (and/or any distributed promotional information) for the T1Pal "device" 
 is expected to meet all labelling requirements.
 
 However, "protections against unauthorized access to and modification of data" is provided by T1Pal features and functions that must be validated.
