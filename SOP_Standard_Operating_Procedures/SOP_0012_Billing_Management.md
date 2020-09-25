@@ -17,7 +17,9 @@ description: "Billing Management"
 Services that are expected to yield payment records shall utilize published APIs exposed by ["stripe.com"](https://stripe.com)  and/or ["servicebot.io"](https://servicebot.io) for all such payment procedures.
 Reports based on these services shall be considered as authoritative financial records for Medical Data Networks LLC.
 
-In the event a payment process fails and/or a customer payment is late, a short "grace" period will be provided by the billing system.
+All billing services subscribed to and therefore made a part of the T1Pal functionality, including stripe.com and servicebot.io, shall be PCI compliant and made
+inaccessible to unauthorized users. The use of APIs to these service components shall comply with HIPAA requirements.
+Orders for service, confirmations, invoices, and other notices to subscriber email addresses shall comply with HIPAA requirements.
 
 
 ## Responsibilities
