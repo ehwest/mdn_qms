@@ -48,7 +48,8 @@ For most documents, dates shall be expressed in the form similar to YYYY-MM-DD. 
 
 4. **Electronic Records.** 
 
-All records at Medical Data Networks are created and maintained in electronic format and maintained on the "GIT" repository under the account "github.com/ehwest/mdn_quality_system".  The github repository is used to support authentication, labelling of meta data, recording of changes, and storage of the documents for each and every release of the "Managed Data Networks LLC. Quality system. ( Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  Any records containing confidential health information and not made publicly available and are kept in internally-only folders on the github repository, and configured within github to limit access to authorized users. 
+All records at Medical Data Networks are created and maintained in electronic format and maintained on the "github" repository under the account "github.com/ehwest/mdn_qms 
+as of the "Managed Data Networks LLC. Quality system. ( Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  Any records containing confidential health information and not made publicly available and are kept in internally-only folders on the github repository, and configured within github to limit access to authorized users. 
 
 5. **Lost Documents and Disaster Recovery.** 
 
