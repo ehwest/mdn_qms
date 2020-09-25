@@ -18,14 +18,14 @@ description: "Medical Data networks Quality Management System"
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver T1Pal software (...as an FDA device).  
 
-In addition, it is the purpose of the Quality Management System to support achievement of the following goals.
+The present Quality Management System (QMS) is specifically designed to achieve and sustain the following goals.
 
-- [ ]  Register T1Pal with the FDA
-- [ ]  Meet FDA-defined "Special Controls"
-- [ ]  Meet "Support Appropriate Validations"
-- [ ]  Document "Quality Controls"
+- [ ]  Registration of T1Pal with the FDA
+- [ ]  Meet FDA-defined "Special Controls" for T1Pal Operations
+- [ ]  Support "Appropriate Validations" for T1Pal as a device
+- [ ]  Implement certain "Quality Controls" needed to sustain T1Pal Operations.
 
-In this environment, **"Special Controls"** are defined as follows:
+In this environment, **"Special Controls"** has been defined by the FDA as follows:
 
 - [ ]  Devices must protect against unauthorized access to and modification of data.
 
@@ -39,6 +39,11 @@ In this environment, **"Special Controls"** are defined as follows:
 
   **This device is not intended to replace self-monitoring practices advised by a physician.**
 
+While web-site content (and/or any distributed promotional information) for the T1Pal "device" 
+is expected to meet all labelling requirements, this QMS is needed to explain
+how "protections against unauthorized access to and modification of data is provided by T1Pal.
+For this reason, this QMS includes "Product Definition", "Product Development", and "System Design" 
+sections needed to convey how this achievement is accomplished and validated.
 
 The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
 
