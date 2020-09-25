@@ -27,11 +27,11 @@ The deliverable for this phase is the requirements for the change to be made.
 There are 6 steps in this phase:
 
 ++ Cut a new feature branch for the change and do development on that feature branch.
-++ When ready, the developer puts the code on a shared developer branch (DEV) for team review and automated testing.
-++ Automated testing happens, triggered by placement of developed code onto the DEV branch.
-++ Technical reviewers sign-off on changes based on test findings.
-++ Changed software is pushed to master branch (per gitflow process)
-++ Cut a new software relase to production using semantic versioning.
+++   When ready, the developer puts the code on a shared developer branch (DEV) for team review and automated testing.
+++  Automated testing happens, triggered by placement of developed code onto the DEV branch.
+++  Technical reviewers sign-off on changes based on test findings.
+++  Changed software is pushed to master branch (per gitflow process)
+++  Cut a new software relase to production using semantic versioning.
 
 + Phase 3: Maintenance Operations
 ++ Review and adjust Fault Management solution (health checks)
