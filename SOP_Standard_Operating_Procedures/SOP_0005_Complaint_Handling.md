@@ -16,7 +16,7 @@ description: "SOP 0005 Complaint Handling"
 
 # Purpose
 
-This procedure outlines how Medical Data Networks LLC receives, reviews, and evaluates complaints. 
+This procedure outlines how Medical Data Networks LLC receives, reviews, and evaluates complaints associated with T1Pal operations. 
 It is intended to be compliant with [FDA Title 21 Part 820 Section 820.198 Complaint files.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCFR/CFRSearch.cfm?fr=820.198)
 
 ## Scope
