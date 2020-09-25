@@ -18,6 +18,28 @@ description: "Medical Data networks Quality Management System"
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver T1Pal software (...as an FDA device).  
 
+In addition, it is the purpose of the Quality Management System to support achievement of the following goals.
+
+- [ ]  Register T1Pal with the FDA
+- [ ]  Meet FDA-defined "Special Controls"
+- [ ]  Meet "Support Appropriate Validations"
+- [ ]  Document "Quality Controls"
+
+In this environment, **"Special Controls"** are defined as follows:
+
+- [ ]  Devices must protect against unauthorized access to and modification of data.
+
+- [ ]  Device labeling must display the following warning: 
+
+  **Dosing decisions should not be made based on this device.**
+  
+  **The user should follow instructions on the continuous glucose monitoring system.**
+  
+- [ ]  Device labeling must include the following limitation:  
+
+  **This device is not intended to replace self-monitoring practices advised by a physician.**
+
+
 The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
 
 # Scope
