@@ -14,7 +14,7 @@ content_type: concept
 description: "SOP 0013 Docker Release and Operations"
 ---
 
-** The T1Pal Code Repository **
+**T1Pal Code Repository**
 
 Any and all software released as part of T1Pal shall first be introduced to the T1Pal platform
 as a branch of the T1Pal github code repository.  It may be introduced in either of the following
