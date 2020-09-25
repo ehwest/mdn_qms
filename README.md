@@ -38,9 +38,10 @@ In this environment, **"Special Controls"** has been defined by the FDA as follo
  3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
 
-While web-site content (and/or any distributed promotional information) for the T1Pal "device" 
-is expected to meet all labelling requirements, this QMS is needed to explain
-how "protections against unauthorized access to and modification of data is provided by T1Pal.
+Wwb-site content (and/or any distributed promotional information) for the T1Pal "device" 
+is expected to meet all labelling requirements.
+
+However, "protections against unauthorized access to and modification of data" is provided by T1Pal features and functions that must be validated.
 For this reason, this QMS includes "Product Definition", "Product Development", and "System Design" 
 sections needed to convey how this achievement is accomplished and validated.
 
