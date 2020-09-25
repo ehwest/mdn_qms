@@ -14,7 +14,10 @@ content_type: concept
 description: "Billing Management"
 ---
 
-Stripe and Servicebot.io are providers of billing services to T1Pal operations.
+"Stripe.com" and "Servicebot.io" are providers of billing services to T1Pal operations.
+These providers are separate and independent companies that provide all of the credit card and related payment
+services to T1Pal software operations.
+All communications between T1Pal, and subscribers, to/from these providers is encrypted using standard SSL methods.
 
 Generally, processing payments 
 through a credit card processor can generate personally identifiable information.
