@@ -61,7 +61,7 @@ Subscribers will loose no data once such data has been delivered by remote syste
 Subscriber data will be archived for five years after such data is first delivered.
 
 ### REQ_1040
-T1Pal enforces compliance to HIPAA privacy requirements.
+T1Pal complies with HIPAA privacy requirements.  However, T1Pal does operate in an environment where HIPAA compliance is not assured.  This enviornment includes the systems needed to get data into T1Pal from a primary display system, and/or the downstream (re)rendering of data that is exported by T1Pal to other systems.
 
 ### REQ_1050
 T1Pal provides for the subscriber to generate secure internet service links that, when transferred to other individuals, enables them to temporarily gain access to view the T1Pal reports.
