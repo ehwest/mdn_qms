@@ -33,6 +33,7 @@ All records and communications will be maintained in perpetuity via digital arch
   * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.
   * Google Docs (including Google Sheets, etc) and Google Drive with unlimited Google Vault storage.
   * GitHub, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.
+  * Google Vault shall be used as the permanent archive for all gmail, docs, chat, and messaging sessions.
 
 2. **Electronic Signatures**
 
