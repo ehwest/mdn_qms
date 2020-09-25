@@ -23,10 +23,7 @@ The Product Development Process is by definition the process by which changes to
 The complete Product Developmetn Process is composed of 5 phases.
 + Phase 1:  Research and select specific changes to Standard Operating Procedures to capture in a modified system design.
 The deliverable for this phase is the requirements for the change to be made.
-+ Phase 2: Develop Software changes by modifying, deleteing, and/or adding code.
-
-There are 6 steps in this phase:
-
++ Phase 2: Develop Software changes by modifying, deleteing, and/or adding code.  There are 6 steps in this phase:
     +  Cut a new feature branch for the change and do development on that feature branch.
     +  When ready, the developer puts the code on a shared developer branch (DEV) for team review and automated testing.
     +  Automated testing happens, triggered by placement of developed code onto the DEV branch.
