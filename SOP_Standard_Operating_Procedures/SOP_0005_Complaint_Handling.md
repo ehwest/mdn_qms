@@ -56,7 +56,11 @@ The definition of a "Reportable Event" is:
 
 * The event may be caused by device malfunction, deterioration in characteristics and/or performance, or inadequacy in labeling or instructions for use. 
 
-* In this SOP_0006_Medical_Device_Reporting.md,  a “reportable event” means any complaint that has been determined to be a reportable event under applicable regulation.  This is referred to as an “MDR, Medical Device Report” in the US FDA reporting requirements, and as an “incident” or a “reportable event” in the EU, Australian, and Canadian reporting requirements.
+* In this [SOP_0006_Medical_Device_Reporting.md](mdn_qms/SOP_Standard_Operating_Procedures/SOP_0004_Risk_and_Hazard_Management.md
+ ),  
+ a “reportable event” means any complaint that has been determined to be a reportable event under applicable regulation.  
+ 
+This is referred to as an “MDR, Medical Device Report” in the US FDA reporting requirements, and as an “incident” or a “reportable event” in the EU, Australian, and Canadian reporting requirements.
 
 * Notwithstanding the above elements of the definition of a Reportable Event, [FDA Product Classification for
 a CGM Secondary Display](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668) includes this wording for Regulation Number 862.1350:
