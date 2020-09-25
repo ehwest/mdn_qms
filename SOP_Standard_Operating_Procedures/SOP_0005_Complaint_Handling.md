@@ -107,7 +107,8 @@ All Complaints will be evaluated by a Medical Data Networks LLC Vice President o
 Complaints that meet the definition of a Reportable Event will be clearly tagged within the ticketing system and added to (or used to update) a Reportable Event Spreadsheet maintained by Medical Data Networks LLC quality VP.
 
 All Reportable Events will be promptly investigated by a Medical Data Networks LLC quality VP. 
-Risk analysis, mitigation and control will be performed per SOP-0006 Risk Management.
+Risk analysis, mitigation and control will be performed per [SOP-0004 Risk_and_Hazard Management](mdn_qms/SOP_Standard_Operating_Procedures/SOP_0004_Risk_and_Hazard_Management.md
+ ).
 
 Complaints that are not deemed to be Reportable Events will be evaluated regularly as part of a routine review.
 
