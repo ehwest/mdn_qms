@@ -29,15 +29,14 @@ In this environment, **"Special Controls"** has been defined by the FDA as follo
 
 - [ ]  Devices must protect against unauthorized access to and modification of data.
 
-- [ ]  Device labeling must display the following warning: 
+- [ ]  Device labeling must display the following warnings and limitations: 
 
-  **Dosing decisions should not be made based on this device.**
+ 1.  **Dosing decisions should not be made based on this device.**
   
-  **The user should follow instructions on the continuous glucose monitoring system.**
+ 2.  **The user should follow instructions on the continuous glucose monitoring system.**
   
-- [ ]  Device labeling must include the following limitation:  
+ 3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
-  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
 While web-site content (and/or any distributed promotional information) for the T1Pal "device" 
 is expected to meet all labelling requirements, this QMS is needed to explain
@@ -45,7 +44,7 @@ how "protections against unauthorized access to and modification of data is prov
 For this reason, this QMS includes "Product Definition", "Product Development", and "System Design" 
 sections needed to convey how this achievement is accomplished and validated.
 
-The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
+**NOTE:**  The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
 
 # Scope
 
