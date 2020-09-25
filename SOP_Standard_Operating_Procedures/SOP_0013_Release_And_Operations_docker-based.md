@@ -20,8 +20,8 @@ Any and all software released as part of T1Pal shall first be introduced to (i.e
 as a branch of the T1Pal github code repository.  All software is created first on either of the following
 two branches:  
 
-1. <named> "**feature**" branch 
-2. "**development**" branch
+1. <named> "**feature**" branch -- for software not yet associated with a relase.
+2. "**development**" branch -- for software definitely targeted to a particular relase.
 
 Following the "**gitflow**" process, all T1Pal "code" goes into this github code repository.   
 By "code" we include the following artifacts:
