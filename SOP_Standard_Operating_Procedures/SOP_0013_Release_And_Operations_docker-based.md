@@ -21,21 +21,25 @@ two branches:
 1. a <named> feature branch 
 2. a development branch
 
-All T1Pal code goes into this github code repository.   By "code" we include the following artifacts:
+All T1Pal "code" goes into this github code repository.   
+By "code" we include the following artifacts:
 
-* software of any particular language (javascript, Ruby, PHP, C++, BASH)
-* configuration files (e.g. nginx configuration files)
+* software of any particular language (javascript, Ruby, PHP, BASH)
+* configuration files (e.g. nginx, apache web server configuration files)
 * service definition files (e.g. docker files, .yaml files for Kubernetes, HOLM charts)
 
-Services provided by Docker containers shall be "built" using Docker files that is controled by a docker command line or script.
-Configuration parameters for all functions shall be provided within the Docker file.
+Component services built on Docker containers shall be "built" using Docker files controled by a docker command-line or script.
+In either case, the command-line and/or the script shall itself be included in the development github repository.
+Configuration parameters for all functions of a docker container shall be provided within the Docker file, and stored in the github repository.
 
 A specific BASH script shall be used to trigger the transfer and activation of new product instances.
 
-T1Pal uses a number of external services that are configured manually and operationally accessed using a well-defined
+T1Pal uses a number of external services that are configured manually and then operationally accessed using a well-defined
 API.  These including stripe.com, servicebot.io, MongoDB, postgresdb, DNS, and Digital Ocean hosting services.
 It is the goal of T1Pal to leverage all such public services to the maximum extent possible, subject
 to operational cost, reliability, security, and performance requirements.
+
+Step-by-step procedures to manually create and utilize any external service shall be documented in the T1Pal development github repository in .md format.
 
 
 
