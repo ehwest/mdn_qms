@@ -17,6 +17,7 @@ description: "(PDP) Product Development Process"
 ## Purpose
 
 This file contains an overview of the Medical Data Networks LLC Product Development Process.
+It overlaps somewhat with the [SOP_0008_Gitflow_Tailoring.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0008_Gitflow_Tailoring.md) under the SOP document folder.
 
 The Product Development Process is by definition the process by which changes to software and services that are used in the T1Pal application and its supporting infrastructure.
 
