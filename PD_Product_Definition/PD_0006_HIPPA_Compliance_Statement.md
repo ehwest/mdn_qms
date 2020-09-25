@@ -34,8 +34,8 @@ used for one or more medical purposes that perform these purposes without being 
 medical device.
 
 ### REQ_1000
-T1Pal is an "Integrated Continuous Glucose Monitoring System" intended to automatically display
-past and present measures of selected bodily fluids frequently.
+T1Pal is secoondary display of data from an "Integrated Continuous Glucose Monitoring System" intended to automatically display
+past and present measures of selected bodily fluids frequently.   
 
 ### REQ_1010
 T1Pal is a "secondary display" of data that is securely obtained and delivered by electronic messages securely transmitted from other devices, distinct from T1Pal services and operations.
