@@ -67,7 +67,7 @@ is used to direct operations staff to reports,  displays of data flows, lists of
 The operations staff must monitor all displays and reports continuously 24 x 7 x 365 and at the same time monitor trouble ticket complaints.
 
 In the event of an outage of any kind, the outage must be documented on freshstatus.com web site so as to alert customers subscribing to that service.
-https://t1pal-995.freshstatus.io/admin/status    Any and all observed impairments to any T1Pal components should be entered into a trouble ticket.  The trouble ticket system is configured to receive emails directed to support@t1pal.com   The trouble ticketing system is at  t1pal.helpy.io
+https://t1pal-995.freshstatus.io/   Any and all observed impairments to any T1Pal components should be entered into a trouble ticket.  The trouble ticket system is configured to receive emails directed to support@t1pal.com   The trouble ticketing system is at  t1pal.helpy.io
 
 
 
