@@ -14,13 +14,21 @@ content_type: concept
 description: "Billing Management"
 ---
 
-Services that are expected to yield payment records shall utilize published APIs exposed by ["stripe.com"](https://stripe.com)  and/or ["servicebot.io"](https://servicebot.io) for all such payment procedures.
-Reports based on these services shall be considered as authoritative financial records for Medical Data Networks LLC.
+Stripe and Servicebot.io are providers of billing services to T1Pal operations.
 
-All billing services subscribed to and therefore made a part of the T1Pal functionality, including stripe.com and servicebot.io, shall be PCI compliant and made
-inaccessible to unauthorized users. The use of APIs to these service components shall comply with HIPAA requirements.
-Orders for service, confirmations, invoices, and other notices to subscriber email addresses shall comply with HIPAA requirements.
+Generally, processing payments 
+through a credit card processor can generate personally identifiable information.
+However, US Health and Human Services (HHS) have stated that collecting payments is excluded explicitly from HIPAA mandates.
+At the same time, 
+in order for T1Pal to utilize Stripe for invoicing, and financial analysis, T1Pal will need to get a Business Associate Agreement (BAA)
+from Stripe, and configure use of Stripe to comply with HIPAA requirements.
+A BAA template is expected in follow-on revisions to this QMS.
 
+In addition, Payment Card Industry Data Security Standards (PCI DSS).
+sets the minimum standard for credit card data security, and requires a periodic audit of security operations.
+T1Pal expects to achieve PCI Level 4 compliance, which includes use of a checklist and an annual audit.  Both the checklist
+and actual audit results will be managed in revisions to this QMS.
+ 
 
 ## Responsibilities
 
