@@ -33,6 +33,8 @@ Electronic files that are stored within this repository may have embedded docume
 Each and every electronic record that is part of the Quality Management System is uniquely named using a string of characters that is the concatenation of the repository root, the folder name under that root, and the file name within that folder.
 
 <repository_root> / <folder_name> / <file_name>
+-or-
+<repository_root> / <file_name>
 
 By convention, each such component of the whole name has NO SPACES, and used the underscore character "_" to separate memorable elements within the whole string.
 
