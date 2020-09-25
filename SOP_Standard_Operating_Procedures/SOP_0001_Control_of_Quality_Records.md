@@ -14,7 +14,7 @@ content_type: concept
 description: "Control of Quality Records"
 ---
 
-# Control of Quality Records -- Purpose Statement
+# Control of Quality Records
 
 This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
 
