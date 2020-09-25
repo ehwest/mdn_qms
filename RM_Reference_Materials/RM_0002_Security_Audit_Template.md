@@ -18,6 +18,8 @@ description: "RM 0002 Security Audit Template"
 
 This document captures the security audit template, a checklist of things to consider.
 
+Checklists for both HIPAA (Medical privacy) and PCI (credit card security) are TBD
+
 ## References
 
 
