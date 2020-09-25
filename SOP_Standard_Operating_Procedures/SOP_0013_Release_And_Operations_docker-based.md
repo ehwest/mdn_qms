@@ -14,7 +14,7 @@ content_type: concept
 description: "SOP 0013 Docker Release and Operations"
 ---
 
-**T1Pal Code Repository**
+**T1Pal Code Repository and the Gitflow Process**
 
 Any and all software released as part of T1Pal shall first be introduced to (i.e. created on) the T1Pal platform
 as a branch of the T1Pal github code repository.  All software is created first on either of the following
@@ -23,14 +23,16 @@ two branches:
 1. <named> "**feature**" branch 
 2. "**development**" branch
 
-All T1Pal "code" goes into this github code repository.   
+Following the "**gitflow**" process, all T1Pal "code" goes into this github code repository.   
 By "code" we include the following artifacts:
 
 * software of any particular language (javascript, Ruby, PHP, BASH)
 * configuration files (e.g. nginx, apache web server configuration files)
 * service definition files (e.g. docker files, .yaml files for Kubernetes, HOLM charts)
+* Instructions for manually configuring services from a particular platform service provider (e.g. Digital Ocean servers, AWS, MongoDB, Redis, postgresdb)
 
-Component services built on Docker containers shall be "built" using Docker files controled by a docker command-line or script.
+Component services built on Docker containers shall be "built" using Docker files controled by 1) a docker command-line or 2) a script.
+
 In either case, the command-line and/or the script shall itself be included in the development github repository.
 Configuration parameters for all functions of a docker container shall be provided within the Docker file, and stored in the github repository.
 
