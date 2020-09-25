@@ -35,20 +35,20 @@ There are 6 steps in this phase:
     +  Cut a new software relase to production using semantic versioning.
 
 + Phase 3: Maintenance Operations
-  ++ Review and adjust Fault Management solution (health checks)
-  ++ perform backups of any impacted dataset.
-  ++ perform system health checks
-  ++ validate events detected
-  ++ fix or roll back software
+    +  Review and adjust Fault Management solution (health checks)
+    +  perform backups of any impacted dataset.
+    +  perform system health checks
+    +  validate events detected
+    +  fix or roll back software
 
 + Phase 4:  Release changes to production
-  ++ go through release process to deploy code on servers
-  ++ refer to standard operating procedure for release.
-  ++ if needed, update the SOP
+    +  go through release process to deploy code on servers
+    +  refer to standard operating procedure for release.
+    +  if needed, update the SOP
 
 + Phase 5:  Post Market Surveillance
-  ++ identify new features
-  ++ identify and triage operations and bug fixs
+    +  identify new features
+    +  identify and triage operations and bug fixs
 
 
 ## Responsibilities
