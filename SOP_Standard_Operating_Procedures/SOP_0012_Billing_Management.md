@@ -20,10 +20,10 @@ services to T1Pal software operations.
 All communications between T1Pal, and subscribers, to/from these providers is encrypted using standard SSL methods.
 
 Generally, processing payments 
-through a credit card processor can generate personally identifiable information.
+through a credit card processor creates personally identifiable information (PII) that must be secured both in transmission and storage.
 However, US Health and Human Services (HHS) have stated that collecting payments is excluded explicitly from HIPAA mandates.
-At the same time, 
-in order for T1Pal to utilize Stripe for invoicing, and financial analysis, T1Pal will need to get a Business Associate Agreement (BAA)
+
+For T1Pal to continue to utilize Stripe for invoicing, and financial analysis, T1Pal will need to get a Business Associate Agreement (BAA)
 from Stripe, and configure use of Stripe to comply with HIPAA requirements.
 A BAA template is expected in follow-on revisions to this QMS.
 
