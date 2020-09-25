@@ -100,7 +100,6 @@ One or more files are also provided within each  QMS folder, and altogether thes
     + [SOP_0011_Performance_Management.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0011_Performance_Management.md)
     + [SOP_0012_Billing_Management.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0012_Billing_Management.md)
     + [SOP_0013_Release_And_Operations_Docker-based.md]( https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0013_Release_And_Operations_docker-based.md)
-    + [SOP_0014_Release_And_Operations_k8s-based.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0014_Relase_and_Operations_k8s-based.md)
 
   + [Communication Materials (CM)](https://github.com/ehwest/mdn_qms/tree/master/CM_Communication_Materials)
     + [README.md](https://github.com/ehwest/mdn_qms/blob/master/CM_Communication_Materials/README.md)
