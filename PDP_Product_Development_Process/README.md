@@ -21,8 +21,7 @@ This file contains an overview of the Medical Data Networks LLC Product Developm
 The Product Development Process is by definition the process by which changes to software and services that are used in the T1Pal application and its supporting infrastructure.
 
 The complete Product Developmetn Process is composed of 5 phases.
-+ Phase 1:  Research and select specific changes to Standard Operating Procedures to capture in a modified system design.
-The deliverable for this phase is the requirements for the change to be made.
++ Phase 1:  Research and select specific changes to Standard Operating Procedures to capture in a modified system design.  The deliverable for this phase is the requirements for the change to be made.
 + Phase 2: Develop Software changes by modifying, deleteing, and/or adding code.  There are 6 steps in this phase:
     +  Cut a new feature branch for the change and do development on that feature branch.
     +  When ready, the developer puts the code on a shared developer branch (DEV) for team review and automated testing.
@@ -39,13 +38,15 @@ The deliverable for this phase is the requirements for the change to be made.
     +  fix or roll back software
 
 + Phase 4:  Release changes to production
-    +  go through release process to deploy code on servers
-    +  refer to standard operating procedure for release.
+    +  follow the release process to deploy code.
     +  if needed, update the SOP
+    +  if needed, update the support knowledge base.
 
 + Phase 5:  Post Market Surveillance
-    +  identify new features
-    +  identify and triage operations and bug fixs
+    +  address all of the outstanding bugs reported and assess relative value
+    +  address "pain-points" of current and prospective users.
+    +  address the features needed to enter new, adjacent markets
+    +  address features in the value chain (above and below) to address cost reductions and performance improvements.
 
 
 ## Responsibilities
