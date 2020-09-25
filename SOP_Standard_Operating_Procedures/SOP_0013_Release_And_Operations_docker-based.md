@@ -16,12 +16,12 @@ description: "SOP 0013 Docker Release and Operations"
 
 **T1Pal Code Repository**
 
-Any and all software released as part of T1Pal shall first be introduced to the T1Pal platform
-as a branch of the T1Pal github code repository.  It may be introduced in either of the following
+Any and all software released as part of T1Pal shall first be introduced to (i.e. created on) the T1Pal platform
+as a branch of the T1Pal github code repository.  All software is created first on either of the following
 two branches:  
 
-1. a <named> feature branch 
-2. a development branch
+1. <named> "**feature**" branch 
+2. "**development**" branch
 
 All T1Pal "code" goes into this github code repository.   
 By "code" we include the following artifacts:
