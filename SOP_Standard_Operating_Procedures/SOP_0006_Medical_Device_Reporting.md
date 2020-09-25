@@ -59,7 +59,7 @@ Any records containing confidential health information and not made publicly ava
 
 Since all records and changes to records are retained in perpetuity, records should never be lost.
 
- * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0004 Corrective and Preventive Action](https://github.com/ehwest/mdn_quality_system/blob/master/01_Standard_Operating_Procedures/SOP-0004_Corrective_And_Preventive_Action.md)
+ * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0004 Corrective and Preventive Action](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md)
  * The Github repository that archive Medical Data Networks documents (https://github.com/ehwest/mdn_qms) is cloned whenever any document is changed to the computers of all of the officers of Medical Data Networks. This ensures full recovery of the repository from any selected clone instance. 
 
 6. **Provision of Records to Customers.** 
