@@ -41,5 +41,11 @@ to operational cost, reliability, security, and performance requirements.
 
 Step-by-step procedures to manually create and utilize any external service shall be documented in the T1Pal development github repository in .md format.
 
+A "release" of new or changed software to production amounts to promoting the "staging" branch of the github repository to the "production" branch of the github repository.
+The production branch of the repository exactly matches the production software.   The "staging" branch of the github repository contains the tested final version to be promoted to production.   The "staging" branch is subject to extensive testing and is only available to operations staff.
+
+A "run-book" is a check-list style document (stored in the github repository) that provides all of the methods and procedures needed to promote a "staging" branch to the "production" branch and test for correct operation.   Testing of the run-book is also done in the staging environment.
+
+
 
 
