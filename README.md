@@ -16,13 +16,13 @@ description: "Medical Data networks Quality Management System"
 
 # Purpose
 
-This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver T1Pal software (...as a device).  
+This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver T1Pal software (...as an FDA device).  
 
 The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
 
 # Scope
 
-All documents that are a part of the Medical Data Networks LLC "Quality Management System" are "electronic records" as defined in FDA Part 11 regulations for the purposes of access, validation, audit, copying, and record retention. 
+All documents that are a part of the Medical Data Networks LLC "Quality Management System" are "electronic records" as defined in FDA Part 11 regulations for the purposes of access, validation, audit, copying, and record retention.  Any paper, letter, article, or other document relevant to this QMS that is received by Medical Data Networks shall be incorporated into this QMS as an electronic document.
 
 These QMS documents are stored in the private (and secured) root of a "github" repository owned and under control of the CEO of Medical Data Networks LLC. 
 
