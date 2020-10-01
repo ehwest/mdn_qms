@@ -20,22 +20,22 @@ This document provides a complete overview of the Quality Management System (QMS
 
 The present Quality Management System (QMS) is specifically designed to achieve and sustain the following goals.
 
-- [ ]  Registration of T1Pal with the FDA
-- [ ]  Meet FDA-defined "Special Controls" for T1Pal Operations
-- [ ]  Support "Appropriate Validations" for T1Pal as a device
-- [ ]  Implement certain "Quality Controls" needed to sustain T1Pal Operations.
+1. Registration of T1Pal with the FDA
+2. Meet FDA-defined "Special Controls" for T1Pal Operations
+3. Support "Appropriate Validations" for T1Pal as a device
+4. Implement certain "Quality Controls" needed to sustain T1Pal Operations.
 
 In this environment, **"Special Controls"** has been defined by the FDA as follows:
 
-- [ ]  Devices must protect against unauthorized access to and modification of data.
+    A. Devices must protect against unauthorized access to and modification of data.
 
-- [ ]  Device labeling must display the following warnings and limitations: 
+    B. Device labeling must display the following warnings and limitations: 
 
- 1.  **Dosing decisions should not be made based on this device.**
+        1.  **Dosing decisions should not be made based on this device.**
   
- 2.  **The user should follow instructions on the continuous glucose monitoring system.**
+        2.  **The user should follow instructions on the continuous glucose monitoring system.**
   
- 3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
+        3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
 
 Web-site content (and/or any distributed promotional information) for the T1Pal "device" 
