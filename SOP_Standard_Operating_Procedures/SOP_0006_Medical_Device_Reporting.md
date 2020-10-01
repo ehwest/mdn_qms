@@ -79,17 +79,18 @@ Baseline Reports must be updated annually (if information changes) on the firm's
 Manufacturers are required to submit, within one month after receipt any required information regarding deaths, serious injuries, and malfunctions that was not available to them when the initial report was submitted.
 
 **GENERAL MDR GUIDANCE**
+
 This document provides general guidance regarding the reporting of adverse events required by the Medical Device Reporting (MDR) Regulation.
 
-A. PER SE RULE
+**A. PER SE RULE**
 
 This requirement no longer exists. Therefore, the submission of an event by a health care professional does not require the manufacturer to report the event based solely on the statements of a health care professional. The event must meet the reporting criteria in MDR to qualify as a reportable event.
 
-B. REPORTING TIME FRAMES
+**B. REPORTING TIME FRAMES**
 
 Firms now have up to 30 CALENDAR days after they become aware of a device related death, serious injury or malfunction before they are required to submit a report to FDA.
 
-C. FIVE-DAY REPORTS
+**C. FIVE-DAY REPORTS**
 
 Five-day reports are required in two circumstances. 
 
@@ -97,7 +98,7 @@ First, they are required if a manufacturer becomes aware that a reportable event
 
 Second, five-day reports are required when a manufacturer becomes **aware of an MDR reportable event** for which FDA has requested a five-day report.
 
-D. NON-REPORTABLE EVENTS
+**D. NON-REPORTABLE EVENTS**
 
 Firms must submit MDR reports when the reported information reasonably **suggests an association** between one of its devices and a reportable **death, serious injury or malfunction**. 
 
@@ -128,7 +129,7 @@ In lieu of in-house or on-site qualified medical personnel or individuals qualif
 
 When reviewing a non-reportable event validate and document the credentials of the individual making these decisions as well as the decision not to report the event.
 
-E. INVESTIGATION
+**E. INVESTIGATION**
 
 Firms are required to investigate EVERY device related death, serious injury and malfunction in accordance with QS regulation, 820.198. 
 
@@ -136,15 +137,15 @@ Failure to comply with this provision is a violation of BOTH the QS regulation a
 
 Manufacturers are also required to VERIFY information on each form FDA 3500A as well as make a good faith effort to obtain information that is missing/not provided by the reporter. If the firm cannot obtain the missing information, the MDR complaint files shall contain an explanation of why the information could not be obtained as well as documentation of the firm's efforts to obtain the missing information.
 
-F. REASONABLY KNOWN INFORMATION
+**F. REASONABLY KNOWN INFORMATION**
 
 FDA considers information that can be obtained by contacting the reporter to be in the possession of a firm, and considers information that can be obtained by analysis, testing, or other evaluation of a device to be information that a firm is expected to REASONABLY know, obtain and report.
 
-G. REASONABLY KNOWN/GOOD FAITH EFFORT
+**G. REASONABLY KNOWN/GOOD FAITH EFFORT**
 
 A firm must demonstrate that it exercised "good faith" in any failed attempts to obtain required data that is missing, incorrect, or that FDA considers to be reasonably known. While the concept of good faith is generally considered to be equivalent to "due diligence", CDRH has not developed a standard. However, the firm's procedures for obtaining missing information should appear under the "Internal Systems" section of its written MDR procedures. In addition, the Center believes that the parameters of good faith effort must, at a minimum, comport with the level of risk/nature of the device associated with the event being investigated.
 
-H. SERIOUS INJURY
+**H. SERIOUS INJURY**
 
 The interpretation of what constitutes a serious injury can be subjective and complicate the enforcement of MDR. The "**unanticipated temporary impairment**" part of the former serious injury definition has been rescinded, thus alleviating a source of subjectivity. In addition, the requirements that intervention be "immediate" and the concept of "probability" have also been removed from the serious injury definition.
 
@@ -154,7 +155,7 @@ If there is no injury attributable to the device, then there is no serious injur
 
 The Center may decide to clarify the definition of serious injury. These categories will be provided to the field and the industry through MDR guidance documents and/or letters, as necessary.
 
-I. MALFUNCTIONS
+**I. MALFUNCTIONS**
 
 Malfunction reporting decisions have been the subject of concern by both industry and the FDA. Basically, a malfunction is **an event that is likely to cause or contribute to either a death or serious injury**, but some circumstance prevented the injury or death from occurring. These events are very important since they represent "potential" deaths or serious injuries and provide the Agency with the opportunity to be proactive in reducing risks. 
 
