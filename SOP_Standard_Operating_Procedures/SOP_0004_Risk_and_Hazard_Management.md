@@ -23,12 +23,12 @@ This Quality Management System is designed to meet or exceed the applicable ISO 
 The plans and practices outlined in these references are believed to be entirely contained in the specific definitions, Plans, and Risk Assessment Activities described below the reference section.
 If and/or when there is some difference in the references compared to to the QMS details following the references, the QMS documentation is authoritative and is used.
 ............................................................
-  1. [ISO 14971:2007](https://www.iso.org/standard/38193.html) ISO Medical Devices -- Application of risk management to medical devices later revised by [ISO 14971:2019](https://www.iso.org/standard/38193.html)
+  1. [ISO 14971:2019](https://www.iso.org/standard/72704.html) ISO Medical Devices -- Application of risk management to medical devices. 
   2. [ISO 13485:2016](https://www.iso.org/standard/59752.html) ISO Medical Devices -- Quality Management Systems -- Requirements for regulatory purposes.
   4. [21 CFR Part 820, US FDA Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820) -- FDA Code of Federal Regulations Title 21 -- Part 820 Quality System Regulation
-  5. Form SOP-0006-1 (TBD), Risk Management Plan
-  6. Form SOP-0006-2 (TBD), Device Characteristics
-  7. Form SOP-0006-3 (TBD), Risk Management Report
+  5. Form SOP-0004-1 (TBD), Risk Management Plan
+  6. Form SOP-0004-2 (TBD), Device Characteristics
+  7. Form SOP-0004-3 (TBD), Risk Management Report
 
 # Definitions
 
