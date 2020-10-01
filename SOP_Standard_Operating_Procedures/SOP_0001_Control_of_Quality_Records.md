@@ -19,13 +19,13 @@ This document establishes a standard method for completing, identifying, collect
 
 All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks LLC uses these mechanisms for digital storage:
 
-  * Google Gmail with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.  Google Gmail Service is provided for every Medical Data Networks LLC associate under the <user>@medicaldatanetworks.com user name.  All company business for all matters shall use that service for all email communications.
+  * **Google Gmail** with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.  Google Gmail Service is provided for every Medical Data Networks LLC associate under the <user>@medicaldatanetworks.com user name.  All company business for all matters shall use that service for all email communications.
  
-  * Google Docs (including Google Sheets, and related Google desktop applications) and Google Drive with unlimited Google Vault storage.  Google Docs is for use in communicating informal work in progress and/or draft documents.  It is not to be used for official baselined document management.
+  * **Google Docs** (including Google Sheets, and related Google desktop applications) and Google Drive with unlimited Google Vault storage.  Google Docs is for use in communicating informal work in progress and/or draft documents.  It is not to be used for official baselined document management.
   
-  * GitHub, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.  GitHub repositories --under control of Medical Data Networks LLC VPs and officers-- is the official repository for all software, instructions, and/or Quality Management System [mdn-qms](https://github.com/ehwest/mdn_qms) documents.
+  * **GitHub**, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.  GitHub repositories --under control of Medical Data Networks LLC VPs and officers-- is the official repository for all software, instructions, and/or Quality Management System [mdn-qms](https://github.com/ehwest/mdn_qms) documents.
   
-  *  Google Vault provides secure, encrypted storage of files, messages, conversations, and recordings.
+  *  **Google Vault** provides secure, encrypted storage of files, messages, conversations, and recordings.
 Google Vault will be relied on to retain, hold, search, and export data in support of T1Pal's retention and eDiscovery needs. 
  
 ## Electronic Signatures
