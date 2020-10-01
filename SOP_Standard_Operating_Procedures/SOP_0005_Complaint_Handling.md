@@ -1,17 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures"
+folder: "SOP_Standard_Operating_Procedures"
 title: "SOP_0005_Complaint_Handling.md"
-document_id: "SOP-0005"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "SOP 0005 Complaint Handling"
+approval_date: "2020-10-01"
 ---
 
 # Purpose
@@ -174,6 +169,4 @@ Reportable Events that result in Serious Injury will be reported to the appropri
 
     * The location of the initial distributor.
 
-SEE ALSO:
-61 FR 52654, Oct. 7, 1996, as amended at 69 FR 11313, Mar. 10, 2004; 71 FR 16228, Mar. 31, 2006; 78 FR 58822, Sept. 24, 2013
 
