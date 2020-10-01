@@ -61,5 +61,5 @@ Possible mechanisms for handling issues include (but are not limited to):
 
 ## Documentation
 
-All documentation regarding quality issues and corrective and preventive action are stored in Jira, Google Docs, Zendesk and GitHub in accordance with QMS procedures for Control of Quality Records.
+All documentation regarding quality issues and corrective and preventive action are stored in the company-owned  GitHub in accordance with QMS procedures for Control of Quality Records.
 
