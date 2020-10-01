@@ -15,11 +15,15 @@ This document and supporting references establish controls for access to all Med
 
 ## 2. Scope
 
-This applies to all medical and research software devices designed and developed by Medical Data Networks LLC.
+This applies to all medical and research software devices designed and developed by Medical Data Networks LLC.  Each of the key technologies for implementing electronic access controls is summarized below, consistent with VP and CEO requirements to implement comprehensive controls of access to all aspects of the T1Pal operations.  
 
-## 4. Tools
+It is the policy that all employees shall be provided the most limited and/or most restrictive access to at most the most narrow set of T1Pal systems and data consistent with the tasks assigned to them based on their specific company role.   In the event that such access requirements are temporary, access controls shall revert to their most restrictive state following temporary access use.
 
-The following tools are currently in use by Medical Data Networks LLC and all are secured from access by unauthorized individuals:
+Specific access permissions are under control of the T1DPal CEO, plus one other VP officer.   These individuals must specifically authorize all employee access settings.  Access to all infrastructure controls requires a company-issued PC/Laptop desktop password and SSH access to all other T1Pal test and production components.   Only the CEO may create and configure for use new cryptographic keys for use by others.
+
+It is the duty of each and every associate of T1Pal to report any exceptions to this policy to the CEO, and to facilitate any corrective actions.
+
+The following tools are currently in use by Medical Data Networks LLC so as to realize the above policy.
 
 ## Subscriber Side Access Controls
 
