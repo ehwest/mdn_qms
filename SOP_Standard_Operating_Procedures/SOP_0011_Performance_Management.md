@@ -1,17 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures"
-title: "SOP_0011_Performance_Management.md"
-document_id: "SOP-0011"
+folder: "SOP_Standard_Operating_Procedures"
+title: "SOP_0011_Performance_Management.mdd"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "Performance Management"
+approval_date: "2020-10-01"
 ---
 
 
