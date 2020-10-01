@@ -55,7 +55,7 @@ Possible mechanisms for handling issues include (but are not limited to):
 
 ## Dissemination of Information
 
- * All information will be disseminated to appropriate Medical Data Networks employees using email, Google Docs, Jira, Slack and/or Github.
+ * All information will be disseminated to appropriate Medical Data Networks employees using email, and/or a Github repository owned by Medical Data Networks LLC.
  
  * Management will review all relevant information. Decisions about corrective and preventive action to be taken in current or future activities will be documented as GIT repository issues. This information is also presented at Management Operations Review meetings.
 
