@@ -11,12 +11,12 @@ approval_date: "2020-10-01"
 
 ## Overview
 
-  1. This standard operating procedure establishes MDN&#39;s Medical Device Reporting (MDR) process and responsibilities under [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
-2.
+This standard operating procedure establishes MDN&#39;s Medical Device Reporting (MDR) process and responsibilities under [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
+
 ## Definitions
 
   1. Unless otherwise noted, all terms take on the meaning as defined in [SOP-0007 Complaint Handling](https://docs.google.com/document/d/1DcWocJumuyz08Apx0MkE6aZD6Zh0Hq9PdXOACBLskZU/edit) and [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
-3.
+
 ## Medical Device Reporting Policy
 
   1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
