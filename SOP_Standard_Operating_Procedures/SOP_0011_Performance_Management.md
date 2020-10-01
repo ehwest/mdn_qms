@@ -1,7 +1,7 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0011_Performance_Management.mdd"
+title: "SOP_0011_Performance_Management.md"
 authors:
 - github.com/ehwest
 approvers:
