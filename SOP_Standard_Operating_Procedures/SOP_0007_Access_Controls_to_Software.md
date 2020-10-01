@@ -19,7 +19,7 @@ This applies to all medical and research software devices designed and developed
 
 ## 4. Tools
 
-The following tools are currently in use by Medical Data Networks LLC:
+The following tools are currently in use by Medical Data Networks LLC and all are secured from access by unauthorized individuals:
 
 1.  **GitHub**. [GitHub](https://www.github.com/) is the sole tool for storage of all permanent documents, drawings, agreements, and software.   
 
@@ -52,19 +52,19 @@ No quality management system documents, or artifacts associated with any busines
 
 **Backups and disaster recovery**.
 
-1. All Google Drive contents are  backed up in Google Vault.
-2. All Google Drive and Google Vault backups are retained in perpetuity.
-3. All email is stored via Google Apps email and automatically backed up in Google Vault and is retained in perpetuity (including deleted emails).
-4. Redundant and duplicative distribution of GitHub-based repositories are retained on the primary computers of all officers, developers, and engineers.  This eliminates the need for a separate and independent back up system.  All of the software, documents, etc. are stored in the distributed GitHub-based system.
+1. All Google Drive contents are  backed up in Google Vault.  Two-factor authentication is required for all access.
+2. All Google Drive and Google Vault backups are retained in perpetuity.   Two-factor authentication is required for access.
+3. All email is stored via Google Apps email and automatically backed up in Google Vault and is retained in perpetuity (including deleted emails). Two-factor authentication is required for access.
+4. Redundant and duplicative distribution of GitHub-based repositories are retained on the primary computers of all officers, developers, and engineers.  This eliminates the need for a separate and independent back up system.  All of the software, documents, etc. are stored in the distributed GitHub-based system.  Single-factor authentication is required for access.  Two-factor authentication is required to read or publish changes in staging and production environments.
 
 
 ## Design and Development Planning
 
 1. Reference 21 CFR 820.30 (b): Design and development planning. 
 
-Each manufacturer shall establish and maintain plans that describe or reference the design and development activities and define responsibility for implementation. The plans shall identify and describe the interfaces with different groups or activities that provide, or result in, input to the design and development process. The plans shall be reviewed, updated, and approved as design and development evolves.
+"Each manufacturer shall establish and maintain plans that describe or reference the design and development activities and define responsibility for implementation. The plans shall identify and describe the interfaces with different groups or activities that provide, or result in, input to the design and development process. The plans shall be reviewed, updated, and approved as design and development evolves."
 
-2. **Design and Development Planning Activities.** Medical Data Networks uses an iterative, agile development process. Design planning and development is an ongoing activity; all related activity is captured and documented on Jira issues.. Planning, design input, design output, review and testing activities may all occur at any time. These activities are described below in Section 7, Design and Development Activities.
+Medical Data Networks uses an iterative, agile development process. Design planning and development is an ongoing activity; all related activity is captured and documented on the corporate github repository. Planning, design input, design output, review and testing activities may all occur at any time. These activities are described below in Section 7, Design and Development Activities.
 
 ## Design and Development Activities
 
@@ -77,12 +77,6 @@ Each manufacturer shall establish and maintain plans that describe or reference 
 1. **User interface design**. User Interface designs are documented and stored in Google Drive. All designs are available for public inspection. Only Medical Data Networks employees can make changes to User Interface design documents. All revisions to design documents are maintained indefinitely by Google Drive and available at all times.
 
 2. **Software design**. Where appropriate, software designs, including revisions to the designs, are documented in GitHub in the relevant repository. Other architecture documents may be stored in GitHub or Google Drive and will be linked to Jira issues. Software design may also be documented in the source code itself. All software design documentation including all revisions is maintained indefinitely in GitHub and Google Drive.
-
-**Development Activities.**
-
-1. **Development Tools**. See section 5.
-
-2. **GitHub repositories.** 
 
 Most GitHub repositories represent an area of software functionality that is exposed to end users. Some repositories provide common functionality or test frameworks that may not be exposed to end users. 
 
