@@ -1,21 +1,17 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures"
-title: "SOP_0007 Access Controls for Software -- GitHub Utilization"
-document_id: "SOP-0007"
+folder: "SOP_Standard_Operating_Procedures"
+title: "SOP_0007_Access_Controls_to_Software.md"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "SOP 0007 Access controls for Software -- Github Utilization"
+approval_date: "2020-10-01"
 ---
+
 ## 1. Purpose
 
-This document and supporting references establish a standard operating procedure for the design and development of new, or redesign of existing, Medical Data Networks software and its release to market.
+This document and supporting references establish controls for access to all Medical Data Networks LLC software and any assemblies of software or configuration data supporting the T1Pal service (as a device).
 
 ## 2. Scope
 
@@ -23,7 +19,7 @@ This applies to all medical and research software devices designed and developed
 
 ## 4. Tools
 
-The following tools are currently in use by Medical Data Networks:
+The following tools are currently in use by Medical Data Networks LLC:
 
 1.  **GitHub**. [GitHub](https://www.github.com/) is the sole tool for storage of all permanent documents, drawings, agreements, and software.   
 
@@ -31,7 +27,7 @@ All software for all components, regardless of their provenance or use, is store
 
 This specifically includes all documents related to Medical Data Networks' quality management system, and includes all open-sourced and/or commercial software components.  GitHub also maintains a complete set of components applicable to the several different versions of software:  Production, Staging, and Development.   
 
-Because GitHub is a distributed storage system, the computers used by all of the company officers, and software developers, and engineers is configured to store and access the complete set of GitHub repositories used by the firm.   Therefore, no specific backup resource or procedure --outside of GitHub-- is needed or used.
+Because GitHub is a distributed storage system, the computers used by all of the company officers, and software developers, and engineers is configured to store and access the complete set of GitHub repositories used by the firm.   Therefore, no specific backup resource or procedure --outside of GitHub-- is needed or used when the number of copies of company Github repositories exceeds 2.
 
 This approach enables each and every authorized employee and/or contractor to review the current, planned, and past revision history on all documents, software, and records.
 
@@ -104,6 +100,7 @@ For some products (such as the Medical Data Networks Uploader), tags may only us
 
 Software is typically only deployed from a tag created on the Master branch of a repository. Only in the rare case of an urgent/important &quot;hotfix&quot; will be a deployment be made from a tag created on a branch other than Master. That fix will later be incorporated into Master.
 
+
 **Software Development**
 
 Software developers develop, modify and test software on their local development workstation. 
@@ -123,6 +120,7 @@ For all non-trivial changes, the software developer must seek review from anothe
 1. **Regular updates**. Medical Data Networks software may be deployed at any time. Verification activities are conducted for each Jira issue (see sections 11 and 12 below). Validation activities are conducted for each new product released.
 
 2. **Approval and Deployment (Design Transfer to Production)**. Deployment to production of customer-facing functionality must be approved by a VP-level employee or the CEO.
+
 
 ## Design Input
 
