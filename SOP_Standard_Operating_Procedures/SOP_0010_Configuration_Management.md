@@ -1,17 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures"
+folder: "SOP_Standard_Operating_Procedures"
 title: "SOP_0010_Configuration_Management.md"
-document_id: "SOP-0010"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "Configuration Management"
+approval_date: "2020-10-01"
 ---
 
 Configuration files shall be used in every software design used and developed by Medical Data Networks LLC.  The intent with this use of configuration files
