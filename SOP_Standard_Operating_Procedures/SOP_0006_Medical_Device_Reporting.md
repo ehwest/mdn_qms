@@ -28,6 +28,7 @@ A "reportable event" means:
 
 * (ii) Has malfunctioned and that the device or a similar device marketed by the manufacturer or importer would be **likely to cause or contribute to a death or serious injury** if the malfunction were to recur.
 
+Note that as Medical Data Networks LLC provides only one product "T1Pal" that is defined as a "secondary display" -- not labeled for theraputic use,  and not labeled for any use when a primary display is not available or otherwise inoperable,  T1Pal softwarecannot --by definition-- contribute to a death or serious injury on its own.
 
 ## Summary of Medical Device Reporting Policy
 * 1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
