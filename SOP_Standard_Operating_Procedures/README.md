@@ -6,8 +6,7 @@ authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-approval_date: "2020-08-24"
-description: "Standard Operating Procedures (SOP)"
+approval_date: "2020-10-01"
 ---
 
 
