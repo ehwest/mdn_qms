@@ -23,7 +23,7 @@ The present Quality Management System (QMS) is specifically designed to achieve 
 1. Registration of T1Pal with the FDA
 2. Meet FDA-defined "Special Controls" for T1Pal Operations
 3. Support "Appropriate Validations" for T1Pal as a device
-4. Implement certain "Quality Controls" needed to sustain T1Pal Operations.
+4. Implement certain "Special Controls" needed to sustain T1Pal Operations.
 
 In this environment, **"Special Controls"** has been defined by the FDA as follows:
 
