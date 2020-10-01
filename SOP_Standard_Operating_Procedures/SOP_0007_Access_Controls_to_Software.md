@@ -25,7 +25,7 @@ The following tools are currently in use by Medical Data Networks LLC and all ar
 
 1.  **postgres Database**.
 
-This database is referenced for comparison of subscriber-provided login and password credentials to credentials on record for such subscribers.
+This database is referenced for comparison of encrypted subscriber-provided login and password credentials to credentials on record for such subscribers.
 The database is accessible only to certified other software components for query and retrieval of subscriber settings.  Subscribers provide their credentials by submitting a form secured by SSL security encryption methods.
 
 2. Semi-permanent network settings and network routing rules prevent subscribers from accessing data or configuration settings of any other subscriber.
