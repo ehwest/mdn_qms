@@ -17,6 +17,8 @@ This procedure defines the risk management activities required, including criter
 
 This procedure applies to all products developed by Managed Data Networks.
 
+It should be generally understood that ALL references to manufactured "device" or "devices" mentioned in the sections below are applicable to services delivered by SOFTWARE operating on one or more compute environments operated by Medical Data Networks, LLC.  Medical Data Networks LLC does not manufacture tangible devices, but rather is leveraging the FDA approach to define "software applications" as manufactured devices, subject to rules and regulations of devices, where possible.
+
 # References
 
 This Quality Management System is designed to meet or exceed the applicable ISO standards for Quality Management Systems, and Risk Management standards found in the following references.
