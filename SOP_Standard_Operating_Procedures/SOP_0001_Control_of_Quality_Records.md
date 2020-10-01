@@ -1,17 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures"
+folder: "SOP_Standard_Operating_Procedures"
 title: "SOP_0001_Control_of_Quality_Records.md"
-document_id: "SOP-0001"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "Control of Quality Records"
+approval_date: "2020-10-01"
 ---
 
 # Control of Quality Records
