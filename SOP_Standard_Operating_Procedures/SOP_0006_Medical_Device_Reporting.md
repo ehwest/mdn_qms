@@ -18,6 +18,16 @@ This standard operating procedure establishes MDN&#39;s Medical Device Reporting
 
 Unless otherwise noted, all terms take on the meaning as defined in [SOP-0007 Complaint Handling](https://docs.google.com/document/d/1DcWocJumuyz08Apx0MkE6aZD6Zh0Hq9PdXOACBLskZU/edit) and [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
 
+A "reportable event" means:
+
+1. An event that user facilities become aware of that reasonably suggests that a device has or may have caused or contributed to **a death or serious injury** or
+
+2. An event that manufacturers or importers become aware of that reasonably suggests that one of their marketed devices:
+
+* (i) May have caused or contributed to a death or serious injury, or
+
+* (ii) Has malfunctioned and that the device or a similar device marketed by the manufacturer or importer would be **likely to cause or contribute to a death or serious injury** if the malfunction were to recur.
+
 
 ## Summary of Medical Device Reporting Policy
 * 1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
