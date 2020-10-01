@@ -1,17 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures"
-title: "SOP_0013_Docker_Release_and_Operations.md"
-document_id: "SOP-0013"
+folder: "SOP_Standard_Operating_Procedures"
+title: "SOP_0013_Release_And_Operations_docker-based.md"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "SOP 0013 Docker Release and Operations"
+approval_date: "2020-10-01"
 ---
 
 **T1Pal Code Repository and the Gitflow Process**
