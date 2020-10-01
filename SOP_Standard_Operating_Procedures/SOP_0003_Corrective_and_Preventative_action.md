@@ -1,17 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures"
+folder: "SOP_Standard_Operating_Procedures"
 title: "SOP_0003_Corrective_and_Preventative_action.md"
-document_id: "SOP-0003"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "Corrective and Preventative Action"
+approval_date: "2020-10-01"
 ---
 
 
