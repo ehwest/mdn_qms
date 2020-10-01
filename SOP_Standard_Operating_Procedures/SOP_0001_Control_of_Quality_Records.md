@@ -66,9 +66,7 @@ Where contractually specified, in accordance with regulatory requirements, or at
 
 ## Provision of Records to Auditors or Government Agencies
 
-Where applicable, quality records will be provided for examination during normal company operating hours at the request of an authorized quality systems auditor or government agency representative.   A tool of the github repository is provided for creating a PDF export of the documents within the quality management system.   
-
-However, the authoritative documents are retained within the github repository, and all printed documents and/or abstracts are uncontrolled documents.
+Where applicable, quality records will be provided for examination during normal company operating hours at the request of an authorized quality systems auditor or government agency representative.   A tool of the github repository is provided for creating a PDF export of the documents within the quality management system.  However, the authoritative documents are retained within the github repository, and all printed documents and/or abstracts are uncontrolled documents.   Records or reports based on records shall be made available to lawful Government Agencies, subject to the following rules:
 
  * Internal Audit Reports, Supplier Audit Reports, and Management Review Minutes are not available for review by US FDA, according to 21 CFR 820.180(c), but may be reviewed by other regulatory agencies, as required.
  
