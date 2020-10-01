@@ -23,10 +23,9 @@ The name of each file in this folder is intended to convey the subject matter wi
 The numbering scheme and the ordering of these files is NOT intended to represent anything more than a convenient tool for reference purposes.
 
 
-## References
+## Included by Reference
 
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13) -- this is an enumeration of requirements to maintain device master records, device history records, and quality system records that include complaint files and handling.  The requirements of this section as applied to T1Pal software as a device are hereby incorporated.
-2. ISO 13485:2016 Clause 4.2.5
+1. [FDA 21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13) -- is an enumeration of requirements applicable to the Medical Data Networks Quality Management System.  This section addresses device master records, device history records, and quality system records that include complaint files and handling.  The requirements of this section as applied to T1Pal software as a device are hereby incorporated.
 
 ## Responsibilities
 
