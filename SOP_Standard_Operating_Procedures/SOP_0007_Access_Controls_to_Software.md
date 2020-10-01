@@ -80,9 +80,13 @@ No quality management system documents, or artifacts associated with any busines
 
 ## Design and Development Planning
 
-1. Reference 21 CFR 820.30 (b): Design and development planning. 
+It is the policy of T1Pal to align with "FDA 21 CFR 820.30 (b)"  with respect to design and development planning:
 
-"Each manufacturer shall establish and maintain plans that describe or reference the design and development activities and define responsibility for implementation. The plans shall identify and describe the interfaces with different groups or activities that provide, or result in, input to the design and development process. The plans shall be reviewed, updated, and approved as design and development evolves."
+"Each manufacturer shall establish and maintain plans that describe or reference the design and development activities and define responsibility for implementation. 
+
+The plans shall identify and describe the interfaces with different groups or activities that provide, or result in, input to the design and development process. 
+
+The plans shall be reviewed, updated, and approved as design and development evolves."
 
 Medical Data Networks uses an iterative, agile development process. Design planning and development is an ongoing activity; all related activity is captured and documented on the corporate github repository. Planning, design input, design output, review and testing activities may all occur at any time. These activities are described below in Section 7, Design and Development Activities.
 
