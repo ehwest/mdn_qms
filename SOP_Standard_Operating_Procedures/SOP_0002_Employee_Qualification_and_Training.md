@@ -1,22 +1,17 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures/"
+folder: "SOP_Standard_Operating_Procedures"
 title: "SOP_0002_Employee_Qualification_and_Training.md"
-document_id: "SOP_0002"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "Employee_Qualification_and_Training"
+approval_date: "2020-10-01"
 ---
 
 ## Purpose
 
-To establish a standard method for documenting employee training in Company procedures and policies, and to implement and document employee job requirements, qualifications and training programs at Medical Data Networks.
+This document establishes the standard method for documenting employee training in Company procedures and policies, and to implement and document employee job requirements, qualifications and training programs at Medical Data Networks.
 
 ## Scope
 
