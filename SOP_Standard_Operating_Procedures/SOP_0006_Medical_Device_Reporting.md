@@ -21,7 +21,6 @@ Unless otherwise noted, all terms take on the meaning as defined in [SOP-0007 Co
 
 ## Medical Device Reporting Policy
 1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
-
   A. within 5 days of becoming aware that a Reportable Event requires remedial action to prevent an unreasonable risk of substantial harm to the public health;
   B. within 5 days of becoming aware of a reportable event for which the FDA has made a written request;
   C. within 30 days after becoming aware of a reportable death, serious injury, or reportable malfunction.
