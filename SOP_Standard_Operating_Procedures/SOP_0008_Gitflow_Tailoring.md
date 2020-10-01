@@ -1,17 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "mdn_qms/SOP_Standard_Operating_Procedures"
-title: "SOP_0008 Gitflow Tailoring"
-document_id: "SOP-0008"
+folder: "SOP_Standard_Operating_Procedures"
+title: "SOP_0008_Gitflow_Tailoring.md"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "Control of Quality Records"
+approval_date: "2020-10-01"
 ---
 
 
