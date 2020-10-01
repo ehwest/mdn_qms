@@ -31,9 +31,11 @@ Unless otherwise noted, all terms take on the meaning as defined in [SOP-0007 Co
   
   
 ## Detailed Requirements:
-Manufacturers must submit death, serious injury, and malfunction reports within 30 days after they become aware of a reportable event.
-The information can come from any source.
+
 Devices that "may have caused or contributed" to a death or serious injury; or a malfunction that would be likely to cause or contribute to a death or serious injury must be reported.
+
+Medical Data Networks LLC must submit death, serious injury, and malfunction reports within 30 days after they become aware of a reportable event.
+The information can come from any source.
 
 **Reasonably known:**
 
