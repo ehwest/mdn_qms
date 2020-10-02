@@ -1,16 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "PD"
-title: "PD_0001_T1PAL_PRODUCT_REQUIREMENTS.md"
-document_id: "PD_0001"
+folder: "PD_Product_Definition"
+title: "PD_0006_HIPPA_Compliance_Statement"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "T1Pal Product Requirements"
+approval_date: "2020-10-01"
 ---
 
 
