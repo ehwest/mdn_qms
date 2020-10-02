@@ -1,17 +1,14 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "PD"
+folder: "PD_Product_Definition"
 title: "PD_0002_Intended_Use.md"
-document_id: "PD_0002"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "T1Pal Intended Use"
+approval_date: "2020-10-01"
 ---
+
 
 ## T1Pal Definitive List of Intended Use Cases
 
