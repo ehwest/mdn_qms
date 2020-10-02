@@ -32,11 +32,11 @@ Google Vault will be relied on to retain, hold, search, and export data in suppo
 
  * Records requiring signature approval per above shall be digitally signed with text similar to &quot;Approved. /s/ Name Of Approver, YYYY-MM-DD&quot;.
  
- * Digital signatures must be made with accounts that are authenticated by all three means: 1) unique username/email, 2) password 3) Two-Factor Authentication via mobile device.
+ * Digital signatures must be affixed to documents by the electronically-authenticated user and no delegation of authority is allowed.  Authentication for access to quality records for the purpose of editing or update shall be authenticated by all three means: 1) unique username/email, 2) password 3) Two-Factor Authentication via mobile device.
  
  * Digital signatures must only be made by the actual person associated with the authentication credentials, and only over secure connections using https, TLS or SSL.
  
- * Medical Data Networks tools that currently meet these requirements include: Gmail, Google Docs and GitHub.
+ * Medical Data Networks tools that currently meet these requirements include: Gmail, Google Docs, Google Valult and GitHub.
 
 ## Date and Time Marks
 
