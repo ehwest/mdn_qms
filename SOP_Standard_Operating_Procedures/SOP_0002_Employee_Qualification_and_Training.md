@@ -32,11 +32,10 @@ The following associates are also included in the scope of this document:
 
 ## Responsibilities
 
-* The management function at Medical Data Networks is responsible for:
+* The management at Medical Data Networks is responsible for:
   * Maintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
-  * The development, review and approval of employee job descriptions, and training requirements.
-  * Aassuring that the requirements of this procedure are met.
-  * All employees are responsible for completing all training and maintaining an individual training file.
+  * Developing, reviewing, and improving employee job descriptions, and training requirements.
+  * Completing all training and maintaining an individual training file.
 
 ## Procedure
 
@@ -59,11 +58,11 @@ The following associates are also included in the scope of this document:
 
  *  Self-training: training that can be initiated by the recipient by reading instructions or materials.
  
- * Group/classroom training: more formal training conducted by a trainer.
+ *  Group/classroom training: more formal training conducted by a trainer.
  
- * On-the-job training: training that takes place with a qualified trainer during the performance of an actual process. Consequences and outcomes of improper performance of employees&#39; jobs to product quality or service will be emphasized during training.
+ *  On-the-job training: training that takes place with a qualified trainer during the performance of an actual process. Consequences and outcomes of improper performance of employees&#39; jobs to product quality or service will be emphasized during training.
  
- * Training curriculum and presentation materials that are used with groups or used multiple times may be developed, reviewed and approved in accordance with the QMS document control procedures.
+ *  Training curriculum and presentation materials that are used with groups or used multiple times may be developed, reviewed and approved in accordance with the QMS document control procedures.
 
 ### Training Records and File
 * A record is maintained for each employee&#39;s training. Required training is documented and updated as needed when an employee&#39;s roles and responsibilities change due to job changes or when new responsibilities are added to a job description. Training to new or revised quality system documents are also documented.
@@ -90,7 +89,7 @@ For example, New Employee Orientation training materials may be given a QMS docu
 
  *  New Employee Orientation is completed within the first month of employment.
  
- * A "Medical Data Networks New Employee and Consultant Onboarding Checklist" is completed and stored on an internal Google Drive folder for new employees, consultants and contractors that have an @medicaldatanetworks.com email address.
+ *  A "Medical Data Networks New Employee and Consultant Onboarding Checklist" is completed and stored on an internal Google Drive folder for new employees, consultants and contractors that have an @medicaldatanetworks.com email address.
  
  * New employee orientation includes overviews of the following topics:
  
