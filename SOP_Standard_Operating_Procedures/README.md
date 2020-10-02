@@ -11,7 +11,13 @@ approval_date: "2020-10-01"
 
 ## Overview
 
-This standard operating procedure establishes MDN&#39;s Medical Device Reporting (MDR) process and responsibilities under [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
+This document together with direct links to other documents is a description of the baselined Quality Management System that must be followed by all associates of Medical Data Networks, LLC company.   The goal of this Quality Management system is to ensure that company associates meet or exeed all of the requirements for planning, manufacturing, validation, certification of (software) devices manufactured by Medical Data Networks LLC.  
+
+In addition, this Quality Management System outlines agreed responsibilities for reporting to the FDA certain events and related information proscribed by the FDA hare:  [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
+
+It is the responsibility of all associates, employees, and officers of the company to align their activities with this Quality Management System.  The identification of "Corrective Actions" and follow-on work of company officers will be used to address non-compliance as may be needed to strengthen allignment with this Quality Management System over time.
+
+It should be noted that this Quality Management System is captured in a "github" repository (md_qms) together with a broad range of supporting documents and templates that are expected to be used in the course of business for all Medical Data Networks LLC associates and/or employees and/or contractors.
 
 ## Definitions
 
@@ -23,7 +29,7 @@ It is a key objective of Medical Data Networks LLC to understand and comply with
 
 The requirements for Medical Data Networks LLC are clear and described in detail in [SOP_0006 Medical Device Reporting] (https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0006_Medical_Device_Reporting.md )
 
-The requirements are summarized here:
+The requirements are repeated here:
 
   1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
     1. within 5 days of becoming aware that a Reportable Event requires remedial action to prevent an unreasonable risk of substantial harm to the public health;
