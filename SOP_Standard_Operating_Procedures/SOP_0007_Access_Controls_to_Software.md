@@ -68,8 +68,6 @@ are each used only informally as an aid to intra company communications.
 
 No quality management system documents, or artifacts associated with any business process are permanently stored on Google Docs.  All authoritative and/or permant documents are retained in the appropriate GitHub repository.
 
-**Software Reliability Estimator (SRE)**. [SRE](https://github.com/ehwest/sre)  is a containerized software tool that is used to estimate the Software Reliability of all major releases of services and/or software code, prior to public release.  this tool computes the parameters of a statistical model of all issues that have emerged in the preparation of a software release, enabling a reliable reliability estimate to be computed.   In the event the SRE results fall below pre-defined standards, additional testing will be required prior to software release to the public.
-
 ## Backups and disaster recovery
 
 1. All Google Drive contents are  backed up in Google Vault.  Two-factor authentication is required for all access.
