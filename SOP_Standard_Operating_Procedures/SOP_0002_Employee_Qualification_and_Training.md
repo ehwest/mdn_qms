@@ -15,8 +15,7 @@ This document establishes the standard method for documenting employee training 
 
 ## Scope
 
-1. These rules apply to all procedures and policies related to the Medical Data Networks quality management system.
-2. These rules apply to full-time, part-time,  temporary employees, contractors,  consultants, and company founders holding an ownership share of Medical Data Networks LLC and a title of VP, CEO, or Cxx (where xx includes all Chief.. assignments.
+These rules apply to all operators of T1Pal and/or related infrastructure services.
 
 The following associates are also included in the scope of this document:
 
