@@ -1,17 +1,13 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "PD"
+folder: "PD_Product_Definition"
 title: "README.md"
-document_id: ""
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "(PD) T1Pal Product Definition"
----
+approval_date: "2020-10-01"
+-----
 
 
 ## Purpose
