@@ -50,15 +50,15 @@ This github repository is used to support authentication, labelling of meta data
 
 Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  
 
-Any records containing confidential health information and not made publicly available and are kept in internally-only folders on the github repository, and configured within github to limit access to authorized users. 
-
 ## Lost Documents and Disaster Recovery
 
 Since all records and changes to records are retained in perpetuity, records should never be lost.
 
  * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0003 Corrective and Preventive Action](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md)
  
- * The Github repository that archives [Medical Data Networks documents](https://github.com/ehwest/mdn_qms) is cloned whenever any document is changed to the computers of all of the officers of Medical Data Networks. This ensures full recovery of the repository from any selected clone instance. 
+Source code is retained in a distributed GitHub repository that is inherently backedup by the number of cloned copies of the data.
+
+Customer records in databases are maintained in dedicated Linux Volumes that are subject to snapshots being taken daily.
 
 ## Provision of Records to Customers
 
@@ -70,7 +70,7 @@ Where applicable, quality records will be provided for examination during normal
 
  * Internal Audit Reports, Supplier Audit Reports, and Management Review Minutes are not available for review by US FDA, according to 21 CFR 820.180(c), but may be reviewed by other regulatory agencies, as required.
  
- * For any audits performed by the US FDA, it is the policy of Medical Data Networks that an employee with executive responsibility will provide a written statement that the management reviews, quality audits and supplier audits were performed and documented. This statement will include the dates on which they were performed, and a statement that any required corrective action has been undertaken according to Medical Data Networks&#39;s Corrective and Preventive Action procedure.
+ * Medical Data Networks LLC officers will provide records of T1Pal operations as needed, and will make themselves available as needed to support any investigation.
  
  * A copy of an associated log or schedule (e.g., internal audit log, management review schedule, supplier audit schedule) may be provided as proof that the activities were performed.
  
