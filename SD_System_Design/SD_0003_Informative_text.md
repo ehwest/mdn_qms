@@ -1,16 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "SD"
-title: "SD_0001_Drawings.md"
-document_id: "SD_0001"
+folder: "SD_System_Designn"
+title: "SD_0003_Informative_text.md"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "system Drawings"
+approval_date: "2020-10-01"
 ---
 
 
