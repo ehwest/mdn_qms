@@ -2,15 +2,11 @@
 repository: "github.com/ehwest/mdn_qms"
 folder: "SD_System_Design"
 title: "README.md"
-document_id: ""
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "(SD Representative Artifacts of the System Design (SD)"
+approval_date: "2020-10-01"
 ---
 
 # System Design
