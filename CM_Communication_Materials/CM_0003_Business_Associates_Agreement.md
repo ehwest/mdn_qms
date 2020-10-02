@@ -1,17 +1,14 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "CM"
-title: "CM_0003_Buisness_Asspcoate_Agreement"
-document_id: "CM_0003"
+folder: "CM_Communication_Materials"
+title: "CM_0003_Business_Associates_Agreement.md"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "Annual Notification to Employees"
+approval_date: "2020-10-01"
 ---
+
 
 
 Hello Medical Data Networks Team!
