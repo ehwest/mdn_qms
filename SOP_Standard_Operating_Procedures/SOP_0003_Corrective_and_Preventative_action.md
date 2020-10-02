@@ -54,5 +54,5 @@ At the discretion of Medical Data Networks management or employees, non-conformi
 
 ## Documentation
 
-All documentation regarding quality issues and corrective and preventive action are stored in the company-owned  GitHub in accordance with QMS procedures for Control of Quality Records.
+All documentation regarding quality issues and corrective and preventive action are stored in the a document that is saved as a Google Sheets document and/or in the Development github "issues" data store.
 
