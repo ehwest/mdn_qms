@@ -1,18 +1,13 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "RM"
+folder: "RM_Reference_Materials"
 title: "README.md"
-document_id: ""
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "RM Reference Materials"
+approval_date: "2020-10-01"
 ---
-
 
 ## Purpose
 
