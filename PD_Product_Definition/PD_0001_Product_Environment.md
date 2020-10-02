@@ -1,17 +1,13 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "PD"
-title: "PD_0001_Product_Environment.md"
-document_id: "PD_0001"
+folder: "PD_Product_Definition"
+title: "PD_0001_Product_Environment"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "Product Environment Information"
----
+approval_date: "2020-10-01"
+-----
 
 
 # Product Environment Information
