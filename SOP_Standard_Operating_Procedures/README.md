@@ -36,7 +36,7 @@ The requirements are summarized here:
      * b. within 5 days of becoming aware of a reportable event for which the FDA has made a written request;
      * c. within 30 days after becoming aware of a reportable death, serious injury, or reportable malfunction.
   2. If it becomes necessary for MDN to file an MDR, it will be done so electronically following instructions from here: [https://www.fda.gov/ForIndustry/FDAeSubmitter/ucm108165.htm](https://www.fda.gov/ForIndustry/FDAeSubmitter/ucm108165.htm)
-  3. Documentation for MDRs will be maintained according to [SOP-0002 Control of Quality Records](https://docs.google.com/document/d/11CaVJcIHQPp6gvABqF2QZAErC3ewIbw1SPJO8AEm7Y0/edit).
+  3. Documentation for MDRs will be maintained according to [SOP-0002 Control of Quality Records](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0002_Employee_Qualification_and_Training.md).
 
 ## Responsibilities
 
