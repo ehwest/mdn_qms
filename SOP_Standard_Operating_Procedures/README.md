@@ -25,7 +25,7 @@ Unless otherwise noted, all terms take on the meaning as defined in [SOP_0005 Co
 
 ## Medical Device Reporting Policy
 
-It is a key objective of Medical Data Networks LLC to understand and comply with all regulations of the FDA.  
+It is a key objective of Medical Data Networks LLC to understand and comply with all regulations of the FDA applicable to the software and services provided by Medical Data Networks, and in particular its service "T1Pal".  
 
 The requirements for Medical Data Networks LLC are clear and described in detail in [SOP_0006 Medical Device Reporting] (https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0006_Medical_Device_Reporting.md )
 
