@@ -1,21 +1,12 @@
 ---
-repository: "github.com/ehwest/mdn_quality_system"
-folder: "03_Reference Materials"
-title: "REF-0001_Government_Identity_Information"
-document_id: "REF-0001"
+repository: "github.com/ehwest/mdn_qms"
+folder: "RSA_Regulatory_Support_Artifacts"
+title: "REF-0001_Government_Identity_Information.md"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-07-18"
-effective_date: "2020-07-18"
-content_type: concept
-description: "Identity Reference Records"
-weight: 20
-card:
-  name: concepts
-  weight: 20
+approval_date: "2020-10-01"
 ---
 
 US Food &amp; Drug
