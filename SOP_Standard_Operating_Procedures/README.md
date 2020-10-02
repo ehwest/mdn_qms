@@ -23,21 +23,6 @@ It should be noted that this Quality Management System is captured in a "github"
 
 Unless otherwise noted, all terms take on the meaning as defined in [SOP_0005 Complaint Handling](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0005_Complaint_Handling.md) and [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
 
-## Medical Device Reporting Policy
-
-It is a key objective of Medical Data Networks LLC to understand and comply with all regulations of the FDA applicable to the software and services provided by Medical Data Networks, and in particular its service "T1Pal".  
-
-The requirements for Medical Data Networks LLC are clear and described in detail in [SOP_0006 Medical Device Reporting] (https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0006_Medical_Device_Reporting.md )
-
-The requirements are summarized here:
-
-  1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
-     * a. within 5 days of becoming aware that a Reportable Event requires remedial action to prevent an unreasonable risk of substantial harm to the public health;
-     * b. within 5 days of becoming aware of a reportable event for which the FDA has made a written request;
-     * c. within 30 days after becoming aware of a reportable death, serious injury, or reportable malfunction.
-  2. If it becomes necessary for MDN to file an MDR, it will be done so electronically following instructions from here: [https://www.fda.gov/ForIndustry/FDAeSubmitter/ucm108165.htm](https://www.fda.gov/ForIndustry/FDAeSubmitter/ucm108165.htm)
-  3. Documentation for MDRs will be maintained according to [SOP_0001_Control_of_Quality_Records](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0001_Control_of_Quality_Records.md).
-
 ## Responsibilities
 
 1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
