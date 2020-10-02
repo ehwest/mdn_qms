@@ -19,6 +19,12 @@ This standard operating procedure establishes MDN&#39;s Medical Device Reporting
 
 ## Medical Device Reporting Policy
 
+It is a key objective of Medical Data Networks LLC to understand and comply with all regulations of the FDA.  
+
+The requirements for Medical Data Networks LLC are clear and described in detail in [SOP_0006 Medical Device Reporting] (https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0006_Medical_Device_Reporting.md )
+
+The requirements are summarized here:
+
   1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
     1. within 5 days of becoming aware that a Reportable Event requires remedial action to prevent an unreasonable risk of substantial harm to the public health;
     2. within 5 days of becoming aware of a reportable event for which the FDA has made a written request;
