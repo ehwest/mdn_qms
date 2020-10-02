@@ -81,7 +81,9 @@ An injury that:
   
      * preclude permanent impairment of a body function or permanent damage to body structure or 
     
-     *relieve unanticipated temporary impairment of a body function or unanticipated temporary damage to body structure. Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device.
+     * relieve unanticipated temporary impairment of a body function or unanticipated temporary damage to body structure. 
+     
+Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device.
 
 ### User Communication: 
 
@@ -89,24 +91,17 @@ Any contact (phone, email, support ticket, website inquiry, in person) from a us
 
 ## Complaint Handling Policy
 
-Medical Data Networks LLC may receive Complaints through any form of User Communication.
-
-All Complaints will be submitted to, or forwarded to Medical Data Networks LLC's Support team within 1 business day.
-
-This is accomplished when a support ticket is created on the technical support [web page](https://t1pal.HELPY.io).
+Medical Data Networks LLC may receive Complaints through any form of User Communication.   However, all Complaints will be submitted to, or forwarded to Medical Data Networks LLC's Support team within 1 business day.  This is accomplished when a support ticket is created on the technical support [web page](https://t1pal.HELPY.io).
 
 In addition, this particular ticketing
-system facilitates the collection of additional detail by linked email exchanges as needed to fully explain the complaint and/or any conditions surrounding the complaint.
-
-Alternatively, complaints may also be received when an email is sent to support@t1pal.com and/or support@t1pa.helpy.com.
+system facilitates the collection of additional detail by linked email exchanges as needed to fully explain the complaint and/or any conditions surrounding the complaint.  Therefore, complaints may also be received when an email is sent to support@t1pal.com and/or support@t1pa.helpy.com.
 
 All Complaints will be evaluated by a Medical Data Networks LLC Vice President or higher rank employee. 
 
 Complaints that meet the definition of a Reportable Event will be clearly tagged within the ticketing system and added to (or used to update) a Reportable Event Spreadsheet maintained by Medical Data Networks LLC quality VP.
 
 All Reportable Events will be promptly investigated by a Medical Data Networks LLC quality VP. 
-Risk analysis, mitigation and control will be performed per [SOP-0004 Risk_and_Hazard Management](mdn_qms/SOP_Standard_Operating_Procedures/SOP_0004_Risk_and_Hazard_Management.md
- ).
+Risk analysis, mitigation and control will be performed per [SOP-0004 Risk_and_Hazard Management](mdn_qms/SOP_Standard_Operating_Procedures/SOP_0004_Risk_and_Hazard_Management.md).
 
 Complaints that are not deemed to be Reportable Events will be evaluated regularly as part of a routine review.
 
