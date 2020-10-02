@@ -1,16 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "RSA"
+folder: "RSA_Regulatory_Support_Artifacts"
 title: "README.md"
-document_id: ""
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "(RSA) Regulatory Suppport Artifacts"
+approval_date: "2020-10-01"
 ---
 
 
