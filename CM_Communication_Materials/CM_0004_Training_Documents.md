@@ -1,18 +1,13 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "CM"
-title: "CM_0001_Quality_Manual.md"
-document_id: "CM_0001"
+folder: "CM_Communication_Materials"
+title: "CM_0004_Training_Documents"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "Quality Manual"
+approval_date: "2020-10-01"
 ---
-
 
 ## Purpose
 
