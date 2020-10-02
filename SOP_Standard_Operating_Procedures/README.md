@@ -17,7 +17,7 @@ In addition, this Quality Management System outlines agreed responsibilities for
 
 It is the responsibility of all associates, employees, and officers of the company to align their activities with this Quality Management System.  The identification of "Corrective Actions" and follow-on work of company officers will be used to address non-compliance as may be needed to strengthen allignment with this Quality Management System over time.
 
-It should be noted that this Quality Management System is captured in a "github" repository (md_qms) together with a broad range of supporting documents and templates that are expected to be used in the course of business for all Medical Data Networks LLC associates and/or employees and/or contractors.
+It should be noted that this Quality Management System is captured in a "github" repository (md_qms) together with a broad range of supporting documents and templates that are expected to be used in the course of business for all Medical Data Networks LLC associates and/or employees and/or contractors.  As such, the instructions are baselined in the "master" branch of this repository and subject to change only by authorized officers of the firm.
 
 ## Definitions
 
