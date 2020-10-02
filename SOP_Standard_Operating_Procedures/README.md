@@ -21,7 +21,7 @@ It should be noted that this Quality Management System is captured in a "github"
 
 ## Definitions
 
-  1. Unless otherwise noted, all terms take on the meaning as defined in [SOP_0005 Complaint Handling](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0005_Complaint_Handling.md) and [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
+Unless otherwise noted, all terms take on the meaning as defined in [SOP_0005 Complaint Handling](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0005_Complaint_Handling.md) and [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
 
 ## Medical Device Reporting Policy
 
@@ -29,7 +29,7 @@ It is a key objective of Medical Data Networks LLC to understand and comply with
 
 The requirements for Medical Data Networks LLC are clear and described in detail in [SOP_0006 Medical Device Reporting] (https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0006_Medical_Device_Reporting.md )
 
-The requirements are repeated here:
+The requirements are summarized here:
 
   1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
     1. within 5 days of becoming aware that a Reportable Event requires remedial action to prevent an unreasonable risk of substantial harm to the public health;
