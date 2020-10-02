@@ -38,14 +38,7 @@ Possible mechanisms for handling issues include (but are not limited to):
  
  * Based upon the analysis of these issues, it is determined whether a corrective action or preventive action is required.
 
-## Investigation of Cause, Identifying Actions, Implementing and Recording Changes
-
-1. At the conclusion of each development sprint, Medical Data Networks analyzes its processes and operations by holding a Retrospective meeting. At this retrospective meeting the following topics will be addressed.
-    * What went well 
-    * What didn&#39;t go well (process that can use improvement)
-    * What could use improvement (processes or development efforts that should be considered for improvement)
-    
-2. At the discretion of Medical Data Networks management or employees, non-conformities that involve severe operational issues, security issues or invalid data may also be detailed in a root cause analysis document (which may be referred to as a &quot;5 Why&#39;s?&quot; document) with details of the cause and actions to prevent recurrence or occurrence of the non-conformity (corrective action or preventive action).
+At the discretion of Medical Data Networks management or employees, non-conformities that involve severe operational issues, security issues or invalid data may also be detailed in a root cause analysis document (which may be referred to as a &quot;5 Why&#39;s?&quot; document) with details of the cause and actions to prevent recurrence or occurrence of the non-conformity (corrective action or preventive action).
 
 ## Verification of Effectiveness
 
