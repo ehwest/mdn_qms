@@ -1,16 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "PD"
-title: "PD_0004_Product Component Validation.md"
-document_id: "PD_0004"
+folder: "PD_Product_Definition"
+title: "PD_0004_Validation_Methods"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "T1Pal Product Component Validation"
+approval_date: "2020-10-01"
 ---
 
 
