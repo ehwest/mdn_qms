@@ -1,16 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "PDP"
-title: "PDP_phase_1_Research_Select_Changes.md"
-document_id: "PDP_phase_1"
+folder: "PDP_Product_Development_Process"
+title: "PDP_phase_4_Release_to_Production.md"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "Phase 1:  Rsearch Select changes"
+approval_date: "2020-10-01"
 ---
 
 
