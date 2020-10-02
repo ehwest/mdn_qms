@@ -13,7 +13,7 @@ approval_date: "2020-10-01"
 
 This document together with direct links to other documents is a description of the baselined Quality Management System that must be followed by all associates of Medical Data Networks, LLC company.   The goal of this Quality Management system is to ensure that company associates meet or exeed all of the requirements for planning, manufacturing, validation, certification of (software) devices manufactured by Medical Data Networks LLC.  
 
-In addition, this Quality Management System outlines agreed responsibilities for reporting to the FDA certain events and related information proscribed by the FDA hare:  [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
+In addition, this Quality Management System outlines agreed responsibilities for reporting to the FDA certain events and related information proscribed by the FDA here:  [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
 
 It is the responsibility of all associates, employees, and officers of the company to align their activities with this Quality Management System.  The identification of "Corrective Actions" and follow-on work of company officers will be used to address non-compliance as may be needed to strengthen allignment with this Quality Management System over time.
 
