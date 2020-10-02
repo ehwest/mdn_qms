@@ -1,16 +1,12 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
-folder: "CM"
-title: "CM_0002_DEV_OPS_Software_Process.md"
-document_id: "CM_0002"
+folder: "CM_Communication_Materials"
+title: "CM_0002_DEV_OPS_Software_DEV_Process.md"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "CM 0002 DEVOPS Software Process"
+approval_date: "2020-10-01"
 ---
 
 
