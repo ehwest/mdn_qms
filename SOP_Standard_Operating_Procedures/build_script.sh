@@ -1,0 +1,1 @@
+pandoc --toc --standalone --number-sections --section-divs -o index.pdf --pdf-engine=xelatex README.md SOP_0001*.md SOP_0002*.md SOP_0003*.md SOP_0004*.md SOP_0005*.md SOP_0006*.md SOP_0007*.md SOP_0008*.md  SOP_0009*.md SOP_0010*.md SOP_0010*.md SOP_0011*.md SOP_0012*.md SOP_0013*.md 
