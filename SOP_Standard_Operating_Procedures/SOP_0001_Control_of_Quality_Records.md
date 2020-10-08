@@ -1,7 +1,6 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0001_Control_of_Quality_Records.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,11 +8,10 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+\pagebreak
 # Control of Quality Records
 
 This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
-
-# QMS Procedures
 
 ## Record Retention and Archiving.
 
@@ -74,7 +72,7 @@ Where applicable, quality records will be provided for examination during normal
  
  * A copy of an associated log or schedule (e.g., internal audit log, management review schedule, supplier audit schedule) may be provided as proof that the activities were performed.
  
- ## Responsibilities
+## Responsibilities
 
 1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
 2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.

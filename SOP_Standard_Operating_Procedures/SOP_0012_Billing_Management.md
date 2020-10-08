@@ -1,13 +1,14 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0012_Billing_Management"
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
 approval_date: "2020-10-01"
 ---
+\pagebreak
+# Billing Management
 
 "Stripe.com" and "Servicebot.io" are providers of billing services to T1Pal operations.
 These providers are separate and independent companies that provide all of the credit card and related payment
@@ -26,10 +27,3 @@ In addition, Payment Card Industry Data Security Standards (PCI DSS).
 sets the minimum standard for credit card data security, and requires a periodic audit of security operations.
 T1Pal expects to achieve PCI Level 4 compliance, which includes use of a checklist and an annual audit.  Both the checklist
 and actual audit results will be managed in revisions to this QMS.
- 
-
-## Responsibilities
-
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
-

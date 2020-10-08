@@ -1,7 +1,6 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0002_Employee_Qualification_and_Training.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,11 +8,12 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
-## Purpose
+\pagebreak
 
-This document establishes the standard method for documenting employee training in Company procedures and policies, and to implement and document employee job requirements, qualifications and training programs at Medical Data Networks.
+# Employee Qualification And Training
 
-## Scope
+
+This chapter establishes the standard requirements and method for documenting employee training in Company procedures and policies, and to implement and document employee job requirements, qualifications and training programs at Medical Data Networks.
 
 These rules apply to all operators of T1Pal and/or related infrastructure services.
 
@@ -31,14 +31,12 @@ The following associates are also included in the scope of this document:
 
 ## Responsibilities
 
-* The management at Medical Data Networks is responsible for:
-  * Maintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
-  * Developing, reviewing, and improving employee job descriptions, and training requirements.
-  * Completing all training and maintaining an individual training file.
+The management at Medical Data Networks is responsible for:
+* Maintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
+* Developing, reviewing, and improving employee job descriptions, and training requirements.
+* Completing all training and maintaining an individual training file.
 
-## Procedure
-
-### General Requirements
+## General Requirements
  * All employees, contractors, and consultants must complete and document all required training and retraining in a timely manner.
  
  * Training needs are identified by specific job descriptions/requirements necessary to perform particular functions. Training may be internal or external.
@@ -86,6 +84,15 @@ For example, New Employee Orientation training materials may be given a QMS docu
 
 ### New Employee Orientation
 
+* General 
+Medical Data Networks LLC  shall have sufficient personnel with the necessary education, background, training, and experience to assure that all activities required by this part are correctly performed.
+
+* Training. Medical Data Networks LLC shall have procedures for identifying training needs and ensure that all personnel are trained to adequately perform their assigned responsibilities. Training shall be documented.
+
+* As part of their training, personnel shall be made aware of device defects which may occur from the improper performance of their specific jobs.
+
+* Personnel who perform verification and validation activities shall be made aware of defects and errors that may be encountered as part of their job functions.
+
  *  New Employee Orientation is completed within the first month of employment.
  
  *  A "Medical Data Networks New Employee and Consultant Onboarding Checklist" is completed and stored on an internal Google Drive folder for new employees, consultants and contractors that have an @medicaldatanetworks.com email address.
@@ -100,14 +107,4 @@ For example, New Employee Orientation training materials may be given a QMS docu
 ### Training Records
 
 Training activities are documented by placing a record of the training as a document stored in the corporate Email system, under the user ID of the employee's supervisor.
-
-## Reference: 21 CFR Section 820.25 Personnel
-
-* General. Each manufacturer shall have sufficient personnel with the necessary education, background, training, and experience to assure that all activities required by this part are correctly performed.
-
-* Training. Each manufacturer shall establish procedures for identifying training needs and ensure that all personnel are trained to adequately perform their assigned responsibilities. Training shall be documented.
-
-* As part of their training, personnel shall be made aware of device defects which may occur from the improper performance of their specific jobs.
-
-* Personnel who perform verification and validation activities shall be made aware of defects and errors that may be encountered as part of their job functions.
 

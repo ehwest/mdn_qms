@@ -1,7 +1,6 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0008_Gitflow_Tailoring.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,8 +8,9 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+\pagebreak
 
-## Purpose
+# Gitflow Tailoring
 
 This document describes the Gitflow procedure for developing and managing change to the existing software base of T1Pal.com
 The content and principles for this procedure is drawn from

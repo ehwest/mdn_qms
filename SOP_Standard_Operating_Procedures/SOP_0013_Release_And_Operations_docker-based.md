@@ -1,13 +1,15 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0013_Release_And_Operations_docker-based.md"
+title: The Quality Management System of Medical Data Networks LLC
 authors:
 - github.com/ehwest
 approvers:
 - github.com/bewest
 approval_date: "2020-10-01"
 ---
+\pagebreak
+# Release and Operations Management
 
 **T1Pal Code Repository and the Gitflow Process**
 
@@ -70,9 +72,4 @@ The operations staff must monitor all displays and reports continuously 24 x 7 x
 
 In the event of an outage of any kind, the outage must be documented on freshstatus.com web site so as to alert customers subscribing to that service.
 https://t1pal-995.freshstatus.io/   Any and all observed impairments to any T1Pal components should be entered into a trouble ticket.  The trouble ticket system is configured to receive emails directed to support@t1pal.com   The trouble ticketing system is at  t1pal.helpy.io
-
-
-
-
-
 

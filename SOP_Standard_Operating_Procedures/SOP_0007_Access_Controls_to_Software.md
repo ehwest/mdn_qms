@@ -1,7 +1,6 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0007_Access_Controls_to_Software.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,11 +8,10 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
-## 1. Purpose
+\pagebreak
+# Access Controls to Software
 
 This document and supporting references establish controls for access to all Medical Data Networks LLC software and any assemblies of software or configuration data supporting the T1Pal service (as a device).
-
-## 2. Scope
 
 This applies to all medical and research software devices designed and developed by Medical Data Networks LLC.  Each of the key technologies for implementing electronic access controls is summarized below, consistent with VP and CEO requirements to implement comprehensive controls of access to all aspects of the T1Pal operations.  
 

@@ -1,7 +1,6 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0003_Corrective_and_Preventative_action.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,16 +8,14 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+\pagebreak
+# Corrective and Preventive Action
 
-## Purpose
+This section  establishes a standard operating procedures for corrective and preventive action.
 
-1. To establish a standard operating procedures for corrective and preventive action.
+For corrective actions, this procedure will describe the process for determining the cause of nonconformities, initiating corrective action(s) and performing follow-up to ensure that the corrective action(s) have been effective in eliminating the cause of the nonconformity to prevent recurrence.
 
-2. For corrective actions, this procedure will describe the process for determining the cause of nonconformities, initiating corrective action(s) and performing follow-up to ensure that the corrective action(s) have been effective in eliminating the cause of the nonconformity to prevent recurrence.
-
-3. For preventive actions, this procedure will describe the process of identifying nonconformities and determine actions to prevent their occurrence.
-
-## Scope
+For preventive actions, this procedure will describe the process of identifying nonconformities and determine actions to prevent their occurrence.
 
 This applies to all medical and research software devices designed and developed by Medical Data Networks.
 

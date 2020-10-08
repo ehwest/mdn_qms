@@ -1,7 +1,6 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0009_Semantic_Versioning.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,7 +8,7 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
-## Purpose
+# Semantic Versioning
 
 ["Semantic Versioning 2.0.0"](https://github.com/semver/semver/blob/master/semver.md) is the well-defined process of assigning version numbers to software products that expose Application Programming Interfaces (APIs). 
 It is a set of rules and requirements that dictate how version numbers are assigned and incremented. 
@@ -71,9 +70,3 @@ Numeric identifiers always have lower precedence than non-numeric identifiers.
 A larger set of pre-release fields has a higher precedence than a smaller set, if all of the preceding identifiers are equal.
 
 Example: 1.0.0-alpha < 1.0.0-alpha.1 < 1.0.0-alpha.beta < 1.0.0-beta < 1.0.0-beta.2 < 1.0.0-beta.11 < 1.0.0-rc.1 < 1.0.0.
-
-## Responsibilities
-
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
-

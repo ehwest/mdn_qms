@@ -1,7 +1,6 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0005_Complaint_Handling.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,32 +8,31 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
-# Purpose
+\pagebreak
+# Complaint Handling
 
 This procedure outlines how Medical Data Networks LLC receives, reviews, and evaluates complaints associated with T1Pal operations. 
 It is intended to be compliant with [FDA Title 21 Part 820 Section 820.198 Complaint files.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCFR/CFRSearch.cfm?fr=820.198)
-
-## Scope
 
 This procedure is used by Customer Operations personnel, who have the necessary education, background, training and experience to receive and document complaints for all of Medical Data Networks LLC’s products.
 
 ## Definitions
 
-### Complaint:  
+### Complaint  
 Any written, electronic, or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety, effectiveness, or performance of a Medical Data Networks LLC product after it is released for commercial distribution.
 
-### Inquiry:  
+### Inquiry
 A user question regarding the use of a Medical Data Networks LLC product that does not meet the definition of a complaint (e.g., a question about how a feature works, or how to update apps). 
 
 If repeated inquiries are received from different users regarding the same topic, corrective action may be needed because repeated inquiries of the same nature may indicate a user/use problem.
 
-### Malfunction: 
+### Malfunction
 
 * The failure of a device to meet any of its performance specifications or otherwise to perform __as intended__. 
 
 * Performance specifications include all claims made __in the labeling for the device__. The intended performance of a device refers to the objective __intent of the person legally responsible for the labeling__ of the device. 
 
-### MDR (Medical Device Reporting System): 
+### MDR (Medical Device Reporting System)
 
 The MDR system is an Information Technology reporting system that requires manufacturers, distributors, and importers to report certain adverse experiences caused or contributed to by their devices.  
 
@@ -45,7 +43,7 @@ A report will be submitted to the Food & Drug Administration (FDA) whenever a ma
 
 ### Reportable Event Definition 
 
-The definition of a "Reportable Event" is:
+The definition of a "Reportable Event" is
 
 * Any __complaint__ that __involves__ serious injury, permanent impairment, or permanent injury to patient, user, or other person, __related to the use__ of a Medical Data Networks LLC device.  
 
@@ -108,17 +106,9 @@ Complaints that are not deemed to be Reportable Events will be evaluated regular
 Reportable Events that result in Serious Injury will be reported to the appropriate regulatory authority.
 
 
-# Appendices
+## Requirements for Maintaining Complaint Files.
 
-## Appendix I.  Complaint Handling Flowchart
-
-[Complaint Handling Flowchart](./complaint_handling_flowchart.pdf)
-
-## Appendix II §820.198 Requirements adopted by Medical Data Networks LLC.
-
-### Complaint files.
-
-1. Each manufacturer shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
+1. Medical Data Networks LLC shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
 
     * All complaints are processed in a uniform and timely manner;
 
@@ -164,4 +154,8 @@ Reportable Events that result in Serious Injury will be reported to the appropri
 
     * The location of the initial distributor.
 
+
+## Complaint Handling Flowchart
+
+A flowchart that describes the complaint handling procedure is available in the training materials.
 

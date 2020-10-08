@@ -1,7 +1,6 @@
----
+h--
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: "SOP_0006_Medical_Device_Reporting.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,7 +8,8 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
-## Overview
+\pagebreak
+# Medical Device Reporting
 
 This standard operating procedure establishes MDN&#39;s Medical Device Reporting (MDR) process and responsibilities under [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
 
