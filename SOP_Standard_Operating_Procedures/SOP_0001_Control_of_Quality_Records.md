@@ -11,21 +11,18 @@ approval_date: "2020-10-01"
 \pagebreak
 # Control of Quality Records
 
-This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
+This chapter establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at MDN. Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
 
 ## Record Retention and Archiving.
 
 All records and communications will be maintained in perpetuity via digital archive. Currently Medical Data Networks LLC uses these mechanisms for digital storage:
 
-  * **Google Gmail** with unlimited storage via Google Vault. All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.  Google Gmail Service is provided for every Medical Data Networks LLC associate under the <user>@medicaldatanetworks.com user name.  All company business for all matters shall use that service for all email communications.
+  * **Google Gmail** Under the domain-specific user name "<user>@medicaldatanetworks.com", all email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.  Google Gmail Service is provided for every Medical Data Networks LLC associate.  All company business for all matters shall use that service for all email communications.
  
   * **Google Docs** (including Google Sheets, and related Google desktop applications) is for use in communicating informal work in progress and/or draft documents.  It is not to be used for official baselined document management.
   
   * **GitHub**, with redundant backup of the repositories of Medical Data Networks shall be stored on each and every officer's computer, and all software developers.  All developers and officers of the firm shall retain their independent GitHub repository, configured to be able to synchronize with selected master copies.  GitHub repositories --under control of Medical Data Networks LLC VPs and officers-- is the official repository for all software, instructions, and/or Quality Management System [mdn-qms](https://github.com/ehwest/mdn_qms) documents.
   
-  *  **Google Vault** provides secure, encrypted storage of files, messages, conversations, and recordings.
-Google Vault will be relied on to retain, hold, search, and export data in support of T1Pal's retention and eDiscovery needs. 
- 
 ## Electronic Signatures
 
  * Records requiring signature approval per above shall be digitally signed with text similar to &quot;Approved. /s/ Name Of Approver, YYYY-MM-DD&quot;.
@@ -44,7 +41,7 @@ For most documents, dates shall be expressed in the form similar to YYYY-MM-DD. 
 
 As generally described in the github paragraph above, all formal records at Medical Data Networks LLC are created and maintained in electronic format and maintained on a specific "github" [repository](https://github.com/ehwest/mdn_qms).
 
-This github repository is used to support authentication, labelling of meta data, recording of changes, and storage of the documents for each and every release of the "Managed Data Networks LLC. Quality system. 
+This github repository is used to support authentication, labelling of meta data, recording of changes, and storage of the documents for each and every release of the MDN QMS . 
 
 Medical Data Networks does not maintain paper documents. If it is necessary to archive a document whose source is paper, that document is scanned or photographed and retained in the appropriate topical folder within the github management system.  
 
@@ -52,11 +49,11 @@ Medical Data Networks does not maintain paper documents. If it is necessary to a
 
 Since all records and changes to records are retained in perpetuity, records should never be lost.
 
- * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with [SOP-0003 Corrective and Preventive Action](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md)
+ * If it is the case that a record cannot be found, a Corrective and Preventive Action report should be filed and an investigation conducted in accordance with chapter 3.
  
 Source code is retained in a distributed GitHub repository that is inherently backedup by the number of cloned copies of the data.
 
-Customer records in databases are maintained in dedicated Linux Volumes that are subject to snapshots being taken daily.
+Customer records in databases are maintained in dedicated Linux Volumes where snapshots are to be automatically taken daily.
 
 ## Provision of Records to Customers
 

@@ -1,7 +1,6 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "SOP_Standard_Operating_Procedures"
-title: The Quality Management System of Medical Data Networks LLC
 authors:
 - github.com/ehwest
 approvers:

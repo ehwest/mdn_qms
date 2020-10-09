@@ -45,7 +45,7 @@ At the discretion of Medical Data Networks management or employees, non-conformi
 
 ## Dissemination of Information
 
- * All information will be disseminated to appropriate Medical Data Networks employees using email, and/or a Github repository owned by Medical Data Networks LLC.
+ * All information will be disseminated to appropriate Medical Data Networks employees using email, and/or a Github repository owned by MDN.
  
  * Management will review all relevant information. Decisions about corrective and preventive action to be taken in current or future activities will be documented as GIT repository issues. This information is also presented at Management Operations Review meetings.
 

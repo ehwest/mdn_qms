@@ -7,9 +7,7 @@ approvers:
 - github.com/bewest
 approval_date: "2020-10-01"
 ---
-
 \pagebreak
-
 # Gitflow Tailoring
 
 This document describes the Gitflow procedure for developing and managing change to the existing software base of T1Pal.com

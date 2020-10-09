@@ -7,7 +7,6 @@ approvers:
 - github.com/bewest
 approval_date: "2020-10-01"
 ---
-
 \pagebreak
 # Performance Management
 
@@ -23,4 +22,7 @@ Time series logs of health check calls shall be logged for the most recent 30 da
 2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
 3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
 4. ISO 13485:2016 Clause 4.2.5
+
+## Requirements
+MDN shall provide a dashboard showing the current performance status of the T1Pal operation.  The intent is to minimize wasted time spent debugging faults that impact the user experience.
 

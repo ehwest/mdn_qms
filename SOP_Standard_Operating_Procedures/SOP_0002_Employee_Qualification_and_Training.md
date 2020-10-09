@@ -12,8 +12,7 @@ approval_date: "2020-10-01"
 
 # Employee Qualification And Training
 
-
-This chapter establishes the standard requirements and method for documenting employee training in Company procedures and policies, and to implement and document employee job requirements, qualifications and training programs at Medical Data Networks.
+This chapter establishes the standard requirements and method for documenting employee training in Company procedures and policies, and to implement and document employee job requirements, qualifications and training programs at MDN.
 
 These rules apply to all operators of T1Pal and/or related infrastructure services.
 
@@ -31,7 +30,8 @@ The following associates are also included in the scope of this document:
 
 ## Responsibilities
 
-The management at Medical Data Networks is responsible for:
+The management at MDN is responsible for:
+
 * Maintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
 * Developing, reviewing, and improving employee job descriptions, and training requirements.
 * Completing all training and maintaining an individual training file.
@@ -40,12 +40,12 @@ The management at Medical Data Networks is responsible for:
  * All employees, contractors, and consultants must complete and document all required training and retraining in a timely manner.
  
  * Training needs are identified by specific job descriptions/requirements necessary to perform particular functions. Training may be internal or external.
- 
+
  * As part of their training, personnel are made aware of device defects which may occur from the improper performance of their specific jobs.
- 
+
  * Personnel who perform verification and validation activities are made aware of defects and errors that may be encountered as part of their job functions.
  
- * Contractors and consultants are trained on applicable Medical Data Networks procedures as defined by the scope of their contract/consulting agreement.
+ * Contractors and consultants are trained on applicable MDN procedures as defined by the scope of their contract/consulting agreement.
 
 ### Training Process Needs
 
@@ -74,20 +74,17 @@ The management at Medical Data Networks is responsible for:
  
   Personnel who perform verification and validation activities are made aware of defects and errors that may be encountered as part of their job functions.
   
- * Contractors and consultants are trained on applicable Medical Data Networks procedures as defined by the scope of their contract/consulting agreement.
+ * Contractors and consultants are trained on applicable MDN procedures as defined by the scope of their contract/consulting agreement.
 
 ### Training Curriculum and Presentation
 
-* Training curriculum and presentation materials that arewill be used with groups or used multiple times may be developed, reviewed and approved in accordance with QMS Document Control Procedures.
-
-For example, New Employee Orientation training materials may be given a QMS document number so that the content does not have to be prepared each time.
+* Training curriculum and presentation materials that arewill be used with groups or used multiple times may be developed, reviewed and approved in accordance with QMS Document Control Procedures.  For example, New Employee Orientation training materials may be given a QMS document number so that the content does not have to be prepared each time.
 
 ### New Employee Orientation
 
-* General 
-Medical Data Networks LLC  shall have sufficient personnel with the necessary education, background, training, and experience to assure that all activities required by this part are correctly performed.
+* MDN LLC  shall have sufficient personnel with the necessary education, background, training, and experience to assure that all activities required by this part are correctly performed.
 
-* Training. Medical Data Networks LLC shall have procedures for identifying training needs and ensure that all personnel are trained to adequately perform their assigned responsibilities. Training shall be documented.
+* MDN LLC shall have procedures for identifying training needs and ensure that all personnel are trained to adequately perform their assigned responsibilities. Training shall be documented.
 
 * As part of their training, personnel shall be made aware of device defects which may occur from the improper performance of their specific jobs.
 
@@ -95,14 +92,14 @@ Medical Data Networks LLC  shall have sufficient personnel with the necessary ed
 
  *  New Employee Orientation is completed within the first month of employment.
  
- *  A "Medical Data Networks New Employee and Consultant Onboarding Checklist" is completed and stored on an internal Google Drive folder for new employees, consultants and contractors that have an @medicaldatanetworks.com email address.
+ *  A "MDN New Employee and Consultant Onboarding Checklist" is completed and stored on an internal Google Drive folder for new employees, consultants and contractors that have an @medicaldatanetworks.com email address.
  
  * New employee orientation includes overviews of the following topics:
  
-   * Medical Data Networks development process and quality system overview as per [PDP_Product Development_Process](https://github.com/ehwest/mdn_qms/tree/master/PDP_Product_Development_Process)
-   *  Medical Data Networks control of documents as per [SOP_0001_Control_of_Quality_Records.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0001_Control_of_Quality_Records.md);
+   * MDN development process and quality system overview as per [PDP_Product Development_Process](https://github.com/ehwest/mdn_qms/tree/master/PDP_Product_Development_Process)
+   *  MDN control of documents as described in chapter 1 "Control of Quality Records".
   
- * HIPAA and basic security practices at Medical Data Networks as per the [PD_0006_HIPPA_Compliance_Statement.md]( https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0006_HIPPA_Compliance_Statement.md).
+ * Understanding and enforcement of HIPAA and other security practices at MDN.
 
 ### Training Records
 

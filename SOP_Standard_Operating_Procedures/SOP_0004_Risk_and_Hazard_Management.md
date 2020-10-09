@@ -11,9 +11,9 @@ approval_date: "2020-10-01"
 \pagebreak
 # Risk and Hazard Management
 
-The purpose of this chapter is to define the risk management process used by Managed Data Networks LLC to document and maintain an ongoing process for identifying hazards associated with Managed Data Networks medical devices, estimating and evaluating the associated risks, controlling these risks, and monitoring the effectiveness of the controls. 
+The purpose of this chapter is to define the risk management process used by MDN LLC to document and maintain an ongoing process for identifying hazards associated with MDN medical devices, estimating and evaluating the associated risks, controlling these risks, and monitoring the effectiveness of the controls. 
 
-It should be generally understood that ALL references to manufactured "device" or "devices" mentioned in the sections below are applicable to services delivered by SOFTWARE operating on one or more compute environments operated by Medical Data Networks, LLC.  Medical Data Networks LLC does not manufacture tangible devices, but rather is leveraging the FDA approach to define "software applications" as manufactured devices, subject to rules and regulations of devices, where possible.
+It should be generally understood that ALL references to manufactured "device" or "devices" mentioned in the sections below are applicable to services delivered by software  operating on one or more compute environments operated by MDN.  MDN does not manufacture tangible devices, but rather is leveraging the FDA approach to define "software applications" as manufactured devices, subject to rules and regulations of devices, where possible.
 
 This Quality Management System is designed to meet or exceed the applicable ISO standards for Quality Management Systems, and Risk Management standards found in the following references.
 
@@ -23,17 +23,17 @@ If and/or when there is some difference in the references compared to to the QMS
 
   1. [ISO 14971:2019](https://www.iso.org/standard/72704.html) ISO Medical Devices -- Application of risk management to medical devices. 
   2. [ISO 13485:2016](https://www.iso.org/standard/59752.html) ISO Medical Devices -- Quality Management Systems -- Requirements for regulatory purposes.
-  4. [21 CFR Part 820, US FDA Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820) -- FDA Code of Federal Regulations Title 21 -- Part 820 Quality System Regulation
-  5. Form SOP-0004-1 (TBD), Risk Management Plan
-  6. Form SOP-0004-2 (TBD), Device Characteristics
-  7. Form SOP-0004-3 (TBD), Risk Management Report
+  3. [21 CFR Part 820, US FDA Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820) -- FDA Code of Federal Regulations Title 21 -- Part 820 Quality System Regulation
+  4. Form SOP-0004-1 (TBD), Risk Management Plan
+  5. Form SOP-0004-2 (TBD), Device Characteristics
+  6. Form SOP-0004-3 (TBD), Risk Management Report
 
 ## Definitions
 
  * Harm - Physical injury or damage to the health of people, or damage to property or the environment
  * Hazard - Potential source of harm
  * Hazardous Situation - Circumstance in which people, property, or the environment are exposed to one or more hazard(s)
- * ife-cycle – All phases in the life of a medical device, from the initial conception to final decommissioning and disposal
+ * Life-cycle – All phases in the life of a medical device, from the initial conception to final decommissioning and disposal
  * Post-production – Part of the life-cycle of the product after the design has been completed and medical device has been manufactured
  * Residual Risk – Risk remaining after risk control measures have been taken
  * Risk – Combination of the probability of occurrence of harm and the severity of that harm
@@ -52,9 +52,13 @@ If and/or when there is some difference in the references compared to to the QMS
 
     B. What is the probability of this risk (i.e., the probability that the harm, not the bug, will occur)?
     
-It is assumed that all tasks have baseline risks. Baseline risks are documented on TBD. New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
+It is assumed that all tasks have baseline risks. 
+Baseline risks are documented on an MS Excel Spreadsheet stored in the software github repository.
+New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
 
-5. Baseline Risks.  It is assumed that all tasks have baseline risks. Baseline risks are documented on TBD New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
+5. Baseline Risks.  It is assumed that all tasks have baseline risks. Baseline risks are documented 
+on an MS Excel Spreadsheet stored in the MSN software github repository.
+New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
   
 6. Risk analysis occurs regularly and continuously as a part of all processes. If a task is determined to have risk(s), then those risk(s) are documented.
 
@@ -80,7 +84,7 @@ It is assumed that all tasks have baseline risks. Baseline risks are documented 
 | 2 | Remote | .000001 ≤ P \&lt; 0.0001 | Likely to occur between (1 in 10,000) and (1 in 1,000,000) times. |
 | 1 | Improbable | P ≤ 0.000001 | Likely to occur less frequently than 1 in a million times. |
 
-Probability of a risk is determined by estimating the likelihood that the risk will manifest as a harm for any given use of Managed Data Networks software. &quot;Use&quot; means an instance of using a Managed Data Networks software for its intended use.
+Probability of a risk is determined by estimating the likelihood that the risk will manifest as a harm for any given use of MDN software. &quot;Use&quot; means an instance of using a MDN software for its intended use.
 
 ## Risk Rating
 
@@ -99,33 +103,34 @@ Probability of a risk is determined by estimating the likelihood that the risk w
 
 ## Risk Management Procedures 
 
-  1. All software and medical devices have risks. Managed Data Network&#39;s risk management activities reduce risk.
-  2. Unless otherwise documented, all Managed Data Networks LLC software is assumed to have Baseline Risks, as defined below.
+  1. All software and medical devices have risks. MDN&#39;s risk management activities reduce risk.
+  2. Unless otherwise documented, all MDN software is assumed to have Baseline Risks, as defined below.
   3. All risks, including Baseline Risks, are analyzed, estimated, evaluated and documented as described below.
   4. Risk Management activities, including review of the Risk Management process, are iterative and continuous. There are no point-in-time &quot;Risk Acceptance&quot; gates.
-  5. Managed Data Networks&#39;s risk management process follows the process identified in [ISO 14971 Recognized Consensus Standard(https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/detail.cfm?standard__identification_no=30596).
-  6. Managed Data Network&#39;s CEO ensures that there are adequate resources for the risk management process and that these personnel are qualified for risk management with the knowledge and experience appropriate to the tasks assigned to them.
+  5. MDN&#39;s risk management process follows the process identified in [ISO 14971 Recognized Consensus Standard](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/detail.cfm?standard__identification_no=30596).
+  6. MDN&#39;s CEO ensures that there are adequate resources for the risk management process and that these personnel are qualified for risk management with the knowledge and experience appropriate to the tasks assigned to them.
 
 ## Risk Management Plan and File
 
-Managed Data Networks has designed its own Risk Management Plan based on analysis of existing state of the art for software and medical device. We base our model on these tenets:
+MDN has designed its own Risk Management Plan based on analysis of existing state of the art for software and medical device. We base our model on these tenets:
   
 1. **Reduction** of risk through software iteration over time.
     
-Processes that inhibit iteration cycles add risk. Managed Data Networks uses agile design and development methodology, including verification and validation processes. The more quickly we can iterate on our software, the more quickly we can converge on high quality software that meets the user&#39;s needs while maintaining (or improving) software safety and efficacy.
+Processes that inhibit iteration cycles add risk. MDN uses agile design and development methodology, including verification and validation processes. The more quickly we can iterate on our software, the more quickly we can converge on high quality software that meets the user&#39;s needs while maintaining (or improving) software safety and efficacy.
     
 2. **Comparison**  of risks and mitigations, including comparison to baseline risk of living with diabetes.
     
-All software and medical devices contain risks and flaws, both known and unknown. Diabetes is also an inherently risky disease. Existence of a residual risk in Managed Data Networks&#39;s software must be compared against the risk of unavailability of Managed Data Networks software or other diabetes management software for a person living with diabetes.
+All software and medical devices contain risks and flaws, both known and unknown. Diabetes is also an inherently risky disease. Existence of a residual risk in MDN&#39;s software must be compared against the risk of unavailability of MDN software or other diabetes management software for a person living with diabetes.
     
-Managed Data Networks establishes a risk management plan for each medical device. This plan includes the scope of the risk management activities, assignment of responsibilities and authorities, criteria for risk acceptability, verification activities and activities related to the collection and review of production and post-production information.
+MDN establishes a risk management plan for each medical device. This plan includes the scope of the risk management activities, assignment of responsibilities and authorities, criteria for risk acceptability, verification activities and activities related to the collection and review of production and post-production information.
     
 This risk management plan, risk evaluation, implementation and verification of risk control measures, and the assessment of acceptability of any residual risks comprise the Risk Management File. The Risk Management File is an index with pointers to the required documentation.
 
 
 ## Risk Analysis
 
-1. For each medical device, Managed Data Networks documents the intended use and reasonably foreseeable misuse, as well as documenting qualitative and quantitative characteristics that could affect the safety of the medical device. Form SOP-0006-1 Device Characteristics is used to document the results of this review.
+1. For each medical device, MDN documents the intended use and reasonably foreseeable misuse, as well as documenting qualitative and quantitative characteristics that could affect the safety of the medical device. 
+A form "Device Characteristics" is used to document the results of this review.
   
 2. Hazardous situation(s) are recorded after conducting an assessment of reasonably foreseeable sequences or combinations of events that can result in a hazardous situation.
   
@@ -137,13 +142,13 @@ This risk management plan, risk evaluation, implementation and verification of r
     
 ## Risk Acceptability
 
-1. Risk levels 1, 2 and 3: Further risk reduction will be assessed. Once this risk has been reduced as far as possible, this risk is acceptable for users to continue using Managed Data Networks software with these residual risks. For known risks that may have potential fixes or mitigations, the potential fix or mitigation should be documented so that it can be considered relative to future work during future prioritization.
+1. Risk levels 1, 2 and 3: Further risk reduction will be assessed. Once this risk has been reduced as far as possible, this risk is acceptable for users to continue using MDN software with these residual risks. For known risks that may have potential fixes or mitigations, the potential fix or mitigation should be documented so that it can be considered relative to future work during future prioritization.
 2. Risk levels 4 through 11: Risk reductions must be considered and a mitigation plan must be documented and put in place. Once these risks have been reduced as far as possible, these risks are considered acceptable.
 3. Risk levels 12 through 25: These risks must be reduced. The work must be prioritized and addressed ahead of other work on the same feature area. A mitigation plan must be documented and put in place. A communication plan to users must be documented and implemented. Prior to product release, risk must be reduced to an acceptable level or a Risk/Benefit analysis must be performed prior to product release for human use. If the medical benefits outweigh the overall residual risk, then the overall residual risk can be judged acceptable.
 
 ## Risk Evaluation
 
-1. For each identified hazardous situation, Managed Data Networks will decide whether the risk can be further reduced. Any requirement for risk reduction, or if none is required, is recorded in the risk analysis.
+1. For each identified hazardous situation, MDN will decide whether the risk can be further reduced. Any requirement for risk reduction, or if none is required, is recorded in the risk analysis.
   
 2. All risks shall be reduced as far as possible.
   
@@ -176,17 +181,13 @@ This risk management plan, risk evaluation, implementation and verification of r
   
 2. If the overall residual risk is not judged to be reduced as far as possible using the criteria established in the Risk Management Plan, then further data and literature may be gathered and reviewed to determine if the medical benefits of the intended use outweigh the overall residual risk. If the evidence supports that the benefits outweigh the overall residual risks, the the overall residual risk can be judged to be as low as possible. Otherwise, the overall residual risk remains unacceptable.
   
- 3. Risk Management Report:  Prior to release, Managed Data Networkss reviews the risk management process to ensure that it has been appropriately implemented and that the overall residual risk is accepted.
+ 3. Risk Management Report:  Prior to release, MDN reviews the risk management process to ensure that it has been appropriately implemented and that the overall residual risk is accepted.
   
 4. These results will be documented in the Risk Management Report and included in the Risk Management File.
 
 5. Production and Post-production Information
 
-On an iterative, ongoing basis, complaints, bug reports and other user feedback are compiled and evaluated per
-
-[mdn_qms/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0003_Corrective_and_Preventative_action.md)
-and
-[mdn_qms/SOP_Standard_Operating_Procedures/SOP_0005_Complaint_Handling.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0005_Complaint_Handling.md)
+On an iterative, ongoing basis, complaints, bug reports and other user feedback are compiled and evaluated per chapter 3 "Corrective and Preventive Action" and chapter 5 "Complaint Handling"
 
 __Notes on "As Far As Possible"__
 

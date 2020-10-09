@@ -67,7 +67,7 @@ Definition:  The purpose of the __insulin pump secondary display__ is to notify 
 
 
 
-### Serious Injury Definition
+## Serious Injury Definition
 
 An injury that:
 
@@ -83,11 +83,11 @@ An injury that:
      
 Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device.
 
-### User Communication: 
+## User Communication: 
 
 Any contact (phone, email, support ticket, website inquiry, in person) from a user regarding a Medical Data Networks LLC product.
 
-## Complaint Handling Policy
+### Complaint Handling Policy
 
 Medical Data Networks LLC may receive Complaints through any form of User Communication.   However, all Complaints will be submitted to, or forwarded to Medical Data Networks LLC's Support team within 1 business day.  This is accomplished when a support ticket is created on the technical support [web page](https://t1pal.HELPY.io).
 
@@ -99,14 +99,14 @@ All Complaints will be evaluated by a Medical Data Networks LLC Vice President o
 Complaints that meet the definition of a Reportable Event will be clearly tagged within the ticketing system and added to (or used to update) a Reportable Event Spreadsheet maintained by Medical Data Networks LLC quality VP.
 
 All Reportable Events will be promptly investigated by a Medical Data Networks LLC quality VP. 
-Risk analysis, mitigation and control will be performed per [SOP-0004 Risk_and_Hazard Management](mdn_qms/SOP_Standard_Operating_Procedures/SOP_0004_Risk_and_Hazard_Management.md).
+Risk analysis, mitigation and control will be performed per chapter 4 "Risk and Hazard Management".
 
 Complaints that are not deemed to be Reportable Events will be evaluated regularly as part of a routine review.
 
 Reportable Events that result in Serious Injury will be reported to the appropriate regulatory authority.
 
 
-## Requirements for Maintaining Complaint Files.
+### Requirements for Maintaining Complaint Files.
 
 1. Medical Data Networks LLC shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
 
