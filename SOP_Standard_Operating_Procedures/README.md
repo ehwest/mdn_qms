@@ -1,6 +1,6 @@
 --- 
-repository: "github.com/ehwest/mdn_qms" folder: "SOP_Standard_Operating_Procedures"
-title: "Quality Management System of Medical Data Networks LLC"
+folder: "SOP_Standard_Operating_Procedures"
+title: "The Quality Management System of Medical Data Networks LLC"
 authors:
 - github.com/ehwest
 approvers:
@@ -8,8 +8,6 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
-
-\pagebreak
 <center>**Introduction**</center>
 
 This document --together with direct links to other documents-- is a description of the baselined Quality Management System (QMS) that must be followed by all associates of Medical Data Networks LLC (MDN).   

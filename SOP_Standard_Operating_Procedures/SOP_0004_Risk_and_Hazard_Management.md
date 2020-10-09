@@ -24,9 +24,6 @@ If and/or when there is some difference in the references compared to to the QMS
   1. [ISO 14971:2019](https://www.iso.org/standard/72704.html) ISO Medical Devices -- Application of risk management to medical devices. 
   2. [ISO 13485:2016](https://www.iso.org/standard/59752.html) ISO Medical Devices -- Quality Management Systems -- Requirements for regulatory purposes.
   3. [21 CFR Part 820, US FDA Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820) -- FDA Code of Federal Regulations Title 21 -- Part 820 Quality System Regulation
-  4. Form SOP-0004-1 (TBD), Risk Management Plan
-  5. Form SOP-0004-2 (TBD), Device Characteristics
-  6. Form SOP-0004-3 (TBD), Risk Management Report
 
 ## Definitions
 
@@ -50,19 +47,19 @@ If and/or when there is some difference in the references compared to to the QMS
  * Use error – Act or omission of an act that results in a different medical device !response than intended by the manufacturer or expected by the user
  * Verification – Confirmation, through the provision of objective evidence, that specified requirements have been fulfilled
 
-    B. What is the probability of this risk (i.e., the probability that the harm, not the bug, will occur)?
     
+###Baselined Risks
+
 It is assumed that all tasks have baseline risks. 
 Baseline risks are documented on an MS Excel Spreadsheet stored in the software github repository.
 New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
 
-5. Baseline Risks.  It is assumed that all tasks have baseline risks. Baseline risks are documented 
 on an MS Excel Spreadsheet stored in the MSN software github repository.
 New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
   
-6. Risk analysis occurs regularly and continuously as a part of all processes. If a task is determined to have risk(s), then those risk(s) are documented.
+## Risk analysis occurs regularly and continuously as a part of all processes. If a task is determined to have risk(s), then those risk(s) are documented.
 
-## Definitions of Severity Terms
+### Definitions of Severity Terms
 
 | **Rating** | **Term** | **Description** | **Short example** |
 | --- | --- | --- | --- |
@@ -74,7 +71,7 @@ New Baseline Risks are added iteratively. If a task or process does NOT indicate
 | 0 | None | A bug or issue that has no chance of causing harm. | Minor user interface issue that will not cause misinterpretation of data. Bug found and fixed prior to delivery to production |
 
 
-## Definition of &quot;Probability of Harm&quot; Terms
+### Definition of &quot;Probability of Harm&quot; Terms
 
 | **Rating** | **Term** | **Probability (P) of Occurrence of the Harm** **(not the bug)** | **Description for Clarity** |
 | --- | --- | --- | --- |
@@ -86,9 +83,9 @@ New Baseline Risks are added iteratively. If a task or process does NOT indicate
 
 Probability of a risk is determined by estimating the likelihood that the risk will manifest as a harm for any given use of MDN software. &quot;Use&quot; means an instance of using a MDN software for its intended use.
 
-## Risk Rating
+### Risk Rating
 
-  1. A Risk Rating is determined by multiplying the occurrence rating by the severity rating to obtain a result ranging from 1-25. Decisions about risk acceptability are based on the following table:
+A Risk Rating is determined by multiplying the occurrence rating by the severity rating to obtain a result ranging from 1-25. Decisions about risk acceptability are based on the following table:
 
 
 |**Severity**|**None**|**Negligible**|**Minor**|**Serious**|**Critical**|**Catastrophic**|
@@ -101,16 +98,16 @@ Probability of a risk is determined by estimating the likelihood that the risk w
 | **Improbable** | 0 | 1 | 3 | 9 | 10 | 11 |
 
 
-## Risk Management Procedures 
+##3 Risk Management Procedures 
 
-  1. All software and medical devices have risks. MDN&#39;s risk management activities reduce risk.
-  2. Unless otherwise documented, all MDN software is assumed to have Baseline Risks, as defined below.
-  3. All risks, including Baseline Risks, are analyzed, estimated, evaluated and documented as described below.
-  4. Risk Management activities, including review of the Risk Management process, are iterative and continuous. There are no point-in-time &quot;Risk Acceptance&quot; gates.
-  5. MDN&#39;s risk management process follows the process identified in [ISO 14971 Recognized Consensus Standard](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/detail.cfm?standard__identification_no=30596).
-  6. MDN&#39;s CEO ensures that there are adequate resources for the risk management process and that these personnel are qualified for risk management with the knowledge and experience appropriate to the tasks assigned to them.
+1. All software and medical devices have risks. MDN&#39;s risk management activities reduce risk.
+2. Unless otherwise documented, all MDN software is assumed to have Baseline Risks, as defined below.
+3. All risks, including Baseline Risks, are analyzed, estimated, evaluated and documented as described below.
+4. Risk Management activities, including review of the Risk Management process, are iterative and continuous. There are no point-in-time &quot;Risk Acceptance&quot; gates.
+5. MDN&#39;s risk management process follows the process identified in [ISO 14971 Recognized Consensus Standard](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/detail.cfm?standard__identification_no=30596).
+ 6. MDN&#39;s CEO ensures that there are adequate resources for the risk management process and that these personnel are qualified for risk management with the knowledge and experience appropriate to the tasks assigned to them.
 
-## Risk Management Plan and File
+### Risk Management Plan and File
 
 MDN has designed its own Risk Management Plan based on analysis of existing state of the art for software and medical device. We base our model on these tenets:
   
@@ -127,7 +124,7 @@ MDN establishes a risk management plan for each medical device. This plan includ
 This risk management plan, risk evaluation, implementation and verification of risk control measures, and the assessment of acceptability of any residual risks comprise the Risk Management File. The Risk Management File is an index with pointers to the required documentation.
 
 
-## Risk Analysis
+### Risk Analysis
 
 1. For each medical device, MDN documents the intended use and reasonably foreseeable misuse, as well as documenting qualitative and quantitative characteristics that could affect the safety of the medical device. 
 A form "Device Characteristics" is used to document the results of this review.
@@ -140,13 +137,13 @@ A form "Device Characteristics" is used to document the results of this review.
   
     A. What is the severity of this risk?
     
-## Risk Acceptability
+### Risk Acceptability
 
 1. Risk levels 1, 2 and 3: Further risk reduction will be assessed. Once this risk has been reduced as far as possible, this risk is acceptable for users to continue using MDN software with these residual risks. For known risks that may have potential fixes or mitigations, the potential fix or mitigation should be documented so that it can be considered relative to future work during future prioritization.
 2. Risk levels 4 through 11: Risk reductions must be considered and a mitigation plan must be documented and put in place. Once these risks have been reduced as far as possible, these risks are considered acceptable.
 3. Risk levels 12 through 25: These risks must be reduced. The work must be prioritized and addressed ahead of other work on the same feature area. A mitigation plan must be documented and put in place. A communication plan to users must be documented and implemented. Prior to product release, risk must be reduced to an acceptable level or a Risk/Benefit analysis must be performed prior to product release for human use. If the medical benefits outweigh the overall residual risk, then the overall residual risk can be judged acceptable.
 
-## Risk Evaluation
+### Risk Evaluation
 
 1. For each identified hazardous situation, MDN will decide whether the risk can be further reduced. Any requirement for risk reduction, or if none is required, is recorded in the risk analysis.
   
@@ -154,7 +151,7 @@ A form "Device Characteristics" is used to document the results of this review.
   
 3. Risks will generally be categorized as Acceptable or Unacceptable. Any risks determined unacceptable require risk reduction prior to going to market.
 
-## Risk Control
+### Risk Control
 1. When risk reduction is required, risk control activities as described below will be performed.
 2. In the event that risk reduction is necessary, risk control measures will be identified and documented. Risk control measures are applied in the following priority:
     - Safety by design (inherent) - eliminates hazard or hazardous situation via design feature
@@ -175,13 +172,13 @@ A form "Device Characteristics" is used to document the results of this review.
   
 9. Once all risk control measures have been implemented, a review is performed to determine whether the risks from all identified hazardous situations have been considered.
   
-## Evaluation of Overall Residual Risk Acceptability
+### Evaluation of Overall Residual Risk Acceptability
 
 1. After all the risk control measures have been implemented and verified, it will be determined whether the overall residual risk posed by the medical device has been reduced as low as possible using the criteria defined in the Risk Management Plan.
   
 2. If the overall residual risk is not judged to be reduced as far as possible using the criteria established in the Risk Management Plan, then further data and literature may be gathered and reviewed to determine if the medical benefits of the intended use outweigh the overall residual risk. If the evidence supports that the benefits outweigh the overall residual risks, the the overall residual risk can be judged to be as low as possible. Otherwise, the overall residual risk remains unacceptable.
   
- 3. Risk Management Report:  Prior to release, MDN reviews the risk management process to ensure that it has been appropriately implemented and that the overall residual risk is accepted.
+3. Risk Management Report:  Prior to release, MDN reviews the risk management process to ensure that it has been appropriately implemented and that the overall residual risk is accepted.
   
 4. These results will be documented in the Risk Management Report and included in the Risk Management File.
 
