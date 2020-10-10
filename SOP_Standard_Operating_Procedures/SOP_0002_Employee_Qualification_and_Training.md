@@ -28,14 +28,6 @@ The following associates are also included in the scope of this document:
 
 * Any formal or informal instructions given to an employee in the form of education, which includes, but is not limited to, past experiences, formal courses, seminars, self-training or on-the-job training. Training may be either internal or external.
 
-## Responsibilities
-
-The management at MDN is responsible for:
-
-* Maintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
-* Developing, reviewing, and improving employee job descriptions, and training requirements.
-* Completing all training and maintaining an individual training file.
-
 ## General Requirements
  * All employees, contractors, and consultants must complete and document all required training and retraining in a timely manner.
  
@@ -104,4 +96,12 @@ The management at MDN is responsible for:
 ### Training Records
 
 Training activities are documented by placing a record of the training as a document stored in the corporate Email system, under the user ID of the employee's supervisor.
+
+## Responsibilities
+
+The management at MDN is responsible for:
+
+* Maintaining personnel files, establishing employee retention policies, and establishing performance monitoring requirements.
+* Developing, reviewing, and improving employee job descriptions, and training requirements.
+* Completing all training and maintaining an individual training file.
 

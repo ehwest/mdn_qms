@@ -16,7 +16,7 @@ This standard operating procedure establishes MDN&#39;s Medical Device Reporting
 It is important to note that within the bounds of this QMS, the T1Pal service (provided by a collection of operating servers on the internet) is defined as a "device" subject to all of the definitions, protections, certifications, and rules applicable to Medical Devices, as defined by the US FDA.
 We therefore take all uses of the term "device" in FDA documents to be inclusive of services such as T1Pal that is operated and maintained by Medical Data Networks LLC for the benefit of its lawful subscribers.
 
-## Definitions
+## Definition of a "Reportable Event"
 
 Unless otherwise noted, all terms take on the meaning as defined in chapter 7 "Complaint Handling"
 and [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
@@ -33,7 +33,8 @@ A "reportable event" means:
 
 Note that as MDN provides only one product "T1Pal" that is defined as a "secondary display" -- not labeled for theraputic use,  and not labeled for any use when a primary display is not available or otherwise inoperable,  T1Pal software cannot --by definition-- contribute to a death or serious injury on its own.
 
-## Summary of Medical Device Reporting Policy
+## Summary of Reporting Policy
+
 1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
 i. within 5 days of becoming aware that a Reportable Event requires remedial action to prevent an unreasonable risk of substantial harm to the public health;
 ii. within 5 days of becoming aware of a reportable event for which the FDA has made a written request;
@@ -44,7 +45,7 @@ iii. within 30 days after becoming aware of a reportable death, serious injury, 
 3. Documentation for MDRs will be maintained according to chapter 1 of this QMS  "Control of Quality Records"
   
   
-## Detailed Requirements:
+## Detailed Requirements
 
 Devices that "may have caused or contributed" to a death or serious injury; or a malfunction that would be likely to cause or contribute to a death or serious injury must be reported.
 
@@ -96,9 +97,9 @@ Manufacturers are required to submit, within one month after receipt any require
 
 This document provides general guidance regarding the reporting of adverse events required by the Medical Device Reporting (MDR) Regulation.
 
-### "Per-se Rule"
+### The Obsolete Per-se Rule
 
-This requirement no longer exists. Therefore, the submission of an event by a health care professional does not require the manufacturer to report the event based solely on the statements of a health care professional. The event must meet the reporting criteria in MDR to qualify as a reportable event.
+The submission of an event by a health care professional does **not** require the manufacturer to report the event based solely on the statements of a health care professional. The event must meet the reporting criteria in MDR to qualify as a reportable event.
 
 ### Reporting Time Frame
 

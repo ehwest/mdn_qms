@@ -50,7 +50,7 @@ If and/or when there is some difference in the references compared to to the QMS
  * Verification – Confirmation, through the provision of objective evidence, that specified requirements have been fulfilled
 
     
-### Baselined Risks
+## Baselined Risks
 
 It is assumed that all tasks have "baseline risks". 
 Baseline risks are documented on an MS Excel Spreadsheet stored in the software github repository.
@@ -72,7 +72,7 @@ Supporting the uniform analysis of risk, the following tables provide the workin
 | 1 | Negligible | Inconvenience or temporary discomfort. | Feeling a little low, quickly recovering. |
 | 0 | None | A bug or issue that has no chance of causing harm. | Minor user interface issue that will not cause misinterpretation of data. Bug found and fixed prior to delivery to production |
 
-#### 3 Definition of &quot;Probability of Harm&quot; Definitions 
+#### Definition of &quot;Probability of Harm&quot; Definitions 
 
 | **Rating** | **Term** | **Probability (P) of Occurrence of the Harm** **(not the bug)** | **Description for Clarity** |
 | --- | --- | --- | --- |
@@ -84,7 +84,7 @@ Supporting the uniform analysis of risk, the following tables provide the workin
 
 Probability of a risk is determined by estimating the likelihood that the risk will manifest as a harm for any given use of MDN software. &quot;Use&quot; means an instance of using a MDN software for its intended use.
 
-### Risk Rating
+## Risk Rating
 
 A Risk Rating is determined by multiplying the occurrence rating by the severity rating to obtain a result ranging from 1-25. Decisions about risk acceptability are based on the following table:
 

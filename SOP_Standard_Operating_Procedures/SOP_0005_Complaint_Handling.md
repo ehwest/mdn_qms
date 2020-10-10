@@ -50,7 +50,7 @@ Temporary impairment of a body function or temporary damage to body structure is
 
 Properly labelled, a product/service offering a secondary display which further, excludes use cases covering the calculation or delivery of therapies, would be unexpected to fail in such a way to create a reportable event.
 
-## User Communication Defined: 
+## User Communication 
 
 Any contact (phone, email, support ticket, website inquiry, in person) from a user regarding an MDC product or service.
 

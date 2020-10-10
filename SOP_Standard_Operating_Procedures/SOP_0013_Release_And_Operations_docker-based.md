@@ -125,15 +125,14 @@ For all non-trivial changes, the software developer must seek review from anothe
 
 ## Design Input
 
-### Reference 21 CFR 820.30 (c)
-Each manufacturer shall establish and maintain procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient. The procedures shall include a mechanism for addressing incomplete, ambiguous, or conflicting requirements. The design input requirements shall be documented and shall be reviewed and approved by a designated individual(s). The approval, including the date and signature of the individual(s) approving the requirements, shall be documented.
+Consistent with 21 CFR 820.30 (c), each manufacturer shall establish and maintain procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient. The procedures shall include a mechanism for addressing incomplete, ambiguous, or conflicting requirements. The design input requirements shall be documented and shall be reviewed and approved by a designated individual(s). The approval, including the date and signature of the individual(s) approving the requirements, shall be documented.
 
 It is MDN's policy and practice to capture designs in the form of two key artifacts:
-#### Sequence Diagrams
+* Sequence Diagrams
 
 MDN has in its repository a collection of UML-style Sequence Diagrams showing the principal flows among all of the relevant components for each subflow.  These diagrams, when annoted with API and other reference information establishes both the current and planned design of the entire T1Pal system.
 
-#### Swagger API Definitions for RESTful interfaces.
+* Swagger API Definitions for RESTful interfaces.
 
 Standard RESTful APIs are the preferred means of inter-system communications.   These are best documented in the form of "Swagger" files that completely define the API.
 
@@ -179,8 +178,6 @@ UML-styled Sequence Diagrams described above are used to capture design Outputs 
 * Review and approval**. The QA department is responsible for review and approval of all verification tests. VP-level or CEO approval is required for deployment to production servers.
 
 ## Design Review
-
-### Review
 
 * User interface reviews:  User interface designs are reviewed via Google Drive. Comments on designs in Google Drive are maintained in perpetuity.
 
@@ -228,11 +225,13 @@ Box&quot; tests.
 
 * Beta users. Beta users are selected to based on expressed interest in testing MDN software, configurations they have available (e.g. Mac or Windows, which diabetes devices they use), and demonstrated ability to complete homework assignments. Beta users are given homework assignments with instructions on how to test software functionality. Homework assignment templates are stored in the &quot;Validation Templates&quot; folder. Beta users document both quantitative and qualitative results of their use of the software in Google Docs. Those Google Docs are stored in Google Drive in the &quot;Validation Documentation&quot; folder. MDN  software is tested by Beta users with their own computers and mobile devices in their own actual use conditions.
 
-## Risk analysis:   Risks analysis and mitigation processes are documented.
+## Risk analysis
 
-### Design Transfer:
+A Risk Analysis review, consistent with chapter 4 "Risk and Hazard Management" is required before commencing Design Transfer.
 
-* Reference 21 CFR 820.30 (h) Design transfer:   Each manufacturer shall establish and maintain procedures to ensure that the device design is correctly translated into production specifications.
+## Design Transfer
+
+* Consistent with 21 CFR 820.30 (h) each manufacturer shall establish and maintain procedures to ensure that the device design is correctly translated into production specifications.
 
 * Transfer of development code to production. A software developer is assigned during the Sprint Planning meeting and identified on the github issue for implementation of the task. It is the responsibility of the software developer to implement the software per requirements detailed on the Jira issue or via UI design in Google Drive. If there are ambiguous requirements or designs, the ambiguity may be resolved through conversation. For substantial ambiguity, resolution will be documented in the Jira card. For minor changes or ambiguity, the resolution may be documented in the software code itself.
 

@@ -11,10 +11,20 @@ approval_date: "2020-10-01"
 \pagebreak
 # Billing Management
 
+MDN shall conduct its product selection process, invoicing, and other billing operations so
+as to maintain privacy requirements of both HIPAA and PCI (payment card industry) demands.
+The following sections identify how this is accomplished.
+
+## Credit Card Service Operations
 "Stripe.com" and "Servicebot.io" are providers of billing services to T1Pal operations.
 These providers are separate and independent companies that provide all of the credit card and related payment
 services to T1Pal software operations.
 All communications between T1Pal, and subscribers, to/from these providers is encrypted using standard SSL methods.
+
+There are functions of stripe.com that fail to completely meet PCI demands for credit card handling. 
+This issue is well known and was created when stripe.com introduced advanced analysis of
+stripe.com customer behaviors in an "SQL" engine.
+The remedy for these has been accepted and planned by stripe.com.
 
 Generally, processing payments 
 through a credit card processor creates personally identifiable information (PII) that must be secured both in transmission and storage.
