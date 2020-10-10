@@ -125,7 +125,8 @@ For all non-trivial changes, the software developer must seek review from anothe
 
 ## Design Input
 
-### Reference 21 CFR 820.30 (c):  Each manufacturer shall establish and maintain procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient. The procedures shall include a mechanism for addressing incomplete, ambiguous, or conflicting requirements. The design input requirements shall be documented and shall be reviewed and approved by a designated individual(s). The approval, including the date and signature of the individual(s) approving the requirements, shall be documented.
+### Reference 21 CFR 820.30 (c)
+Each manufacturer shall establish and maintain procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient. The procedures shall include a mechanism for addressing incomplete, ambiguous, or conflicting requirements. The design input requirements shall be documented and shall be reviewed and approved by a designated individual(s). The approval, including the date and signature of the individual(s) approving the requirements, shall be documented.
 
 It is MDN's policy and practice to capture designs in the form of two key artifacts:
 #### Sequence Diagrams
@@ -136,49 +137,60 @@ MDN has in its repository a collection of UML-style Sequence Diagrams showing th
 
 Standard RESTful APIs are the preferred means of inter-system communications.   These are best documented in the form of "Swagger" files that completely define the API.
 
-### Sources of Design Inputs.  Input into the MDN design and development process, including requirements, may come from these sources, but is not limited to these sources:
+### Sources of Design Inputs.  
 
-### Interviews with actual and potential users: MDN conducts in person, phone, video conference and email interviews with actual and potential users. The notes from these meetings are stored in Google Drive as Google Documents. Users include but are not limited to: people with diabetes, their care team, parents, doctors, diabetes educators, device makers and diabetes researchers.
+Input into the MDN design and development process, including requirements, may come from these sources, but is not limited to these sources:
 
-### MDN Employees and Contractors**: MDN&#39;s employees, contractors and consultants may also be the source of design input.
+* Interviews with actual and potential users MDN conducts in person, phone, video conference and email interviews with actual and potential users. The notes from these meetings are stored in Google Drive as Google Documents. Users include but are not limited to: people with diabetes, their care team, parents, doctors, diabetes educators, device makers and diabetes researchers.
 
-### Observed and measured use of MDN  software: When running, MDN collects metrics and usage statistics. These data may also be sources of design input.
+* MDN Employees and Contractors**: MDN&#39;s employees, contractors and consultants may also be the source of design input.
 
-### Feedback from Alpha and Beta Users:  MDN collects feedback from Beta users as part of Software Validation activities (see section 11). Results from these activities may also be used as design input.
-#### Feedback received via social media, such as Twitter, Facebook, Instagram and comments on blog posts.
-#### Feedback from users via customer support, including emails to [support@tidepool.org](mailto:support@tidepool.org) and via our support ticketing system.
+* Observed and measured use of MDN  software: When running, MDN collects metrics and usage statistics. These data may also be sources of design input.
 
-### Appropriateness of requirements to meet intended use:  It is the responsibility of the VP of Product or CEO to approve the appropriateness of product functionality that is made available via production servers. MDN developers may deploy code to non-production servers (such as &quot;staging&quot;, &quot;development&quot; or &quot;integration&quot; servers) without VP or CEO approval.
+* Feedback from Alpha and Beta Users:  MDN collects feedback from Beta users as part of Software Validation activities (see section 11). Results from these activities may also be used as design input.
 
-### Mechanism for addressing incomplete, ambiguous, or conflicting requirements:  Incomplete, ambiguous or conflicting requirements will be discussed during planning meetings and via ongoing conversation. It is the responsibility of the VP of Product or CEO to resolve incomplete, ambiguous or conflicting requirements for product functionality that is made available via production servers. The outcome of resolving these requirements issues is documented in Jira issues.
+* Feedback received via social media, 
+such as Twitter, Facebook, Instagram and comments on blog posts.
 
-### Review and approval:  Documentation for review and approval of all functionality is captured on Jira issues.
+* Feedback from users via customer support, including emails to [support@tidepool.org](mailto:support@tidepool.org) and via our support ticketing system.
+
+* Appropriateness of requirements to meet intended use:  It is the responsibility of the VP of Product or CEO to approve the appropriateness of product functionality that is made available via production servers. MDN developers may deploy code to non-production servers (such as &quot;staging&quot;, &quot;development&quot; or &quot;integration&quot; servers) without VP or CEO approval.
+
+* Mechanism for addressing incomplete, ambiguous, or conflicting requirements:  Incomplete, ambiguous or conflicting requirements will be discussed during planning meetings and via ongoing conversation. It is the responsibility of the VP of Product or CEO to resolve incomplete, ambiguous or conflicting requirements for product functionality that is made available via production servers. The outcome of resolving these requirements issues is documented in Jira issues.
+
+*  Review and approval:  Documentation for review and approval of all functionality is captured on Jira issues.
 
 ## Design Output
 
-### Reference 21 CFR 820.30 (d):  Each manufacturer shall establish and maintain procedures for defining and documenting design output in terms that allow an adequate evaluation of conformance to design input requirements. Design output procedures shall contain or make reference to acceptance criteria and shall ensure that those design outputs that are essential for the proper functioning of the device are identified. Design output shall be documented, reviewed, and approved before release. The approval, including the date and signature of the individual(s) approving the output, shall be documented.
+* Reference 21 CFR 820.30 (d):  Each manufacturer shall establish and maintain procedures for defining and documenting design output in terms that allow an adequate evaluation of conformance to design input requirements. Design output procedures shall contain or make reference to acceptance criteria and shall ensure that those design outputs that are essential for the proper functioning of the device are identified. Design output shall be documented, reviewed, and approved before release. The approval, including the date and signature of the individual(s) approving the output, shall be documented.
 
 UML-styled Sequence Diagrams described above are used to capture design Outputs unambiguously and subject ot change control documentation.
 
-### Evaluation of conformance to requirements.
+* Evaluation of conformance to requirements.
 
-### Verification and deployment of software:  Prior to deployment to production servers, software is deployed to a staging server environment where it is tested. The QA department is responsible for developing and executing verification tests (see section 10) although others including volunteer testers, other employees, and the CEO may also execute tests.
+* Verification and deployment of software:  Prior to deployment to production servers, software is deployed to a staging server environment where it is tested. The QA department is responsible for developing and executing verification tests (see section 10) although others including volunteer testers, other employees, and the CEO may also execute tests.
 
-### Documentation:
-#### All verification tests, both templates and executed tests, are documented in Google Docs and stored indefinitely in Google Drive, including a record of all changes to each file.
+*  Documentation:
 
-#### Deployment of software to development, staging and production server environments is documented as a Jira list for each deployment.
+* All verification tests, both templates and executed tests, are documented in Google Docs and stored indefinitely in Google Drive, including a record of all changes to each file.
 
-#### Review and approval**. The QA department is responsible for review and approval of all verification tests. VP-level or CEO approval is required for deployment to production servers.
+* Deployment of software to development, staging and production server environments is documented as a Jira list for each deployment.
+
+* Review and approval**. The QA department is responsible for review and approval of all verification tests. VP-level or CEO approval is required for deployment to production servers.
 
 ## Design Review
 
 ### Review
-#### User interface reviews:  User interface designs are reviewed via Google Drive. Comments on designs in Google Drive are maintained in perpetuity.
-#### Code reviews:  All substantial changes to software source code intended to be deployed to production must be reviewed by a MDN employee other than the author of the source code. Review of design results.
-#### Review by individuals without direct responsibility:
-##### UI Design Review. All UI designs are reviewed by someone other than the UI designer.
-##### Code Review. An MDNs employee or contractor is responsible for reviewing all substantial code changes that will result in customer-facing functionality. The employee who proposed the changes (via GitHub pull request) may not review the proposed changes.
+
+* User interface reviews:  User interface designs are reviewed via Google Drive. Comments on designs in Google Drive are maintained in perpetuity.
+
+* Code reviews:  All substantial changes to software source code intended to be deployed to production must be reviewed by a MDN employee other than the author of the source code. Review of design results.
+
+* Review by individuals without direct responsibility:
+
+* UI Design Review. All UI designs are reviewed by someone other than the UI designer.
+
+* Code Review. An MDNs employee or contractor is responsible for reviewing all substantial code changes that will result in customer-facing functionality. The employee who proposed the changes (via GitHub pull request) may not review the proposed changes.
 
 ## Documentation
 
@@ -186,85 +198,91 @@ All relevant reviews are documented in Jira or Google Docs and stored in perpetu
 
 ## Design Verification
 
-### Black Box Test Templates: Black Box&quot; testing refers to test verification activities that are performed manually, not by automated code.
-### Location, name and version:  Test verification templates are stored in Google Drive in folders with a unique name indicating the area being tested and the version number of the test. 
-### Responsibility for tests:  Any MDN employee, contractor or consultant can create new &quot;Black 
+* Black Box Test Templates: Black Box&quot; testing refers to test verification activities that are performed manually, not by automated code.
+* Location, name and version:  Test verification templates are stored in Google Drive in folders with a unique name indicating the area being tested and the version number of the test. 
+* Responsibility for tests:  Any MDN employee, contractor or consultant can create new &quot;Black 
 Box&quot; tests.
-### Changes to tests:  A record of changes to tests are maintained in perpetuity in the document version history for each test. Obsolete tests are prominently marked [OBSOLETE] and are moved to an archive directory.
+* Changes to tests:  A record of changes to tests are maintained in perpetuity in the document version history for each test. Obsolete tests are prominently marked [OBSOLETE] and are moved to an archive directory.
 
-### Executed tests:   For executed tests, the test template is copied to the &quot;Executed Verification Scripts&quot; folder where it is edited as the test is executed. Elements of the test are marked &quot;PASSED&quot; or &quot;FAILED.&quot; For elements of the test that have failed, a Jira issue is generated to address the issue.
+* Executed tests:   For executed tests, the test template is copied to the &quot;Executed Verification Scripts&quot; folder where it is edited as the test is executed. Elements of the test are marked &quot;PASSED&quot; or &quot;FAILED.&quot; For elements of the test that have failed, a Jira issue is generated to address the issue.
 
-### Automated &quot;White Box&quot; tests: At the discretion of the software developer, software functionality may be tested using automated tests.
+* Automated &quot;White Box&quot; tests: At the discretion of the software developer, software functionality may be tested using automated tests.
 
-### Software source code for the automated test suite will be stored in the same GitHub repository as the software functionality itself.
-###If functionality includes an automated test or suite of tests, all tests must pass for the software source code can be merged into the &quot;master&quot; branch.
+* Software source code for the automated test suite will be stored in the same GitHub repository as the software functionality itself.
+
+* If functionality includes an automated test or suite of tests, all tests must pass for the software source code can be merged into the &quot;master&quot; branch.
 
 ## Documentation
 
-## #Methods:   The method of verification is documented in the test verification template per Section 10.1. Links to each documented test are included in the DHF as described in Section 14.
-### Date and Responsibility:  The date of running the verification test as well as the individuals performing the test are detailed in the executed test document per Section 10.2.
+* Methods:   The method of verification is documented in the test verification template per Section 10.1. Links to each documented test are included in the DHF as described in Section 14.
 
-## Design Validation
+* Date and Responsibility:  The date of running the verification test as well as the individuals performing the test are detailed in the executed test document per Section 10.2.
 
-### Defined operating conditions:  MDN software is intended to be used on computers and mobile devices with an Internet connection.
+* Design Validation
 
-### Defined user needs and intended use: User needs are documented in requirements as per Section . The intended uses of MDN software are defined.
+* Defined operating conditions:  MDN software is intended to be used on computers and mobile devices with an Internet connection.
 
-### Software validation:  The use of MDN software is validated by volunteer 
+* Defined user needs and intended use: User needs are documented in requirements as per Section . The intended uses of MDN software are defined.
 
-Beta users. Beta users are selected to based on expressed interest in testing MDN software, configurations they have available (e.g. Mac or Windows, which diabetes devices they use), and demonstrated ability to complete homework assignments. Beta users are given homework assignments with instructions on how to test software functionality. Homework assignment templates are stored in the &quot;Validation Templates&quot; folder. Beta users document both quantitative and qualitative results of their use of the software in Google Docs. Those Google Docs are stored in Google Drive in the &quot;Validation Documentation&quot; folder. MDN  software is tested by Beta users with their own computers and mobile devices in their own actual use conditions.
+* Software validation:  The use of MDN software is validated by volunteer 
 
-### Risk analysis:   Risks analysis and mitigation processes are documented.
+* Beta users. Beta users are selected to based on expressed interest in testing MDN software, configurations they have available (e.g. Mac or Windows, which diabetes devices they use), and demonstrated ability to complete homework assignments. Beta users are given homework assignments with instructions on how to test software functionality. Homework assignment templates are stored in the &quot;Validation Templates&quot; folder. Beta users document both quantitative and qualitative results of their use of the software in Google Docs. Those Google Docs are stored in Google Drive in the &quot;Validation Documentation&quot; folder. MDN  software is tested by Beta users with their own computers and mobile devices in their own actual use conditions.
+
+## Risk analysis:   Risks analysis and mitigation processes are documented.
 
 ### Design Transfer:
 
-#### Reference 21 CFR 820.30 (h) Design transfer:   Each manufacturer shall establish and maintain procedures to ensure that the device design is correctly translated into production specifications.
+* Reference 21 CFR 820.30 (h) Design transfer:   Each manufacturer shall establish and maintain procedures to ensure that the device design is correctly translated into production specifications.
 
-#### Transfer of development code to production. A software developer is assigned during the Sprint Planning meeting and identified on the github issue for implementation of the task. It is the responsibility of the software developer to implement the software per requirements detailed on the Jira issue or via UI design in Google Drive. If there are ambiguous requirements or designs, the ambiguity may be resolved through conversation. For substantial ambiguity, resolution will be documented in the Jira card. For minor changes or ambiguity, the resolution may be documented in the software code itself.
+* Transfer of development code to production. A software developer is assigned during the Sprint Planning meeting and identified on the github issue for implementation of the task. It is the responsibility of the software developer to implement the software per requirements detailed on the Jira issue or via UI design in Google Drive. If there are ambiguous requirements or designs, the ambiguity may be resolved through conversation. For substantial ambiguity, resolution will be documented in the Jira card. For minor changes or ambiguity, the resolution may be documented in the software code itself.
 
-**Responsibility and Approval**. It is the responsibility of the VP of Product and/or CEO to assure that all requirements have been met, that designs have been correctly translated into Production, and that all appropriate verification and validation activities have been performed. VP of Product or CEO approval is required for deployment to Production of all substantial, customer-facing functionality.
+* Responsibility and Approval**. It is the responsibility of the VP of Product and/or CEO to assure that all requirements have been met, that designs have been correctly translated into Production, and that all appropriate verification and validation activities have been performed. VP of Product or CEO approval is required for deployment to Production of all substantial, customer-facing functionality.
 
 **Documentation**. All development transfer activities are documented in githugithubb. For deployments to Production servers, a new Jira list will be created that contains the name, date and version number of software being deployed.
 
 
 ## Design Changes
 
-### Reference 21 CFR 820.30 (i) Design changes: Each manufacturer shall establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation.
+* Reference 21 CFR 820.30 (i) Design changes: Each manufacturer shall establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation.
 
-### Iteration of Design Changes:  MDN uses an agile development model. Design changes may occur in any sprint. In addition to documenting design as described above in Section 7, Design and Development Activities, ongoing changes to design will be documented as described below.
+* Iteration of Design Changes:  MDN uses an agile development model. Design changes may occur in any sprint. In addition to documenting design as described above in Section 7, Design and Development Activities, ongoing changes to design will be documented as described below.
 
-### Identification:  All documents in  GitHub are uniquely identified by a unique Uniform Resource Identifier (URI) that is assigned by the respective service. Documents may additionally have a human-readable document title and document ID. For example, this document is:
+* Identification:  All documents in  GitHub are uniquely identified by a unique Uniform Resource Identifier (URI) that is assigned by the respective service. Documents may additionally have a human-readable document title and document ID. For example, this document is:
 
-### Documentation of design changes.
-####All changes to requirements, design, software source code, functionality, verification and validation are documented and tracked in Jira, Pixelapse, GitHub and Google Docs. Revision history is maintained in perpetuity.
-#### Changes to requirements are identified and documented in github issues. A history of changes to github issues is maintained in perpetuity.
-#### Changes to software source code are maintained in GitHub. Revision history is maintained in perpetuity.
-####Review and Approval:  Design changes are reviewed and approved before deployment to production. All review and approval will be documented in Jira, Pixelapse, GitHub or Google Docs.
+##  Documentation of design changes.
+
+* All changes to requirements, design, software source code, functionality, verification and validation are documented and tracked in Jira, Pixelapse, GitHub and Google Docs. Revision history is maintained in perpetuity.
+
+* Changes to requirements are identified and documented in github issues. A history of changes to github issues is maintained in perpetuity.
+
+* Changes to software source code are maintained in GitHub. Revision history is maintained in perpetuity.
+
+* Review and Approval:  Design changes are reviewed and approved before deployment to production. All review and approval will be documented in Jira, Pixelapse, GitHub or Google Docs.
 
 ## Design History File (DHF)
 
-### Reference 21 CFR 820.30 (j) Design history file: Each manufacturer shall establish and maintain a DHF for each type of device. The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of this part.
-### Together, the documentation maintained in GitHub comprises each MDN product&#39;s Design History File (DHF).
+*  Reference 21 CFR 820.30 (j) Design history file: Each manufacturer shall establish and maintain a DHF for each type of device. The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of this part.
+*  Together, the documentation maintained in GitHub comprises each MDN product&#39;s Design History File (DHF).
 
 ## CFR Reference: 21 CFR 820.30 Design Controls
 
-### Design and development planning: Each manufacturer shall establish and maintain plans that describe or reference the design and development activities and define responsibility for implementation. The plans shall identify and describe the interfaces with different groups or activities that provide, or result in, input to the design and development process. The plans shall be reviewed, updated, and approved as design and development evolves.
+* Design and development planning: Each manufacturer shall establish and maintain plans that describe or reference the design and development activities and define responsibility for implementation. The plans shall identify and describe the interfaces with different groups or activities that provide, or result in, input to the design and development process. The plans shall be reviewed, updated, and approved as design and development evolves.
 
-### Design input:  Each manufacturer shall establish and maintain procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient. The procedures shall include a mechanism for addressing incomplete, ambiguous, or conflicting requirements. The design input requirements shall be documented and shall be reviewed and approved by a designated individual(s). The approval, including the date and signature of the individual(s) approving the requirements, shall be documented.
+* Design input:  Each manufacturer shall establish and maintain procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient. The procedures shall include a mechanism for addressing incomplete, ambiguous, or conflicting requirements. The design input requirements shall be documented and shall be reviewed and approved by a designated individual(s). The approval, including the date and signature of the individual(s) approving the requirements, shall be documented.
 
-### Design output: Each manufacturer shall establish and maintain procedures for defining and documenting design output in terms that allow an adequate evaluation of conformance to design input requirements. Design output procedures shall contain or make reference to acceptance criteria and shall ensure that those design outputs that are essential for the proper functioning of the device are identified. Design output shall be documented, reviewed, and approved before release. The approval, including the date and signature of the individual(s) approving the output, shall be documented.
+* Design output: Each manufacturer shall establish and maintain procedures for defining and documenting design output in terms that allow an adequate evaluation of conformance to design input requirements. Design output procedures shall contain or make reference to acceptance criteria and shall ensure that those design outputs that are essential for the proper functioning of the device are identified. Design output shall be documented, reviewed, and approved before release. The approval, including the date and signature of the individual(s) approving the output, shall be documented.
 
-### Design review: Each manufacturer shall establish and maintain procedures to ensure that formal documented reviews of the design results are planned and conducted at appropriate stages of the device&#39;s design development. The procedures shall ensure that participants at each design review include representatives of all functions concerned with the design stage being reviewed and an individual(s) who does not have direct responsibility for the design stage being reviewed, as well as any specialists needed. The results of a design review, including identification of the design, the date, and the individual(s) performing the review, shall be documented in the design history file (the DHF).
+* Design review: Each manufacturer shall establish and maintain procedures to ensure that formal documented reviews of the design results are planned and conducted at appropriate stages of the device&#39;s design development. The procedures shall ensure that participants at each design review include representatives of all functions concerned with the design stage being reviewed and an individual(s) who does not have direct responsibility for the design stage being reviewed, as well as any specialists needed. The results of a design review, including identification of the design, the date, and the individual(s) performing the review, shall be documented in the design history file (the DHF).
 
-### Design verification:  Each manufacturer shall establish and maintain procedures for verifying the device design. Design verification shall confirm that the design output meets the design input requirements. The results of the design verification, including identification of the design, method(s), the date, and the individual(s) performing the verification, shall be documented in the DHF.
+* Design verification:  Each manufacturer shall establish and maintain procedures for verifying the device design. Design verification shall confirm that the design output meets the design input requirements. The results of the design verification, including identification of the design, method(s), the date, and the individual(s) performing the verification, shall be documented in the DHF.
 
-### Design validation:  Each manufacturer shall establish and maintain procedures for validating the device design. Design validation shall be performed under defined operating conditions on initial production units, lots, or batches, or their equivalents. Design validation shall ensure that devices conform to defined user needs and intended uses and shall include testing of production units under actual or simulated use conditions. Design validation shall include software validation and risk analysis, where appropriate. The results of the design validation, including identification of the design, method(s), the date, and the individual(s) performing the validation, shall be documented in the DHF.
+* Design validation:  Each manufacturer shall establish and maintain procedures for validating the device design. Design validation shall be performed under defined operating conditions on initial production units, lots, or batches, or their equivalents. Design validation shall ensure that devices conform to defined user needs and intended uses and shall include testing of production units under actual or simulated use conditions. Design validation shall include software validation and risk analysis, where appropriate. The results of the design validation, including identification of the design, method(s), the date, and the individual(s) performing the validation, shall be documented in the DHF.
 
-### Design transfer:  Each manufacturer shall establish and maintain procedures to ensure that the device design is correctly translated into production specifications.
+* Design transfer:  Each manufacturer shall establish and maintain procedures to ensure that the device design is correctly translated into production specifications.
 
-### Design changes:  Each manufacturer shall establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation.
+* Design changes:  Each manufacturer shall establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation.
 
-### Design history file:  Each manufacturer shall establish and maintain a DHF for each type of device. The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of this part.
+* Design history file:  Each manufacturer shall establish and maintain a DHF for each type of device. The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of this part.
 
 ## 3.  References
 
