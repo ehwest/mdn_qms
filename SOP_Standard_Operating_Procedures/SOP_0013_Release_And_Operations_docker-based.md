@@ -240,7 +240,7 @@ A Risk Analysis review, consistent with chapter 4 "Risk and Hazard Management" i
 **Documentation**. All development transfer activities are documented in githugithubb. For deployments to Production servers, a new Jira list will be created that contains the name, date and version number of software being deployed.
 
 
-## Design Changes
+##  Design Changes
 
 * Reference 21 CFR 820.30 (i) Design changes: Each manufacturer shall establish and maintain procedures for the identification, documentation, validation or where appropriate verification, review, and approval of design changes before their implementation.
 
@@ -248,7 +248,7 @@ A Risk Analysis review, consistent with chapter 4 "Risk and Hazard Management" i
 
 * Identification:  All documents in  GitHub are uniquely identified by a unique Uniform Resource Identifier (URI) that is assigned by the respective service. Documents may additionally have a human-readable document title and document ID. For example, this document is:
 
-##  Documentation of design changes.
+##   Documentation of design changes.
 
 * All changes to requirements, design, software source code, functionality, verification and validation are documented and tracked in Jira, Pixelapse, GitHub and Google Docs. Revision history is maintained in perpetuity.
 
@@ -258,12 +258,12 @@ A Risk Analysis review, consistent with chapter 4 "Risk and Hazard Management" i
 
 * Review and Approval:  Design changes are reviewed and approved before deployment to production. All review and approval will be documented in Jira, Pixelapse, GitHub or Google Docs.
 
-## Design History File (DHF)
+##  Design History File (DHF)
 
 *  Reference 21 CFR 820.30 (j) Design history file: Each manufacturer shall establish and maintain a DHF for each type of device. The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of this part.
 *  Together, the documentation maintained in GitHub comprises each MDN product&#39;s Design History File (DHF).
 
-## CFR Reference: 21 CFR 820.30 Design Controls
+##  CFR Reference: 21 CFR 820.30 Design Controls
 
 * Design and development planning: Each manufacturer shall establish and maintain plans that describe or reference the design and development activities and define responsibility for implementation. The plans shall identify and describe the interfaces with different groups or activities that provide, or result in, input to the design and development process. The plans shall be reviewed, updated, and approved as design and development evolves.
 
@@ -283,7 +283,7 @@ A Risk Analysis review, consistent with chapter 4 "Risk and Hazard Management" i
 
 * Design history file:  Each manufacturer shall establish and maintain a DHF for each type of device. The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of this part.
 
-## 3.  References
+##  References
 
 1.  U.S. Food and Drug Administration, 21 CFR Part 820: Quality System Regulation.
 2.  General Principles of Software Validation; Final Guidance for Industry and FDA Staff
