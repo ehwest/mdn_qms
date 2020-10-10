@@ -178,7 +178,7 @@ A form "Device Characteristics" is used to document the results of this review.
   
 9. Once all risk control measures have been implemented, a review is performed to determine whether the risks from all identified hazardous situations have been considered.
   
-### Evaluation of Overall Residual Risk Acceptability
+## Evaluation of Overall Residual Risk Acceptability
 
 1. After all the risk control measures have been implemented and verified, it will be determined whether the overall residual risk posed by the medical device has been reduced as low as possible using the criteria defined in the Risk Management Plan.
   

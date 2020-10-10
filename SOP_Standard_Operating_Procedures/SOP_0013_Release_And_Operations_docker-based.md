@@ -63,7 +63,7 @@ A "run-book" is a check-list style document (stored in the github repository) th
 
 Prior to checking out the production software on a T1Pal component (from the master repo), a data transition script may be required to prepare the production environment with the right data, in the right schema.  A backup of the production data must be done for all software changes impacting data.
 
-## Design and Development Planning Processes
+## General Design and Development Planning Processes
 
 It is the policy of T1Pal to align with "FDA 21 CFR 820.30 (b)"  with respect to design and development planning:
 
@@ -127,7 +127,16 @@ For all non-trivial changes, the software developer must seek review from anothe
 
 ### Reference 21 CFR 820.30 (c):  Each manufacturer shall establish and maintain procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient. The procedures shall include a mechanism for addressing incomplete, ambiguous, or conflicting requirements. The design input requirements shall be documented and shall be reviewed and approved by a designated individual(s). The approval, including the date and signature of the individual(s) approving the requirements, shall be documented.
 
-### Sources of Design Inputs.  Input into the design and development process, including requirements, may come from these sources, but is not limited to these sources:
+It is MDN's policy and practice to capture designs in the form of two key artifacts:
+#### Sequence Diagrams
+
+MDN has in its repository a collection of UML-style Sequence Diagrams showing the principal flows among all of the relevant components for each subflow.  These diagrams, when annoted with API and other reference information establishes both the current and planned design of the entire T1Pal system.
+
+#### Swagger API Definitions for RESTful interfaces.
+
+Standard RESTful APIs are the preferred means of inter-system communications.   These are best documented in the form of "Swagger" files that completely define the API.
+
+### Sources of Design Inputs.  Input into the MDN design and development process, including requirements, may come from these sources, but is not limited to these sources:
 
 ### Interviews with actual and potential users: MDN conducts in person, phone, video conference and email interviews with actual and potential users. The notes from these meetings are stored in Google Drive as Google Documents. Users include but are not limited to: people with diabetes, their care team, parents, doctors, diabetes educators, device makers and diabetes researchers.
 
@@ -141,13 +150,15 @@ For all non-trivial changes, the software developer must seek review from anothe
 
 ### Appropriateness of requirements to meet intended use:  It is the responsibility of the VP of Product or CEO to approve the appropriateness of product functionality that is made available via production servers. MDN developers may deploy code to non-production servers (such as &quot;staging&quot;, &quot;development&quot; or &quot;integration&quot; servers) without VP or CEO approval.
 
-###Mechanism for addressing incomplete, ambiguous, or conflicting requirements:  Incomplete, ambiguous or conflicting requirements will be discussed during planning meetings and via ongoing conversation. It is the responsibility of the VP of Product or CEO to resolve incomplete, ambiguous or conflicting requirements for product functionality that is made available via production servers. The outcome of resolving these requirements issues is documented in Jira issues.
+### Mechanism for addressing incomplete, ambiguous, or conflicting requirements:  Incomplete, ambiguous or conflicting requirements will be discussed during planning meetings and via ongoing conversation. It is the responsibility of the VP of Product or CEO to resolve incomplete, ambiguous or conflicting requirements for product functionality that is made available via production servers. The outcome of resolving these requirements issues is documented in Jira issues.
 
 ### Review and approval:  Documentation for review and approval of all functionality is captured on Jira issues.
 
 ## Design Output
 
 ### Reference 21 CFR 820.30 (d):  Each manufacturer shall establish and maintain procedures for defining and documenting design output in terms that allow an adequate evaluation of conformance to design input requirements. Design output procedures shall contain or make reference to acceptance criteria and shall ensure that those design outputs that are essential for the proper functioning of the device are identified. Design output shall be documented, reviewed, and approved before release. The approval, including the date and signature of the individual(s) approving the output, shall be documented.
+
+UML-styled Sequence Diagrams described above are used to capture design Outputs unambiguously and subject ot change control documentation.
 
 ### Evaluation of conformance to requirements.
 
