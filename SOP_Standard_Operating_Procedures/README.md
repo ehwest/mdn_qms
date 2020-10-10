@@ -7,7 +7,7 @@ approvers:
 - github.com/bewest
 approval_date: "2020-10-01"
 ---
-
+\pagebreak
 <center>**Introduction**</center>
 
 This document --together with direct links to other documents-- is a description of the baselined Quality Management System (QMS) that must be followed by all associates of Medical Data Networks LLC (MDN).   
@@ -18,28 +18,25 @@ with FDA "Class II Medical Devices" realized as software services and operated b
 
 With this particular release of the QMS, MDN is currently focused on only one "device" named **"T1Pal"**.
 
-T1Pal provides a modified copy of the open-sourced "Nightscout" software 
-operating on one or more Internet-hosted servers as a service, and limited to registered subscribers.  In addition, T1Pal offers bundled Technical Support services, and cryptographically-secure remote sharing features not available to other Nightcout software consumers .
+T1Pal provides a certified copy of the open-sourced "Nightscout" software 
+and operates it on one or more Internet-hosted servers as a service.  Such services are limited to registered subscribers.  In addition, T1Pal offers bundled Technical Support services, and cryptographically-secure remote sharing features not available to other Nightcout software consumers .
 
-While Nightscout software has proven to be a popular
-"Do It Yourself" (DIY) project on the Internet, the software installation and operational skills required
+While the "open-sourced" Nightscout software has proven to be the popular basis for
+"Do It Yourself" (DIY) projects on the Internet, the software installation and operational skills required
 makes the Nightscout DIY solution inaccessible to many people.
 In addition, the Nightscout software deployed as a DIY project may create unaddressed risks and hazards, including the risk of failures to keep the data private and secure.
 
-Documented FDA guidelines and requirements have set forth a specific "path" 
+Documented US FDA guidelines and requirements have set forth a specific "path" 
 for FDA clearance of certain software services (as "medical devices").
 
 It is the intent of this QMS to set forth all of the methods, standards, procedures, etc. as needed
 for MDN to realize all of its products and services as FDA "Class II Medical Devices."
 
-The FDA "pathway" for clearance of specific software medical devices has been specifically outlined as follows:
+The FDA "pathway" for clearance of specific software medical devices has been specifically outlined and --as applied to the present MDN-- is intrepreted  as follows:
 
 1.	MDN must set forth  **"Indications For Use"** of its products and/or services, if any.
 2.	MDN must set forth the **"Intended Use"** cases for its products and/or services, 
 3.	MDN must provide additional **special controls, validations, and quality controls** aligned with FDA requirements for labeled Intended Use of its products and/or services .
-
-MDN products and services are designed, marketed, and specifically limited to "secondary display" of data,
-Altogether, the three Intended Use cases, and the Additional System Requirements desceribed below --with the present Quality Management system-- should enable MDN to meet FDA rules for clearance. 
 
 <center>**Table 1 -- List of All T1Pal Intended Use Cases**</center>
 Requirement ID | Intended Use Description
@@ -50,13 +47,16 @@ REQ_1030 -- Technical Support | It is intended that the display of secondary dat
 
 Note that "Technical Support" in this case is limited to 
 providing artifacts, displays, or documentation that hasten:
-1.	device warranty claims, 
-2.	guidance on replacement of devices or consumables, and 
-3.	acts that remedy impairments to data communications.
+
+1. device warranty claims, 
+2. guidance on replacement of devices or consumables, and 
+3. acts that remedy impairments to data communications.
+
 Under no circumstances should Technical Support be interpreted as providing, correcting, or modifications of medical therapies of any kind.
 	
+In addition, with the goal of providing "special controls", "validations", and "quality controls" the following additional requirements must be met.
 
-<center>**Table 2 -- Additional T1Pal System Requirements**</center>
+<center>**Table 2 -- Additional T1Pal System Requirementsd** </center>
 Requirement ID | Additional Requirements
 ---------------|------------------------
 REQ_2010 -- Data Privacy Protections| The T1Pal is intended to be HIPPA compliant with respect to privacy and access to data.
@@ -64,10 +64,13 @@ REQ_2020 -- Protection from modification of data.|The T1Pal is intended to prote
 REQ_2030 -- T1Pal Labelling|The T1Pal software shall provide clear and unambiguous labelling that describes both intended use, and warnings against all other uses.
 
 While certain services of MDN bundle open-sourced components, including Nightscout software,
-MDN adds requisite QMS controls and validation of specific Intended Use labelling, and other privacy and security features outlined above. 
+MDN ensures QMS controls and validation of specific Intended Use labelling, and other privacy and security features outlined above. 
 
 MDN is relying on adherence to this QMS to allow for FDA clearance of MDN products and services
  as a Class II software medical devices that requires no 510(k) submission, and no 513(g) request to commence marketing of the T1Pal product.
+
+MDN products and services are designed, marketed, and specifically limited to "secondary display" of data,
+Altogether, the three Intended Use cases, and the Additional System Requirements desceribed below --with the present Quality Management system-- should enable MDN to meet FDA rules for clearance. 
 
 It is the responsibility of all associates, employees, and officers of the company to align their activities with this Quality Management System.  The identification of "Corrective Actions" and follow-on work of company officers will be used to address non-compliance as may be needed to strengthen allignment with this Quality Management System over time.
 

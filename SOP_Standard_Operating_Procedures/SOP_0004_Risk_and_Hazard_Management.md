@@ -11,9 +11,11 @@ approval_date: "2020-10-01"
 \pagebreak
 # Risk and Hazard Management
 
-The purpose of this chapter is to define the risk management process used by MDN LLC to document and maintain an ongoing process for identifying hazards associated with MDN medical devices, estimating and evaluating the associated risks, controlling these risks, and monitoring the effectiveness of the controls. 
+The purpose of this chapter is to define the risk management process used by MDN to document and maintain an ongoing process for identifying hazards associated with MDN medical devices, estimating and evaluating the associated risks, controlling these risks, and monitoring the effectiveness of the controls. 
 
-It should be generally understood that ALL references to manufactured "device" or "devices" mentioned in the sections below are applicable to services delivered by software  operating on one or more compute environments operated by MDN.  MDN does not manufacture tangible devices, but rather is leveraging the FDA approach to define "software applications" as manufactured devices, subject to rules and regulations of devices, where possible.
+It should be generally understood that ALL references to manufactured "device(s)" mentioned in the sections below are applicable to T1Pal services delivered by one or more compute environments operated by MDN.  
+
+MDN does not manufacture tangible devices, but rather is leveraging the FDA approach to define "software applications" as manufactured devices, subject to rules and regulations of devices, where possible.
 
 This Quality Management System is designed to meet or exceed the applicable ISO standards for Quality Management Systems, and Risk Management standards found in the following references.
 
@@ -48,18 +50,18 @@ If and/or when there is some difference in the references compared to to the QMS
  * Verification – Confirmation, through the provision of objective evidence, that specified requirements have been fulfilled
 
     
-###Baselined Risks
+### Baselined Risks
 
-It is assumed that all tasks have baseline risks. 
+It is assumed that all tasks have "baseline risks". 
 Baseline risks are documented on an MS Excel Spreadsheet stored in the software github repository.
+
 New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
 
-on an MS Excel Spreadsheet stored in the MSN software github repository.
-New Baseline Risks are added iteratively. If a task or process does NOT indicate additional risks, then only the Baseline Risks are assumed.
-  
-## Risk analysis occurs regularly and continuously as a part of all processes. If a task is determined to have risk(s), then those risk(s) are documented.
+Risk analysis occurs regularly and continuously as a part of all processes. If a task is determined to have risk(s), then those risk(s) are documented.
 
-### Definitions of Severity Terms
+Supporting the uniform analysis of risk, the following tables provide the working definition of "Severity" and "Harm".
+
+#### Severity Definitions
 
 | **Rating** | **Term** | **Description** | **Short example** |
 | --- | --- | --- | --- |
@@ -70,8 +72,7 @@ New Baseline Risks are added iteratively. If a task or process does NOT indicate
 | 1 | Negligible | Inconvenience or temporary discomfort. | Feeling a little low, quickly recovering. |
 | 0 | None | A bug or issue that has no chance of causing harm. | Minor user interface issue that will not cause misinterpretation of data. Bug found and fixed prior to delivery to production |
 
-
-### Definition of &quot;Probability of Harm&quot; Terms
+#### 3 Definition of &quot;Probability of Harm&quot; Definitions 
 
 | **Rating** | **Term** | **Probability (P) of Occurrence of the Harm** **(not the bug)** | **Description for Clarity** |
 | --- | --- | --- | --- |
@@ -98,7 +99,7 @@ A Risk Rating is determined by multiplying the occurrence rating by the severity
 | **Improbable** | 0 | 1 | 3 | 9 | 10 | 11 |
 
 
-##3 Risk Management Procedures 
+## 3 Risk Management Procedures 
 
 1. All software and medical devices have risks. MDN&#39;s risk management activities reduce risk.
 2. Unless otherwise documented, all MDN software is assumed to have Baseline Risks, as defined below.
@@ -107,7 +108,7 @@ A Risk Rating is determined by multiplying the occurrence rating by the severity
 5. MDN&#39;s risk management process follows the process identified in [ISO 14971 Recognized Consensus Standard](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/detail.cfm?standard__identification_no=30596).
  6. MDN&#39;s CEO ensures that there are adequate resources for the risk management process and that these personnel are qualified for risk management with the knowledge and experience appropriate to the tasks assigned to them.
 
-### Risk Management Plan and File
+## Risk Management Plan and File
 
 MDN has designed its own Risk Management Plan based on analysis of existing state of the art for software and medical device. We base our model on these tenets:
   
@@ -124,7 +125,7 @@ MDN establishes a risk management plan for each medical device. This plan includ
 This risk management plan, risk evaluation, implementation and verification of risk control measures, and the assessment of acceptability of any residual risks comprise the Risk Management File. The Risk Management File is an index with pointers to the required documentation.
 
 
-### Risk Analysis
+## Risk Analysis
 
 1. For each medical device, MDN documents the intended use and reasonably foreseeable misuse, as well as documenting qualitative and quantitative characteristics that could affect the safety of the medical device. 
 A form "Device Characteristics" is used to document the results of this review.
@@ -133,17 +134,18 @@ A form "Device Characteristics" is used to document the results of this review.
   
 3. The associated risk for each hazardous situation is estimated using available information or data. Risk estimation is based on assigning Severity and Probability to a given hazard. Severity and Probability are defined below.
   
-4. For each identified risk, these questions are asked and the results are documented:
-  
-    A. What is the severity of this risk?
+4. For each identified risk, the qustion:  "What is the severity of this risk? is documented.
     
-### Risk Acceptability
+## Risk Acceptability
 
-1. Risk levels 1, 2 and 3: Further risk reduction will be assessed. Once this risk has been reduced as far as possible, this risk is acceptable for users to continue using MDN software with these residual risks. For known risks that may have potential fixes or mitigations, the potential fix or mitigation should be documented so that it can be considered relative to future work during future prioritization.
-2. Risk levels 4 through 11: Risk reductions must be considered and a mitigation plan must be documented and put in place. Once these risks have been reduced as far as possible, these risks are considered acceptable.
-3. Risk levels 12 through 25: These risks must be reduced. The work must be prioritized and addressed ahead of other work on the same feature area. A mitigation plan must be documented and put in place. A communication plan to users must be documented and implemented. Prior to product release, risk must be reduced to an acceptable level or a Risk/Benefit analysis must be performed prior to product release for human use. If the medical benefits outweigh the overall residual risk, then the overall residual risk can be judged acceptable.
+1. Risk values 1, 2 and 3: Further risk reduction will be assessed. Once this risk has been reduced as far as possible, this risk is acceptable for users to continue using MDN software with these residual risks. For known risks that may have potential fixes or mitigations, the potential fix or mitigation should be documented so that it can be considered relative to future work during future prioritization.
 
-### Risk Evaluation
+2. Risk value 4 through 11: Risk reductions must be considered and a mitigation plan must be documented and put in place. Once these risks have been reduced as far as possible, these risks are considered acceptable.
+
+3. Risk values 12 through 25: These risks must be reduced. The work must be prioritized and addressed ahead of other work on the same feature area. A mitigation plan must be documented and put in place. A communication plan to users must be documented and implemented. Prior to product release, risk must be reduced to an acceptable level or a Risk/Benefit analysis must be performed prior to product release for human use. If the medical benefits outweigh the overall residual risk, then the overall residual risk can be judged acceptable.
+
+
+## Risk Evaluation
 
 1. For each identified hazardous situation, MDN will decide whether the risk can be further reduced. Any requirement for risk reduction, or if none is required, is recorded in the risk analysis.
   
@@ -151,12 +153,16 @@ A form "Device Characteristics" is used to document the results of this review.
   
 3. Risks will generally be categorized as Acceptable or Unacceptable. Any risks determined unacceptable require risk reduction prior to going to market.
 
-### Risk Control
+## Risk Control
+
 1. When risk reduction is required, risk control activities as described below will be performed.
+
 2. In the event that risk reduction is necessary, risk control measures will be identified and documented. Risk control measures are applied in the following priority:
+
     - Safety by design (inherent) - eliminates hazard or hazardous situation via design feature
     - Protective measures - prevent or reduce likelihood of occurrence of hazard or hazardous situation
     - Information for safety - warnings, precautions, and/or information provided regarding hazard or hazardous situation
+
     
 3. The risk control measures that are identified are verified and the effectiveness of the risk control measures, which may include validation activities, are documented accordingly.
   

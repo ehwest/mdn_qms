@@ -10,7 +10,7 @@ approval_date: "2020-10-01"
 
 # Semantic Versioning
 
-["Semantic Versioning 2.0.0"](https://github.com/semver/semver/blob/master/semver.md) is the well-defined process of assigning version numbers to software products that expose Application Programming Interfaces (APIs). 
+Semantic Versioning is the well-defined process of assigning version numbers to software products that expose Application Programming Interfaces (APIs). 
 It is a set of rules and requirements that dictate how version numbers are assigned and incremented. 
 
 It is a consistent approach that saves time and cost otherwise needed to support release and upgrade packages without having to roll new versions of dependent packages. 

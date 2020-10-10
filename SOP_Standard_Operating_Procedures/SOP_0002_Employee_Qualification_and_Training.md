@@ -44,7 +44,7 @@ The management at MDN is responsible for:
  * As part of their training, personnel are made aware of device defects which may occur from the improper performance of their specific jobs.
 
  * Personnel who perform verification and validation activities are made aware of defects and errors that may be encountered as part of their job functions.
- 
+
  * Contractors and consultants are trained on applicable MDN procedures as defined by the scope of their contract/consulting agreement.
 
 ### Training Process Needs
@@ -96,8 +96,8 @@ The management at MDN is responsible for:
  
  * New employee orientation includes overviews of the following topics:
  
-   * MDN development process and quality system overview as per [PDP_Product Development_Process](https://github.com/ehwest/mdn_qms/tree/master/PDP_Product_Development_Process)
-   *  MDN control of documents as described in chapter 1 "Control of Quality Records".
+   * MDN development process and quality system overview.
+   * MDN control of documents as described in chapter 1 "Control of Quality Records".
   
  * Understanding and enforcement of HIPAA and other security practices at MDN.
 

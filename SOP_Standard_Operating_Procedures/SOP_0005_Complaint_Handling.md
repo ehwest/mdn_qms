@@ -11,63 +11,28 @@ approval_date: "2020-10-01"
 \pagebreak
 # Complaint Handling
 
-This procedure outlines how Medical Data Networks LLC receives, reviews, and evaluates complaints associated with T1Pal operations. 
+This procedure outlines how Medical Data Networks LLC (MDN) receives, reviews, and evaluates complaints associated with T1Pal operations. 
 It is intended to be compliant with [FDA Title 21 Part 820 Section 820.198 Complaint files.](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCFR/CFRSearch.cfm?fr=820.198)
 
-This procedure is used by Customer Operations personnel, who have the necessary education, background, training and experience to receive and document complaints for all of Medical Data Networks LLC’s products.
+This procedure is used by Customer Operations personnel, who have the necessary education, background, training and experience to receive and document complaints for all of MDN’s products.
 
 ## Definitions
 
-### Complaint  
-Any written, electronic, or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety, effectiveness, or performance of a Medical Data Networks LLC product after it is released for commercial distribution.
+### "Complaint" 
+Any written, electronic, or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety, effectiveness, or performance of an MDN product or service after it is released for commercial distribution.
 
-### Inquiry
-A user question regarding the use of a Medical Data Networks LLC product that does not meet the definition of a complaint (e.g., a question about how a feature works, or how to update apps). 
+### "Inquiry"
+A user question regarding the use of a MDN product that does not meet the definition of a complaint (e.g., a question about how a feature works, or how to update apps). 
 
 If repeated inquiries are received from different users regarding the same topic, corrective action may be needed because repeated inquiries of the same nature may indicate a user/use problem.
 
-### Malfunction
+### "Malfunction"
 
-* The failure of a device to meet any of its performance specifications or otherwise to perform __as intended__. 
+A Malfunction is the failure of a device to meet any of its performance specifications or otherwise to perform __as intended__. 
 
-* Performance specifications include all claims made __in the labeling for the device__. The intended performance of a device refers to the objective __intent of the person legally responsible for the labeling__ of the device. 
+Performance specifications include all claims made __in the labeling for the device__. The intended performance of a device refers to the objective __intent of the person legally responsible for the labeling__ of the device. 
 
-### MDR (Medical Device Reporting System)
-
-The MDR system is an Information Technology reporting system that requires manufacturers, distributors, and importers to report certain adverse experiences caused or contributed to by their devices.  
-
-A report will be submitted to the Food & Drug Administration (FDA) whenever a manufacturer, distributor or an importer becomes aware of information that its device:
-
-  * may have caused or contributed to a __death or serious injury__, or 
-  * has malfunctioned and, if the malfunction recurs, is likely to cause or contribute to a __death or a serious injury__.
-
-### Reportable Event Definition 
-
-The definition of a "Reportable Event" is
-
-* Any __complaint__ that __involves__ serious injury, permanent impairment, or permanent injury to patient, user, or other person, __related to the use__ of a Medical Data Networks LLC device.  
-
-* The event may be caused by device malfunction, deterioration in characteristics and/or performance, or inadequacy in labeling or instructions for use. 
-
-* In this [SOP_0006_Medical_Device_Reporting.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0006_Medical_Device_Reporting.md),  
- a “reportable event” means any complaint that has been determined to be a reportable event under applicable regulation.  
- 
-This is referred to as an “MDR, Medical Device Report” in the US FDA reporting requirements, and as an “incident” or a “reportable event” in the EU, Australian, and Canadian reporting requirements.
-
-* Notwithstanding the above elements of the definition of a Reportable Event, [FDA Product Classification for
-a CGM Secondary Display](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=668) includes this wording for Regulation Number 862.1350:
-
-__Continuous glucose monitor secondary display__
-
-Definition:  The purpose of the __continuous glucose monitor secondary display__ is to notify another person, the follower, of the patient's continuous glucose monitoring system sensor glucose information in real time. The secondary display is intended for providing secondary notification of a continuous glucose monitoring system and does not replace primary real time continuous glucose monitoring or standard home blood glucose monitoring.
-
-__Insulin Pump Secondary Display__
-
-Definition:  The purpose of the __insulin pump secondary display__ is to notify another person of the patient's insulin pump usage information in real time. The secondary display is intended for providing secondary notification of insulin pump usage and does not replace primary real time insulin pump monitoring or standard home blood glucose monitoring.
-
-
-
-## Serious Injury Definition
+#### "Serious Injury Definition"
 
 An injury that:
 
@@ -83,22 +48,24 @@ An injury that:
      
 Temporary impairment of a body function or temporary damage to body structure is unanticipated if reference to such impairment or damage is not made in the labeling for the device or, if such reference is made in the labeling for the device, the manufacturer or importer of the device determines that such impairment or damage has occurred or is occurring more frequently or with greater severity than is stated in the labeling for the device or, if there is not any pertinent statement in the labeling, than is usual for the device.
 
-## User Communication: 
+Properly labelled, a product/service offering a secondary display which further, excludes use cases covering the calculation or delivery of therapies, would be unexpected to fail in such a way to create a reportable event.
 
-Any contact (phone, email, support ticket, website inquiry, in person) from a user regarding a Medical Data Networks LLC product.
+## User Communication Defined: 
 
-### Complaint Handling Policy
+Any contact (phone, email, support ticket, website inquiry, in person) from a user regarding an MDC product or service.
 
-Medical Data Networks LLC may receive Complaints through any form of User Communication.   However, all Complaints will be submitted to, or forwarded to Medical Data Networks LLC's Support team within 1 business day.  This is accomplished when a support ticket is created on the technical support [web page](https://t1pal.HELPY.io).
+## Complaint Handling Policy
+
+MDN may receive Complaints through any form of User Communication.   However, all Complaints will be submitted to, or forwarded to MDN's Support team within 1 business day.  This is accomplished when a support ticket is created on the technical support [web page](https://t1pal.HELPY.io).
 
 In addition, this particular ticketing
 system facilitates the collection of additional detail by linked email exchanges as needed to fully explain the complaint and/or any conditions surrounding the complaint.  Therefore, complaints may also be received when an email is sent to support@t1pal.com and/or support@t1pa.helpy.com.
 
-All Complaints will be evaluated by a Medical Data Networks LLC Vice President or higher rank employee. 
+All Complaints will be evaluated by an MDC Vice President or higher rank employee. 
 
-Complaints that meet the definition of a Reportable Event will be clearly tagged within the ticketing system and added to (or used to update) a Reportable Event Spreadsheet maintained by Medical Data Networks LLC quality VP.
+Complaints that meet the definition of a Reportable Event will be clearly tagged within the ticketing system and added to (or used to update) a Reportable Event Spreadsheet maintained by MDN Quality VP.
 
-All Reportable Events will be promptly investigated by a Medical Data Networks LLC quality VP. 
+All Reportable Events will be promptly investigated by a MDN quality VP. 
 Risk analysis, mitigation and control will be performed per chapter 4 "Risk and Hazard Management".
 
 Complaints that are not deemed to be Reportable Events will be evaluated regularly as part of a routine review.
@@ -106,9 +73,9 @@ Complaints that are not deemed to be Reportable Events will be evaluated regular
 Reportable Events that result in Serious Injury will be reported to the appropriate regulatory authority.
 
 
-### Requirements for Maintaining Complaint Files.
+## Requirements for Maintaining Complaint Files.
 
-1. Medical Data Networks LLC shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
+1. MDN shall maintain complaint files. Each manufacturer shall establish and maintain procedures for receiving, reviewing, and evaluating complaints by a formally designated unit. Such procedures shall ensure that:
 
     * All complaints are processed in a uniform and timely manner;
 

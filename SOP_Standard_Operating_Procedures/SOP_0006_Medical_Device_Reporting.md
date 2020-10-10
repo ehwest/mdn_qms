@@ -13,6 +13,8 @@ approval_date: "2020-10-01"
 
 This standard operating procedure establishes MDN&#39;s Medical Device Reporting (MDR) process and responsibilities under [21 CFR 803 Medical Device Reporting](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=803).
 
+It is important to note that within the bounds of this QMS, the T1Pal service (provided by a collection of operating servers on the internet) is defined as a "device" subject to all of the definitions, protections, certifications, and rules applicable to Medical Devices, as defined by the US FDA.
+We therefore take all uses of the term "device" in FDA documents to be inclusive of services such as T1Pal that is operated and maintained by Medical Data Networks LLC for the benefit of its lawful subscribers.
 
 ## Definitions
 
@@ -25,28 +27,28 @@ A "reportable event" means:
 
 2. An event that manufacturers or importers become aware of that reasonably suggests that one of their marketed devices:
 
-* (i) May have caused or contributed to a death or serious injury, or
+(i) May have caused or contributed to a death or serious injury, or
 
-* (ii) Has malfunctioned and that the device or a similar device marketed by the manufacturer or importer would be **likely to cause or contribute to a death or serious injury** if the malfunction were to recur.
+(ii) Has malfunctioned and that the device or a similar device marketed by the manufacturer or importer would be **likely to cause or contribute to a death or serious injury** if the malfunction were to recur.
 
-Note that as MDN provides only one product "T1Pal" that is defined as a "secondary display" -- not labeled for theraputic use,  and not labeled for any use when a primary display is not available or otherwise inoperable,  T1Pal softwarecannot --by definition-- contribute to a death or serious injury on its own.
+Note that as MDN provides only one product "T1Pal" that is defined as a "secondary display" -- not labeled for theraputic use,  and not labeled for any use when a primary display is not available or otherwise inoperable,  T1Pal software cannot --by definition-- contribute to a death or serious injury on its own.
 
 ## Summary of Medical Device Reporting Policy
 1. If MDN becomes aware of a Reportable Event, MDN will file an MDR as follows:
-   * i. within 5 days of becoming aware that a Reportable Event requires remedial action to prevent an unreasonable risk of substantial harm to the public health;
-   * ii. within 5 days of becoming aware of a reportable event for which the FDA has made a written request;
-   * iii. within 30 days after becoming aware of a reportable death, serious injury, or reportable malfunction.
+i. within 5 days of becoming aware that a Reportable Event requires remedial action to prevent an unreasonable risk of substantial harm to the public health;
+ii. within 5 days of becoming aware of a reportable event for which the FDA has made a written request;
+iii. within 30 days after becoming aware of a reportable death, serious injury, or reportable malfunction.
     
 2. If it becomes necessary for MDN to file an MDR, it will be done so electronically following instructions from here: [https://www.fda.gov/ForIndustry/FDAeSubmitter/ucm108165.htm](https://www.fda.gov/ForIndustry/FDAeSubmitter/ucm108165.htm)
   
-3. Documentation for MDRs will be maintained according to [SOP_0001_Control_of_Quality_Records](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0001_Control_of_Quality_Records.md)
+3. Documentation for MDRs will be maintained according to chapter 1 of this QMS  "Control of Quality Records"
   
   
 ## Detailed Requirements:
 
 Devices that "may have caused or contributed" to a death or serious injury; or a malfunction that would be likely to cause or contribute to a death or serious injury must be reported.
 
-Medical Data Networks LLC must submit death, serious injury, and malfunction reports within 30 days after they become aware of a reportable event.
+Medical Data Networks LLC (MDN) must submit death, serious injury, and malfunction reports within 30 days after they become aware of a reportable event.
 The information can come from any source.
 
 **Reasonably Known:**
@@ -94,15 +96,15 @@ Manufacturers are required to submit, within one month after receipt any require
 
 This document provides general guidance regarding the reporting of adverse events required by the Medical Device Reporting (MDR) Regulation.
 
-###PER SE RULE
+### PER SE RULE
 
 This requirement no longer exists. Therefore, the submission of an event by a health care professional does not require the manufacturer to report the event based solely on the statements of a health care professional. The event must meet the reporting criteria in MDR to qualify as a reportable event.
 
-###REPORTING TIME FRAMES
+### REPORTING TIME FRAMES
 
 Firms now have up to 30 CALENDAR days after they become aware of a device related death, serious injury or malfunction before they are required to submit a report to FDA.
 
-###FIVE-DAY REPORTS
+### FIVE-DAY REPORTS
 
 Five-day reports are required in two circumstances. 
 
@@ -110,7 +112,7 @@ First, they are required if a manufacturer becomes aware that a reportable event
 
 Second, five-day reports are required when a manufacturer becomes **aware of an MDR reportable event** for which FDA has requested a five-day report.
 
-###NON-REPORTABLE EVENTS
+### NON-REPORTABLE EVENTS
 
 Firms must submit MDR reports when the reported information reasonably **suggests an association** between one of its devices and a reportable **death, serious injury or malfunction**. 
 
@@ -141,7 +143,7 @@ In lieu of in-house or on-site qualified medical personnel or individuals qualif
 
 When reviewing a non-reportable event validate and document the credentials of the individual making these decisions as well as the decision not to report the event.
 
-###INVESTIGATION
+### INVESTIGATION
 
 Firms are required to investigate EVERY device related death, serious injury and malfunction in accordance with QS regulation, 820.198. 
 
@@ -149,15 +151,15 @@ Failure to comply with this provision is a violation of BOTH the QS regulation a
 
 Manufacturers are also required to VERIFY information on each form FDA 3500A as well as make a good faith effort to obtain information that is missing/not provided by the reporter. If the firm cannot obtain the missing information, the MDR complaint files shall contain an explanation of why the information could not be obtained as well as documentation of the firm's efforts to obtain the missing information.
 
-###REASONABLY KNOWN INFORMATION
+### REASONABLY KNOWN INFORMATION
 
 FDA considers information that can be obtained by contacting the reporter to be in the possession of a firm, and considers information that can be obtained by analysis, testing, or other evaluation of a device to be information that a firm is expected to REASONABLY know, obtain and report.
 
-###REASONABLY KNOWN/GOOD FAITH EFFORT
+### REASONABLY KNOWN/GOOD FAITH EFFORT
 
 A firm must demonstrate that it exercised "good faith" in any failed attempts to obtain required data that is missing, incorrect, or that FDA considers to be reasonably known. While the concept of good faith is generally considered to be equivalent to "due diligence", CDRH has not developed a standard. However, the firm's procedures for obtaining missing information should appear under the "Internal Systems" section of its written MDR procedures. In addition, the Center believes that the parameters of good faith effort must, at a minimum, comport with the level of risk/nature of the device associated with the event being investigated.
 
-###SERIOUS INJURY
+### SERIOUS INJURY
 
 The interpretation of what constitutes a serious injury can be subjective and complicate the enforcement of MDR. The "**unanticipated temporary impairment**" part of the former serious injury definition has been rescinded, thus alleviating a source of subjectivity. In addition, the requirements that intervention be "immediate" and the concept of "probability" have also been removed from the serious injury definition.
 
@@ -167,7 +169,7 @@ If there is no injury attributable to the device, then there is no serious injur
 
 The Center may decide to clarify the definition of serious injury. These categories will be provided to the field and the industry through MDR guidance documents and/or letters, as necessary.
 
-###MALFUNCTIONS
+### MALFUNCTIONS
 
 Malfunction reporting decisions have been the subject of concern by both industry and the FDA. Basically, a malfunction is **an event that is likely to cause or contribute to either a death or serious injury**, but some circumstance prevented the injury or death from occurring. These events are very important since they represent "potential" deaths or serious injuries and provide the Agency with the opportunity to be proactive in reducing risks. 
 
@@ -192,7 +194,7 @@ The malfunction involves a long-term implant or a device that is considered to b
 The manufacturer takes or would be required to take an action under sections 518 or 519(f) of the Act as a result of the malfunction of the device or other similar devices.
 Conversely, malfunctions ARE NOT REPORTABLE if they are not likely to result in a death, serious injury, or another malfunction.
 
-###SOURCES OF INFORMATION
+### SOURCES OF INFORMATION
 WHERE TO OBTAIN MDR FORMS
 
 * Consolidated Forms and Publications Distribution Center
