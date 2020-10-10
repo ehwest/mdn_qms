@@ -99,7 +99,7 @@ A Risk Rating is determined by multiplying the occurrence rating by the severity
 | **Improbable** | 0 | 1 | 3 | 9 | 10 | 11 |
 
 
-## 3 Risk Management Procedures 
+## Risk Management Procedures 
 
 1. All software and medical devices have risks. MDN&#39;s risk management activities reduce risk.
 2. Unless otherwise documented, all MDN software is assumed to have Baseline Risks, as defined below.
