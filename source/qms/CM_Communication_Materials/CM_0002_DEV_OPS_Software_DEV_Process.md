@@ -1,7 +1,7 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "CM_Communication_Materials"
-title: "README.md"
+title: "CM_0002_DEV_OPS_Software_DEV_Process.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,10 +9,14 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+# Development Process
 
 ## Purpose
 
-This collection of files in the folder CM (Communication Materials) contain templates and procedures used by Medical Data Networks LLC to communicate its Standard Operating Procedures (SOP) to employees and other stakeholders.
+This document identifies the DEVOPS process followed by Medical Data Networks LLC.  All associates and employees of Medical Data Networks LLC are expected to align their work proceses to support this generic process.
+
+
+## References
 
 1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
 2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)

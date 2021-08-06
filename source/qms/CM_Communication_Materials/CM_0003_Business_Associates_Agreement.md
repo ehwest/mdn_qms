@@ -9,6 +9,7 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+# Business Associate Agreement
 
 
 Hello Medical Data Networks Team!
@@ -22,7 +23,7 @@ Medical Data Networks Quality Objectives, available in DOC-0003 Medical Data Net
 TRN-0002 Employee Security Practices
 DOC-0001 Medical Data Networks Design and Development Process
 
-If you understand the above documents, then please reply to support@t1pal.com and say "I have reviewed and understand Tidepool's Quality Management System. I understand the importance of meeting customer as well as applicable regulatory requirements."
+If you understand the above documents, then please reply to support@t1pal.com and say "I have reviewed and understand Medical Data Network's Quality Management System. I understand the importance of meeting customer as well as applicable regulatory requirements."
 
 If you do not understand anything about our QMS, please send email to support@t1pal.com with your question(s). Also feel free to escalate issues to Medical Data Networks Board of Directors or with the appropriate regulatory authority.
 

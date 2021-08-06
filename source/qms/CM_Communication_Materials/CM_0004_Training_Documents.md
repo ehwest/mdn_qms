@@ -1,7 +1,7 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "CM_Communication_Materials"
-title: "CM_0002_DEV_OPS_Software_DEV_Process.md"
+title: "CM_0004_Training_Documents"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,10 +9,11 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+# Training Documents
 
 ## Purpose
 
-This document identifies the DEVOPS process followed by Medical Data Networks LLC.  All associates and employees of Medical Data Networks LLC are expected to align their work proceses to support this generic process.
+This document identifies the content of the Quality Manual of Medical Data Networks LLC.
 
 
 ## References

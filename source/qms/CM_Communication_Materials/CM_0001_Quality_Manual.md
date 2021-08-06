@@ -1,7 +1,7 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "CM_Communication_Materials"
-title: "CM_0004_Training_Documents"
+title: "CM_0001_Quality_Manual.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,9 +9,15 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+# Quality Manual
+
 ## Purpose
 
-This document identifies the content of the Quality Manual of Medical Data Networks LLC.
+The "Quality Manual" used by all Medical Data Networks LLC associates and/or employees is the current baselined "master" branch of the
+[Quality Management System](https://github.com/ehwest/mdn_qms) documented by the mdn_qms "git" repository.   Changes to the Quality Management system
+are therefore immediately applicable to all work following the QMS.
+
+This QMS is intended to track alignment with Quality Management System requirements documented in the references listed below.
 
 
 ## References

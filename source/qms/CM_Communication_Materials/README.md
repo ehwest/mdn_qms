@@ -1,7 +1,7 @@
 ---
 repository: "github.com/ehwest/mdn_qms"
 folder: "CM_Communication_Materials"
-title: "CM_0001_Quality_Manual.md"
+title: "README.md"
 authors:
 - github.com/ehwest
 approvers:
@@ -9,17 +9,19 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+# Communication Materials
+
+```{toctree}
+
+CM_0001_Quality_Manual.md
+CM_0002_DEV_OPS_Software_DEV_Process.md
+CM_0003_Business_Associates_Agreement.md
+CM_0004_Training_Documents.md
+```
 
 ## Purpose
 
-The "Quality Manual" used by all Medical Data Networks LLC associates and/or employees is the current baselined "master" branch of the
-[Quality Management System](https://github.com/ehwest/mdn_qms) documented by the mdn_qms "git" repository.   Changes to the Quality Management system
-are therefore immediately applicable to all work following the QMS.
-
-This QMS is intended to track alignment with Quality Management System requirements documented in the references listed below.
-
-
-## References
+This collection of files in the folder CM (Communication Materials) contain templates and procedures used by Medical Data Networks LLC to communicate its Standard Operating Procedures (SOP) to employees and other stakeholders.
 
 1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
 2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
