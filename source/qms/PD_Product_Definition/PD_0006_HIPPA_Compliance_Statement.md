@@ -9,6 +9,7 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+# HIPAA Compliance Statement
 
 ## T1Pal System Requirements
 

@@ -9,6 +9,7 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
+# Intended Use
 
 ## T1Pal Definitive List of Intended Use Cases
 
