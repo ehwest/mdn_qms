@@ -11,6 +11,12 @@ approval_date: "2020-10-01"
 
 # System Design
 
+```{toctree}
+
+SD_0001_Drawings.md
+SD_0002_API_Specifications.md
+SD_0003_Informative_text.md
+```
 
 |repository|api|Service|
 |------------|--------------------|-------------|
