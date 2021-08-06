@@ -12,6 +12,7 @@ approval_date: "2020-08-24"
 effective_date: "2020-08-24"
 description: "Control of Quality Records"
 ---
+# Control of Quality Records
 
 
 ## Purpose
