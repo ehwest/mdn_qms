@@ -1,13 +1,3 @@
----
-repository: "github.com/ehwest/mdn_qms"
-folder: "CM_Communication_Materials"
-title: "README.md"
-authors:
-- github.com/ehwest
-approvers:
-- github.com/bewest
-approval_date: "2020-10-01"
----
 
 # Communication Materials
 
