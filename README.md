@@ -1,15 +1,17 @@
 
-This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver T1Pal software (...as an FDA device).  
+This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver operating T1Pal software (...as an FDA device).  
 
-The present Quality Management System (QMS) is specifically designed to achieve and sustain the following goals.
+[FDA Rules](https://www.fda.gov/medical-devices/classify-your-medical-device/class-i-ii-exemptions) 
+say that all medical devices are subject to the Quality System Regulation (21 CFR 820), also referred to as the “Current Good Manufacturing Practices” or “Good Manufacturing Practices,” unless there is an exception or exemption noted in 21 CFR 820. 
 
-1. Meet the General Regulatory Controls of the FDA for medical devices.
-2. Meet the "Special Controls" of the FDA that are applicable to T1Pal.
-3. Support "Appropriate Validations" for T1Pal.
+The present Quality Management System (QMS) is specifically designed to achieve and sustain alignment with FDA rules.
+The rules are generally categorized as follows:
 
-This Quality Management System is applicable to all functions needed to deliver and support T1Pal and is intentionally to meet applicable General Controls defined by the FDA for medical devices.
+1. General Regulatory Controls (including CGMP) of the FDA for medical devices.
+2. "Special Controls" of the FDA that are applicable to T1Pal.
+3. "Appropriate Validations" applicable to T1Pal.
 
-In this environment, **"Special Controls"** has been defined by the FDA as follows:
+**"Special Controls"** has further been defined by the FDA as follows:
 
     A. Devices must protect against unauthorized access to and modification of data.
 
