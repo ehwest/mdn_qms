@@ -19,6 +19,7 @@ Welcome to Medical Data Networks Quality System's documentation!
    qms/SD_System_Design/README.md
    qms/SOP_Standard_Operating_Procedures/README.md
 
+   appendix/README.md
 
 Indices and tables
 ==================
