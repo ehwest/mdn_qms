@@ -26,4 +26,16 @@ Franklin, TN  37067
 The company has the following FDA IDs:  PIN 50334954-PCN 21494148
 The company has a FURLS account:  med35130
 
+FDA Registration Data is as follows:
 
+Proprietary Device Name:  "T1Pal"
+Owner Operator Number:  10082567	
+Listing Number:  D449651
+Product Code:  PJT
+Device Name:  Continuous glucose monitor secondary display
+
+Proprietary Device Name:  "Insulin Pump Secondary Display - T1Pal"
+Owner Operator Number:  10082567	
+Listing Number:  D449658
+Product Code:  PJT
+Device Name:  Insulin pump secondary display
