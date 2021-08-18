@@ -12,47 +12,42 @@ approval_date: "2020-10-01"
 
 ## Purpose
 
-This document sets forth the specific means for following the FDA de novo regulatory pathway for the T1Pal product.
+[FDA rules](https://www.fda.gov/medical-devices/classify-your-medical-device/class-i-ii-exemptions) have evolved to exempt certain Class I and Class II devices
+from premarket notifications (via 510(k) documentation.  
+This applies specifically to T1Pal operating software as a device, and
+published in the FDA's Product Classification database.
 
-In a [meeting with FDA on 1/27/2015, -- Q141084/S002 ](https://github.com/ehwest/mdn_qms/blob/master/RSA_Regulatory_Support_Artifacts/minutes-pdfjam.pdf) the FDA set forth the de novo regulatory pathway for Nightscout to accomplish the following.
+However, T1Pal must also comply with "regulatory controls" promogulated by the FDA.
+These regulatory controls include the following:
 
-- [ ]  Register with the FDA
-- [ ]  Meet "Special Controls"
-- [ ]  Meet "Appropriate Validations"
-- [ ]  Document "Quality Controls"
+## Registering the T1Pal establishment and device with the FDA
 
-In the same meeting the FDA outlined the definition of **"Special Controls"** as follows:
+Medical Data Networks, LLC has for FY 2021 registered the establishment responsible for
+assembly and operations of the T1Pal service (as a device), and further registered
+T1Pal itself as a registered device.   As part of the registration, it was
+determined that the T1Pal device is Substantitiavely Equivalent (SE) to
+devices consistent with both "PJT"  and "PKU" FDA product codes.
 
-- [ ]  Devices must protect against unauthorized access to and modification of data.
+FDA rules say that a device is substantially equivalent if, in comparison to a predicate it:
 
-- [ ]  Device labeling must display the following warning: 
+* has the same intended use as the predicate; and
+* has the same technological characteristics as the predicate;
+or
+* has the same intended use as the predicate; and
+* has different technological characteristics and does not raise different questions of safety and effectiveness; and
+* the information submitted to FDA demonstrates that the device is as safe and effective as the legally marketed device.
 
-  **Dosing decisions should not be made based on this device.**
-  
-  **The user should follow instructions on the continuous glucose monitoring system.**
-  
-- [ ]  Device labeling must include the following limitation:  
+Proprietary Names|Owner Operator Number|Listing Number|Product Code|Device Name|
+-|-|-|-|-|-
+T1Pal|10082567	|D449651|PJT|Continuous glucose monitor secondary display.
+Insulin Pump Secondary Display - T1Pal|10082567	|D449658|PKU|Insulin pump secondary display
+|||||
 
-  **This device is not intended to replace self-monitoring practices advised by a physician.**
-
-## Registering with the FDA
-
-**Note:  This section will be updated once Medical Data Networks LLC raises the cash to pay FDA Registration Fees**
-
-Medical Data Networks LLC the organization providing the T1Pal.com "device." intends to Register with the FDA as soon as possible.
-As of this release of the Quality Management System, the high fees (for the size of company) represents a very real barrier 
-to compliance.  The fees for establishing identity are currently approximately 10 times the sum of the current annual expenses of the T1Pal service provider, and more than 3 times the sum of expected annual revenues.   Until monthly revenues approach the [2020 Establishment Identity fee of $5286](https://www.fda.gov/medical-devices/how-study-and-market-your-device/device-registration-and-listing), this is not possible and itself jeopardizes subscriber access to T1Pal.com
 
 ## Meeting Special Controls
 
 The "special controls" outlined above may all be directly linked to T1Pal.com product requirements that are also the target of verification by Medical Data Networks LLC Quality Management system.
 
-
-* Protect against unauthorized access to and modification of data.
-
-* Warning Labels: dosing warning, follow instructions, not intended to replace self-monitoring
-
-Inaddition, not specifically mentioned is an obvious requirement to provide labelling for intended use:
 
 * A definitive statement of the [T1Pal Intended Use]( https://github.com/ehwest/mdn_qms/blob/master/PD_Product_Definition/PD_0002_Intended_Use.md)  is provided within this Quality Managemnet System.
 
