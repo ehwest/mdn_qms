@@ -133,55 +133,45 @@ One or more files are also provided within each  QMS folder, and altogether thes
       *  [QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure](QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)
 
 
-    * [Design Control Process]
-    * [Document Control Process]
-    * [Training and Competency Process]
-    * [Purchasing and Receiving Process]
-    * [Labeling and Packaging Controls]
-    * [Identification and Traceability Process]
-    * [Nonconforming Product Process]
-    * [Change Control Process
-    * Software Validation Process
+   * [Purchasing_Controls](./Purchasing_Controls/README.me)
 
-  * [Purchasing_Controls](./Purchasing_Controls/README.me)
+   * [Supplier_Qualification_Records](./Supplier_Qualification_Records/README.md)
 
-  * [Supplier_Qualification_Records](./Supplier_Qualification_Records/README.md)
+   * [Calibration_and_Preventive_Maintenance](./Calibration_and_Preventive_Maintenance/README.md)
 
-  * [Calibration_and_Preventive_Maintenance](./Calibration_and_Preventive_Maintenance/README.md)
+   * [Traceability_Records](./Traceability_Records/README.md)
 
-  * [Traceability_Records](./Traceability_Records/README.md)
+   * [Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
 
-  * [Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
+   * [Post-Market_Surveillance](./Post-Market_Surveillance/README.md)
 
-  * [Post-Market_Surveillance](./Post-Market_Surveillance/README.md)
+   * [Medical_Device_Reporting_and_Recalls](./Medical_Device_Reporting_and_Recalls/README.md)
 
-  * [Medical_Device_Reporting_and_Recalls](./Medical_Device_Reporting_and_Recalls/README.md)
+   * [Management_Review](./Management_Review/README.md)
 
-  * [Management_Review](./Management_Review/README.md)
+   * [Internal_Audits](./Internal_Audits/README.md)
 
-  * [Internal_Audits](./Internal_Audits/README.md)
+   * [Customer_Complaints](Customer_Complaints/README.md)
 
-  * [Customer_Complaints](Customer_Complaints/README.md)
+   * [Corrective_and_Preventive_Action](Corrective_and_Preventive_Action/README.md)
 
-  * [Corrective_and_Preventive_Action](Corrective_and_Preventive_Action/README.md)
+   * [Engineering-Change_Orders](Engineering-Change_Orders/README/md]
 
-  * [Engineering-Change_Orders](Engineering-Change_Orders/README/md]
+   * [Non_conforming_Product](./Non-conforming_Product/README.md)
 
-  * [Non_conforming_Product](./Non-conforming_Product/README.md)
+   * [Customer_Fulfillment](./Customer_Fulfillment/README.md)
 
-  * [Customer_Fulfillment](./Customer_Fulfillment/README.md)
+   * [Design_Control](./Design_Control/README.md)
 
-  * [Design_Control](./Design_Control/README.md)
+   * [PD_Product_Definition](./PD_Product_Definition/README.md)
 
-  * [PD_Product_Definition](./PD_Product_Definition/README.md)
+   * [SD_System_Design](./SD_System_Design/README.md)
 
-  * [SD_System_Design](./SD_System_Design/README.md)
+   * [RSA_Regulatory_Support_Artifacts(./RSA_Regulatory_Support_Artifacts.README.md)
 
-  * [RSA_Regulatory_Support_Artifacts(./RSA_Regulatory_Support_Artifacts.README.md)
+   * [RM_Reference_Materials](./RM_Reference_Materials/README.md)
 
-  * [RM_Reference_Materials](./RM_Reference_Materials/README.md)
-
-  * [CM_Communication_Materials](./CM_Communication_Materials/README.md)
+   * [CM_Communication_Materials](./CM_Communication_Materials/README.md)
 
 
 # Change Control
