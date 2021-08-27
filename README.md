@@ -98,90 +98,90 @@ This conveniently enables all consumers of the Quality Management System data pr
 One or more files are also provided within each  QMS folder, and altogether these folders and files capture the authoritative description of the QMS.  Note that within each of the folders listed below, a special README.md file is included.  The README.md file in each folder is intended to provide an overview of all of the files within the QMS folder.
 
 
-  + [Quality Management System Description -- THIS DOCUMENT](./README.md)
+  * [Quality Management System Description -- THIS DOCUMENT](./README.md)
 
-  + [Quality_Manual -- Process Guide](./Quality_Manual/README.md)
+    * [Quality_Manual -- Process Guide](./Quality_Manual/README.md)
 
-   ++  [QP-0002_R1_Design_Control_Process](QP-0002_R1_Design_Control_Process.md)
-   ++  [QP-0003_R1_Document_Control_Process](QP-0003_R1_Document_Control_Process.md)
-   ++  [QP-0004_R1_Training_and_Competency_Process](QP-0004_R1_Training_and_Competency_Process.md)
-   ++  [QP-0005_R1_Purchasing_and_Receiving_Process](QP-0005_R1_Purchasing_and_Receiving_Process.md)
-   ++  [QP-0006_R1_Labeling_and_Packaging_Control_Process](QP-0006_R1_Labeling_and_Packaging_Control_Process.md)
-  ++  [QP-0007_R1_Identification_and_Traceability_Process](QP-0007_R1_Identification_and_Traceability_Process.md)
-  ++  [QP-0008_R1_Nonconforming_Product_Procesa](QP-0008_R1_Nonconforming_Product_Process.md)
-  ++  [QP-0009_R1_Change_Control_Process](QP-0009_R1_Change_Control_Process.md)
-  ++  [QP-0010_R1_Software_Validation_Process](QP-0010_R1_Software_Validation_Process.md)
-  ++  [QP-0011_R1_Customer_Complaint_Handling_Procedure](QP-0011_R1_Customer_Complaint_Handling_Procedure.md)
-  ++  [QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process](QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md)
-  ++  [QP-0013_R1_Management_Review_and_Data_Analysis_Process](QP-0013_R1_Management_Review_and_Data_Analysis_Process.md)
-  ++  [QP-0014_R1_Calibration_and_Preventive_Maintenance_Process](QP-0014_R1_Calibration_and_Preventive_Maintenance_Process.md)
-  ++  [QP-0015_R1_Quality_Audit_Process](QP-0015_R1_Quality_Audit_Process)
-  ++  [QP-0016_R1_Preservation_of_Product_Process](QP-0016_R1_Preservation_of_Product_Process.md)
-  ++  [QP-0017_R1_Risk_Management_Process](QP-0017_R1_Risk_Management_Process.md)
-  ++  [QP-0018_R1_Record_Management_Process](QP-0018_R1_Record_Management_Process.md)
-  ++  [QP-0019_R1_Customer_Property_Control_Process](QP-0019_R1_Customer_Property_Control_Process.md)
-  ++  [QP-0020_R1_FDA_Audit_Management_Process])QP-0020_R1_FDA_Audit_Management_Process.md)
-  ++  [QP-0021_R1_Medical_Device_Reporting_and_Recall_Process](QP-0021_R1_Medical_Device_Reporting_and_Recall_Process.md)
-  ++  [QP-0022_R1_Infrastructure_and_Work_Environment](QP-0022_R1_Infrastructure_and_Work_Environment.md)
-  ++  [QP-0023_R1_Supplier_Management_Process](QP-0023_R1_Supplier_Management_Process.md)
-  ++  [QP-0024_R1_Post_Market_Surveillance_Process](QP-0024_R1_Post_Market_Surveillance_Process.md)
-  ++  [QP-0025_R1_Unique_Device_Identification_Process](QP-0025_R1_Unique_Device_Identification_Process.md)
-  ++  [QP-0026_R1_Process_Validation_Procedure](QP-0026_R1_Process_Validation_Procedure.md)
-  ++  [QP-0027_R1_Technical_File_Process](QP-0027_R1_Technical_File_Process.md)
-  ++  [QP-0028_R1_European_Union_Medical_Device_Directive_Procedure](QP-0028_R1_European_Union_Medical_Device_Directive_Procedure.md)
-  ++  [QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure](QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)
-  ++  [QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure](QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)
+      *  [QP-0002_R1_Design_Control_Process](QP-0002_R1_Design_Control_Process.md)
+      *  [QP-0003_R1_Document_Control_Process](QP-0003_R1_Document_Control_Process.md)
+      *  [QP-0004_R1_Training_and_Competency_Process](QP-0004_R1_Training_and_Competency_Process.md)
+      *  [QP-0005_R1_Purchasing_and_Receiving_Process](QP-0005_R1_Purchasing_and_Receiving_Process.md)
+      *  [QP-0006_R1_Labeling_and_Packaging_Control_Process](QP-0006_R1_Labeling_and_Packaging_Control_Process.md)
+      *  [QP-0007_R1_Identification_and_Traceability_Process](QP-0007_R1_Identification_and_Traceability_Process.md)
+      *  [QP-0008_R1_Nonconforming_Product_Procesa](QP-0008_R1_Nonconforming_Product_Process.md)
+      *  [QP-0009_R1_Change_Control_Process](QP-0009_R1_Change_Control_Process.md)
+      *  [QP-0010_R1_Software_Validation_Process](QP-0010_R1_Software_Validation_Process.md)
+      *  [QP-0011_R1_Customer_Complaint_Handling_Procedure](QP-0011_R1_Customer_Complaint_Handling_Procedure.md)
+      *  [QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process](QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md)
+      *  [QP-0013_R1_Management_Review_and_Data_Analysis_Process](QP-0013_R1_Management_Review_and_Data_Analysis_Process.md)
+      *  [QP-0014_R1_Calibration_and_Preventive_Maintenance_Process](QP-0014_R1_Calibration_and_Preventive_Maintenance_Process.md)
+      *  [QP-0015_R1_Quality_Audit_Process](QP-0015_R1_Quality_Audit_Process)
+      *  [QP-0016_R1_Preservation_of_Product_Process](QP-0016_R1_Preservation_of_Product_Process.md)
+      *  [QP-0017_R1_Risk_Management_Process](QP-0017_R1_Risk_Management_Process.md)
+      *  [QP-0018_R1_Record_Management_Process](QP-0018_R1_Record_Management_Process.md)
+      *  [QP-0019_R1_Customer_Property_Control_Process](QP-0019_R1_Customer_Property_Control_Process.md)
+      *  [QP-0020_R1_FDA_Audit_Management_Process](QP-0020_R1_FDA_Audit_Management_Process.md)
+      *  [QP-0021_R1_Medical_Device_Reporting_and_Recall_Process](QP-0021_R1_Medical_Device_Reporting_and_Recall_Process.md)
+      *  [QP-0022_R1_Infrastructure_and_Work_Environment](QP-0022_R1_Infrastructure_and_Work_Environment.md)
+      *  [QP-0023_R1_Supplier_Management_Process](QP-0023_R1_Supplier_Management_Process.md)
+      *  [QP-0024_R1_Post_Market_Surveillance_Process](QP-0024_R1_Post_Market_Surveillance_Process.md)
+      *  [QP-0025_R1_Unique_Device_Identification_Process](QP-0025_R1_Unique_Device_Identification_Process.md)
+      *  [QP-0026_R1_Process_Validation_Procedure](QP-0026_R1_Process_Validation_Procedure.md)
+      *  [QP-0027_R1_Technical_File_Process](QP-0027_R1_Technical_File_Process.md)
+      *  [QP-0028_R1_European_Union_Medical_Device_Directive_Procedure](QP-0028_R1_European_Union_Medical_Device_Directive_Procedure.md)
+      *  [QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure](QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)
+      *  [QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure](QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)
 
 
-  ++ [Design Control Process]
-  ++ [Document Control Process]
-  ++ [Training and Competency Process]
-  ++ [Purchasing and Receiving Process]
-  ++ [Labeling and Packaging Controls]
-  ++ [Identification and Traceability Process]
-  ++ [Nonconforming Product Process]
-  ++ [Change Control Process
-  ++ Software Validation Process
+    * [Design Control Process]
+    * [Document Control Process]
+    * [Training and Competency Process]
+    * [Purchasing and Receiving Process]
+    * [Labeling and Packaging Controls]
+    * [Identification and Traceability Process]
+    * [Nonconforming Product Process]
+    * [Change Control Process
+    * Software Validation Process
 
-  + [Purchasing_Controls](./Purchasing_Controls/README.me)
+  * [Purchasing_Controls](./Purchasing_Controls/README.me)
 
-  + [Supplier_Qualification_Records](./Supplier_Qualification_Records/README.md)
+  * [Supplier_Qualification_Records](./Supplier_Qualification_Records/README.md)
 
-  + [Calibration_and_Preventive_Maintenance](./Calibration_and_Preventive_Maintenance/README.md)
+  * [Calibration_and_Preventive_Maintenance](./Calibration_and_Preventive_Maintenance/README.md)
 
-  + [Traceability_Records](./Traceability_Records/README.md)
+  * [Traceability_Records](./Traceability_Records/README.md)
 
-  + [Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
+  * [Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
 
-  + [Post-Market_Surveillance](./Post-Market_Surveillance/README.md)
-j
-  + [Medical_Device_Reporting_and_Recalls](./Medical_Device_Reporting_and_Recalls/README.md)
+  * [Post-Market_Surveillance](./Post-Market_Surveillance/README.md)
 
-  + [Management_Review](./Management_Review/README.md)
+  * [Medical_Device_Reporting_and_Recalls](./Medical_Device_Reporting_and_Recalls/README.md)
 
-  + [Internal_Audits](./Internal_Audits/README.md)
+  * [Management_Review](./Management_Review/README.md)
 
-  + [Customer_Complaints](Customer_Complaints/README.md)
+  * [Internal_Audits](./Internal_Audits/README.md)
 
-  + [Corrective_and_Preventive_Action](Corrective_and_Preventive_Action/README.md)
+  * [Customer_Complaints](Customer_Complaints/README.md)
 
-  + [Engineering-Change_Orders](Engineering-Change_Orders/README/md]
+  * [Corrective_and_Preventive_Action](Corrective_and_Preventive_Action/README.md)
 
-  + [Non_conforming_Product](./Non-conforming_Product/README.md)
+  * [Engineering-Change_Orders](Engineering-Change_Orders/README/md]
 
-  + [Customer_Fulfillment](./Customer_Fulfillment/README.md)
+  * [Non_conforming_Product](./Non-conforming_Product/README.md)
 
-  + [Design_Control](./Design_Control/README.md)
+  * [Customer_Fulfillment](./Customer_Fulfillment/README.md)
 
-  + [PD_Product_Definition](./PD_Product_Definition/README.md)
+  * [Design_Control](./Design_Control/README.md)
 
-  + [SD_System_Design](./SD_System_Design/README.md)
+  * [PD_Product_Definition](./PD_Product_Definition/README.md)
 
-  + [RSA_Regulatory_Support_Artifacts(./RSA_Regulatory_Support_Artifacts.README.md)
+  * [SD_System_Design](./SD_System_Design/README.md)
 
-  + [RM_Reference_Materials](./RM_Reference_Materials/README.md)
+  * [RSA_Regulatory_Support_Artifacts(./RSA_Regulatory_Support_Artifacts.README.md)
 
-  + [CM_Communication_Materials](./CM_Communication_Materials/README.md)
+  * [RM_Reference_Materials](./RM_Reference_Materials/README.md)
+
+  * [CM_Communication_Materials](./CM_Communication_Materials/README.md)
 
 
 # Change Control
