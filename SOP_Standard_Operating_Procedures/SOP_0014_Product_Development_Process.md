@@ -8,7 +8,6 @@ approvers:
 approval_date: "2020-10-01"
 ---
 
-
 ## Purpose
 
 This file contains an overview of the Medical Data Networks LLC Product Development Process.
@@ -44,55 +43,6 @@ The complete Product Developmetn Process is composed of 5 phases.
     +  address the features needed to enter new, adjacent markets
     +  address features in the value chain (above and below) to address cost reductions and performance improvements.
 
-
-## Responsibilities
-
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
-
-
----
-repository: "github.com/ehwest/mdn_qms"
-folder: "PDP"
-title: "PDP_phase_1_Research_Select_Changes.md"
-document_id: "PDP_phase_1"
-authors:
-- github.com/ehwest
-approvers:
-- github.com/bewest
-revision: "05"
-approval_date: "2020-08-24"
-effective_date: "2020-08-24"
-description: "Phase 1:  Rsearch Select changes"
----
-
-
-## Purpose
-
-This document establishes a standard method for completing, identifying, collecting, filing, storing, and dispositioning quality records at Medical Data Networks, LLC (MDN). Quality records are maintained to provide supporting evidence of the conformity, implementation, and effective operation of the QMS.
-
-## References
-
-1. [21 CFR 820](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-2. [FDA](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-3.  [Quality System Regulation](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820&amp;showFR=1&amp;subpartNode=21:8.0.1.1.12.13)
-4. ISO 13485:2016 Clause 4.2.5
-
-## Responsibilities
-
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this standard operating procedure and for assuring that all employees are trained in its requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this procedure.
----
-repository: "github.com/ehwest/mdn_qms"
-folder: "PDP_Product_Development_Process"
-title: "PDP_phase_2_Develop.md"
-authors:
-- github.com/ehwest
-approvers:
-- github.com/bewest
-approval_date: "2020-10-01"
----
-
 General
 This is our repository at MDN for general developer/technical documentation that doesn't belong in a specific app/library/service repo.
 Table of contents
@@ -104,6 +54,7 @@ Here in the docs repository:
 •	External Service API Dependency Considerations
 
 Tidepool Code Peer Review Checklists
+
 In order to consistently ensure high quality code, a peer review of all code changes is required. It is recommended that the developer actually perform a code review of their own code before submitting it for peer review. This will hopefully reduce the amount of time and effort spent by the reviewer by catching common issues beforehand.
 This document is intended as guidance for engineers. It is not a Standard Operating Procedure (SOP).
 Common Checklist
