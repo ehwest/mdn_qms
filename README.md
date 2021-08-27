@@ -102,9 +102,9 @@ One or more files are also provided within each  QMS folder, and altogether thes
 
     * [Quality_Manual -- Process Enumeration](./Quality_Manual/README.md)
 
-      *  [QP-0002_R1_Design_Control_Process](./QP-0002_R1_Design_Control_Process.md)
-      *  [QP-0003_R1_Document_Control_Process](./QP-0003_R1_Document_Control_Process.md)
-      *  [QP-0004_R1_Training_and_Competency_Process](./QP-0004_R1_Training_and_Competency_Process.md)
+      *  [QP-0002_R1_Design_Control_Process](./Quality_Manual/QP-0002_R1_Design_Control_Process.md)
+      *  [QP-0003_R1_Document_Control_Process](./Quality_Manual/QP-0003_R1_Document_Control_Process.md)
+      *  [QP-0004_R1_Training_and_Competency_Process](./Quality_Manual/QP-0004_R1_Training_and_Competency_Process.md)
       *  [QP-0005_R1_Purchasing_and_Receiving_Process](./QP-0005_R1_Purchasing_and_Receiving_Process.md)
       *  [QP-0006_R1_Labeling_and_Packaging_Control_Process](./QP-0006_R1_Labeling_and_Packaging_Control_Process.md)
       *  [QP-0007_R1_Identification_and_Traceability_Process](./QP-0007_R1_Identification_and_Traceability_Process.md)
