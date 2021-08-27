@@ -155,7 +155,7 @@ One or more files are also provided within each  QMS folder, and altogether thes
 
     * [Corrective_and_Preventive_Action](Corrective_and_Preventive_Action/README.md)
 
-    * [Engineering-Change_Orders](Engineering-Change_Orders/README/md]
+    * [Engineering-Change_Orders](Engineering-Change_Orders/README/md)
 
     * [Non_conforming_Product](./Non-conforming_Product/README.md)
 
@@ -167,7 +167,7 @@ One or more files are also provided within each  QMS folder, and altogether thes
 
     * [SD_System_Design](./SD_System_Design/README.md)
 
-    * [RSA_Regulatory_Support_Artifacts(./RSA_Regulatory_Support_Artifacts.README.md)
+    * [RSA_Regulatory_Support_Artifacts](./RSA_Regulatory_Support_Artifacts.README.md)
 
     * [RM_Reference_Materials](./RM_Reference_Materials/README.md)
 
