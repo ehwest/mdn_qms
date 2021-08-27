@@ -1,8 +1,27 @@
+**Medical Data Networks, LLC**
 
-Medical Data Networks, LLC
-Quality Management System
-Approved 9/1/2021 /s/ Ben West, CEO
-Approved 9/1/2021 /s/ Earle West, CQO
+**Quality Manual**
+
+Approvals:
+
+Signature:
+
+> /s/ Ben West, Executive Management Date: 9/1/2021
+
+Signature:
+
+> /s/ Earle West, Quality Representative Date: 9/1/2021
+
+*Company Headquarters Location*
+
+**Medical Data Networks, LLC**
+
+**16192 Coastal Highway**
+
+**Lewes DE 19958-9776**
+
+**908-216-5054**
+
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver operating T1Pal software (...as an FDA device).  
 
