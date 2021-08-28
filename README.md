@@ -31,7 +31,7 @@ say that all medical devices are subject to the Quality System Regulation (21 CF
 The present Quality Management System (QMS) is specifically designed to achieve and sustain alignment with FDA rules.
 The rules are generally categorized as follows:
 
-1. General Regulatory Controls (including CGMP) of the FDA for medical devices.
+1. General Regulatory Controls (including Common Good Management Practice, CGMP) of the FDA for medical devices.
 2. "Special Controls" of the FDA that are applicable to T1Pal.
 3. "Appropriate Validations" applicable to T1Pal.
 
