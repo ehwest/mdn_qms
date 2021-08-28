@@ -1,6 +1,8 @@
 **Medical Data Networks, LLC**
 
 **Quality Manual**
+**QP_0001 R1**
+**QMS Controlled Procedures Enumerated and Described**
 
 Approvals:
 
