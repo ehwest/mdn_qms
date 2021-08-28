@@ -277,14 +277,13 @@ approved where indicated:
 | QP-0021 R1                 | Medical Device Reporting and Recall Process     | Not defined yet           |
 | QP-0022 R1                 | Infrastructure and Work Environment             | Not defined yet           |
 | QP-0023 R1                 | Supplier Management Process                     | Not defined yet           |
-
-| QP-0024 R1                 |	Post Market Surveillance Process	       | Not defined yet
-| QP-0025 R1                 |  Unique Device Identification Process           | Not defined yet
-| QP-0026 R1                 |  Process Validation Procedure                   | Not defined yet
-| QP-0027 R1                 |  Technical File Process                         | Not defined yet
-| QP-0028 R1                 |  European Union Medical Device Directive Procedure| Not defined yet
-| QP-0029 R1                 |  European_Union_Medical_Device_Regulation_Procedure| Not defined yet
-| QP-0030 R1                 |  Canadian Medical Device Regulations Procedure  | Not defined yet
+| QP-0024 R1                 | Post Market Surveillance Process	               | Not defined yet           |
+| QP-0025 R1                 | Unique Device Identification Process            | Not defined yet           |
+| QP-0026 R1                 | Process Validation Procedure                    | Not defined yet           |
+| QP-0027 R1                 | Technical File Process                          | Not defined yet           |
+| QP-0028 R1                 | European Union Medical Device Directive Procedure| Not defined yet          |
+| QP-0029 R1                 | European_Union_Medical_Device_Regulation_Procedure| Not defined yet         |
+| QP-0030 R1                 | Canadian Medical Device Regulations Procedure  | Not defined yet            |
 
 > The Quality System is defined through a four level hierarchy:
 
