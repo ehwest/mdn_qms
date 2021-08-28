@@ -122,6 +122,7 @@ One or more files are also provided within each  QMS folder, and altogether thes
       *  [QP-0021_R1_Medical_Device_Reporting_and_Recall_Process](./Quality_Manual/QP-0021_R1_Medical_Device_Reporting_and_Recall_Process.md)
       *  [QP-0022_R1_Infrastructure_and_Work_Environment](./Quality_Manual/QP-0022_R1_Infrastructure_and_Work_Environment.md)
       *  [QP-0023_R1_Supplier_Management_Process](./Quality_Manual/QP-0023_R1_Supplier_Management_Process.md)
+
       *  [QP-0024_R1_Post_Market_Surveillance_Process](Quality_Manual/QP-0024_R1_Post_Market_Surveillance_Process.md)
       *  [QP-0025_R1_Unique_Device_Identification_Process](./Quality_Manual/QP-0025_R1_Unique_Device_Identification_Process.md)
       *  [QP-0026_R1_Process_Validation_Procedure](./Quality_Manual/QP-0026_R1_Process_Validation_Procedure.md)
@@ -130,7 +131,7 @@ One or more files are also provided within each  QMS folder, and altogether thes
       *  [QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure](./Quality_Manual/QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)
       *  [QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure](./Quality_Manual/QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)
 
-    * [QM-0002 Design_Control](./Design_Control/README.md)
+    * [QM-0002 Design_Control Records](./Design_Control/README.md)
     * [QM-0003 Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
     * [QM-0004 Traceability_Records](./Traceability_Records/README.md)
     * [QM-0005 Calibration_and_Preventive_Maintenance](./Calibration_and_Preventive_Maintenance/README.md)
