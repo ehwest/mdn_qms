@@ -1,7 +1,5 @@
 **Medical Data Networks, LLC**
 
-**Quality Manual**
-
 **A Quality Management System (QMS) Description**
 
 Approvals:
