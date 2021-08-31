@@ -1,4 +1,9 @@
+
 **Medical Data Networks, LLC**
+
+|Document Number|Title|Revision|Effective
+|QMSD-0001_R1|Quality Management System Description|R 1|9/1/2021
+
 
 **QMSD-0001_R1 Quality Management System Description**
 
