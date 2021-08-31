@@ -10,11 +10,11 @@ A given product may go through lifecycle phases:
 
 For each phase there is a 6-step process:
 
-1 NPD Project pLan
-2 Customer Needs Document (template available)
-3 Business Case & Feasibility
-4 Design Concept
-5 Regulatory Strategy (template available)
-6 Design review (form to be completed)
+1. NPD Project pLan
+2. Customer Needs Document (template available)
+3. Business Case & Feasibility
+4. Design Concept
+5. Regulatory Strategy (template available)
+6. Design review (form to be completed)
 
 
