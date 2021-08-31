@@ -2,9 +2,9 @@
 **Medical Data Networks, LLC**
 
 
-Document Number|Title|Revision|Effective
----------------|-------------------------------------|---|----
-QMSD-0001_R1   |Quality Management System Description|R 1|9/1/2021
+Document Number|Title|Revision|Effective|Owner
+---------------|-------------------------------------|---|----|-----
+QMSD-0001_R1   |Quality Management System Description|R 1|9/1/2021|/s/ Ben West
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver operating T1Pal software (...as an FDA device).  
 
