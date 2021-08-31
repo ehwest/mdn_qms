@@ -28,289 +28,53 @@ Signature:
 
 **908-216-5054**
 
-**<span class="smallcaps">TABLE OF CONTENTS</span>**
-
-1.  **Purpose 3**
-
-2.  **Scope 3**
-
-3.  **Terms and Definitions 4**
-
-4.  **Quality Management System 5**
-
-    1.  General Requirements 5
-
-    2.  Documentation Requirements 6
-
-5.  **Management Responsibilities 7**
-
-    1.  Management Commitment 7
-
-    2.  Customer Focus 7
-
-    3.  Quality Policy 7
-
-    4.  Quality Objectives and Planning 8
-
-    5.  Responsibility, Authority, and Communication 8
-
-    6.  Management Review 9
-
-6.  **Resource Management 10**
-
-    1.  Provision of Resources 10
-
-    2.  Human Resources 11
-
-    3.  Infrastructure 11
-
-    4.  Work Environment 11
-
-7.  **Product Realization 12**
-
-    1.  Planning of Product Realization 12
-
-    2.  Customer-Related Processes 12
-
-    3.  Design and Development 13
-
-    4.  Purchasing 16
-
-    5.  Production and Service Provision 17
-
-    6.  Control of Monitoring and Measuring Devices 19
-
-8.  **Measurement, Analysis, and Improvement 19**
-
-    1.  General 19
-
-    2.  Monitoring and Measuring 19
-
-    3.  Control of Nonconforming Product 21
-
-    4.  Analysis of Data 21
-
-    5.  Improvement 21
-
-9.  Revision History 23
-
-10. Appendix: Regulatory Requirement Reference 24
-
-**PURPOSE**
-===========
-
-> The purpose of this manual is to provide the foundation for the
-> company’s Quality Management System. This manual establishes the
-> quality and regulatory policies, defines the authorities and
-> responsibilities of management, and provides general description of
-> all processes comprising the quality system.
->
-> Under the signatures of the approving authorities for this document,
-> it is the responsibility of the Quality Manger to own the
-> responsibility to implement and run the company Quality Management
-> System. An organization chart for the company is shown below. Earle
-> West located at the Franklin, TN location is the acting Quality
-> Manager responsible for the company Quality Management System.
->
-> <img src="./media/image2.png" style="width:7in;height:3.94444in" />
->
-> The Quality Management System is intended to comply with the following
-> domestic and international regulations and standards:
-
--   Code of Federal Regulations (CFR), Title 21, Food and Drug
-
--   21 CFR Part 820 – Quality System Regulation
-
--   ISO 13485 – Medical Devices – Quality Management Systems
-
--   EU Medical Device Regulation – MDR 2017/745
-
--   EU Medical Device Directive – MDD 93/42/EEC
-
--   Other regulatory authorities as appropriate
-
-**SCOPE**
-=========
-
-> The Quality Management Systems defined in this manual applies to the
-> following activities:
-
-1.  Product definition
-
-2.  Solution design
-
-3.  Software development
-
-4.  Operations
-
-5.  Customer care
-
-> This Quality Manual applies to the following facility:
->
-> Medical Data Networks, LLC, 537 Montridge Ct., Franklin, TN
->
-> The company has undertaken the following roles:
-
--   ISO 13485 – Design, Software Manufacturer, and support.
-
--   US CFR 21 Part 820 – \[Specification Developer, Software
-    > Manufacturer.
-
-> The following applicability exclusions apply:
-
--   Installation Activities (ISO Clause 7.5.3) –Our products do not
-    > require product installation. Products are portable and
-    > distributed in working condition.
-
--   Servicing Activities (ISO Clause 7.5.4) – Our products do not
-    > require servicing.
-
--   Sterilization Requirement and Processes (ISO Clause 7.5.5 & 7.5.7) –
-    > Our are not provided or distributed sterile products or utilize
-    > sterile processes.
-
--   Implantable Medical Devices (ISO Clause 7.5.9.2 & 8.2.6 Partial) –
-    > We do not provide or distribute implantable products.
-
-1.  **TERMS AND DEFINITIONS**
-    =========================
-
-    -   **Appropriate Management**: CEO, COO, President, Vice
-        > Presidents, Directors, Managers, Team Leaders.
-
-    -   **Continual improvement**: Process of enhancing the Quality
-        > Management System to achieve improvements in overall quality,
-        > operations, and environmental performance in line with the
-        > organization’s Quality Policy.
-
-    -   **Controlled Document**: Any document that affects the quality
-        > of the product and is reviewed and approved prior to release
-        > for use or reference.
-
-    -   **Corrective Action**: A process improvement methodology aimed
-        > at identifying and eliminating the causes of known
-        > nonconformities and to prevent their recurrence.
-
-    -   **Customer**: The recipient of a product or service provided by
-        > the organization.
-
-    -   **Design History File (DHF)**: A compilation of records that
-        > describes the design history of the finished device.
-
-    -   **Device History Record (DHR)**: A compilation of records
-        > containing the production history of a finished device.
-
-    -   **Device Master Record (DMR)**: A compilation of records
-        > containing the procedures and specifications for a finished
-        > device.
-
-    -   **Management with Executive Responsibility**: Those senior
-        > employees who have the authority to establish or make changes
-        > to the organization’s quality policy and quality system.
-
-    -   **Preventive Action**: A process improvement methodology aimed
-        > at identifying and eliminating potential causes of
-        > nonconformities before they occur.
-
-    -   **Process**: A set of interrelated resources and activities that
-        > transform inputs into outputs.
-
-    -   **Process Leader**: Person with primary process responsibility
-        > to document and maintain its procedures, work instructions,
-        > and forms; to control records; and to train process users.
-        > Selected by management based upon primary job
-        > responsibilities.
-
-    -   **Product**: The result of activities or processes.
-
-    -   **Proposal**: Offer or quote made by an organization in response
-        > to a request for a quote to provide product.
-
-    -   **Quality Policy**: Statement by the organization of its
-        > intentions and principles in relation to its overall quality
-        > performance which provides a framework for action and for
-        > setting the organization’s quality objectives and targets.
-
-    -   **Supplier or Vendor**: The organization that provides a product
-        > or service to an organization.
-
-2.   **QUALITY MANAGEMENT SYSTEM**
-    =============================
-
-    1.  **General Requirements**
-
-> The quality systems have been established, documented, implemented,
-> and maintained to ensure the products and services produced meet the
-> quality standards of the organization and are in compliance with
-> relevant regulatory bodies. Our organization has applied a risk based
-> approach to the control of the appropriate processes needed for the
-> QMS.
-
-The process for operating and maintaining the Quality Management system
-is shown in the flowchart below.
-
-<img src="./media/image3.png" style="width:7in;height:3.94444in" />
-
-Documents capturing the procedures of the QMS are stored in the company
-shared folder repository. The following procedures are document and
-approved where indicated:
-
 **Quality System Procedures**
 
 | **Document ID**            | **Procedure**                                   | **Implementation Status** |
 |----------------------------|-------------------------------------------------|---------------------------|
 |                            |                                                 |                           |
-| QP-0001 R1 (this document) | Quality Manual Update Process                   | Approved 9/1/2021         |
-| QP-0002 R1                 | Design Control Process                          | Approved 9/1/2021         |
-| QP-0003 R1                 | Document Control Process                        | Approved 9/1/2021         |
-| QP-0004 R1                 | Training and Competency Process                 | Approved 9/1/2021         |
-| QP-0005 R1                 | Purchasing and Receiving Process                | N/A                       |
-| QP-0006 R1                 | Labeling and Packaging Control Process          | Approved 9/1/2021         |
-| QP-0007 R1                 | Identification and Traceability Process         | Not defined yet           |
-| QP-0008 R1                 | Nonconforming Product process                   | Not defined yet           |
-| QP-0009 R1                 | Change Control Process                          | Approved 9/1/2021         |
-| QP-0010 R1                 | Software Validation Process                     | Approved 9/1/2021         |
-| QP-0011 R1                 | Customer Complaint Handling Procedure           | Approved 9/1/2021         |
-| QP-0012 R1                 | Corrective and Preventive Action (CAPA) Process | Approved 9/1/2021         |
-| QP-0013 R1                 | Management Review and Data Analysis Process     | Not defined yet           |
-| QP-0014 R1                 | Calibration and Preventive Maintenance Process  | Not defined yet           |
-| QP-0015 R1                 | Quality Audit Process                           | Not defined yet           |
-| QP-0016 R1                 | Preservation of Product Process                 | Approved 9/1/2021         |
-| QP-0017 R1                 | Risk Management Process                         | Approved 9/1/2021         |
-| QP-0018 R1                 | Record Management Process                       | Approved 9/1/2021         |
-| QP-0019 R1                 | Customer Property Control Process               | Not defined yet           |
-| QP-0020 R1                 | FDA Audit Management Process                    | Not defined yet           |
-| QP-0021 R1                 | Medical Device Reporting and Recall Process     | Not defined yet           |
-| QP-0022 R1                 | Infrastructure and Work Environment             | Not defined yet           |
-| QP-0023 R1                 | Supplier Management Process                     | Not defined yet           |
-| QP-0024 R1                 | Post Market Surveillance Process	               | Not defined yet           |
-| QP-0025 R1                 | Unique Device Identification Process            | Not defined yet           |
-| QP-0026 R1                 | Process Validation Procedure                    | Not defined yet           |
-| QP-0027 R1                 | Technical File Process                          | Not defined yet           |
-| QP-0028 R1                 | European Union Medical Device Directive Procedure| Not defined yet          |
-| QP-0029 R1                 | European_Union_Medical_Device_Regulation_Procedure| Not defined yet         |
-| QP-0030 R1                 | Canadian Medical Device Regulations Procedure  | Not defined yet            |
+| [QP-0001 R1](./README.md) (this document) | Quality Manual Update Process                   | Approved 9/1/2021         |
+| [QP-0002 R1](QP-0002_R1_Design_Control_Process.md)                 | Design Control Process                          | Approved 9/1/2021         |
+| [QP-0003 R1](QP-0003_R1_Document_Control_Process.md)                 | Document Control Process                        | Approved 9/1/2021         |
+| [QP-0004 R1](QP-0004_R1_Training_and_Competency_Process.md)                 | Training and Competency Process                 | Approved 9/1/2021         |
+| [QP-0005 R1](QP-0005_R1_Purchasing_and_Receiving_Process.md)                 | Purchasing and Receiving Process                | N/A                       |
+| [QP-0006 R1](QP-0006_R1_Labeling_and_Packaging_Control_Process.md)                 | Labeling and Packaging Control Process          | Approved 9/1/2021         |
+| [QP-0007 R1](QP-0007_R1_Identification_and_Traceability_Process.md)                 | Identification and Traceability Process         | Not defined yet           |
+| [QP-0008 R1](QP-0008_R1_Nonconforming_Product_Process.md)                 | Nonconforming Product process                   | Not defined yet           |
+| [QP-0009 R1](QP-0009_R1_Change_Control_Process.md)                 | Change Control Process                          | Approved 9/1/2021         |
+| [QP-0010 R1](QP-0010_R1_Software_Validation_Process.md)                 | Software Validation Process                     | Approved 9/1/2021         |
+| [QP-0011 R1](QP-0011_R1_Customer_Complaint_Handling_Procedure.md)                 | Customer Complaint Handling Procedure           | Approved 9/1/2021         |
+| [QP-0012 R1](QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md)                 | Corrective and Preventive Action (CAPA) Process | Approved 9/1/2021         |
+| [QP-0013 R1](QP-0013_R1_Management_Review_and_Data_Analysis_Process.md)                 | Management Review and Data Analysis Process     | Not defined yet           |
+| [QP-0014 R1](QP-0014_R1_Calibration_and_Preventive_Maintenance_Process.md)                 | Calibration and Preventive Maintenance Process  | Not defined yet           |
+| [QP-0015 R1](QP-0015_R1_Quality_Audit_Process.md)                 | Quality Audit Process                           | Not defined yet           |
+| [QP-0016 R1](QP-0016_R1_Preservation_of_Product_Process.md)                 | Preservation of Product Process                 | Approved 9/1/2021         |
+| [QP-0017 R1](QP-0017_R1_Risk_Management_Process.md)                 | Risk Management Process                         | Approved 9/1/2021         |
+| [QP-0018 R1](QP-0018_R1_Record_Management_Process.md)                 | Record Management Process                       | Approved 9/1/2021         |
+| [QP-0019 R1](QP-0019_R1_Customer_Property_Control_Process.md)                 | Customer Property Control Process               | Not defined yet           |
+| [QP-0020 R1](QP-0020_R1_FDA_Audit_Management_Process.md)                 | FDA Audit Management Process                    | Not defined yet           |
+| [QP-0021 R1](QP-0021_R1_Medical_Device_Reporting_and_Recall_Process.md)                 | Medical Device Reporting and Recall Process     | Not defined yet           |
+| [QP-0022 R1](QP-0022_R1_Infrastructure_and_Work_Environment.md)                 | Infrastructure and Work Environment             | Not defined yet           |
+| [QP-0023 R1](QP-0023_R1_Supplier_Management_Process.md)                 | Supplier Management Process                     | Not defined yet           |
+| [QP-0024 R1](QP-0024_R1_Post_Market_Surveillance_Process.m)                 | Post Market Surveillance Process	               | Not defined yet           |
+| [QP-0025 R1](QP-0025_R1_Unique_Device_Identification_Process.md)                 | Unique Device Identification Process            | Not defined yet           |
+| [QP-0026 R1](QP-0026_R1_Process_Validation_Procedure.md)                 | Process Validation Procedure                    | Not defined yet           |
+| [QP-0027 R1](QP-0027_R1_Technical_File_Process.md)                 | Technical File Process                          | Not defined yet           |
+| [QP-0028 R1](QP-0028_R1_European_Union_Medical_Device_Directive_Procedure.md)                 | European Union Medical Device Directive Procedure| Not defined yet          |
+| [QP-0029 R1](QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)                 | European_Union_Medical_Device_Regulation_Procedure| Not defined yet         |
+| [QP-0030 R1](QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)                 | Canadian Medical Device Regulations Procedure  | Not defined yet            |
 
 > The Quality System is defined through a four level hierarchy:
 
--   **Quality Manual**: First-level document that provides a general
-    > overview of the Quality System and defines the Quality Policy.
+-   **Quality Policies**: 
 
--   **Quality Policies and Procedures**: Second-level documents that
-    > provide more detailed explanation of the Quality System clauses
-    > and detail the structure of the Quality System.
-
--   **Standard Operating Procedures and Work Instructions:** Third-level
-    > documents that provide step-by-step instructions on how activities
-    > are to be carried out and the requirements of products produced.
+-   **Quality Procedures**: 
 
 -   **Forms and Records:** Fourth-level documents or data that contain
-    > the information, charts, checklists, or other form of records as
-    > evidence to demonstrate conformance to specified requirements and
-    > the effective operation of the Quality System.
+    the information, charts, checklists, or other form of records as
+    evidence to demonstrate conformance to specified requirements and
+    the effective operation of the Quality System.
 
-> The following key processes and interactions define the organizational
-> structure and responsibilities of the Quality Management System.
 
 ![](./media/image1.emf)
 
@@ -320,11 +84,9 @@ approved where indicated:
 
 -   Evaluated for their impact on the quality management system
 
--   Evaluated for their impact on the medical devices produce under this
-    > QMS
+-   Evaluated for their impact on the medical devices produce under this QMS
 
--   Controlled in accordance with the requirements of ISO 13485 and
-    > applicable regulatory requirements.
+-   Controlled in accordance with the requirements of ISO 13485 and applicable regulatory requirements.
 
 > For all outsourced processes that may affect conformance to
 > requirements, the company ensures control over these processes through
@@ -358,11 +120,9 @@ approved where indicated:
 
 -   Quality Manual
 
--   Documented procedures and records required by domestic and
-    > international regulations
+-   Documented procedures and records required by domestic andinternational regulations
 
--   Documents, including records, determined by the organization as
-    > necessary to ensure quality
+-   Documents, including records, determined by the organization as necessary to ensure quality
 
 -   Other documentation specified by applicable regulatory requirements
 
