@@ -1,33 +1,9 @@
 
 **Medical Data Networks, LLC**
 
-Document Number|Title|Revision|Effective
-----------------|--------------------------------------|--------|---------
-[QMSD-0001_R1](./README.md)|Quality Management System Description|R 1|9/1/2021
-
-
-**QMSD-0001_R1 Quality Management System Description**
-
-Approvals:
-
-Signature:
-
-> /s/ Ben West, Executive Management Date: 9/1/2021
-
-Signature:
-
-> /s/ Earle West, Quality Representative Date: 9/1/2021
-
-*Company Headquarters Location*
-
-**Medical Data Networks, LLC**
-
-**16192 Coastal Highway**
-
-**Lewes DE 19958-9776**
-
-**908-216-5054**
-
+Document Number|Title|Revision|Effective|Signature
+----------------|---------------------------------|---|--------|
+QMSD-0001_R1|Quality Management System Description|R 1|9/1/2021|/s/Ben West
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver operating T1Pal software (...as an FDA device).  
 
