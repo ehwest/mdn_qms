@@ -1,3 +1,8 @@
+Document Number|Title|Revision|Effective|Owner
+---------------|-------------------------------------|---|----|-----
+QP-0012|Corrective and Preventive Action (CAPA) Process|R 1|9/1/2021|/s/ Ben West
+
+
 1.  **Purpose**
 
 > This document defines the company’s policies and procedures for

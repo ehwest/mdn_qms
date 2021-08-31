@@ -1,3 +1,7 @@
+Document Number|Title|Revision|Effective|Owner
+---------------|-------------------------------------|---|----|-----
+QP-0017|Risk Management process|R 1|9/1/2021|/s/ Ben West
+
 1.  **Purpose**
 
 > The purpose of this document is to define the policies and procedures

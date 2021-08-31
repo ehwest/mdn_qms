@@ -1,3 +1,11 @@
+
+Document Number|Title|Revision|Effective|Owner
+---------------|-------------------------------------|---|----|-----
+QP-0002|Design and Development Controls|R 1|9/1/2021|/s/ Ben West
+
+This document provides a link to each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
+
+
 PURPOSE 
 =======
 

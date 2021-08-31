@@ -1,32 +1,11 @@
-**Medical Data Networks, LLC**
-
-**Quality Manual**
-
-**QMS Controlled Procedures Enumerated and Described**
-
-**QP_0001 R1**
 
 
+Document Number|Title|Revision|Effective|Owner
+---------------|-------------------------------------|---|----|-----
+QP-0001|QMS Procedures|R 1|9/1/2021|/s/ Ben West
 
-Approvals:
+This document provides a link to each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
 
-Signature:
-
-> /s/ Ben West, Executive Management Date: 9/1/2021
-
-Signature:
-
-> /s/ Earle West, Quality Representative Date: 9/1/2021
-
-*Company Headquarters Location*
-
-**Medical Data Networks, LLC**
-
-**16192 Coastal Highway**
-
-**Lewes DE 19958-9776**
-
-**908-216-5054**
 
 **Quality System Procedures**
 

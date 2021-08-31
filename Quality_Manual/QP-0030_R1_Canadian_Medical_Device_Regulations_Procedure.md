@@ -1,3 +1,7 @@
+Document Number|Title|Revision|Effective|Owner
+---------------|-------------------------------------|---|----|-----
+QP-0030|Canadian Medical Device Regulations Procedure|R 1|9/1/2021|/s/ Ben West
+
 1.  **Purpose**
 
 To describe the requirements for compliance with the Canadian Medical
