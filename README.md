@@ -79,6 +79,7 @@ provide a link to the files in the folder and an overview of all of the files wi
       * [QF-0002 Design_Control Records](./Design_Control/README.md)
       * [QF-0004 Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
       * [QF-0005 Purchasing_Controls](./Purchasing_Controls/README.me)
+      * [QF-0007 Traceability_Records](./Traceability_Records/README.md)
       * [QF-0008 Non_conforming_Product](./Non-conforming_Product/README.md)
       * [QF-0011 Customer_Complaints](Customer_Complaints/README.md)
       * [QF-0012 Corrective_and_Preventive_Action](Corrective_and_Preventive_Action/README.md)
@@ -91,9 +92,8 @@ provide a link to the files in the folder and an overview of all of the files wi
 
 
     * [QBF-0001 Other_Businessl_Forms_and_Templates](./Quality_Manual_Forms/README.md)
-      * [QBF-0004 Traceability_Records](./Traceability_Records/README.md)
-      * [QBF-0008 Customer_Fulfillment](./Customer_Fulfillment/README.md)
-      * [QBF-0010 Engineering-Change_Orders](Engineering-Change_Orders/README/md)
+      * [QBF-0002 Customer_Fulfillment](./Customer_Fulfillment/README.md)
+      * [QBF-0003 Engineering-Change_Orders](Engineering-Change_Orders/README/md)
 
 ## Quality System Requirements
 
