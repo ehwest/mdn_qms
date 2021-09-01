@@ -43,14 +43,21 @@ This document provides a link to each of the Quality Procedures used to operate 
 | [QP-0029 R1](QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)                 | European_Union_Medical_Device_Regulation_Procedure| Not defined yet         |
 | [QP-0030 R1](QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)                 | Canadian Medical Device Regulations Procedure  | Not defined yet            |
 
-> The Quality System is defined through a four level hierarchy:
+The Quality System is defined by a stated policies that
+links to a specific collection of folders and files
+for procedures, templates, and records.
 
 -   **Quality Policies**: 
 
 -   **Quality Procedures**: 
 
--   **Forms and Records:** Fourth-level documents or data that contain
-    the information, charts, checklists, or other form of records as
+-   **Forms and Records:** 
+
+Certain folders contain Templates and Records
+used in connection with the Procedures are separate from a definition
+of the procedures.  An appropriately labeled README.md file provides
+a link to individual templates.
+Templates may contain charts, checklists, or other form of records as
     evidence to demonstrate conformance to specified requirements and
     the effective operation of the Quality System.
 
@@ -105,16 +112,16 @@ This document provides a link to each of the Quality Procedures used to operate 
 
 -   Other documentation specified by applicable regulatory requirements
 
-> All management affected by the controlled documents are responsible to
-> ensure that their personnel are adequately informed and trained, as
-> necessary, to ensure the proper implementation of the procedures.
-> Procedures and records may be created and/or maintained in the form of
-> paper copy, electronic copy, or in other media as deemed appropriate.
+All management affected by the controlled documents are responsible to
+ensure that their personnel are adequately informed and trained, as
+necessary, to ensure the proper implementation of the procedures.
+Procedures and records may be created and/or maintained in the form of
+paper copy, electronic copy, or in other media as deemed appropriate.
 
 1.  **Quality Manual**
 
-> The company has established and maintains a Quality Manual that
-> includes:
+The company has established and maintains a Quality Manual that
+includes:
 
 -   The scope of the quality management system.
 
@@ -126,11 +133,11 @@ This document provides a link to each of the Quality Procedures used to operate 
 
 1.  **Device Master Records (DMR)**
 
-> For each medical device type or medical device family, we have
-> established and maintained one or more files containing or referencing
-> documents generated to demonstrate conformity to the requirement of
-> ISO 13485 and applicable regulatory requirements. The content of the
-> file(s) includes:
+For each medical device type or medical device family, we have
+established and maintained one or more files containing or referencing
+documents generated to demonstrate conformity to the requirement of
+ISO 13485 and applicable regulatory requirements. The content of the
+file(s) includes:
 
 -   General description of the medical device, intended use/purpose, and
     > labeling, including any instructions for use
@@ -144,10 +151,10 @@ This document provides a link to each of the Quality Procedures used to operate 
 
     1.  **Control of Document**
 
-> The company has established and maintains procedures to control all
-> documentation and data related to the requirements of the applicable
-> regulatory standards, including external documents, such as standard
-> and electronic media. These procedures define the controls for:
+The company has established and maintains procedures to control all
+documentation and data related to the requirements of the applicable
+regulatory standards, including external documents, such as standard
+and electronic media. These procedures define the controls for:
 
 -   A review and approval process to ensure adequacy and efficacy of
     > documents
@@ -168,35 +175,35 @@ This document provides a link to each of the Quality Procedures used to operate 
 
 1.  **Control of Records**
 
-> It is the responsibility of all personnel to keep records of all work
-> or operations performed in the format prescribed by the various
-> policies and procedures in the quality system. All records shall
-> contain the date of creation and the person responsible for their
-> creation. All records shall be made in a permanent and legible manner
-> and changes to a record shall remain identifiable. Controls necessary
-> for the identification, storage, protection, retrieval, retention
-> time, and disposition of records shall be included within the
-> documented procedure requiring the record. Methods for protecting
-> confidential health information contained in records shall be defined
-> and implemented.
->
-> Management is responsible for establishing a custodian of all quality
-> records, including internal audits, management reviews, corrective
-> actions, preventive actions, training records, proficiency test
-> results, and other related records. The record retention time is
-> specified by relevant regulatory requirements or documented
-> procedures, whether hard copy or electronic.
+It is the responsibility of all personnel to keep records of all work
+or operations performed in the format prescribed by the various
+policies and procedures in the quality system. All records shall
+contain the date of creation and the person responsible for their
+creation. All records shall be made in a permanent and legible manner
+and changes to a record shall remain identifiable. Controls necessary
+for the identification, storage, protection, retrieval, retention
+time, and disposition of records shall be included within the
+documented procedure requiring the record. Methods for protecting
+confidential health information contained in records shall be defined
+and implemented.
+
+Management is responsible for establishing a custodian of all quality
+records, including internal audits, management reviews, corrective
+actions, preventive actions, training records, proficiency test
+results, and other related records. The record retention time is
+specified by relevant regulatory requirements or documented
+ procedures, whether hard copy or electronic.
 
 1.  **MANAGEMENT RESPONSIBILITIES**
 
     1.  **Management Commitment**
 
-> Management demonstrates its commitment to the development and
-> implementation of the Quality Management System, and its continual
-> improvement, by:
+Management demonstrates its commitment to the development and
+implementation of the Quality Management System, and its continual
+improvement, by:
 
 -   Communicating to the organization the importance of complying with
-    > customer, regulatory, and statutory requirements as applicable
+    customer, regulatory, and statutory requirements as applicable
 
 -   Establishing and communicating the Quality Policy
 
@@ -208,96 +215,96 @@ This document provides a link to each of the Quality Procedures used to operate 
 
     1.  **Customer Focus**
 
-> Company Management ensures that customer requirements and applicable
-> regulatory requirements (needs and expectations) are understood and
-> are met with the aim of enhancing customer satisfaction. These are
-> generally established within product requirements and specifications
-> and within quality management system documentation.
+Company Management ensures that customer requirements and applicable
+regulatory requirements (needs and expectations) are understood and
+are met with the aim of enhancing customer satisfaction. These are
+generally established within product requirements and specifications
+and within quality management system documentation.
 
 1.  **Quality Policy**
 
-> The Quality Policy is established by management with executive
-> responsibility. The company quality policy is stated below and is
-> communicated throughout the organization to ensure commitment to
-> quality within the organization. The quality policy provides a
-> framework for establishing and reviewing quality objectives and is
-> reviewed periodically for continued effectiveness.
->
-> **Quality Policy**
->
-> Every employee and contractor accepts responsibility for the quality
-> of our processes and medical devices. This is achieved by continuously
-> improving designs, implementing efficient procedures, and partnering
-> with suppliers to meet or exceed the expectations of our customers,
-> and satisfy the requirements of our quality system and appropriate
-> regulations.
+The Quality Policy is established by management with executive
+responsibility. The company quality policy is stated below and is
+communicated throughout the organization to ensure commitment to
+quality within the organization. The quality policy provides a
+framework for establishing and reviewing quality objectives and is
+reviewed periodically for continued effectiveness.
+
+**Quality Policy**
+
+Every employee and contractor accepts responsibility for the quality
+of our processes and medical devices. This is achieved by continuously
+improving designs, implementing efficient procedures, and partnering
+with suppliers to meet or exceed the expectations of our customers,
+and satisfy the requirements of our quality system and appropriate
+regulations.
 
 1.  **Quality Objectives and Planning**
 
     1.  **Quality Objectives**
 
-> The company has identified the following Quality Objectives. These
-> objectives will be reviewed and updated as necessary to meet company
-> goals.
+The company has identified the following Quality Objectives. These
+objectives will be reviewed and updated as necessary to meet company
+goals.
 
 -   Establish and maintain a team-oriented working environment in which
-    > each employee accepts responsibility for the development,
-    > production, and delivery of high quality goods and services.
+    each employee accepts responsibility for the development,
+    production, and delivery of high quality goods and services.
 
 -   Implement and maintain a Quality System compliant with the Quality
-    > System Requirements of the United States Food and Drug
-    > Administration (FDA), ISO 13485, European Union, and any other
-    > applicable regulatory requirements.
+    System Requirements of the United States Food and Drug
+    Administration (FDA), ISO 13485, European Union, and any other
+    applicable regulatory requirements.
 
 -   Implement and maintain efficient quality systems and procedures that
-    > effectively control the quality of the products and services
-    > provided and emphasize continuous improvement.
+    effectively control the quality of the products and services
+    provided and emphasize continuous improvement.
 
 -   Define and monitor metrics of effectiveness for key elements of the
-    > business and utilize the data to effectively manage and drive
-    > improvement with emphasis on Customers, Products, Services, and
-    > Stakeholders.
+    business and utilize the data to effectively manage and drive
+    improvement with emphasis on Customers, Products, Services, and
+    Stakeholders.
 
     1.  **Quality Management System Planning**
 
-> Management ensures that the planning of the Quality Management System
-> is implemented by appropriate management and carried out by all
-> employees in order to meet the requirements provided in this manual.
-> Management also ensures the integrity of the Quality Management System
-> is maintained when changes to the Quality Management System are
-> planned and implemented.
+Management ensures that the planning of the Quality Management System
+is implemented by appropriate management and carried out by all
+employees in order to meet the requirements provided in this manual.
+Management also ensures the integrity of the Quality Management System
+is maintained when changes to the Quality Management System are
+planned and implemented.
 
 1.  **Responsibility, Authority, and Communication**
 
     1.  **Responsibility and Authority**
 
-> Management has defined and documented the responsibility, authority,
-> and interrelation of personnel who manage, perform, and verify work
-> within the Quality Management System. These responsibilities are
-> documented in official job descriptions, which define the tasks
-> performed by employees, and an organization chart depicting the
-> interrelation of all employees.
->
-> All employees accept responsibility for the maintenance and
-> improvement of the Quality Management System. This is achieved by
-> understanding and supporting the Quality Policy and the appropriate
-> clauses of the quality system for their areas of work; dedicating
-> efforts to the continuous improvement, understanding how their
-> activities impact quality, elimination and prevention of quality
-> deficiencies; and initiating action to prevent the occurrence of
-> nonconformities related to product and processes.
+Management has defined and documented the responsibility, authority,
+and interrelation of personnel who manage, perform, and verify work
+within the Quality Management System. These responsibilities are
+documented in official job descriptions, which define the tasks
+performed by employees, and an organization chart depicting the
+interrelation of all employees.
+
+All employees accept responsibility for the maintenance and
+improvement of the Quality Management System. This is achieved by
+understanding and supporting the Quality Policy and the appropriate
+clauses of the quality system for their areas of work; dedicating
+efforts to the continuous improvement, understanding how their
+activities impact quality, elimination and prevention of quality
+deficiencies; and initiating action to prevent the occurrence of
+nonconformities related to product and processes.
 
 1.  **Management Representation**
 
-> The Management Representative has been appointed my management with
-> executive responsibility and is responsible and fully authorized to
-> manage the Quality Management System and related matters on an ongoing
-> basis. Roles and responsibilities of the Management Representative
-> include the following:
+The Management Representative has been appointed my management with
+executive responsibility and is responsible and fully authorized to
+manage the Quality Management System and related matters on an ongoing
+basis. Roles and responsibilities of the Management Representative
+include the following:
 
 -   Ensures that the Quality Management System is established,
-    > implemented, and maintained in accordance with applicable
-    > regulatory requirements.
+implemented, and maintained in accordance with applicable
+regulatory requirements.
 
 -   Interprets applicable standards and continually verifies compliance.
 
@@ -312,12 +319,12 @@ This document provides a link to each of the Quality Procedures used to operate 
 
     1.  **Internal Communications**
 
-> The Management Representative has the responsibility to work with
-> other departments to ensure that adequate internal communication
-> exists concerning the effectiveness and implementation of the Quality
-> Management System.
->
-> Methods for internal communication include:
+The Management Representative has the responsibility to work with
+other departments to ensure that adequate internal communication
+exists concerning the effectiveness and implementation of the Quality
+Management System.
+
+Methods for internal communication include:
 
 -   Meetings
 
@@ -331,19 +338,19 @@ This document provides a link to each of the Quality Procedures used to operate 
 
         1.  **General**
 
-> Management acknowledges responsibility for the quality systems and
-> reviews the systems to ensure continuous suitability and effectiveness
-> in relation to domestic and international regulatory requirement, this
-> Quality Manual, and company objectives. Management representing each
-> key functional area participates in this review that includes
-> assessing opportunities for improvement and the need to change the
-> Quality Management System, including the Quality Policy and
-> Objectives. Records of management reviews are maintained.
+Management acknowledges responsibility for the quality systems and
+reviews the systems to ensure continuous suitability and effectiveness
+in relation to domestic and international regulatory requirement, this
+Quality Manual, and company objectives. Management representing each
+key functional area participates in this review that includes
+assessing opportunities for improvement and the need to change the
+Quality Management System, including the Quality Policy and
+Objectives. Records of management reviews are maintained.
 
 1.  **Review Input**
 
-> The activities reviewed during management reviews may include, but are
-> not limited to:
+The activities reviewed during management reviews may include, but are
+not limited to:
 
 -   Feedback
 
@@ -365,17 +372,17 @@ This document provides a link to each of the Quality Procedures used to operate 
 
     1.  **Review Output**
 
-> The output from management review meetings may include decisions and
-> actions relating to:
+The output from management review meetings may include decisions and
+actions relating to:
 
 -   Improvement needed to maintain the suitability, adequacy, and
-    > effectiveness of the Quality Management System and its procedures
+effectiveness of the Quality Management System and its procedures
 
 -   Improvement of the product, services, training, infrastructure, work
-    > environment, and other processes
+environment, and other processes
 
 -   Changes needed to respond to applicable new or revised regulatory
-    > requirements
+requirements
 
 -   Resource requirements and allocation
 
@@ -383,13 +390,13 @@ This document provides a link to each of the Quality Procedures used to operate 
 
     1.  **Provision of Resources**
 
-> Management has the responsibility and authority to ensure there are
-> adequate resources to support the Quality System throughout their
-> functional areas of responsibility. Each member of management is to
-> provide adequate resources to:
+Management has the responsibility and authority to ensure there are
+adequate resources to support the Quality System throughout their
+functional areas of responsibility. Each member of management is to
+provide adequate resources to:
 
 -   Implement and maintain the Quality Management System and continually
-    > improve its effectiveness
+improve its effectiveness
 
 -   Enhance customer satisfaction by meeting customer requirements
 
@@ -400,39 +407,39 @@ This document provides a link to each of the Quality Procedures used to operate 
 
     1.  **Human Resources**
 
-> Resource and training requirement are identified and addressed on a
-> regular basis in order to support the growth and changing needs of the
-> company. For each job function, management provides sufficient
-> personnel with appropriate background, education, and experience.
->
-> The company has established and maintains documented procedures for
-> establishing competence, providing needed training, and ensuring
-> awareness of personnel. These procedures include:
+Resource and training requirement are identified and addressed on a
+regular basis in order to support the growth and changing needs of the
+company. For each job function, management provides sufficient
+personnel with appropriate background, education, and experience.
+
+The company has established and maintains documented procedures for
+establishing competence, providing needed training, and ensuring
+awareness of personnel. These procedures include:
 
 -   Determining the necessary competence of personnel performing work
-    > affecting quality
+affecting quality
 
 -   Providing training or other actions to achieve or maintain the
-    > necessary competence
+necessary competence
 
 -   Evaluation of the effectiveness of the training and other actions
-    > taken. The methodology for effectiveness check is proportionate to
-    > the risk associated
+taken. The methodology for effectiveness check is proportionate to
+the risk associated
 
 -   Ensuring that personnel are aware of the importance of their
-    > activities and how they contribute to the achievement of quality
-    > objectives
+activities and how they contribute to the achievement of quality
+objectives
 
 -   Maintaining appropriate records of education, training, skills, and
-    > experience.
+experience.
 
     1.  **Infrastructure**
 
-> Management maintains responsibility for infrastructure needed to
-> produce quality products and services and documented the requirements
-> for the work environment needed to achieve conformity to product
-> requirements, prevent product mix-up, and ensure orderly handling
-> product. Infrastructure includes:
+Management maintains responsibility for infrastructure needed to
+produce quality products and services and documented the requirements
+for the work environment needed to achieve conformity to product
+requirements, prevent product mix-up, and ensure orderly handling
+product. Infrastructure includes:
 
 -   Buildings, workspace, and associated utilities
 
@@ -441,66 +448,66 @@ This document provides a link to each of the Quality Procedures used to operate 
 -   Supporting services (i.e. transport, communication, or information
     > systems)
 
-> This infrastructure is reviewed and adjusted as needed to achieve
-> company objectives. A documented procedure shall be established for
-> any infrastructure maintenance activities, including interval of
-> performing the maintenance activities when required, necessary to
-> maintain quality and records of such activities shall be maintained.
-> As appropriate, the requirements shall apply to equipment used in
-> production the control of work environment, and monitoring and
-> measurement.
+This infrastructure is reviewed and adjusted as needed to achieve
+company objectives. A documented procedure shall be established for
+any infrastructure maintenance activities, including interval of
+performing the maintenance activities when required, necessary to
+maintain quality and records of such activities shall be maintained.
+As appropriate, the requirements shall apply to equipment used in
+production the control of work environment, and monitoring and
+measurement.
 
 1.  **Work Environment and Contamination Control**
 
     1.  **Work Environment**
 
-> The company maintains responsibility and has documented the
-> requirements for the work environment to assure its suitability for
-> achieving conformity to product requirements.
->
-> Where appropriate to ensure quality and compliance with applicable
-> Environmental, Health, and Safety (EHS) requirements, the company has
-> established:
+The company maintains responsibility and has documented the
+requirements for the work environment to assure its suitability for
+achieving conformity to product requirements.
+
+Where appropriate to ensure quality and compliance with applicable
+Environmental, Health, and Safety (EHS) requirements, the company has
+established:
 
 -   Documented requirements for health, cleanliness and clothing of
-    > personnel if contact between such personnel and the product or
-    > work environment could affect medical device safety or performance
+personnel if contact between such personnel and the product or
+work environment could affect medical device safety or performance
 
 -   Documented requirements for environmental conditions and
-    > instructions for monitoring and controlling these conditions
+instructions for monitoring and controlling these conditions
 
 -   Training for personnel working temporarily under special
-    > environmental conditions
+environmental conditions
 
     1.  **Contamination Control**
 
-> As appropriate, the organization has planned and documented
-> arrangements for the control of contamination or potentially
-> contaminated product in order to prevent contamination of the work
-> environment, personnel, or product
+As appropriate, the organization has planned and documented
+arrangements for the control of contamination or potentially
+contaminated product in order to prevent contamination of the work
+environment, personnel, or product
 
 1.  **PRODUCT REALIZATION**
 
     1.  **Planning of Product Realization**
 
-> The quality planning requirements for individual development projects,
-> related processes and supporting documentation are described in the
-> procedures for each process, for example, the design control
-> procedure, supplier qualification procedure and other process
-> procedures. The company has developed a documented risk management
-> procedure and maintains records of risk management activities.
->
-> If a particular development project or customer request cannot be
-> fulfilled by the existing procedures, quality plans are created to
-> ensure that the specific requirements are met. Quality plans are
-> consistent with all other requirements of the Quality System.
-> Consideration shall be given to the resources or skills required to
-> meet specified requirements whenever there is a significant change to
-> an existing product, process, test, inspection, verification, and
-> measurement.
->
-> The quality planning process, when initiated, shall provide for the
-> following:
+The quality planning requirements for individual development projects,
+related processes and supporting documentation are described in the
+procedures for each process, for example, the design control
+procedure, supplier qualification procedure and other process
+procedures. The company has developed a documented risk management
+procedure and maintains records of risk management activities.
+
+If a particular development project or customer request cannot be
+fulfilled by the existing procedures, quality plans are created to
+ensure that the specific requirements are met. Quality plans are
+consistent with all other requirements of the Quality System.
+Consideration shall be given to the resources or skills required to
+meet specified requirements whenever there is a significant change to
+an existing product, process, test, inspection, verification, and
+measurement.
+
+The quality planning process, when initiated, shall provide for the
+following:
 
 -   Identification and acquisition of necessary controls, equipment,
     > fixtures, resources and skills needed to achieve business goals
@@ -1389,8 +1396,8 @@ This document provides a link to each of the Quality Procedures used to operate 
 -   Reviewing the effectiveness of the preventive action taken, as
     > appropriate
 
-> Records of the results of any investigations and of actions taken are
-> maintained.
+Records of the results of any investigations and of actions taken are
+maintained.
 
 1.  **REVISION HISTORY**
 
