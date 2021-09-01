@@ -3,7 +3,7 @@ Document Number|Title|Revision|Effective|Owner
 QMSD-0001|Quality Management System Description|R 1|9/1/2021|/s/ Ben West
 
 
-## Medical Data Networks, LLC Quality Management System
+# Medical Data Networks, LLC Quality Management System Description
 
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC.
@@ -31,7 +31,7 @@ Three types of files are provided to registered users:
 
 1. Files describing procedures that shall be used by the QMS
 2. Files containing templates used by procedures
-3. Files Containing filled-in Templates
+3. Files Containing filled-in templates (i.e. operational records)
 
 One or more files are provided within each  QMS folder, and altogether these folders
 and files capture the authoritative description of the QMS.  
