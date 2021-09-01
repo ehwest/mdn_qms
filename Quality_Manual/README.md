@@ -19,6 +19,10 @@ This document provides a link to each of the Quality Procedures used to operate 
 |[QP-0005 R1](QP-0005_R1_Purchasing_and_Receiving_Process.md)|Purchasing and Receiving Process |[QF-0005 Purchasing Controls](./Training_and_Competency_Records/README.md)|N/A|
 | [QP-0006 R1](QP-0006_R1_Labeling_and_Packaging_Control_Process.md) | Labeling and Packaging Control Process|N/A| Approved 9/1/2021|
 |[QP-0007 R1](./QP-0007_R1_Identification_and_Traceability_Process.md)|[Traceability Records](./Traceability_Records/README.md)| Not defined yet |
+
+
+| **Document ID**| **Procedure**  | **Template(s)** | **Implementation Status** |
+|----------------|----------------|-----------------|-------------|
 |[QP-0008 R1](./QP-0008_R1_Nonconforming_Product_Process.md)|Nonconforming Product process|[QF-0008 Non Conforming Product](./Non_conforming_Product)| Not defined yet|
 |[QP-0009 R1](./QP-0009_R1_Change_Control_Process.md)| Change Control Process|N/A|Approved 9/1/2021|
 |[QP-0010 R1](QP-0010_R1_Software_Validation_Process.md)| Software Validation Process|N/A|Approved 9/1/2021|
