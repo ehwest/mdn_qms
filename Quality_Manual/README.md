@@ -17,17 +17,15 @@ This document provides a link to each of the Quality Procedures used to operate 
 |[QP-0003 R1](./QP-0003_R1_Document_Control_Process.md)|Document Control Process|N/A| Approved 9/1/2021|
 |[QP-0004 R1](./QP-0004_R1_Training_and_Competency_Process.md)|Training and Competency Process|[QF-0004 Training and Competency Records](./Training_and_Competency_Records/README.md)|Approved 9/1/2021|
 |[QP-0005 R1](./QP-0005_R1_Purchasing_and_Receiving_Process.md)|Purchasing and Receiving Process |[QF-0005 Purchasing Controls](./Training_and_Competency_Records/README.md)|N/A|N/A|
-|[QP-0006 R1](./QP-0006_R1_Labeling_and_Packaging_Control_Process.md) |N/A|Approved 9/1/2021|
+
+|[QP-0006 R1](./QP-0006_R1_Labeling_and_Packaging_Control_Process.md)|Labeling and packaging Control |N/A|N/A|
+
 |[QP-0007 R1](./QP-0007_R1_Identification_and_Traceability_Process.md)|[QF-0007 Traceability Records[(./Traceability_Records/README.md)|Not defined yet |N/A
 |[QP-0008 R1](./QP-0008_R1_Nonconforming_Product_Process.md)|Nonconforming Product process|[QF-0008 Non Conforming Product](./Non_conforming_Product.md)|Not defined yet|
-
-
-| **Document ID**| **Procedure**  | **Template(s)** | **Implementation Status** |
-|----------------|----------------|-----------------|-------------|
 |[QP-0009 R1](./QP-0009_R1_Change_Control_Process.md)| Change Control Process|N/A|Approved 9/1/2021|
 |[QP-0010 R1](QP-0010_R1_Software_Validation_Process.md)| Software Validation Process|N/A|Approved 9/1/2021|
 |[QP-0011 R1](./QP-0011_R1_Customer_Complaint_Handling_Procedure.md)| Customer Complaint Handling Procedure|[QF-0011 Customer Complaints](./Customer_Complaints/README.md)| Approved 9/1/2021|
-|[QP-0012 R1](./QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md)|[QF0012](./Corrective_and_Preventive_Action/README.md)|Approved 9/1/2021|
+|[QP-0012 R1](./QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md)|[QF0012 Corrective and Preventive Action](./Corrective_and_Preventive_Action/README.md)|Approved 9/1/2021|
 |[QP-0013 R1](./QP-0013_R1_Management_Review_and_Data_Analysis_Process.md)|Management Review and Data Analysis Process|[QF-0013 Management Review](./Management_Review/README.md| Not defined yet|
 |[QP-0014 R1](./QP-0014_R1_Calibration_and_Preventive_Maintenance_Process.md)|Calibration and Preventive Maintenance Process|[QF-0014](./Calibration_and_Preventive_Maintenance/README.md)|Not defined yet|
 |[QP-0015 R1](./QP-0015_R1_Quality_Audit_Process.md)| Quality Audit Process|[QF-0015](./Internal_Audits/README.md)| Not defined yet           |
