@@ -94,20 +94,6 @@ provide a link to the files in the folder and an overview of all of the files wi
 
     * [QF-0001 Other_Forms_and_Templates](./Quality_Other_Forms/README.md)
 
-      * [Calibration_and_Preventive_Maintenance](./Training_and_Competency_Records/README.md)
-      * [Customer_Complaints](Customer_Complaints/README.md)
-      * [Customer_Fulfillment](Customer_Fulfillment/README.md)
-      * [Design_Control](Design_Control/README.md)
-      * [Engineering-Change_Orders](Engineering-Change_Orders)
-      * [Internal_Audits](Internal_Audits/README.md)
-      * [Management_Review](Management_Review/README.md)
-      * [Medical_Device_Reporting_and_Recalls](Medical_Device_Reporting_and_Recalls)
-      * [Non_conforming_Product](Non_conforming_Product/README.md)
-      * [Post-Market_Surveillance](Post-Market_Surveillance])
-      * [Purchasing_Controls](Purchasing_Controls/README.md)
-      * [Supplier_Qualification_Records](Supplier_Qualification_Records)
-      * [Traceability_Records](Traceability_Records)
-      * [Training_and_Competency_Records](Training_and_Competency_Records)
 
 ## Quality System Requirements
 
