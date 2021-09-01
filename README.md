@@ -4,9 +4,10 @@ QMSD-0001|Quality Management System Description|R 1|9/1/2021|/s/ Ben West
 
 **Medical Data Networks, LLC**
 
-This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC, and in particular, the QMS system used to deliver operating T1Pal software (...as an FDA device).  
+This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC.
+More specifically, the QMS system used to deliver operating T1Pal software (...as an FDA device).  
 
-This document provides a complete overview of the Quality Management System (QMS) used 
+This particular document provides a complete overview of the Quality Management System (QMS) used 
 by Medical Data Networks LLC. 
 This QMS system is intended to be used to efficiently deliver certain software services (...as an FDA devices).  
 "T1Pal" and "CoPilot" are the names of products currently being delivered by this QMS system.
