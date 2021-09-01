@@ -16,14 +16,14 @@ This document provides a link to each of the Quality Procedures used to operate 
 |[QP-0002 R1](QP-0002_R1_Design_Control_Process.md)|Design Control Process|[QF-0002 Design_Control_Records](./Design_Control/README.md)| Approved 9/1/2021|
 |[QP-0003 R1](./QP-0003_R1_Document_Control_Process.md)|Document Control Process|N/A| Approved 9/1/2021|
 |[QP-0004 R1](./QP-0004_R1_Training_and_Competency_Process.md)|Training and Competency Process|[QF-0004 Training and Competency Records](./Training_and_Competency_Records/README.md)|Approved 9/1/2021|
-|[QP-0005 R1](QP-0005_R1_Purchasing_and_Receiving_Process.md)|Purchasing and Receiving Process |[QF-0005 Purchasing Controls](./Training_and_Competency_Records/README.md)|N/A|
-| [QP-0006 R1](QP-0006_R1_Labeling_and_Packaging_Control_Process.md) | Labeling and Packaging Control Process|N/A| Approved 9/1/2021|
-|[QP-0007 R1](./QP-0007_R1_Identification_and_Traceability_Process.md)|[Traceability Records](./Traceability_Records/README.md)| Not defined yet |
+|[QP-0005 R1](./QP-0005_R1_Purchasing_and_Receiving_Process.md)|Purchasing and Receiving Process |[QF-0005 Purchasing Controls](./Training_and_Competency_Records/README.md)|N/A|N/A|
+|[QP-0006 R1](./QP-0006_R1_Labeling_and_Packaging_Control_Process.md) |N/A|Approved 9/1/2021|
+|[QP-0007 R1](./QP-0007_R1_Identification_and_Traceability_Process.md)|[QF-0007 Traceability Records[(./Traceability_Records/README.md)|Not defined yet |N/A
+|[QP-0008 R1](./QP-0008_R1_Nonconforming_Product_Process.md)|Nonconforming Product process|[QF-0008 Non Conforming Product](./Non_conforming_Product.md)|Not defined yet|
 
 
 | **Document ID**| **Procedure**  | **Template(s)** | **Implementation Status** |
 |----------------|----------------|-----------------|-------------|
-|[QP-0008 R1](./QP-0008_R1_Nonconforming_Product_Process.md)|Nonconforming Product process|[QF-0008 Non Conforming Product](./Non_conforming_Product)| Not defined yet|
 |[QP-0009 R1](./QP-0009_R1_Change_Control_Process.md)| Change Control Process|N/A|Approved 9/1/2021|
 |[QP-0010 R1](QP-0010_R1_Software_Validation_Process.md)| Software Validation Process|N/A|Approved 9/1/2021|
 |[QP-0011 R1](./QP-0011_R1_Customer_Complaint_Handling_Procedure.md)| Customer Complaint Handling Procedure|[QF-0011 Customer Complaints](./Customer_Complaints/README.md)| Approved 9/1/2021|
