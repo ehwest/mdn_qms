@@ -3,7 +3,7 @@ Document Number|Title|Revision|Effective|Owner
 QMSD-0001|Quality Management System Description|R 1|9/1/2021|/s/ Ben West
 
 
-##Medical Data Networks, LLC Quality Management System
+## Medical Data Networks, LLC Quality Management System
 
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC.
@@ -16,7 +16,7 @@ This QMS system is intended to be used to efficiently deliver certain software s
 This QMS system is a document-based quality management system.
 
 
-##Folder and File Organization
+## Folder and File Organization
 
 
 [FDA Rules](https://www.fda.gov/medical-devices/classify-your-medical-device/class-i-ii-exemptions) 
@@ -92,7 +92,7 @@ provide a link to the files in the folder and an overview of all of the files wi
     * [QM-0016 Post-Market_Surveillance](./Post-Market_Surveillance/README.md)
 
 
-##Requirements
+## Requirements
 
 
 The present Quality Management System (QMS) is specifically intended to achieve and sustain alignment with FDA rules.
@@ -125,7 +125,7 @@ sections needed to convey how this achievement is accomplished and validated.
 **NOTE:**  The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
 
 
-##Scope
+## Scope
 
 
 All documents that are a part of the Medical Data Networks LLC "Quality Management System" are "electronic records" as defined in FDA Part 11 regulations for the purposes of access, validation, audit, copying, and record retention.  Any paper, letter, article, or other document relevant to this QMS that is received by Medical Data Networks shall be incorporated into this QMS as an electronic document.
@@ -202,7 +202,7 @@ A globally unique and immutable electronic "hash" signature computed upon change
 This conveniently enables all consumers of the Quality Management System data procesing tools to determine whether or not they have an exact copy of all of the applicable documents. It also enables convenient read-only access to all incremental changes to any file that is part of the Quality Management System electronic record set. This ensures compliance with FDA Part 11 regulations for audit trail capabilities.
 
 
-##Change Control
+## Change Control
 
 
 Note that the each and every one of the above folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  
