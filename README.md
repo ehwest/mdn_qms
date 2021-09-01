@@ -7,7 +7,7 @@ QMSD-0001|Quality Management System Description|R 1|9/1/2021|/s/ Ben West
 
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC.
-More specifically, the QMS system used to deliver operating T1Pal software (...as an FDA device).  
+More specifically, the QMS system used to deliver operating "T1Pal"and "CoPilot" software (...as an FDA device).  
 
 This particular document provides a complete overview of the Quality Management System (QMS) used 
 by Medical Data Networks LLC. 
@@ -101,8 +101,8 @@ The present Quality Management System (QMS) is specifically intended to achieve 
 The rules are generally categorized as follows:
 
 1. General Regulatory Controls (including Common Good Management Practice, CGMP) of the FDA for medical devices.
-2. "Special Controls" of the FDA that are applicable to T1Pal.
-3. "Appropriate Validations" applicable to T1Pal.
+2. "Special Controls" of the FDA that are applicable to T1Pal and/or any other product of Medical Data Networks, LLC..
+3. "Appropriate Validations" applicable to T1Pal and/or any other product of Medical Data Networks, LLC.
 
 **"Special Controls"** has further been defined by the FDA as follows:
 
@@ -117,10 +117,10 @@ The rules are generally categorized as follows:
         3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
 
-Web-site content (and/or any distributed promotional information) for the T1Pal "device"
+Web-site content (and/or any distributed promotional information) for the T1Pal and/or CoPilot  "device"
 is expected to meet all labelling requirements.
 
-However, "protections against unauthorized access to and modification of data" is provided by T1Pal features and functions that must be validated.
+However, "protections against unauthorized access to and modification of data" is provided by T1Pal and CoPilot features and functions that must be validated.
 For this reason, this QMS includes "Product Definition", "Product Development", and "System Design"
 sections needed to convey how this achievement is accomplished and validated.
 
@@ -162,9 +162,9 @@ A globally unique and immutable electronic "hash" signature computed upon change
 
 The present Quality Management System (QMS) is specifically designed to achieve and sustain the following goals.
 
-1. Registration of T1Pal with the FDA
-2. Meet FDA-defined "Special Controls" for T1Pal Operations
-3. Support "Appropriate Validations" for T1Pal as a device
+1. Registration of T1Pal and CoPilot with the FDA
+2. Meet FDA-defined "Special Controls" for T1Pal and CoPilot Operations
+3. Support "Appropriate Validations" for T1Pal and CoPilot as "devices".
 4. Implement certain "Special Controls" needed to sustain T1Pal Operations.
 
 In this environment, **"Special Controls"** has been defined by the FDA as follows:
