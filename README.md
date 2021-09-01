@@ -105,7 +105,7 @@ provide a link to the files in the folder and an overview of all of the files wi
       * [Non_conforming_Product](Non_conforming_Product/README.md)
       * [Post-Market_Surveillance](Post-Market_Surveillance])
       * [Purchasing_Controls](Purchasing_Controls/README.md)
-      * [Supplier_Qualification_Records](Supplier_Qualification_Records]
+      * [Supplier_Qualification_Records](Supplier_Qualification_Records)
       * [Traceability_Records](Traceability_Records)
       * [Training_and_Competency_Records](Training_and_Competency_Records)
 
