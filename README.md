@@ -43,7 +43,7 @@ provide a link to the files in the folder and an overview of all of the files wi
 
   * [QMSD-0001_R1 Quality Management System Description -- THIS DOCUMENT](./README.md)
 
-    * [QP-0001_R1 Quality_Manual -- Process Enumeration](./Quality_Manual/README.md)
+    * [QP-0001_R1 Quality_Manual -- Processes In Scope ](./Quality_Manual/README.md)
       *  [QP-0002_R1_Design_Control_Process](./Quality_Manual/QP-0002_R1_Design_Control_Process.md)
       *  [QP-0003_R1_Document_Control_Process](./Quality_Manual/QP-0003_R1_Document_Control_Process.md)
       *  [QP-0004_R1_Training_and_Competency_Process](./Quality_Manual/QP-0004_R1_Training_and_Competency_Process.md)
