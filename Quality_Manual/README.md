@@ -24,9 +24,9 @@ This document provides a link to each of the Quality Procedures used to operate 
 |[QP-0010 R1](QP-0010_R1_Software_Validation_Process.md)| Software Validation Process|N/A|Approved 9/1/2021|
 |[QP-0011 R1](./QP-0011_R1_Customer_Complaint_Handling_Procedure.md)| Customer Complaint Handling Procedure|[QF-0011 Customer Complaints](./Customer_Complaints/README.md)| Approved 9/1/2021|
 |[QP-0012 R1](./QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md)|Corrective and Preventive Action|[QF-0012 CAPA Forms](./Corrective_and_Preventive_Action./README.md)|Approved 9/1/2021|
-|[QP-0013 R1](./QP-0013_R1_Management_Review_and_Data_Analysis_Process.md)|Management Review and Data Analysis Process|[QF-0013 Management Review](./Management_Review/README.md| Not defined yet|
+|[QP-0013 R1](./QP-0013_R1_Management_Review_and_Data_Analysis_Process.md)|Management Review and Data Analysis Process|[QF-0013 Management Review](./Management_Review/README.md)| Not defined yet|
 |[QP-0014 R1](./QP-0014_R1_Calibration_and_Preventive_Maintenance_Process.md)|Calibration and Preventive Maintenance Process|[QF-0014 Calibration and Preventive Maintenance Process]](./Calibration_and_Preventive_Maintenance/README.md)|Not defined yet|
-|[QP-0015 R1](./QP-0015_R1_Quality_Audit_Process.md)| Quality Audit Process|[QF-0015](./Internal_Audits/README.md)| Not defined yet           |
+|[QP-0015 R1](./QP-0015_R1_Quality_Audit_Process.md)|Quality Audit Process|[QF-0015 Internal Audit Records](./Internal_Audits/README.md)| Not defined yet           |
 |[QP-0016 R1](./QP-0016_R1_Preservation_of_Product_Process.md)                 | Preservation of Product Process|N/A| Approved 9/1/2021         |
 |[QP-0017 R1](./QP-0017_R1_Risk_Management_Process.md)| Risk Management Process|N/A| Approved 9/1/2021|
 |[QP-0018 R1](./QP-0018_R1_Record_Management_Process.md)| Record Management Process| N/A| Approved 9/1/2021|
