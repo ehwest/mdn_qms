@@ -1,4 +1,4 @@
-
+/Users/ehwest/mdn_qms/Quality_Manual 
 
 Document Number|Title|Revision|Effective|Owner
 ---------------|-------------------------------------|---|----|-----
@@ -9,17 +9,17 @@ This document provides a link to each of the Quality Procedures used to operate 
 
 **Quality System Procedures**
 
-| **Document ID**            | **Procedure**                                   | **Implementation Status** |
-|----------------------------|-------------------------------------------------|---------------------------|
-|                            |                                                 |                           |
-| [QP-0001 R1](./README.md) (this document) | Quality Manual Update Process                   | Approved 9/1/2021         |
-| [QP-0002 R1](QP-0002_R1_Design_Control_Process.md)                 | Design Control Process                          | Approved 9/1/2021         |
-| [QP-0003 R1](QP-0003_R1_Document_Control_Process.md)                 | Document Control Process                        | Approved 9/1/2021         |
-| [QP-0004 R1](QP-0004_R1_Training_and_Competency_Process.md)                 | Training and Competency Process                 | Approved 9/1/2021         |
-| [QP-0005 R1](QP-0005_R1_Purchasing_and_Receiving_Process.md)                 | Purchasing and Receiving Process                | N/A                       |
-| [QP-0006 R1](QP-0006_R1_Labeling_and_Packaging_Control_Process.md)                 | Labeling and Packaging Control Process          | Approved 9/1/2021         |
-| [QP-0007 R1](QP-0007_R1_Identification_and_Traceability_Process.md)                 | Identification and Traceability Process         | Not defined yet           |
-| [QP-0008 R1](QP-0008_R1_Nonconforming_Product_Process.md)                 | Nonconforming Product process                   | Not defined yet           |
+| **Document ID**            | **Procedure**                                   |**Template** | **Implementation Status** |
+|----------------------------|-------------------------------------------------|-------------|-------------|
+|                            |                                                 |             |             |
+| [QP-0001 R1](./README.md) (this document) | Quality Manual Update Process    |             | Approved 9/1/2021         |
+| [QP-0002 R1](QP-0002_R1_Design_Control_Process.md)|                 | Design Control Process                          | Approved 9/1/2021         |
+| [QP-0003 R1](QP-0003_R1_Document_Control_Process.md)|                 | Document Control Process                        | Approved 9/1/2021         |
+| [QP-0004 R1](QP-0004_R1_Training_and_Competency_Process.md)|                 | Training and Competency Process                 | Approved 9/1/2021         |
+| [QP-0005 R1](QP-0005_R1_Purchasing_and_Receiving_Process.md)|                 | Purchasing and Receiving Process                | N/A                       |
+| [QP-0006 R1](QP-0006_R1_Labeling_and_Packaging_Control_Process.md)|                 | Labeling and Packaging Control Process          | Approved 9/1/2021         |
+| [QP-0007 R1](QP-0007_R1_Identification_and_Traceability_Process.md)|                 | Identification and Traceability Process         | Not defined yet           |
+| [QP-0008 R1](QP-0008_R1_Nonconforming_Product_Process.md)|                 | Nonconforming Product process                   | Not defined yet           |
 | [QP-0009 R1](QP-0009_R1_Change_Control_Process.md)                 | Change Control Process                          | Approved 9/1/2021         |
 | [QP-0010 R1](QP-0010_R1_Software_Validation_Process.md)                 | Software Validation Process                     | Approved 9/1/2021         |
 | [QP-0011 R1](QP-0011_R1_Customer_Complaint_Handling_Procedure.md)                 | Customer Complaint Handling Procedure           | Approved 9/1/2021         |
