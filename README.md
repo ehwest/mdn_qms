@@ -74,26 +74,42 @@ provide a link to the files in the folder and an overview of all of the files wi
       *  [QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure](./Quality_Manual/QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)
       *  [QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure](./Quality_Manual/QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)
 
-    * [QM-0001 Quality_Manual_Forms](./Quality_Manual_Forms/README.md)
-    * [QM-0002 Design_Control Records](./Design_Control/README.md)
-    * [QM-0003 Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
-    * [QM-0004 Traceability_Records](./Traceability_Records/README.md)
-    * [QM-0005 Calibration_and_Preventive_Maintenance](./Calibration_and_Preventive_Maintenance/README.md)
-    * [QM-0006 Supplier_Qualification_Records](./Supplier_Qualification_Records/README.md)
-    * [QM-0007 Purchasing_Controls](./Purchasing_Controls/README.me)
-    * [QM-0008 Customer_Fulfillment](./Customer_Fulfillment/README.md)
-    * [QM-0009 Non_conforming_Product](./Non-conforming_Product/README.md)
-    * [QM-0010 Engineering-Change_Orders](Engineering-Change_Orders/README/md)
-    * [QM-0011 Corrective_and_Preventive_Action](Corrective_and_Preventive_Action/README.md)
-    * [QM-0012 Customer_Complaints](Customer_Complaints/README.md)
-    * [QM-0013 Internal_Audits](./Internal_Audits/README.md)
-    * [QM-0014 Management_Review](./Management_Review/README.md)
-    * [QM-0015 Medical_Device_Reporting_and_Recalls](./Medical_Device_Reporting_and_Recalls/README.md)
-    * [QM-0016 Post-Market_Surveillance](./Post-Market_Surveillance/README.md)
+    * [QM-0001 Quality_Manual_Forms_and_Tempaltes](./Quality_Manual_Forms/README.md)
 
+      * [QM-0002 Design_Control Records](./Design_Control/README.md)
+      * [QM-0003 Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
+      * [QM-0004 Traceability_Records](./Traceability_Records/README.md)
+      * [QM-0005 Calibration_and_Preventive_Maintenance](./Calibration_and_Preventive_Maintenance/README.md)
+      * [QM-0006 Supplier_Qualification_Records](./Supplier_Qualification_Records/README.md)
+      * [QM-0007 Purchasing_Controls](./Purchasing_Controls/README.me)
+      * [QM-0008 Customer_Fulfillment](./Customer_Fulfillment/README.md)
+      * [QM-0009 Non_conforming_Product](./Non-conforming_Product/README.md)
+      * [QM-0010 Engineering-Change_Orders](Engineering-Change_Orders/README/md)
+      * [QM-0011 Corrective_and_Preventive_Action](Corrective_and_Preventive_Action/README.md)
+      * [QM-0012 Customer_Complaints](Customer_Complaints/README.md)
+      * [QM-0013 Internal_Audits](./Internal_Audits/README.md)
+      * [QM-0014 Management_Review](./Management_Review/README.md)
+      * [QM-0015 Medical_Device_Reporting_and_Recalls](./Medical_Device_Reporting_and_Recalls/README.md)
+      * [QM-0016 Post-Market_Surveillance](./Post-Market_Surveillance/README.md)
 
-## Requirements
+    * [QF-0001 Other_Forms_and_Templates](./Quality_Other_Forms/README.md)
 
+      * [Calibration_and_Preventive_Maintenance](./Training_and_Competency_Records/README.md)
+      * [Customer_Complaints](Customer_Complaints/README.md)
+      * [Customer_Fulfillment](Customer_Fulfillment/README.md)
+      * [Design_Control](Design_Control/README.md)
+      * [Engineering-Change_Orders](Engineering-Change_Orders)
+      * [Internal_Audits](Internal_Audits/README.md)
+      * [Management_Review](Management_Review/README.md)
+      * [Medical_Device_Reporting_and_Recalls](Medical_Device_Reporting_and_Recalls)
+      * [Non_conforming_Product](Non_conforming_Product/README.md)
+      * [Post-Market_Surveillance](Post-Market_Surveillance])
+      * [Purchasing_Controls](Purchasing_Controls/README.md)
+      * [Supplier_Qualification_Records](Supplier_Qualification_Records]
+      * [Traceability_Records](Traceability_Records)
+      * [Training_and_Competency_Records](Training_and_Competency_Records)
+
+## Quality System Requirements
 
 The present Quality Management System (QMS) is specifically intended to achieve and sustain alignment with FDA rules.
 The rules are generally categorized as follows:
