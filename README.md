@@ -74,7 +74,7 @@ provide a link to the files in the folder and an overview of all of the files wi
       *  [QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure](./Quality_Manual/QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)
       *  [QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure](./Quality_Manual/QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)
 
-    * [QM-0001 Quality_Manual_Forms_and_Tempaltes](./Quality_Manual_Forms/README.md)
+    * [QM-0001 Quality_Manual_Forms_and_Templates](./Quality_Manual_Forms/README.md)
 
       * [QM-0002 Design_Control Records](./Design_Control/README.md)
       * [QM-0003 Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
