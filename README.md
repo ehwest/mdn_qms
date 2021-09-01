@@ -13,7 +13,7 @@ This QMS system is intended to be used to efficiently deliver certain software s
 This QMS system is a document-based quality management system.
 
 # Folder and File Organization
-=======
+
 [FDA Rules](https://www.fda.gov/medical-devices/classify-your-medical-device/class-i-ii-exemptions) 
 say that all medical devices are subject to the Quality System Regulation (21 CFR 820), also referred to as the “Current Good Manufacturing Practices” or “Good Manufacturing Practices,” unless there is an exception or exemption noted in 21 CFR 820. 
 
