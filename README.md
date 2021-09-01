@@ -2,7 +2,9 @@ Document Number|Title|Revision|Effective|Owner
 ---------------|-------------------------------------|---|----|-----
 QMSD-0001|Quality Management System Description|R 1|9/1/2021|/s/ Ben West
 
+
 ##Medical Data Networks, LLC Quality Management System
+
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC.
 More specifically, the QMS system used to deliver operating T1Pal software (...as an FDA device).  
@@ -13,7 +15,9 @@ This QMS system is intended to be used to efficiently deliver certain software s
 "T1Pal" and "CoPilot" are the names of products currently being delivered by this QMS system.
 This QMS system is a document-based quality management system.
 
-## Folder and File Organization
+
+##Folder and File Organization
+
 
 [FDA Rules](https://www.fda.gov/medical-devices/classify-your-medical-device/class-i-ii-exemptions) 
 say that all medical devices are subject to the Quality System Regulation (21 CFR 820), 
@@ -90,6 +94,7 @@ provide a link to the files in the folder and an overview of all of the files wi
 
 ##Requirements
 
+
 The present Quality Management System (QMS) is specifically intended to achieve and sustain alignment with FDA rules.
 The rules are generally categorized as follows:
 
@@ -119,7 +124,9 @@ sections needed to convey how this achievement is accomplished and validated.
 
 **NOTE:**  The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
 
+
 ##Scope
+
 
 All documents that are a part of the Medical Data Networks LLC "Quality Management System" are "electronic records" as defined in FDA Part 11 regulations for the purposes of access, validation, audit, copying, and record retention.  Any paper, letter, article, or other document relevant to this QMS that is received by Medical Data Networks shall be incorporated into this QMS as an electronic document.
 
@@ -178,7 +185,7 @@ However, "protections against unauthorized access to and modification of data" i
 For this reason, this QMS includes "Product Definition", "Product Development", and "System Design" 
 sections needed to convey how this achievement is accomplished and validated.
 
-**NOTE:**  The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
+The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
 
 Within each document in the system, helpful (but not required) metadata is included within the file identifying the repository root, folder name, and file name. This practice is only intended to facilitate automated assembly and export of Quality Management System documents for casual use. 
 
@@ -194,7 +201,9 @@ A globally unique and immutable electronic "hash" signature computed upon change
 
 This conveniently enables all consumers of the Quality Management System data procesing tools to determine whether or not they have an exact copy of all of the applicable documents. It also enables convenient read-only access to all incremental changes to any file that is part of the Quality Management System electronic record set. This ensures compliance with FDA Part 11 regulations for audit trail capabilities.
 
-## Change Control
+
+##Change Control
+
 
 Note that the each and every one of the above folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  
 
@@ -202,13 +211,16 @@ The integrity and traceability of all changes to the Quality Management system i
 
 As such, all documents and artifacts that are part of the Quality Management System are subject to change-control procedures such that each and every change to the Quality Management System documentation is tracked by explicit versioning enforced by the git repository system.
 
+
 ## License
+
+
 All documents that are part of the Medical Data Networks LLC repository are either licensed to Medical Data Networks LLC and/or are the private property of Medical Data Networks LLC.
 
 All documents created or owned by Medical Data Network's employees are considered proprietary trade secrets and are not for disclosure outside of Medical Data Networks LLC, without specific written permission of an officer of Medical Data Networks LLC.
 
 
-## Responsibilities
+##Responsibilities
 
 1. The CEO and VP-level employees are responsible for overseeing and maintaining this QMS under QMS change-control procedures, and for assuring that all employees are trained in its applicable requirements.
 2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this QMS.
