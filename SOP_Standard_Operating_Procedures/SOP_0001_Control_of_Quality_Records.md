@@ -19,9 +19,9 @@ All records and communications will be maintained in perpetuity via digital arch
 
   * **Google Gmail** Under the domain-specific user name 
 
-<center>"<user>@medicaldatanetworks.com"</center>
+user@medicaldatanetworks.com
 
-all email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.  Google Gmail Service is provided for every Medical Data Networks LLC associate.  All company business for all matters shall use that service for all email communications.
+All email communications are stored indefinitely, even email communications that have been deleted or archived by an individual user.  Google Gmail Service is provided for every Medical Data Networks LLC associate.  All company business for all matters shall use that service for all email communications.
  
   * **Google Docs** (including Google Sheets, and related Google desktop applications) is for use in communicating informal work in progress and/or draft documents.  It is not to be used for official baselined document management.
   

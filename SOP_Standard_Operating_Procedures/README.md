@@ -19,12 +19,15 @@ with FDA "Class II Medical Devices" realized as software services and operated b
 With this particular release of the QMS, MDN is currently focused on only one "device" named **"T1Pal"**.
 
 T1Pal provides a certified copy of the open-sourced "Nightscout" software 
-and operates it on one or more Internet-hosted servers as a service.  Such services are limited to registered subscribers.  In addition, T1Pal offers bundled Technical Support services, and cryptographically-secure remote sharing features not available to other Nightcout software consumers .
+and operates the software on one or more Internet-hosted servers as a service.  Such services are limited to registered subscribers.  In addition, T1Pal offers bundled Technical Support services, and cryptographically-secure remote sharing features not available to other Nightcout software consumers .
 
 While the "open-sourced" Nightscout software has proven to be the popular basis for
 "Do It Yourself" (DIY) projects on the Internet, the software installation and operational skills required
 makes the Nightscout DIY solution inaccessible to many people.
-In addition, the Nightscout software deployed as a DIY project may create unaddressed risks and hazards, including the risk of failures to keep the data private and secure.
+In addition, the Nightscout software deployed as a DIY project may create unaddressed risks and hazards, including the risk of system failures to keep the data private and secure.
+
+Offering "Nightscout" as a service of MDN also benefits users by certifying each and every release of T1Pal (and all of its components) with quantified "Software Reliability Estimation" (SRE) analysis, further described in Chapter 4 (Risk and Hazard Management).  This analysis includes constructing a robust statistical model of the number of bugs remining in the software after expending effort on testing.  While this type of analysis is common among software developers of highly reliable telecommunications software (E-911, etc.) it's application is novel to the development of medical software and/or devices.
+MDN believes this type of reliability estimation should be adopted widely among medical software developers, and stands ready to promote this technology among other industry stakeholders.
 
 Documented US FDA guidelines and requirements have set forth a specific "path" 
 for FDA clearance of certain software services (as "medical devices").

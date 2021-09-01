@@ -16,7 +16,7 @@ approval_date: "2020-10-01"
 It is the standard procedure to use github.com as a service provider for software.
 In addition, it is the standard procedure to follow the "Gitflow" method for
 managing improvements to software targeted for the T1Pal platform.
-Gitflow as tailored to meet T1Pal requirements is further [described in the QMS SOP_0008_Gitflow_Tailoring.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0008_Gitflow_Tailoring.md) 
+Gitflow as tailored to meet T1Pal requirements is further described in Chapter 13 [QMS SOP_0008_Gitflow_Tailoring.md](https://github.com/ehwest/mdn_qms/blob/master/SOP_Standard_Operating_Procedures/SOP_0008_Gitflow_Tailoring.md) 
 section of this QMS system.
 
 Any and all software released as part of T1Pal shall first be introduced to (i.e. created on) the T1Pal platform
@@ -99,7 +99,7 @@ MAJOR.MINOR.PATCH, where
 
 For some products (such as the MDN Uploader), tags may only use MAJOR.MINOR numbering. In these cases, patch releases will cause the MINOR number to increment.
 
-Software is typically only deployed from a tag created on the Master branch of a repository. Only in the rare case of an urgent/important &quot;hotfix&quot; will be a deployment be made from a tag created on a branch other than Master. That fix will later be incorporated into Master.
+Software is typically only deployed from a tag created on the Master branch of a repository. Only in the rare case of an urgent/important "hotfix" will be a deployment be made from a tag created on a branch other than Master. That fix will later be incorporated into Master.
 
 
 **Software Development**
@@ -128,13 +128,11 @@ For all non-trivial changes, the software developer must seek review from anothe
 Consistent with 21 CFR 820.30 (c), each manufacturer shall establish and maintain procedures to ensure that the design requirements relating to a device are appropriate and address the intended use of the device, including the needs of the user and patient. The procedures shall include a mechanism for addressing incomplete, ambiguous, or conflicting requirements. The design input requirements shall be documented and shall be reviewed and approved by a designated individual(s). The approval, including the date and signature of the individual(s) approving the requirements, shall be documented.
 
 It is MDN's policy and practice to capture designs in the form of two key artifacts:
-* Sequence Diagrams
+1) Sequence Diagrams and 2) Swagger API Documents.
 
 MDN has in its repository a collection of UML-style Sequence Diagrams showing the principal flows among all of the relevant components for each subflow.  These diagrams, when annoted with API and other reference information establishes both the current and planned design of the entire T1Pal system.
 
-* Swagger API Definitions for RESTful interfaces.
-
-Standard RESTful APIs are the preferred means of inter-system communications.   These are best documented in the form of "Swagger" files that completely define the API.
+Standard RESTful APIs are the preferred means of inter-system communications.   These are best documented in the form of "Swagger" documents that completely define the API.
 
 ### Sources of Design Inputs.  
 
@@ -151,7 +149,7 @@ Input into the MDN design and development process, including requirements, may c
 * Feedback received via social media, 
 such as Twitter, Facebook, Instagram and comments on blog posts.
 
-* Feedback from users via customer support, including emails to [support@tidepool.org](mailto:support@tidepool.org) and via our support ticketing system.
+* Feedback from users via customer support, including emails to [support@t1pal.com](mailto:support@t1pal.com) and via our support ticketing system.
 
 * Appropriateness of requirements to meet intended use:  It is the responsibility of the VP of Product or CEO to approve the appropriateness of product functionality that is made available via production servers. MDN developers may deploy code to non-production servers (such as &quot;staging&quot;, &quot;development&quot; or &quot;integration&quot; servers) without VP or CEO approval.
 
@@ -283,6 +281,53 @@ A Risk Analysis review, consistent with chapter 4 "Risk and Hazard Management" i
 
 * Design history file:  Each manufacturer shall establish and maintain a DHF for each type of device. The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of this part.
 
+
+## T1Pal Definitive List of Intended Use Cases
+
+This document provides the list of Intended Use cases for T1Pal.
+
+These Intended Use cases together with additional requirements listed below,
+convey the T1Pal system requirements that will be the target of validation for each and every release. 
+
+Altogether, the three Intended Use cases, and the Additional System Requirements below, together with the present Quality Management system, T1Pal should meet FDA all of the rules for clearance -- using the de novo pathway, and the T1Pal realization of "Special Controls" enumerated in 2005.
+
+
+### REQ_1010 -- Secondary Display
+It is an intended use for T1Pal to receive data from one or more medical devices and provide a secondary 
+display of the data.
+
+### REQ_1020 -- Remote Access
+
+It is an intended use that authorized "followers" will have access to a secondary display of the same data.
+
+### REQ_1030 -- Technical Support
+
+It is intended that the display of secondary data will be used to provide "Technical Support."  "Technical Support" in this
+case is limited to providing documentation that may support 
+* device warranty claims, 
+* guidance on replacement of devices or consumables, and 
+*acts
+to remedy impairments to requisite data communications.
+
+## Additional System Requirements
+
+In addition to delivering the capabilities for intended use above, the following additional system requirements are targets of validation for each release.
+
+### REQ_2010 -- Data Privacy and Modification Protections
+
+The T1Pal is intended to be HIPPA compliant with respect to privacy and access to data.
+
+### REQ_2020 -- Protection against modification of data.
+
+The T1Pal is intended to protect against modification of data provided for secondary display.
+
+### REQ_2030 -- T1Pal Labelling
+
+The T1Pal software shall provide clear and unambiguous labelling that describes both intended use, and warnings against all other uses.
+
+
+
+
 ##  References
 
 1.  U.S. Food and Drug Administration, 21 CFR Part 820: Quality System Regulation.
@@ -290,10 +335,9 @@ A Risk Analysis review, consistent with chapter 4 "Risk and Hazard Management" i
 3.  AAMI TIR45:2012 Technical Information Report Guidance on the use of AGILE practices in the development of medical device softwareOverview
 
 
-**Operations Management**
+## **Operations Management**
 
-The T1Pal solution is in fact an interworking set of services that are each somewhat independent of each other.   The run-book described above
-is used to direct operations staff to reports,  displays of data flows, lists of resources consumed, and response times for specified components.
+The T1Pal solution is in fact an interworking set of services that are each somewhat independent of each other.   The run-book described above is used to direct operations staff to reports,  displays of data flows, lists of resources consumed, and response times for specified components.
 
 The operations staff must monitor all displays and reports continuously 24 x 7 x 365 and at the same time monitor trouble ticket complaints.
 
@@ -301,4 +345,36 @@ In the event of an outage of any kind, the outage must be documented on freshsta
 https://t1pal-995.freshstatus.io/   Any and all observed impairments to any T1Pal components should be entered into a trouble ticket.  The trouble ticket system is configured to receive emails directed to support@t1pal.com   The trouble ticketing system is at  t1pal.helpy.io
 
 
+### *HIPAA Compliance*
+
+We ensure compliance with HIPAA, MDN protects the information from patients in several ways. In particular, we strive to:
+
+* Ensure confidentially 
+* Protect against security threats and unauthorized disclosure. 
+* Validate the integrity of information 
+* Establish secure processes and ensure that our workforce is in compliance.
+
+* Communicate -- All information that is transferred to and from the MDN platform is encrypted in transit. In particular, MDN servers communicating using "TLS" and reject any attempts to communicate using unencrypted connections. 
+
+* Storage -- All data stored on permanent storage systems is encrypted with industry standard encryption.
+
+* Physical Security 
+  MDN servers are part of Amazon's AWS compute cloud, which is compliant with the US Government's FedRamp standards for physical and electronic data security. AWS enables covered entities and their business associates subject to HIPAA to leverage the secure AWS environment to process, maintain, and store protected health information. 
+
+The Amazon whitepaper on HIPAA provides a list of best practices, which MDN is following. 
+
+* Deployment Security -- Encryption and deploy keys are stored separately from customer data access is tightly controlled. 
+* Integrity -- All user data is traceable and auditable. Every transaction in the database is recorded with a cryptographically secure identifier in the database (a "hash").
+
+
+We also follow all HIPAA guidelines for organizational policy: 
+
+* Ben West (bewest@medicaldatanetworks.com) is our privacy officer and is accountable for HIPAA compliance. 
+* Patients have the right to acces all of their PHI, in real time, in both human-readable and machine-accessible forms. This is much faster than the HIPAA-required 30 days). 
+* All employees are trained on their responsibilities with respect to HIPAA. 
+* All access to PHI is limited and logged. Users can request that their data be deleted at any time.
+
+MDN privacy policy and terms are published on the T1Pal web site under /policy and /terms.
+
+In the event of a breach, we will notify affected users via the MDN Breach Notification Letter
 

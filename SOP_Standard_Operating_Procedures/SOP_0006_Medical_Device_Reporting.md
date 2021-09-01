@@ -123,8 +123,6 @@ A firm is required to submit an MDR report when it becomes aware of information 
 
 Next, the firm must investigate the report to determine its cause. 
 
-Both the QS Regulation and MDR require investigation of complaints. 
-
 During its investigation a firm may become aware of information that changes the initial report's conclusions. For example, the firm may find that its device was not involved in the death and could not have caused or contributed to the death. In these instances the firm would document the information that changes the association between its device and the death. No report would be required if the death or other facts turn out to be incorrect. But, if the firm becomes aware of the identity of the device/firm that was associated with the death, the firm is responsible for forwarding the information to the FDA.
 
 However, if the firm's investigation does not change the alleged association between the device and the death, the event must be submitted as an MDR report. 
@@ -146,9 +144,7 @@ When reviewing a non-reportable event validate and document the credentials of t
 
 ### Investigation
 
-Firms are required to investigate EVERY device related death, serious injury and malfunction in accordance with QS regulation, 820.198. 
-
-Failure to comply with this provision is a violation of BOTH the QS regulation and MDR. 
+Firms are required to investigate EVERY device related death, serious injury and malfunction in accordance with FDA requirements 820.198. 
 
 Manufacturers are also required to VERIFY information on each form FDA 3500A as well as make a good faith effort to obtain information that is missing/not provided by the reporter. If the firm cannot obtain the missing information, the MDR complaint files shall contain an explanation of why the information could not be obtained as well as documentation of the firm's efforts to obtain the missing information.
 
@@ -176,7 +172,7 @@ Malfunction reporting decisions have been the subject of concern by both industr
 
 Not all malfunctions, however, are MDR reportable events.
 
-If a malfunction is not reportable as an MDR, it may be a complaint and thus subject to the QS complaint handling requirements. Determining if an event is a reportable malfunction involves answering a number of questions including:
+If a malfunction is not reportable as an MDR, it may be a complaint and thus subject to the complaint handling requirements. Determining if an event is a reportable malfunction involves answering a number of questions including:
 
 * Is the event device-related?
 * Has the device failed to perform its intended function or meet its performance specifications?
@@ -199,19 +195,28 @@ Conversely, malfunctions ARE NOT REPORTABLE if they are not likely to result in 
 
 Where to obtain information:
 
-* Consolidated Forms and Publications Distribution Center
-* Beltsville Service Center
-* 6351 Ammendale Road
-* Beltsville, MD 20715
+Consolidated Forms and Publications Distribution Center
+
+Beltsville Service Center
+
+6351 Ammendale Road
+
+Beltsville, MD 20715
+
 
 NOTE: Form FDA 3500A ONLY
 
-* CDRH-Division of Industry and Consumer Education (DICE)
-* Office of Communication and Education
-* Center for Devices and Radiological Health
-* Food and Drug Administration
-* 10903 New Hampshire Avenue
-* Silver Spring, MD 20993
+CDRH-Division of Industry and Consumer Education (DICE)
+
+Office of Communication and Education
+
+Center for Devices and Radiological Health
+
+Food and Drug Administration
+
+10903 New Hampshire Avenue
+
+Silver Spring, MD 20993
 
 1-800-638-2041
 
@@ -219,33 +224,41 @@ NOTE: Form FDA 3500A ONLY
 
 DICE@fda.hhs.gov
 
-* Food and Drug Administration
-* MedWatch (HF-2)
-* 5600 Fishers Lane, Room 17-65
-* Rockville, MD 20857
+Food and Drug Administration
+
+MedWatch (HF-2)
+
+5600 Fishers Lane, Room 17-65
+
+Rockville, MD 20857
 
 1-800-FDA-1088 (Press “0” to speak with a staff member) or 301-827-7240
 
 NOTE: FORM FDA 3500 ONLY
 Go to MedWatch and click on "How to Report".
 
-* Reporting Systems Monitoring Branch
-* Division of Surveillance Systems
-* Office of Surveillance and Biometrics
-* Center for Devices and Radiological Health
-* 10903 New Hampshire Avenue, WO66
-* Silver Spring, MD 20993
+Reporting Systems Monitoring Branch
 
-NOTE: FDA FORMS 3500A, 3417, and 3419 and instructions for each
-Web pages
-Medical Device Reporting (MDR)
-The instructions for the Mandatory MedWatch Form, 3500A.
+Division of Surveillance Systems
+
+Office of Surveillance and Biometrics
+
+Center for Devices and Radiological Health
+
+10903 New Hampshire Avenue, WO66
+
+Silver Spring, MD 20993
+
+NOTE: FDA FORMS 3500A, 3417, and 3419 and instructions.
 
 WHERE TO SUBMIT ALL MANDATORY MDR REPORTS
 
-* Food and Drug Administration
-* Center for Devices and Radiological Health
-* PO Box 3002
-* Rockville, MD 20847-3002
+Food and Drug Administration
 
-NOTE: Envelopes must be specifically identified with the type of report enclosed, e.g., Manufacturer Report, User Facility Report, Baseline Report, Annual Report, Five-Day Report, Supplemental Report, etc.,
+Center for Devices and Radiological Health
+
+PO Box 3002
+
+Rockville, MD 20847-3002
+
+NOTE: Envelopes must be specifically identified with the type of report enclosed, e.g., Manufacturer Report, User Facility Report, Baseline Report, Annual Report, Five-Day Report, Supplemental Report, etc..
