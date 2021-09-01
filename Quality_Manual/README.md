@@ -9,7 +9,7 @@ This document provides a link to each of the Quality Procedures used to operate 
 
 **Quality System Procedures**
 
-| **Document ID**| **Procedure**  | **Template(s)** | **Implementation Status** |
+| **Document ID**| **Procedure**  | **Record-Keeping Template(s)** | **Implementation Status** |
 |----------------|----------------|-----------------|-------------|
 |                |                                             |             |             |
 |[QP-0001 R1](./README.md) (this document)|Quality Manual Update Process|N/A|Approved 9/1/2021|
