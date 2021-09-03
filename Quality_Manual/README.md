@@ -6,7 +6,7 @@ QM-0001|Quality Manual|R 1|9/1/2021|/s/ Ben West
 
 **Quality Manual**
 
-**Approvals:  **	
+**Approvals:**	
 
 Approving Signature|Name|Role|Date
 -------------------|----|----|---
