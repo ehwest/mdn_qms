@@ -1093,6 +1093,7 @@ Requirement|Document ID
 Nonconforming Product (820.90)|QP-0008
 
 Subpart J – Corrective and Preventive Action
+
 Requirement|Document ID
 -----------|----------
 Corrective and Preventive Action (820.100)|QP-0012
@@ -1108,10 +1109,10 @@ Subpart L – Handling, Storage, Distribution, and Installation
 
 Requirement|Document ID
 -----------|----------
-* Handling (820.140)|
-* Storage (820.150)|
-* Distribution (820.160)|
-* Installation (820.170)|
+Handling (820.140)|QP-0016
+Storage (820.150)|QP-0016
+Distribution (820.160)|Run Books
+Installation (820.170)|Run Books
 
 Subpart M – Records
 
@@ -1134,6 +1135,7 @@ Subpart O – Statistical Techniques
 Requirement|Document ID
 -----------|----------
 Statistical Techniques|QP-0013
+
 
 FDA CFR 21 Other Applicable Regulations 
 
