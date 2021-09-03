@@ -941,8 +941,6 @@ Management Commitment/ Responsibility/ Authority/ Internal Communication (5.1/5.
 Provision of resources (6.1/6.2)|QP-0013
 Management review/ Analysis of Data (5.6/8.4) |QP-0013
 
-**ISO 13485:2016  / Documentation and Records Subsystem**
-
 Regulatory Requirement (Source)|QMS Document
 -------------------------------|-----------
 Documentation and Records Subsystem|QP-0003
