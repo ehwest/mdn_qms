@@ -18,11 +18,12 @@ Approving Signature|Name|Role|Date
 
 Medical Data Networks, LLC.,537 Montridge Ct.,Franklin, TN 37067 USA
 
-1. PURPOSE
+1. **PURPOSE**
 
 The purpose of this manual is to provide the foundation for the company’s Quality Management System.  This manual establishes the quality and regulatory policies, defines the authorities and responsibilities of management, and provides general description of all processes comprising the quality system.
 
 The Quality Management System complies with the following domestic and international regulations and standards:
+
 * Code of Federal Regulations (CFR), Title 21, Food and Drug
 * 21 CFR Part 820 – Quality System Regulation
 * ISO 13485 – Medical Devices – Quality Management Systems
@@ -31,7 +32,7 @@ The Quality Management System complies with the following domestic and internati
 * Other regulatory authorities as appropriate
  
 
-2. SCOPE
+2. **SCOPE**
 
 The Quality Management Systems defined in this manual applies to 
 providing "T1Pal"and "CoPilot" cloud-based applications to subscribers, specifically
@@ -44,7 +45,7 @@ including the following activities.
 
 By "cloud based" we mean that subscribers are enabled to receive
 the benefits of certain operating software applications, but do not carry or own any
-part of the servers, and/or databasedevice(s) necessary to deliver features and functions
+part of the servers, and/or database device(s) necessary to deliver features and functions
 of the product.  Subscribers are required to provide their own
 internet (cloud) access arrangements to access the cloud based applications.
 We take the FDA's definition of "software" to mean "device" for the
@@ -66,56 +67,51 @@ The following applicability **exclusions** apply:
 
 * Implantable Medical Devices (ISO Clause 7.5.9.2 & 8.2.6 Partial) – We do not provide or distribute implantable products.
 
-3. TERMS AND DEFINITIONS
+3. **TERMS AND DEFINITIONS**
 
-* Appropriate Management:  CEO, COO, President, Vice Presidents, Directors, Managers, Team Leaders.
+Term|Definition
+---|-----------------
+Appropriate Management|CEO, COO, President, Vice Presidents, Directors, Managers, Team Leaders.
+Continual improvement|Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
+Controlled Document|Any document that affects the quality of the product and is reviewed and approved prior to release for use or reference.
+Corrective Action|A process improvement methodology aimed at identifying and eliminating the causes of known nonconformities and to prevent their recurrence.
+Customer|The recipient of a product or service provided by the organization.
+Design History File (DHF)|A compilation of records that describes the design history of the finished device.
+Device History Record (DHR)|A compilation of records containing the production history of a finished device.
+Device Master Record (DMR)|A compilation of records containing the procedures and specifications for a finished device.
+Management with Executive Responsibility|Those senior employees who have the authority to establish or make changes to the organization’s quality policy and quality system.
+Preventive Action|A process improvement methodology aimed at identifying and eliminating potential causes of nonconformities before they occur.
+Process|A set of interrelated resources and activities that transform inputs into outputs.
+Process Leader|Person with primary process responsibility to document and maintain its procedures, work instructions, and forms; to control records; and to train process users.   Selected by management based upon primary job responsibilities.
+Product|The result of activities or processes.
+Proposal|Offer or quote made by an organization in response to a request for a quote to provide product.
+Quality Policy|Statement by the organization of its intentions and principles in relation to its overall quality performance which provides a framework for action and for setting the organization’s quality objectives and targets.
+Supplier or Vendor|The organization that provides a product or service to an organization.
 
-* Continual improvement:  Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
-
-* Controlled Document:  Any document that affects the quality of the product and is reviewed and approved prior to release for use or reference.
-
-* Corrective Action:  A process improvement methodology aimed at identifying and eliminating the causes of known nonconformities and to prevent their recurrence.
-
-* Customer:  The recipient of a product or service provided by the organization.
-
-* Design History File (DHF):  A compilation of records that describes the design history of the finished device.
-
-* Device History Record (DHR):  A compilation of records containing the production history of a finished device.
-
-* Device Master Record (DMR):  A compilation of records containing the procedures and specifications for a finished device.
-
-* Management with Executive Responsibility:  Those senior employees who have the authority to establish or make changes to the organization’s quality policy and quality system.
-
-* Preventive Action:  A process improvement methodology aimed at identifying and eliminating potential causes of nonconformities before they occur.
-
-* Process:  A set of interrelated resources and activities that transform inputs into outputs.
-
-* Process Leader:  Person with primary process responsibility to document and maintain its procedures, work instructions, and forms; to control records; and to train process users.   Selected by management based upon primary job responsibilities.
-
-* Product:  The result of activities or processes.
-
-* Proposal:  Offer or quote made by an organization in response to a request for a quote to provide product.
-
-* Quality Policy:  Statement by the organization of its intentions and principles in relation to its overall quality performance which provides a framework for action and for setting the organization’s quality objectives and targets.
-
-* Supplier or Vendor:  The organization that provides a product or service to an organization.
-
-4. QUALITY MANAGEMENT SYSTEM
+4. **QUALITY MANAGEMENT SYSTEM**
 
 4.1 General Requirements
 
-The quality systems have been established, documented, implemented, and maintained to ensure the products and services produced meet the quality standards of the organization and are in compliance with relevant regulatory bodies.  Our organization has applied a risk based approach to the control of the appropriate processes needed for the QMS.
+The quality systems have been established, documented, implemented, and maintained to ensure the products and services produced meet the quality standards of the organization and are in compliance with relevant regulatory bodies.  Our organization has applied a risk based approach to the control of the appropriate processes needed for the Quality Management Sytstem (QMS).
 
-The Quality System is defined through a four level hierarchy:
+The Quality Management System is defined through a four level hierarchy:
 
-* **Quality Manual:** First-level document that provides a general overview of the Quality System and defines the Quality Policy.  
+* **Quality Manual:** First-level document that provides a general overview of the Quality System and defines the Quality Policy.  **This document is the Quality Manual.**
 
 * **Quality Policies and Procedures:** Second-level documents that provide more detailed explanation of the Quality System clauses and detail the structure of the Quality System.
 
 * **Standard Operating Procedures and Work Instructions** (sometimes referred to as  "Run Books"): Third-level documents that provide step-by-step instructions on how activities are to be carried out and the requirements of products produced.
 
 * **Forms and Records:** Fourth-level documents or data that contain the information, charts, checklists, or other form of records as evidence to demonstrate conformance to specified requirements and the effective operation of the Quality System.
+Certain folders contain Templates and Records
+used in connection with the Procedures are separate from a definition
+of the procedures.  An appropriately labeled README.md file provides
+a link to individual templates.
+Templates may contain charts, checklists, or other form of records as
+    evidence to demonstrate conformance to specified requirements and
+    the effective operation of the Quality System.
 
+If a particular development project or customer request cannot be fulfilled by the existing procedures, quality plans are created to ensure that the specific requirements are met.  Quality plans are consistent with all other requirements of the Quality System.  Consideration shall be given to the resources or skills required to meet specified requirements whenever there is a significant change to an existing product, process, test, inspection, verification, and measurement.
 	
 The following key processes and interactions define the organizational structure and responsibilities of the Quality Management System.  
 
@@ -141,22 +137,22 @@ The responsibility to develop and effectively implement quality system procedure
 
 The Quality Management System includes:
 
-* Documented Quality Policy and Objectives
+* Quality Manual (this document)
 
-* Quality Manual
+* Documented Quality Policy and Objectives
 
 * Documented procedures and records required by domestic and international regulations
 
 * Documents, including records, determined by the organization as necessary to ensure quality
 
 * Other documentation specified by applicable regulatory requirements
+
 All management affected by the controlled documents are responsible to ensure that their personnel are adequately informed and trained, as necessary, to ensure the proper implementation of the procedures. Procedures and records may be created and/or maintained in the form of paper copy, electronic copy, or in other media as deemed appropriate.
-
-
 
 4.2.2 Quality Manual
 
-The company has established and maintains a Quality Manual that includes:
+The company has established and maintains this document as the Quality Manual. It includes:
+
 * The scope of the quality management system.
 * Description and/or definition of procedures established for the quality management system.
 * A description of the interactions between the processes of the quality management system.
@@ -196,12 +192,11 @@ The company has established and maintains procedures to control all documentatio
 
 It is the responsibility of all personnel to keep records of all work or operations performed in the format prescribed by the various policies and procedures in the quality system.  All records shall contain the date of creation and the person responsible for their creation.  All records shall be made in a permanent and legible manner and changes to a record shall remain identifiable.  Controls necessary for the identification, storage, protection, retrieval, retention time, and disposition of records shall be included within the documented procedure requiring the record.  Methods for protecting confidential health information contained in records shall be defined and implemented. 
 
-Management is responsible for establishing a custodian of all quality records, including internal audits, management reviews, corrective actions, preventive actions, training records, proficiency test results, and other related records.  The record retention time is specified by relevant regulatory requirements or documented procedures, whether hard copy or electronic.  
 
-
-5 MANAGEMENT RESPONSIBILITIES
+5 **MANAGEMENT RESPONSIBILITIES**
 
 5.1 Management Commitment
+Management is responsible for establishing a custodian of all quality records, including internal audits, management reviews, corrective actions, preventive actions, training records, proficiency test results, and other related records.  The record retention time is specified by relevant regulatory requirements or documented procedures, whether hard copy or electronic.  
 
 Management demonstrates its commitment to the development and implementation of the Quality Management System, and its continual improvement, by:
 
@@ -226,7 +221,9 @@ The Quality Policy is established by management with executive responsibility.  
 
 Quality Policy
 
-Example - Every employee accepts responsibility for the quality of our processes and medical devices.  This is achieved by continuously improving designs, implementing efficient procedures, and partnering with suppliers to meet or exceed the expectations of our customers, and satisfy the requirements of our quality system and appropriate regulations.
+**Every employee accepts responsibility for the quality of our processes and medical devices.** 
+
+This is achieved by continuously improving designs, implementing efficient procedures, and partnering with suppliers to meet or exceed the expectations of our customers, and satisfy the requirements of our quality system and appropriate regulations.
 
 5.4 Quality Objectives and Planning
 
@@ -234,7 +231,7 @@ Example - Every employee accepts responsibility for the quality of our processes
 
 The company has identified the following Quality Objectives.  These objectives will be reviewed and updated as necessary to meet company goals.
 
-* Establish and maintain a teamoriented working environment in which each employee accepts responsibility for the development, production, and delivery of high quality goods and services.
+* Establish and maintain a team-oriented working environment in which each employee accepts responsibility for the development, production, and delivery of high quality goods and services.
 
 * Implement and maintain a Quality System compliant with the Quality System Requirements of the United States Food and Drug Administration (FDA), ISO 13485, European Union, and any other applicable regulatory requirements.
 
@@ -313,7 +310,7 @@ The output from management review meetings may include decisions and actions rel
 * Resource requirements and allocation
 
 
-6 RESOURCE MANAGEMENT
+6 **RESOURCE MANAGEMENT**
 
 6.1 Provision of Resources
 
@@ -363,23 +360,12 @@ Where appropriate to ensure quality and compliance with applicable Environmental
 
 As appropriate, the organization has planned and documented arrangements for the control of contamination or potentially contaminated product in order to prevent contamination of the work environment, personnel, or product
 
-7 PRODUCT REALIZATION
+7 **PRODUCT REALIZATION**
 
 7.1 Planning of Product Realization
 
 The quality planning requirements for individual development projects, related processes and supporting documentation are described in the procedures for each process, for example, the design control procedure, supplier qualification procedure and other process procedures.  The company has developed a documented risk management procedure and maintains records of risk management activities.
 
-**Forms and Records:** 
-
-Certain folders contain Templates and Records
-used in connection with the Procedures are separate from a definition
-of the procedures.  An appropriately labeled README.md file provides
-a link to individual templates.
-Templates may contain charts, checklists, or other form of records as
-    evidence to demonstrate conformance to specified requirements and
-    the effective operation of the Quality System.
-
-If a particular development project or customer request cannot be fulfilled by the existing procedures, quality plans are created to ensure that the specific requirements are met.  Quality plans are consistent with all other requirements of the Quality System.  Consideration shall be given to the resources or skills required to meet specified requirements whenever there is a significant change to an existing product, process, test, inspection, verification, and measurement.
 
 The quality planning process, when initiated, shall provide for the following:
 
@@ -428,6 +414,7 @@ Records of contracts, contract reviews, proposals and contract amendments are ma
 7.2.3 Customer Communication
 
 The company plans and documents effective arrangements for communicating with customers in relation to:
+
 * Product information
 * Inquiries, contracts, and order handling, including amendments
 * Customer feedback, including customer complaints, and customer satisfaction
@@ -491,6 +478,7 @@ Design outputs are provided in a form suitable for verification against design i
 7.3.5 Design and Development Review
 
 The design control procedure requires that systematic design and development reviews be conducted to:
+
 * Evaluate the ability of the design to meet the requirements
 * Provide for a review by participants representing concerned functions as well as other specialized personnel
 * Identify any deficiencies and propose necessary actions 
@@ -528,10 +516,9 @@ Management demonstrates its commitment to the development and
 implementation of the Quality Management System, and its continual
 improvement, by:
 
--   Communicating to the organization the importance of complying with
-    customer, regulatory, and statutory requirements as applicable
+* Communicating to the organization the importance of complying with customer, regulatory, and statutory requirements as applicable
 
-Records of the results and conclusions of design verification and any necessary actions are maintained.
+* Creating records of the results and conclusions of design verification and any necessary actions.
 
 7.3.7 Design and Development Validation
 
@@ -555,12 +542,14 @@ reviewed periodically for continued effectiveness.
 
 **Quality Policy**
 
-Every employee and contractor accepts responsibility for the quality
-of our processes and medical devices. This is achieved by continuously
+--Every employee and contractor accepts responsibility for the quality
+of our processes and medical devices.--
+
+--This is achieved by continuously
 improving designs, implementing efficient procedures, and partnering
 with suppliers to meet or exceed the expectations of our customers,
 and satisfy the requirements of our quality system and appropriate
-regulations.
+regulations.--
 
 7.3.8 Design and Development Transfer
 
@@ -716,6 +705,7 @@ requirements
 7.5.6 Validation of Processes for Production and Service Provision
 
 The company validates processes for production and service provision where the resulting output cannot be or is not verified by subsequent monitoring or measurement.  This includes any processes where, as a consequence, deficiencies become apparent only after the product is in use or the service has been delivered.  Validation demonstrates the ability of these processes to achieve planned results consistently.  Validation procedures are documented and include, where applicable:
+
 * Defined criteria for review and approval of the processes
 * Equipment qualification and qualification of personnel
 * Use of specific methods, procedures, and acceptance criteria
@@ -723,6 +713,7 @@ The company validates processes for production and service provision where the r
 * Requirement for records and revalidation, including criteria for revalidation
 * Software that may affect conformance to requirements
 * Records of validation shall be maintained
+
 The company documents procedures for the validation of the application of computer software sued in production and service provision. Such software applications are validated prior to initial use and, as appropriate, after changes to such software or its application.  The specific approach and activities associated with software validation and revalidation are proportionate to the risk associated with the use of the software, including the effect on the ability of the product to conform to specifications.
 Records of the results and conclusions of validation and necessary actions from the validation are maintained.
 
@@ -771,6 +762,7 @@ The company has established documented procedures for preserving the conformity 
 All monitoring and measurement equipment, comparative references (such as gauges and templates), and test equipment used in the inspection of product, validation of the product, or the validation of production processes are calibrated and maintained within the Calibration Program.  Instruments used for purposes other than product inspections or control of production processes are exempted from the Calibration Program.  Calibration and verification is completed in accordance with documented procedures.
 
 As necessary to ensure valid results, measuring equipment is:
+
 * Calibrated or verified, or both, at specified intervals, or prior to use, against measurement standards traceable to international or national measurement standards.  When no such standard exists, the basis used for calibration or verification shall be recorded.
 * Adjusted or re-adjusted as necessary.  Such adjustments or re-adjustments shall be recorded.
 * Identified in order to determine it calibration status
@@ -781,11 +773,12 @@ In addition, we assess and record the validity of past measurement results when 
 
 The company has documented procedures for the validation of the application of computer software used for the monitoring and measurement of requirements.  Such software application shall be validated prior to initial use and, as appropriate, after changes to such software or its application.  The specific approach and activities associated with software validation and revalidation shall be proportionate to the risk associated with the use of the software, including the effect on the ability of the product to conform to specifications. Records of the results and conclusion of validation and necessary actions from the validation shall be maintained.
 
-8 MEASUREMENT, ANALYSIS, AND IMPROVEMENT
+8 **MEASUREMENT, ANALYSIS, AND IMPROVEMENT**
 
 8.1 General
 
 The company plans and implements the monitoring, measurement, analysis, and improvement processes needed to:
+
 * Demonstrate conformity of the product
 * Ensure conformity of the Quality Management System
 * Maintain and continually improve the effectiveness of the product
@@ -870,6 +863,7 @@ The evaluation of nonconformity includes a determination of the need for an inve
 8.3.2 Actions in Response to Nonconforming Product Detected before Delivery
 
 The company manages nonconforming product by one or more of the following ways:
+
 * Taking action to eliminate the detected nonconformity
 * Taking action to preclude its original intended use or application
 * Authorizing it use, release, or acceptance under concession
@@ -901,7 +895,8 @@ The company will identify and implement any changes necessary to ensure and main
 8.5.2 Corrective Actions
 
 The company has established and maintains documented procedures to implement corrective actions to eliminate the cause of nonconformities in order to prevent recurrence.  Any necessary corrective actions shall be taken without undue delay.  Corrective actions shall be proportionate to the effects of the nonconformities encountered.  
-* Reviewing nonconformities (including complaints)
+
+* Reviewing non-conformities (including complaints)
 * Determining the cause of nonconformities
 * Evaluating the need for action to ensure that nonconformities do not recur
 * Planning and documenting action needed and implementing such action, including, as appropriate, updating documentation
@@ -922,21 +917,21 @@ The company has established and maintains documented procedures to implement pre
 Records of the results of any investigations and of actions taken are maintained.
 
 
-9. REVISION HISTORY
+9. **REVISION HISTORY**
 
 REV #|Doc ID|Effective Date|Description of Change
 -----|------|--------------|---------------------
 01   | Quality Manual| 12/17/2014|Initial Release of the Quality Manual
 
 
-10. APPENDIX: REGULATORY REQUIREMENT REFERENCE
+10. **APPENDIX: REGULATORY REQUIREMENT REFERENCE**
 
 
 **ISO 13485:2016  / Management Subsystem**
 
 Regulatory Requirement (Source)|QMS Document
 -------------------------------|-----------
-Quality Management System/ Quality Manual/ Quality Policy (4.1/4.2/5.3)|Quality Manual
+Quality Management System/ Quality Manual / Quality Policy (4.1/4.2/5.3)|Quality Manual
 Organizational Roles (4.1.1) * Quality Planning (5.4) |Quality Manual
 Customer Focus/ Customer Satisfaction (5.2)|Quality Manual
 Management Commitment/ Responsibility/ Authority/ Internal Communication (5.1/5.5)|Quality Manual
@@ -984,27 +979,27 @@ Design and Development Files (7.3.10)|QP-0002
 
 Production & Process Controls Subsystem|QMS Document
 -------------------------------|-----------
-Process to control nonconforming products (8.3)|
-MRB- review, investigation and disposition of nonconforming products (8.3/8.5.2).|
-Nonconforming products in distribution- internal company vs. customer controlled (8.3/8.5.2)|
-Receiving Inspection (7.4.3, 8.3)|
-Requirements for products and materials|
-Acceptance activities, status and records|
-Handling of materials (6.3, 7.5.11)|
-Warehousing (6.3/ 6.4)|
-Control of production (7.5.1)|
-Product/ material identification and traceability (7.5.8)|
-Process control and monitoring (7.5)|
-monitoring and control of process parameters (8.2.5)|
-approval of processes and process equipment (7.5.6):|
-Handling of products (7.5.11) |
-In-process and finished device testing/acceptance status (7.5.8/ 8.2.6)|
-Labeling and packaging operations (7.5.1)|
-Device History Records- review (4.2.4)|
-Handling of customer property (7.5.10) |
-Calibration System- monitoring and measuring equipment (7.6)|
-Preventive Maintenance program (6.3)|
-Equipment qualification/ validation and process validation incl. software validation (7.5.6)|
+Process to control nonconforming products (8.3)|QP-0008
+MRB- review, investigation and disposition of nonconforming products (8.3/8.5.2).|QP-0008
+Nonconforming products in distribution- internal company vs. customer controlled (8.3/8.5.2)|QP-0008
+Receiving Inspection (7.4.3, 8.3)|QP-0005
+Requirements for products and materials|QP-QP-0005
+Acceptance activities, status and records|QP-0005
+Handling of materials (6.3, 7.5.11)|QP-0016
+Warehousing (6.3/ 6.4)|QP-0022
+Control of production (7.5.1)|"Run Books"
+Product/ material identification and traceability (7.5.8)|QP-0007
+Process control and monitoring (7.5)|QP-0013
+monitoring and control of process parameters (8.2.5)|QP-0013
+approval of processes and process equipment (7.5.6):|QP-00133
+Handling of products (7.5.11) |QP-0016
+In-process and finished device testing/acceptance status (7.5.8/ 8.2.6)|"Run Books"
+Labeling and packaging operations (7.5.1)|QP-0006
+Device History Records- review (4.2.4)|QP-0007
+Handling of customer property (7.5.10) |QP-0019
+Calibration System- monitoring and measuring equipment (7.6)|QP-0004
+Preventive Maintenance program (6.3)|QP-0014
+Equipment qualification/ validation and process validation incl. software validation (7.5.6)|QP-0026
 
 Outsourcing / Planning of Product Realization|QMS Document
 -------------------------------|-----------
@@ -1196,7 +1191,7 @@ Safety and Effectiveness Requirements|QP-0002
 Labeling Requirements|QP-0006
 
 
-11. APPENDIX: Quality System Quick Access Facility 
+11. **APPENDIX: Quality System Quick Access Facility **
 
 This appendix provides a link to each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
 
