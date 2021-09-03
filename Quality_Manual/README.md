@@ -2,19 +2,19 @@ Document Number|Title|Revision|Effective|Owner
 ---------------|-------------------------------------|---|----|-----
 QM-0001|Quality Manual|R 1|9/1/2021|/s/ Ben West
 
-*Medical Data Networks, LLC.*
+**Medical Data Networks, LLC.**
 
-*Quality Manual*
+**Quality Manual**
 
-Approvals:		
+**Approvals:  **	
 
 Approving Signature|Name|Role|Date
--------------------|----|---
-/s/ Ben West|CEO|Ben West|9/1/2021
-/s/ Earle West|CQO|Earle West|9/1/2021
+-------------------|----|----|---
+/s/ Ben West       |Ben West|CEO|9/1/2021
+/s/ Earle West     |Earle West|CQO|9/1/2021
 
 
-*Applicable Facility:*
+**Applicable Facility:**
 
 Medical Data Networks, LLC.,537 Montridge Ct.,Franklin, TN 37067 USA
 
