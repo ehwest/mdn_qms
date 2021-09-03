@@ -33,18 +33,24 @@ The Quality Management System complies with the following domestic and internati
 
 2. SCOPE
 
-The Quality Management Systems defined in this manual applies to the following activities:
+The Quality Management Systems defined in this manual applies to 
+providing "T1Pal"and CoPilot cloud-based applications to subscribers, specifically
+including the following activities.
 
-[Enter the Scope of your organization:  Design, Development, Manufacturing, Distribution, of Product Type]
+* Product Design
+* Product Development 
+* Network Operations
+* Customer Care
 
+By "cloud based" we mean that subscribers are enabled to receive
+the benefits of certain applications, but do not carry or own any
+part of the device(s) necessary to deliver features and functions
+of the product.  Subscribers are required to provide their own
+internet (cloud) access arrangements to access the cloud based applications.
 
 This Quality Manual applies to the following facility:
 
-Medical Data Networks, LLC
-
-537 Montridge Ct.,
-
-Franklin, TN  37067
+Medical Data Networks, LLC.,  537 Montridge Ct., Franklin, TN  37067
 
 The company has undertaken the following roles:
 
