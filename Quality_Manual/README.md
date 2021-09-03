@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Document Number|Title|Revision|Effective|Owner
 ---------------|-------------------------------------|---|----|-----
 QM-0001|Quality Manual|R 1|9/1/2021|/s/ Ben West
