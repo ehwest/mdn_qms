@@ -119,6 +119,8 @@ The Quality System is defined through a four level hierarchy:
 	
 The following key processes and interactions define the organizational structure and responsibilities of the Quality Management System.  
 
+![Organization Chart](./media/OrganizationChart.png)
+
 These quality system processes are managed in accordance with the requirements of ISO 13485 and applicable regulatory requirements.  Changes to be made to these processes shall be:
 
 * Evaluated for their impact on the quality management system
