@@ -930,7 +930,8 @@ REV #|Doc ID|Effective Date|Description of Change
 10. APPENDIX: REGULATORY REQUIREMENT REFERENCE
 
 
-ISO 13485:2016  / Management Subsystem|
+**ISO 13485:2016  / Management Subsystem**
+
 Regulatory Requirement (Source)|QMS Document
 -------------------------------|-----------
 Quality Management System/ Quality Manual/ Quality Policy (4.1/4.2/5.3)|Quality Manual
@@ -940,7 +941,7 @@ Management Commitment/ Responsibility/ Authority/ Internal Communication (5.1/5.
 Provision of resources (6.1/6.2)|QP-0013
 Management review/ Analysis of Data (5.6/8.4) |QP-0013
 
-ISO 13485:2016  / Documentation and Records Subsystem
+**ISO 13485:2016  / Documentation and Records Subsystem**
 
 Regulatory Requirement (Source)|QMS Document
 -------------------------------|-----------
@@ -1027,7 +1028,7 @@ Internal Audits & Improvement|QMS Document
 Audit program incl. ISO 13485, CMDR, MDR, other requirements (8.2.4) |QP-0015
 Process, documentation, linkage to CAPA (8.2.4/8.5.2)|QP-0015
 
-FDA CFR 21 Part 820 – Quality System Regulation
+**FDA CFR 21 Part 820 – Quality System Regulation**
 
 Subpart A – General Provisions
 
@@ -1136,7 +1137,7 @@ Requirement|Document ID
 Statistical Techniques|QP-0013
 
 
-FDA CFR 21 Other Applicable Regulations 
+**FDA CFR 21 Other Applicable Regulations **
 
 Part 11 – Electronic Records; Electronic Signatures
 
