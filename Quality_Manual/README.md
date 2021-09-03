@@ -930,8 +930,7 @@ REV #|Doc ID|Effective Date|Description of Change
 10. APPENDIX: REGULATORY REQUIREMENT REFERENCE
 
 
-ISO 13485:2016  / Management Subsystem
-
+ISO 13485:2016  / Management Subsystem|
 Regulatory Requirement (Source)|QMS Document
 -------------------------------|-----------
 Quality Management System/ Quality Manual/ Quality Policy (4.1/4.2/5.3)|Quality Manual
