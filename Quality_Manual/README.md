@@ -1191,7 +1191,7 @@ Safety and Effectiveness Requirements|QP-0002
 Labeling Requirements|QP-0006
 
 
-11. **APPENDIX: Quality System Quick Access Facility **
+11. **APPENDIX: Quality System Quick Access Facility**
 
 This appendix provides a link to each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
 
