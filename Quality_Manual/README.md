@@ -412,16 +412,14 @@ This document provides a link to each of the Quality Procedures used to operate 
 The Quality System is defined by a stated policies that
 links to a specific collection of folders and files
 for procedures, templates, and records.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 7 PRODUCT REALIZATION
 
 7.1 Planning of Product Realization
 
-<<<<<<< HEAD
 The quality planning requirements for individual development projects, related processes and supporting documentation are described in the procedures for each process, for example, the design control procedure, supplier qualification procedure and other process procedures.  The company has developed a documented risk management procedure and maintains records of risk management activities.
-=======
--   **Forms and Records:** 
+
+**Forms and Records:** 
 
 Certain folders contain Templates and Records
 used in connection with the Procedures are separate from a definition
@@ -430,7 +428,6 @@ a link to individual templates.
 Templates may contain charts, checklists, or other form of records as
     evidence to demonstrate conformance to specified requirements and
     the effective operation of the Quality System.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 If a particular development project or customer request cannot be fulfilled by the existing procedures, quality plans are created to ensure that the specific requirements are met.  Quality plans are consistent with all other requirements of the Quality System.  Consideration shall be given to the resources or skills required to meet specified requirements whenever there is a significant change to an existing product, process, test, inspection, verification, and measurement.
 
@@ -470,24 +467,15 @@ Contracts, including purchase orders, are reviewed to ensure customer requiremen
 
 Amendments to a contract or customer’s specification are handled and correctly transferred to the concerned functions within the company and confirmed with the customer.
 
-<<<<<<< HEAD
-When the customer provides no documented statement of requirements, the customer requirements are confirmed by management prior to acceptance.
-=======
 All management affected by the controlled documents are responsible to
 ensure that their personnel are adequately informed and trained, as
 necessary, to ensure the proper implementation of the procedures.
 Procedures and records may be created and/or maintained in the form of
 paper copy, electronic copy, or in other media as deemed appropriate.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 Records of contracts, contract reviews, proposals and contract amendments are maintained in the customer file.
 
-<<<<<<< HEAD
 7.2.3 Customer Communication
-=======
-The company has established and maintains a Quality Manual that
-includes:
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 The company plans and documents effective arrangements for communicating with customers in relation to:
 * Product information
@@ -502,15 +490,13 @@ We have documented procedures for communicating with regulatory authorities in a
 
 The company has documented and implemented procedures for the control of design and development.
 
-<<<<<<< HEAD
 7.3.2 Design and Development Planning
-=======
+
 For each medical device type or medical device family, we have
 established and maintained one or more files containing or referencing
 documents generated to demonstrate conformity to the requirement of
 ISO 13485 and applicable regulatory requirements. The content of the
 file(s) includes:
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 Documented procedures shall be used to control and verify the development of new products to ensure that the specified requirements are met.  The development process is executed in several phases.  
 
@@ -529,14 +515,11 @@ Design and development activities are planned the following items are documented
 
 7.3.3 Design and Development Inputs
 
-<<<<<<< HEAD
 Design input requirements relating to the product are identified, documented, and reviewed for adequacy.  Design input requirements include:
-=======
 The company has established and maintains procedures to control all
 documentation and data related to the requirements of the applicable
 regulatory standards, including external documents, such as standard
 and electronic media. These procedures define the controls for:
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 * Functional, performance, usability, and safety requirements, according to its intended use
 * Applicable statutory and regulatory requirements and standards
@@ -564,9 +547,7 @@ The design control procedure requires that systematic design and development rev
 
 Participants in these reviews include representative from relevant functional areas and specialist personnel, concerned with the design stage being reviewed.
 
-<<<<<<< HEAD
 Records of the results of design reviews and any necessary actions are maintained and include the identification of the design under review, the participants involved and the date of the review.
-=======
 It is the responsibility of all personnel to keep records of all work
 or operations performed in the format prescribed by the various
 policies and procedures in the quality system. All records shall
@@ -585,24 +566,20 @@ actions, preventive actions, training records, proficiency test
 results, and other related records. The record retention time is
 specified by relevant regulatory requirements or documented
  procedures, whether hard copy or electronic.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 7.3.6 Design and Development Verification
 
 Design and development verification is performed in accordance with planned and documented arrangements to ensure that design outputs comply with design input requirements.
-
-<<<<<<< HEAD
 The company documents verification plans that include methods, acceptance criteria and, as appropriate, statistical techniques with rational for sample size.
 
 If the intended use requires that the medical device be connected to, or have an interface with, other medical device(s), verification shall include confirmation that the design outputs meet design inputs when so connected or interfaced.
-=======
+
 Management demonstrates its commitment to the development and
 implementation of the Quality Management System, and its continual
 improvement, by:
 
 -   Communicating to the organization the importance of complying with
     customer, regulatory, and statutory requirements as applicable
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 Records of the results and conclusions of design verification and any necessary actions are maintained.
 
@@ -614,21 +591,11 @@ The company documents validation plans that include methods, acceptance criteria
 
 As part of design and development validation, the organization shall perform clinical evaluation or performance evaluations of the medical device in accordance with applicable regulatory requirements.  A medical used for clinical evaluation or performance evaluation is not considered to be released for use to the customer.
 
-<<<<<<< HEAD
 If the intended use requirement that the medical device be connected to, or have an interface with, other medical device(s), validation shall include confirmation that the requirements for the specified application or intended use have been met when so connected or interfaced.
-=======
-Company Management ensures that customer requirements and applicable
-regulatory requirements (needs and expectations) are understood and
-are met with the aim of enhancing customer satisfaction. These are
-generally established within product requirements and specifications
-and within quality management system documentation.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 Validation will be performed prior to the release for use of the product to the customer
 
-<<<<<<< HEAD
 Records of the results and conclusions of design validation and any necessary actions are maintained.
-=======
 The Quality Policy is established by management with executive
 responsibility. The company quality policy is stated below and is
 communicated throughout the organization to ensure commitment to
@@ -644,13 +611,11 @@ improving designs, implementing efficient procedures, and partnering
 with suppliers to meet or exceed the expectations of our customers,
 and satisfy the requirements of our quality system and appropriate
 regulations.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 7.3.8 Design and Development Transfer
 
 Design transfer is performed in accordance with planned and documented arrangements to ensure the transfer of design and development outputs to manufacturing.  These procedures ensure that design and development outputs are verified as suitable for manufacturing before becoming final production specification and that production capability can meet production requirements.
 
-<<<<<<< HEAD
 Records and conclusions of the results of design validation and any necessary actions are maintained.
 
 7.3.9 Control of Design and Development Changes
@@ -660,7 +625,7 @@ Design changes and modifications are identified, documented, reviewed, and appro
 Design and development changes are identified and before implementation, the changes are reviewed, verified, validated (as appropriate), approved.
 
 The review of design and development changes shall include evaluation of the effect of the changes on constituent parts and product in process or already delivered, inputs or outputs of risk management, and product realization processes.
-=======
+
 The company has identified the following Quality Objectives. These
 objectives will be reviewed and updated as necessary to meet company
 goals.
@@ -682,52 +647,21 @@ goals.
     business and utilize the data to effectively manage and drive
     improvement with emphasis on Customers, Products, Services, and
     Stakeholders.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
-Records of the results of the review of design changes and any necessary actions are maintained.
-
-<<<<<<< HEAD
 7.3.10 Design and Development Files
-=======
-Management ensures that the planning of the Quality Management System
-is implemented by appropriate management and carried out by all
-employees in order to meet the requirements provided in this manual.
-Management also ensures the integrity of the Quality Management System
-is maintained when changes to the Quality Management System are
-planned and implemented.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 The company maintains a design and development file for each medical device type or medical device family.  This file includes or references records generated to demonstrate conformity to the requirements for design and development and records for design and development changes.
 
 7.4 Purchasing
 
-<<<<<<< HEAD
 7.4.1 Purchasing Process
-=======
-Management has defined and documented the responsibility, authority,
-and interrelation of personnel who manage, perform, and verify work
-within the Quality Management System. These responsibilities are
-documented in official job descriptions, which define the tasks
-performed by employees, and an organization chart depicting the
-interrelation of all employees.
-
-All employees accept responsibility for the maintenance and
-improvement of the Quality Management System. This is achieved by
-understanding and supporting the Quality Policy and the appropriate
-clauses of the quality system for their areas of work; dedicating
-efforts to the continuous improvement, understanding how their
-activities impact quality, elimination and prevention of quality
-deficiencies; and initiating action to prevent the occurrence of
-nonconformities related to product and processes.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 The company has established and maintains procedures to ensure that purchased products or services conform to specified information.  We establish criteria for the evaluation and selection of suppliers based upon the performance of the supplier, the effect of the purchased product on the quality of the medical device, and risk associated with the medical device.
 
-<<<<<<< HEAD
 The company plans the monitoring and re-evaluation of supplier.  Supplier performance in meeting requirements for the purchased product is monitored.  The results of the monitoring provide an input into the supplier re-evaluation process.
 
 Non-fulfillment of purchasing requirements shall be addressed with the supplier proportionate to the risk associated with the purchased product and compliance with applicable regulatory requirements.  Supplier performance is monitored, and actions are taken as necessary to address any failure to meet specified requirements.  These actions may include disqualification of the supplier.
-=======
+
 The Management Representative has been appointed my management with
 executive responsibility and is responsible and fully authorized to
 manage the Quality Management System and related matters on an ongoing
@@ -737,7 +671,6 @@ include the following:
 -   Ensures that the Quality Management System is established,
 implemented, and maintained in accordance with applicable
 regulatory requirements.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 Recorded of the results of evaluation, selection, monitoring, re-evaluation of supplier capability or performance and any necessary actions arising from these activities is maintained.
 
@@ -751,17 +684,14 @@ Purchasing documents clearly and completely describe or reference ordered produc
 * Quality Management System requirements
 
 Purchasing reviews and approves all purchasing data for adequacy and completeness prior to communication to suppliers.  
-
-<<<<<<< HEAD
 Purchasing information includes, as applicable, a written agreement that the supplier notify us of changes in the purchased product prior to implementation of any changes that affect the ability of the purchased product to meet specified purchase requirements
-=======
+
 The Management Representative has the responsibility to work with
 other departments to ensure that adequate internal communication
 exists concerning the effectiveness and implementation of the Quality
 Management System.
 
 Methods for internal communication include:
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 Where required for traceability purposes, purchasing information is maintained.
 
@@ -775,27 +705,11 @@ When verification of purchased product is required at the supplier’s premises 
 
 Records of purchased product verification are maintained.
 
-<<<<<<< HEAD
 7.5 Production and Service Provision
-=======
-Management acknowledges responsibility for the quality systems and
-reviews the systems to ensure continuous suitability and effectiveness
-in relation to domestic and international regulatory requirement, this
-Quality Manual, and company objectives. Management representing each
-key functional area participates in this review that includes
-assessing opportunities for improvement and the need to change the
-Quality Management System, including the Quality Policy and
-Objectives. Records of management reviews are maintained.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 7.5.1 Control of Production and Service Provision
 
-<<<<<<< HEAD
 Production and service provision is planned, carried out, monitored, and controlled to ensure that product conforms to specification.  As appropriate, product control include but are not limited to:
-=======
-The activities reviewed during management reviews may include, but are
-not limited to:
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 * Documentation of procedures and methods for the control of production
 * Qualification of infrastructure
@@ -829,7 +743,6 @@ All records of installation activities and verification of installation performe
 
 If servicing activities are a specified requirement, the company documents servicing procedures, reference materials, and reference measurements, as necessary, for performing servicing activities and verifying that product requirement are met.
 
-<<<<<<< HEAD
 The company analyses records of servicing activities carried out by us or our suppliers to determine if the information is to be handled as a complaint and/or as appropriate, for input to the corrective and preventative action process.
 
 All records of servicing activities performed by us or our suppliers are maintained.
@@ -837,7 +750,7 @@ All records of servicing activities performed by us or our suppliers are maintai
 7.5.5 Particular Requirements for Sterile Medical devices
 
 All records of sterilization process parameters used for each sterilization batch are maintained and traceable to each production batch of medical devices.
-=======
+
 The output from management review meetings may include decisions and
 actions relating to:
 
@@ -849,7 +762,6 @@ environment, and other processes
 
 -   Changes needed to respond to applicable new or revised regulatory
 requirements
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 7.5.6 Validation of Processes for Production and Service Provision
 
@@ -866,19 +778,9 @@ Records of the results and conclusions of validation and necessary actions from 
 
 7.5.7 Particular Requirements for Validation of Processes for Sterilization and Sterile Barrier Systems
 
-<<<<<<< HEAD
 The company documents procedures for the validation of processes for sterilization and sterile barrier systems.  Processes for sterilization and sterile barriers systems are validated prior to implementation and following product or process changes, as appropriate.
 
 Records of the results and conclusion of validation and necessary actions from the validation are maintained.
-=======
-Management has the responsibility and authority to ensure there are
-adequate resources to support the Quality System throughout their
-functional areas of responsibility. Each member of management is to
-provide adequate resources to:
-
--   Implement and maintain the Quality Management System and continually
-improve its effectiveness
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 7.5.8 Identification
 
@@ -888,7 +790,6 @@ If required by applicable regulatory requirements, we shall document a system to
 
 7.5.9 Traceability
 
-<<<<<<< HEAD
 7.5.9.1 General
 
 Documented procedures define procedures for traceability.  These procedures define the extent of traceability in accordance with applicable regulatory requirements and the records are maintained.
@@ -902,45 +803,16 @@ The company requires that suppliers of distribution services or distributors mai
 Records of the name and address of the shipping package consignee are maintained.
  
 7.5.10 Customer Property
-=======
-Resource and training requirement are identified and addressed on a
-regular basis in order to support the growth and changing needs of the
-company. For each job function, management provides sufficient
-personnel with appropriate background, education, and experience.
-
-The company has established and maintains documented procedures for
-establishing competence, providing needed training, and ensuring
-awareness of personnel. These procedures include:
-
--   Determining the necessary competence of personnel performing work
-affecting quality
-
--   Providing training or other actions to achieve or maintain the
-necessary competence
-
--   Evaluation of the effectiveness of the training and other actions
-taken. The methodology for effectiveness check is proportionate to
-the risk associated
-
--   Ensuring that personnel are aware of the importance of their
-activities and how they contribute to the achievement of quality
-objectives
-
--   Maintaining appropriate records of education, training, skills, and
-experience.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 The company has established documented procedures for preventing damage or deterioration to customer supplied materials through identification, handling, storage, packaging, preservation and delivery.  If any customer property is lost, damaged or otherwise found to be unsuitable for use, we shall report this to the customer and maintain records.
 
-<<<<<<< HEAD
 7.5.11 Preservation of Product
-=======
+
 Management maintains responsibility for infrastructure needed to
 produce quality products and services and documented the requirements
 for the work environment needed to achieve conformity to product
 requirements, prevent product mix-up, and ensure orderly handling
 product. Infrastructure includes:
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 The company has established documented procedures for preserving the conformity of product to requirements during processing, storage, handling, and distribution.  Preservation shall apply to the constituent parts of a medical device.  We protect product from alteration, contamination, or damage when exposed to expected conditions and hazards during processing, storage, handling, and distribution by designing and constructing suitable packaging and shipping containers and documenting requirements for special conditions needed if packaging alone cannot provide preservation.  If special conditions are required, they shall be controlled and recorded.  
 
@@ -948,29 +820,17 @@ The company has established documented procedures for preserving the conformity 
 
 All monitoring and measurement equipment, comparative references (such as gauges and templates), and test equipment used in the inspection of product, validation of the product, or the validation of production processes are calibrated and maintained within the Calibration Program.  Instruments used for purposes other than product inspections or control of production processes are exempted from the Calibration Program.  Calibration and verification is completed in accordance with documented procedures.
 
-<<<<<<< HEAD
 As necessary to ensure valid results, measuring equipment is:
 * Calibrated or verified, or both, at specified intervals, or prior to use, against measurement standards traceable to international or national measurement standards.  When no such standard exists, the basis used for calibration or verification shall be recorded.
 * Adjusted or re-adjusted as necessary.  Such adjustments or re-adjustments shall be recorded.
 * Identified in order to determine it calibration status
 * Safeguarded from adjustments that would invalidate the measurement result
 * Protected from damage and deterioration during handling, maintenance, and storage.
-=======
-This infrastructure is reviewed and adjusted as needed to achieve
-company objectives. A documented procedure shall be established for
-any infrastructure maintenance activities, including interval of
-performing the maintenance activities when required, necessary to
-maintain quality and records of such activities shall be maintained.
-As appropriate, the requirements shall apply to equipment used in
-production the control of work environment, and monitoring and
-measurement.
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 In addition, we assess and record the validity of past measurement results when equipment is found not to conform to requirements and take appropriate actions in regard to the equipment and any product affected.  Records of calibration and verification activities are maintained.
 
 The company has documented procedures for the validation of the application of computer software used for the monitoring and measurement of requirements.  Such software application shall be validated prior to initial use and, as appropriate, after changes to such software or its application.  The specific approach and activities associated with software validation and revalidation shall be proportionate to the risk associated with the use of the software, including the effect on the ability of the product to conform to specifications. Records of the results and conclusion of validation and necessary actions from the validation shall be maintained.
 
-<<<<<<< HEAD
 8 MEASUREMENT, ANALYSIS, AND IMPROVEMENT
 
 8.1 General
@@ -982,63 +842,15 @@ The company plans and implements the monitoring, measurement, analysis, and impr
 * Maintain and continually improve the effectiveness of the QMS
 
 8.2 Monitoring and Measuring
-=======
-The company maintains responsibility and has documented the
-requirements for the work environment to assure its suitability for
-achieving conformity to product requirements.
-
-Where appropriate to ensure quality and compliance with applicable
-Environmental, Health, and Safety (EHS) requirements, the company has
-established:
-
--   Documented requirements for health, cleanliness and clothing of
-personnel if contact between such personnel and the product or
-work environment could affect medical device safety or performance
-
--   Documented requirements for environmental conditions and
-instructions for monitoring and controlling these conditions
-
--   Training for personnel working temporarily under special
-environmental conditions
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 8.2.1 Feedback
 
-<<<<<<< HEAD
 As one of the measurements of the effectiveness of the quality management system, the company gathers and monitors information relating to whether the organization has met customer requirements.  The methods for obtaining and using this information are documented.  This feedback process includes provisions to gather data from production as well as post-production activities.
-=======
-As appropriate, the organization has planned and documented
-arrangements for the control of contamination or potentially
-contaminated product in order to prevent contamination of the work
-environment, personnel, or product
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 The information gathered in the feedback process serves as potential input into risk management for monitoring and maintaining the product requirements as well as the product realization or improvement processes.
 
 If applicable regulatory requirements require us to gain specific experience from post-production activities, the review of this experience shall form part of the feedback process.
 
-<<<<<<< HEAD
-8.2.2 Complaint Handling
-=======
-The quality planning requirements for individual development projects,
-related processes and supporting documentation are described in the
-procedures for each process, for example, the design control
-procedure, supplier qualification procedure and other process
-procedures. The company has developed a documented risk management
-procedure and maintains records of risk management activities.
-
-If a particular development project or customer request cannot be
-fulfilled by the existing procedures, quality plans are created to
-ensure that the specific requirements are met. Quality plans are
-consistent with all other requirements of the Quality System.
-Consideration shall be given to the resources or skills required to
-meet specified requirements whenever there is a significant change to
-an existing product, process, test, inspection, verification, and
-measurement.
-
-The quality planning process, when initiated, shall provide for the
-following:
->>>>>>> 8305d5175c68d5f4ebfc382a5bfebd8dd0b5776f
 
 The company has implemented documented procedures for timely complaint handling in accordance with applicable regulatory requirements.
 
@@ -1338,6 +1150,7 @@ Requirement|Document ID
 Corrective and Preventive Action (820.100)|QP-0012
 
 Subpart K – Labeling and Packaging Control
+
 Requirement|Document ID
 -----------|----------
 Device Labeling (820.120)|QP-0006
@@ -1347,10 +1160,10 @@ Subpart L – Handling, Storage, Distribution, and Installation
 
 Requirement|Document ID
 -----------|----------
-* Handling (820.140)
-* Storage (820.150)
-* Distribution (820.160)
-* Installation (820.170)
+* Handling (820.140)|
+* Storage (820.150)|
+* Distribution (820.160)|
+* Installation (820.170)|
 
 Subpart M – Records
 
