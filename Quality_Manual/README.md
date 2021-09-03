@@ -108,18 +108,16 @@ The quality systems have been established, documented, implemented, and maintain
 
 The Quality System is defined through a four level hierarchy:
 
-* Quality Manual: First-level document that provides a general overview of the Quality System and defines the Quality Policy.  
+* **Quality Manual:** First-level document that provides a general overview of the Quality System and defines the Quality Policy.  
 
-* Quality Policies and Procedures: Second-level documents that provide more detailed explanation of the Quality System clauses and detail the structure of the Quality System.
+* **Quality Policies and Procedures:** Second-level documents that provide more detailed explanation of the Quality System clauses and detail the structure of the Quality System.
 
-* Standard Operating Procedures and Work Instructions (sometimes referred to as  "Run Books"): Third-level documents that provide step-by-step instructions on how activities are to be carried out and the requirements of products produced.
+* **Standard Operating Procedures and Work Instructions** (sometimes referred to as  "Run Books"): Third-level documents that provide step-by-step instructions on how activities are to be carried out and the requirements of products produced.
 
-* Forms and Records: Fourth-level documents or data that contain the information, charts, checklists, or other form of records as evidence to demonstrate conformance to specified requirements and the effective operation of the Quality System.
+* **Forms and Records:** Fourth-level documents or data that contain the information, charts, checklists, or other form of records as evidence to demonstrate conformance to specified requirements and the effective operation of the Quality System.
 
 	
 The following key processes and interactions define the organizational structure and responsibilities of the Quality Management System.  
-
-
 
 These quality system processes are managed in accordance with the requirements of ISO 13485 and applicable regulatory requirements.  Changes to be made to these processes shall be:
 
