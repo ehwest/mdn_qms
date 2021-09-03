@@ -43,10 +43,12 @@ including the following activities.
 * Customer Care
 
 By "cloud based" we mean that subscribers are enabled to receive
-the benefits of certain applications, but do not carry or own any
-part of the device(s) necessary to deliver features and functions
+the benefits of certain operating software applications, but do not carry or own any
+part of the servers, and/or databasedevice(s) necessary to deliver features and functions
 of the product.  Subscribers are required to provide their own
 internet (cloud) access arrangements to access the cloud based applications.
+We take the FDA's definition of "software" to mean "device" for the
+purpose of regulatory compliance.
 
 This Quality Manual applies to the following facility:
 
@@ -54,13 +56,11 @@ Medical Data Networks, LLC.,  537 Montridge Ct., Franklin, TN  37067
 
 The company has undertaken the following roles:
 
-* ISO 13485 – Design, Manufacturer, Contract Manufacturer, Importer, etc.
+* ISO 13485 – Design, Manufacturer, Contract Manufacturer, Importer.
 
 * US CFR 21 Part 820 – Specification Developer, Manufacturer, Contract Manufacturer, Importer, etc.
 
-The following applicability exclusions apply:
-
-Enter the sections are applicable to your organization, example below
+The following applicability **exclusions** apply:
 
 * Sterilization Requirement and Processes (ISO Clause 7.5.5 & 7.5.7) – Our are not provided or distributed sterile products or utilize sterile processes.  
 
