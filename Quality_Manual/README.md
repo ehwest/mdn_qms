@@ -34,7 +34,7 @@ The Quality Management System complies with the following domestic and internati
 2. SCOPE
 
 The Quality Management Systems defined in this manual applies to 
-providing "T1Pal"and CoPilot cloud-based applications to subscribers, specifically
+providing "T1Pal"and "CoPilot" cloud-based applications to subscribers, specifically
 including the following activities.
 
 * Product Design
