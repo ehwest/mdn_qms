@@ -34,9 +34,9 @@ Medical Data Networks, LLC.,537 Montridge Ct.,Franklin, TN 37067 USA
 5.1 Management Commitment
 5.2 Customer Focus
 5.3 Quality Policy
-5.4 Quality Objecties and Planning
+5.4 Quality Objectives and Planning
 5.4.1 Quality Objectives
-5.4.2 Quality Management System Plnning
+5.4.2 Quality Management System Planning
 5.5 Responsibility, Authority, and Communication
 5.5.1 Responsibility and Authority
 5.5.2 Management Representation
@@ -49,7 +49,7 @@ Medical Data Networks, LLC.,537 Montridge Ct.,Franklin, TN 37067 USA
 6.1 Provision of Resources
 6.2 Human Resources
 6.3 Infrastructure
-6.4 Work Enfironment and Contamination Control
+6.4 Work Environment and Contamination Control
 6.4.1 Work Environment
 6.4.2 Contamination Control
 7. Product Realization
@@ -65,7 +65,7 @@ Medical Data Networks, LLC.,537 Montridge Ct.,Franklin, TN 37067 USA
 7.3.4 Design and Development Outputs
 7.3.5 Design and Debelopment Review
 7.3.6 Design and Development Verification
-7.3.7 Designa dn Development Validation
+7.3.7 Design and Development Validation
 7.3.8 Design and Development Transfer
 7.3.9 Control of Design and Development Change
 7.3.10 Design nad Development Files
