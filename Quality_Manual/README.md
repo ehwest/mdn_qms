@@ -18,6 +18,100 @@ Approving Signature|Name|Role|Date
 
 Medical Data Networks, LLC.,537 Montridge Ct.,Franklin, TN 37067 USA
 
+**Table of Contents**
+
+1. Purpose
+2. Scope
+3. Terms and Definitions
+4. Quality Management System
+4.1 General Requirements
+4.2 Documentation Requirements
+4.2.1 General
+4.2.2 Quality Manual
+4.2.3 Device Master Records (DMR)
+4.2.4 Control of Records
+5. Management Responsibilities
+5.1 Management Commitment
+5.2 Customer Focus
+5.3 Quality Policy
+5.4 Quality Objecties and Planning
+5.4.1 Quality Objectives
+5.4.2 Quality Management System Plnning
+5.5 Responsibility, Authority, and Communication
+5.5.1 Responsibility and Authority
+5.5.2 Management Representation
+5.5.3 Internal Communications
+5.6 Management Review
+5.6.1 General
+5.6.2 Review Input
+5.6.3 Review Output
+6. Resource Management
+6.1 Provision of Resources
+6.2 Human Resources
+6.3 Infrastructure
+6.4 Work Enfironment and Contamination Control
+6.4.1 Work Environment
+6.4.2 Contamination Control
+7. Product Realization
+7.1 Planning of Product Realization
+7.2 Customer-Related Processes
+7.2.1 Determination of Requirements Related to the Product
+7.2.2 Review of Requirements Related to the Product
+7.2.3 Customer Communication
+7.3 Design and Development
+7.3.1 General
+7.3.2 Design and Development Planning
+7.3.3 Design and Development Inputs
+7.3.4 Design and Development Outputs
+7.3.5 Design and Debelopment Review
+7.3.6 Design and Development Verification
+7.3.7 Designa dn Development Validation
+7.3.8 Design and Development Transfer
+7.3.9 Control of Design and Development Change
+7.3.10 Design nad Development Files
+7.4 Purchasing
+7.4.1 Purchasing Process
+7.4.2 Purchasing Information
+7.4.3 Verification of Purchased Product
+7.5 Production and Service Provision
+7.5.1 Control of Production and Service Provision
+7.5.2 Cleanliness of Porduct and Contamination Control
+7.5.3 Installation Activities
+7.5.4 Servicing Activities
+7.5.5 Particular Requirements ofr Sterile Medical devices.
+7.5.6 Validation of Processes for Production and service Provision
+7.5.7 Particular Requirements for Validation of Processes for Sterilization and Sterile Barrier Systems
+7.5.8 Identification
+7.5.9 Traceability
+7.5.9.1 General
+7.5.9.2 Particular Requirements for Implantable Medical Devices
+7.5.10 Customer Property
+7.5.11 Preservation of Product
+7.6 Control of monitoring and Measuring Equipment
+8. Measurement, Analysis, and Improvement
+8.1 General
+8.2 Monitoring and Measuring
+8.2.1 Feedback
+8.2.2 Complaint Handling
+8.2.3 Reporting to Regulatory Authorities
+8.2.4 Internal Audits
+8.2.5 Monitoring and Measurement of Processes
+8.2.6 Monitoring and Measurement of Product
+8.3 Control of Nonconforming Product
+8.3.1 General
+8.3.2 Actions in Response to nonconforming Product Detected before delivery
+8.3.3 Actions in Response to nonconforming Product Detected after Delivery
+8.3.4 Rework 
+8.4 Analysis of Data
+8.5 Improvement
+8.5.1 General
+8.5.2 Corrective Actions
+8.5.3 Preventive Actions
+9 Appendix:  Regulatory Requirement Reference
+10. Appendix: Quality System Quick Access Facility
+11. Revision History
+
+
 1. **PURPOSE**
 
 The purpose of this manual is to provide the foundation for the company’s Quality Management System.  This manual establishes the quality and regulatory policies, defines the authorities and responsibilities of management, and provides general description of all processes comprising the quality system.
@@ -797,6 +891,7 @@ The information gathered in the feedback process serves as potential input into 
 
 If applicable regulatory requirements require us to gain specific experience from post-production activities, the review of this experience shall form part of the feedback process.
 
+8.2.2 Complaint Handling
 
 The company has implemented documented procedures for timely complaint handling in accordance with applicable regulatory requirements.
 
