@@ -39,6 +39,7 @@ This procedure applies to all design and development activities for products int
 * Design Validation – Establishing by objective evidence that device specifications conform to user needs and intended uses.
 
 * Design Verification – Confirmation by examination and provision of objective evidence that specified requirements have been fulfilled.
+
  
 3.2. RESPONSIBILITIES
 
@@ -72,13 +73,14 @@ Project Leader – is responsible for the project timeline and completion of the
 
 *ISO 13485 – Medical Device Quality Management Systems
 
-* ISO 14971 – Medical Devices – Application of Risk Management to Medical Devices
+*ISO 14971 – Medical Devices – Application of Risk Management to Medical Devices
 
-* QF-0002-1 – Design Review Phase Checklist
+*QF-0002-1 – Design Review Phase Checklist
 
-* QP-0009 – Change Control Process
+*QP-0009 – Change Control Process
+
  
-4.**DESIGN PHASE GATE PROCEDURE **
+4. **DESIGN PHASE GATE PROCEDURE**
 
 The following phase gate system is utilized to control the product design and development process. 
 
