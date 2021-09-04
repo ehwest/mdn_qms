@@ -70,7 +70,7 @@ The following applicability **exclusions** apply:
 3. **TERMS AND DEFINITIONS**
 
 Term|Definition
----|-----------------
+-------------------------|--------------------------------------------------------------
 Appropriate Management|CEO, COO, President, Vice Presidents, Directors, Managers, Team Leaders.
 Continual improvement|Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
 Controlled Document|Any document that affects the quality of the product and is reviewed and approved prior to release for use or reference.
@@ -88,6 +88,7 @@ Proposal|Offer or quote made by an organization in response to a request for a q
 Quality Policy|Statement by the organization of its intentions and principles in relation to its overall quality performance which provides a framework for action and for setting the organization’s quality objectives and targets.
 Supplier or Vendor|The organization that provides a product or service to an organization.
 
+
 4. **QUALITY MANAGEMENT SYSTEM**
 
 4.1 General Requirements
@@ -96,7 +97,7 @@ The quality systems have been established, documented, implemented, and maintain
 
 The Quality Management System is defined through a four level hierarchy:
 
-* **Quality Manual:** First-level document that provides a general overview of the Quality System and defines the Quality Policy.  **This document is the Quality Manual.**
+* **Quality Manual:** ++(This document is the Quality Manual)++ A First-level document that provides a general overview of the Quality System and defines the Quality Policy. 
 
 * **Quality Policies and Procedures:** Second-level documents that provide more detailed explanation of the Quality System clauses and detail the structure of the Quality System.
 
@@ -196,6 +197,7 @@ It is the responsibility of all personnel to keep records of all work or operati
 5 **MANAGEMENT RESPONSIBILITIES**
 
 5.1 Management Commitment
+
 Management is responsible for establishing a custodian of all quality records, including internal audits, management reviews, corrective actions, preventive actions, training records, proficiency test results, and other related records.  The record retention time is specified by relevant regulatory requirements or documented procedures, whether hard copy or electronic.  
 
 Management demonstrates its commitment to the development and implementation of the Quality Management System, and its continual improvement, by:
@@ -254,7 +256,7 @@ All employees accept responsibility for the maintenance and improvement of the Q
 
 5.5.2 Management Representation
 
-The Management Representative has been appointed my management with executive responsibility and is responsible and fully authorized to manage the Quality Management System and related matters on an ongoing basis.  Roles and responsibilities of the Management Representative include the following:
+The Management Representative is appointed by management with executive responsibility and is responsible and fully authorized to manage the Quality Management System and related matters on an ongoing basis.  Roles and responsibilities of the Management Representative include the following:
 
 * Ensures that the Quality Management System is established, implemented, and maintained in accordance with applicable regulatory requirements.
 
@@ -443,6 +445,7 @@ Each phase has a checkpoint to ensure that all required elements for the specifi
 * Necessary information is documented, transmitted, and regularly reviewed.
 
 Design and development activities are planned the following items are documented:
+
 * The design and development stages
 * The review(s) needed at each design and development stage
 * The verification, validation, and design transfer activities that are appropriate at each design and development stage
@@ -542,14 +545,14 @@ reviewed periodically for continued effectiveness.
 
 **Quality Policy**
 
---Every employee and contractor accepts responsibility for the quality
-of our processes and medical devices.--
+**Every employee and contractor accepts responsibility for the quality
+of our processes and medical devices.**
 
---This is achieved by continuously
+This policy is achieved by continuously
 improving designs, implementing efficient procedures, and partnering
 with suppliers to meet or exceed the expectations of our customers,
 and satisfy the requirements of our quality system and appropriate
-regulations.--
+regulations.
 
 7.3.8 Design and Development Transfer
 
@@ -601,17 +604,7 @@ The company plans the monitoring and re-evaluation of supplier.  Supplier perfor
 
 Non-fulfillment of purchasing requirements shall be addressed with the supplier proportionate to the risk associated with the purchased product and compliance with applicable regulatory requirements.  Supplier performance is monitored, and actions are taken as necessary to address any failure to meet specified requirements.  These actions may include disqualification of the supplier.
 
-The Management Representative has been appointed my management with
-executive responsibility and is responsible and fully authorized to
-manage the Quality Management System and related matters on an ongoing
-basis. Roles and responsibilities of the Management Representative
-include the following:
-
--   Ensures that the Quality Management System is established,
-implemented, and maintained in accordance with applicable
-regulatory requirements.
-
-Recorded of the results of evaluation, selection, monitoring, re-evaluation of supplier capability or performance and any necessary actions arising from these activities is maintained.
+Records of the results of evaluation, selection, monitoring, re-evaluation of supplier capability or performance and any necessary actions arising from these activities is maintained.
 
 7.4.2 Purchasing Information
 
@@ -663,12 +656,18 @@ Records are maintained for each medical device or batch of medical devices produ
 7.5.2 Cleanliness of Product and Contamination Control
 
 The company documents requirements for cleanliness of product or contamination control of product if:
+
 * Product is cleaned by the organization prior to sterilization or its use
 * Product is supplied non-sterile and is to cleaned prior to sterilization or its use
 * Product cannot be cleaned prior to sterilization or its use, and its cleanliness is of significance in use
 * Product is supplied to be used non-sterile, and its cleanliness is of significance in use
 * Process agents are to be removed from product during manufacture
+
 If product is cleaned in accordance with the 1st two bullets, the requirements contained 6.4.1 do not apply prior to the cleaning process.
+
+Notwithstanding these generic requirements, all of the software (as a device) products provided
+by this company are operated in a private data center and are not physically delivered
+to any customer or subscriber.  There is no need for cleaning or sterilization  any physical device.
 
 7.5.3 Installation Activities
 
@@ -693,14 +692,18 @@ All records of sterilization process parameters used for each sterilization batc
 The output from management review meetings may include decisions and
 actions relating to:
 
--   Improvement needed to maintain the suitability, adequacy, and
+* Improvement needed to maintain the suitability, adequacy, and
 effectiveness of the Quality Management System and its procedures
 
--   Improvement of the product, services, training, infrastructure, work
+* Improvement of the product, services, training, infrastructure, work
 environment, and other processes
 
--   Changes needed to respond to applicable new or revised regulatory
+* Changes needed to respond to applicable new or revised regulatory
 requirements
+
+As discussed above, notwithstanding these generic requirements, all of the software (as a device) products provided
+by this company are operated in a private data center and are not physically delivered
+to any customer or subscriber.  There is no need for cleaning or sterilization  any physical device.
 
 7.5.6 Validation of Processes for Production and Service Provision
 
@@ -798,12 +801,14 @@ If applicable regulatory requirements require us to gain specific experience fro
 The company has implemented documented procedures for timely complaint handling in accordance with applicable regulatory requirements.
 
 These procedures include at a minimum requirements and responsibilities for:
+
 * Receiving and recording information
 * Evaluating information to determine if the feedback constitutes a complaint
 * Investigating Complaints
 * Determining the need to report the information to the appropriate regulatory authorities
 * Handling of complaint-related product
 * Determining the need to initiate corrections or corrective actions
+
 
 If any complaint is not investigated, justification shall be documented.  Any correction or corrective action resulting from the complaint handling process shall be documented.
 
@@ -842,15 +847,18 @@ Product shall be inspected and/or tested in order to verify that the specified r
 Company procedures ensure that in-process inspection and testing are carried out, and defines the criteria for holding of products until these inspection and tests activities have been completed and necessary reports have been documented.  All final testing is conducted in accordance with the quality plan or documented procedures to complete the evidence of conformance of the finished product to the specified requirements.
 
 The quality plan or documented procedures require that:
+
 * Product is held until all the required testing has been carried out and the results meet specified requirements
 * Final inspection may include accumulation of in-process inspection results or specific final testing as appropriate
 * Final inspection and testing includes the verification that all previous inspection and testing activities, including those specified at receipt of products or in-process, have been carried out with results meeting the specified requirements.
 
 All inspection and testing is recorded and approved by the personnel performing the inspection and/or testing to provide evidence the product has been inspected and/or tested. The identity of the person authorizing release of product shall be recorded. 
+
 * These records show clearly whether the product has passed or failed the inspections and/or tests according to defined acceptance criteria.
 * As appropriate, these records identify the test equipment used to perform measurement activities.
 * Traceability exists between the test records and the product tested.
 * Where the product fails to pass any inspection and/or test, the procedure for control of nonconforming product shall apply.
+
 
 8.3 Control of Nonconforming Product
 
@@ -917,14 +925,10 @@ The company has established and maintains documented procedures to implement pre
 Records of the results of any investigations and of actions taken are maintained.
 
 
-9. **REVISION HISTORY**
-
-REV #|Doc ID|Effective Date|Description of Change
------|------|--------------|---------------------
-01   | Quality Manual| 12/17/2014|Initial Release of the Quality Manual
-
-
 10. **APPENDIX: REGULATORY REQUIREMENT REFERENCE**
+
+This appendix enumerates applicable regulatory requirements and provides
+a link for each to an applicable document in this Quality Management System.
 
 
 **ISO 13485:2016** 
@@ -945,7 +949,7 @@ Control of documents of external origin (4.2.4)|QP-0003
 Device Master Records (4.2.3)|QP-0003
 Approval of labelling incl. translation process (4.2.4)|QP-0003 / QP-0006
 Document distribution and linkage to the training process (4.2.4)|QP-0003 / QP-0006
-Document and Records retention (4.2.1/ 4.2.5)/QP-0018
+Document and Records retention (4.2.1/ 4.2.5)|QP-0018
 
 Human Resources(Source)|QMS Document
 -------------------------------|-----------
@@ -1007,7 +1011,7 @@ Notification of changes to Notified Body/ Health Canada (4.1, 7.2.1/ 7.3.7)|QP-0
 
 Customer Related Processes|QMS Document
 -------------------------------|-----------
-Contract Review (7.2.1/7.2.2/7.2.3)|
+Contract Review (7.2.1/7.2.2/7.2.3)|Run Books
 
 CAPA Subsystem |QMS Document
 -------------------------------|-----------
@@ -1193,7 +1197,8 @@ Labeling Requirements|QP-0006
 
 11. **APPENDIX: Quality System Quick Access Facility**
 
-This appendix provides a link to each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
+This appendix enumerates each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
+The state of the approval for each such document is provided.
 
 **Quality System Procedures**
 
@@ -1230,4 +1235,16 @@ This appendix provides a link to each of the Quality Procedures used to operate 
 |[QP-0028 R1](QP-0028_R1_European_Union_Medical_Device_Directive_Procedure.md)| European Union Medical Device Directive Procedure|| Not defined yet|
 |[QP-0029 R1](QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)| European_Union_Medical_Device_Regulation_Procedure|| Not defined yet|
 |[QP-0030 R1](QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)| Canadian Medical Device Regulations Procedure|N/A | Not defined yet|
+
+
+12. **REVISION HISTORY**
+
+This Quality Manual is subject to change.
+Major revisions are enumerated below.   
+The "latest" and only official version is found in the github document management system governs all QMS activity.
+
+REV #|Doc ID|Effective Date|Description of Change
+-----|------|--------------|---------------------
+01   | Quality Manual| 12/17/2014|Initial Release of the Quality Manual
+
 
