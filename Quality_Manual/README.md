@@ -1031,7 +1031,7 @@ The company has established and maintains documented procedures to implement pre
 Records of the results of any investigations and of actions taken are maintained.
 
 
-10. **APPENDIX: REGULATORY REQUIREMENT REFERENCE**
+9. **APPENDIX: REGULATORY REQUIREMENT REFERENCE**
 
 This appendix enumerates applicable regulatory requirements and provides
 a link for each to an applicable document in this Quality Management System.
@@ -1301,7 +1301,7 @@ Safety and Effectiveness Requirements|QP-0002
 Labeling Requirements|QP-0006
 
 
-11. **APPENDIX: Quality System Quick Access Facility**
+10. **APPENDIX: Quality System Quick Access Facility**
 
 This appendix enumerates each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
 The state of the approval for each such document is provided.
