@@ -108,7 +108,7 @@ Medical Data Networks, LLC.,537 Montridge Ct.,Franklin, TN 37067 USA
 8.5.2. Corrective Actions
 8.5.3. Preventive Actions
 9. Appendix:  Regulatory Requirement Reference
-10. Appendix: Quality System Quick Access Facility
+10. Appendix:  Quality System Document Links
 11. Revision History
 
 
@@ -210,7 +210,7 @@ If a particular development project or customer request cannot be fulfilled by t
 	
 The following key processes and interactions define the organizational structure and responsibilities of the Quality Management System.  
 
-![Organization Chart](./media/OrganizationChart.png)
+![Organization Chart](./Quality_Manual/media/OrganizationChart.png)
 
 These quality system processes are managed in accordance with the requirements of ISO 13485 and applicable regulatory requirements.  Changes to be made to these processes shall be:
 
@@ -346,7 +346,11 @@ Management ensures that the planning of the Quality Management System is impleme
 
 Management has defined and documented the responsibility, authority, and interrelation of personnel who manage, perform, and verify work within the Quality Management System.  These responsibilities are documented in official job descriptions, which define the tasks performed by employees, and an organization chart depicting the interrelation of all employees.
 
-All employees accept responsibility for the maintenance and improvement of the Quality Management System.  This is achieved by understanding and supporting the Quality Policy and the appropriate clauses of the quality system for their areas of work; dedicating efforts to the continuous improvement, understanding how their activities impact quality, elimination and prevention of quality deficiencies; and initiating action to prevent the occurrence of nonconformities related to product and processes.
+All employees accept responsibility for the maintenance and improvement of the Quality Management System.  
+
+This is achieved by understanding and supporting the Quality Policy and the appropriate clauses of the quality system for their areas of work; 
+dedicating efforts to the continuous improvement, understanding how their activities impact quality, elimination and prevention of quality deficiencies; 
+and initiating action to prevent the occurrence of nonconformities related to product and processes.
 
 5.5.2 Management Representation
 
@@ -436,9 +440,14 @@ The company has established and maintains documented procedures for establishing
 Management maintains responsibility for infrastructure needed to produce quality products and services and documented the requirements for the work environment needed to achieve conformity to product requirements, prevent product mix-up, and ensure orderly handling product.  Infrastructure includes:
 
 * Buildings, workspace, and associated utilities
+
 * Process equipment (both hardware and software) 
+
 * Supporting services (i.e. transport, communication, or information systems)
-This infrastructure is reviewed and adjusted as needed to achieve company objectives.  A documented procedure shall be established for any infrastructure maintenance activities, including interval of performing the maintenance activities when required, necessary to maintain quality and records of such activities shall be maintained. As appropriate, the requirements shall apply to equipment used in production the control of work environment, and monitoring and measurement.
+
+This infrastructure is reviewed and adjusted as needed to achieve company objectives.  
+
+A documented procedure shall be established for any infrastructure maintenance activities, including interval of performing the maintenance activities when required, necessary to maintain quality and records of such activities shall be maintained. As appropriate, the requirements shall apply to equipment used in production the control of work environment, and monitoring and measurement.
 
 6.4 Work Environment and Contamination Control
 
@@ -525,40 +534,43 @@ The company has documented and implemented procedures for the control of design 
 
 7.3.2 Design and Development Planning
 
-For each medical device type or medical device family, we have
-established and maintained one or more files containing or referencing
-documents generated to demonstrate conformity to the requirement of
-ISO 13485 and applicable regulatory requirements. The content of the
-file(s) includes:
+Documented procedures shall be used to control and verify the development of new products to ensure that the specified requirements are met.  
 
-Documented procedures shall be used to control and verify the development of new products to ensure that the specified requirements are met.  The development process is executed in several phases.  
+The **legacy** development process is executed in several phases.  
 
 Each phase has a checkpoint to ensure that all required elements for the specific phase have been properly planned and completed.  These planning records are maintained.
 
 * Management reviews each phase to ensure that organizational and technical interfaces, which provide input into the design process, are defined.
+
 * Necessary information is documented, transmitted, and regularly reviewed.
 
 Design and development activities are planned the following items are documented:
 
 * The design and development stages
+
 * The review(s) needed at each design and development stage
+
 * The verification, validation, and design transfer activities that are appropriate at each design and development stage
+
 * The responsibilities and authorities for design and development
+
 * The methods to ensure traceability of design and development outputs to design and development inputs
+
 * The resources needed, including necessary competence of personnel
+
 
 7.3.3 Design and Development Inputs
 
 Design input requirements relating to the product are identified, documented, and reviewed for adequacy.  Design input requirements include:
-The company has established and maintains procedures to control all
-documentation and data related to the requirements of the applicable
-regulatory standards, including external documents, such as standard
-and electronic media. These procedures define the controls for:
 
 * Functional, performance, usability, and safety requirements, according to its intended use
+
 * Applicable statutory and regulatory requirements and standards
+
 * Applicable output(s) of risk management
+
 * As appropriate, information derived from previous similar designs
+
 * Other requirements essential for design and development of the product and processes
 
 Design input requirements are reviewed for adequacy and incomplete, ambiguous, or conflicting requirements are resolved.  Requirements shall be complete, unambiguous, able to be verified or validated, and not in conflict with each other.
@@ -568,8 +580,11 @@ Design input requirements are reviewed for adequacy and incomplete, ambiguous, o
 Design outputs are provided in a form suitable for verification against design input and are approved prior to release.  Design outputs:
 
 * Demonstrate that input requirements have been met
+
 * Provide appropriate information for purchasing and production
+
 * Contain or reference product acceptance criteria
+
 * Specify product characteristics essential for its safe and proper use
 
 7.3.5 Design and Development Review
@@ -577,12 +592,15 @@ Design outputs are provided in a form suitable for verification against design i
 The design control procedure requires that systematic design and development reviews be conducted to:
 
 * Evaluate the ability of the design to meet the requirements
+
 * Provide for a review by participants representing concerned functions as well as other specialized personnel
+
 * Identify any deficiencies and propose necessary actions 
 
 Participants in these reviews include representative from relevant functional areas and specialist personnel, concerned with the design stage being reviewed.
 
 Records of the results of design reviews and any necessary actions are maintained and include the identification of the design under review, the participants involved and the date of the review.
+
 It is the responsibility of all personnel to keep records of all work
 or operations performed in the format prescribed by the various
 policies and procedures in the quality system. All records shall
@@ -630,23 +648,6 @@ If the intended use requirement that the medical device be connected to, or have
 Validation will be performed prior to the release for use of the product to the customer
 
 Records of the results and conclusions of design validation and any necessary actions are maintained.
-The Quality Policy is established by management with executive
-responsibility. The company quality policy is stated below and is
-communicated throughout the organization to ensure commitment to
-quality within the organization. The quality policy provides a
-framework for establishing and reviewing quality objectives and is
-reviewed periodically for continued effectiveness.
-
-**Quality Policy**
-
-**Every employee and contractor accepts responsibility for the quality
-of our processes and medical devices.**
-
-This policy is achieved by continuously
-improving designs, implementing efficient procedures, and partnering
-with suppliers to meet or exceed the expectations of our customers,
-and satisfy the requirements of our quality system and appropriate
-regulations.
 
 7.3.8 Design and Development Transfer
 
@@ -738,11 +739,17 @@ Records of purchased product verification are maintained.
 Production and service provision is planned, carried out, monitored, and controlled to ensure that product conforms to specification.  As appropriate, product control include but are not limited to:
 
 * Documentation of procedures and methods for the control of production
+
 * Qualification of infrastructure
+
 * Implementation of monitoring and measurement of process parameters and product characteristics; availability and use of monitoring and measuring equipment
+
 * Availability and use of monitoring and measurement equipment
+
 * Implementation of measuring processes where required to assure product quality
+
 * Implementation of suitable release, delivery and post-delivery activities
+
 * Implementation of defined operations for labeling and packaging
 
 Records are maintained for each medical device or batch of medical devices produced as necessary to meet traceability requirements.  These records identify the amount of product manufactured and approved for distribution.  These records are reviewed and approved.
@@ -752,9 +759,13 @@ Records are maintained for each medical device or batch of medical devices produ
 The company documents requirements for cleanliness of product or contamination control of product if:
 
 * Product is cleaned by the organization prior to sterilization or its use
+
 * Product is supplied non-sterile and is to cleaned prior to sterilization or its use
+
 * Product cannot be cleaned prior to sterilization or its use, and its cleanliness is of significance in use
+
 * Product is supplied to be used non-sterile, and its cleanliness is of significance in use
+
 * Process agents are to be removed from product during manufacture
 
 If product is cleaned in accordance with the 1st two bullets, the requirements contained 6.4.1 do not apply prior to the cleaning process.
