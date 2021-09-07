@@ -76,13 +76,13 @@ Supporting the uniform analysis of risk, the following tables provide the workin
 
 | **Rating** | **Term** | **Probability (P) of Occurrence of the Harm** **(not the bug)** | **Description for Clarity** |
 | --- | --- | --- | --- |
-| 5 | Frequent | P ≥ 0.1 | Likely to occur 1 in 10 times or more often. |
-| 4 | Probable | .01 ≤ P \&lt; 0.1 | Likely to occur between (1 in 10) and (1 in 100) times. |
-| 3 | Occasional | .0001 ≤ P \&lt; 0.01 | Likely to occur between (1 in 100) and (1 in 10,000) times. |
-| 2 | Remote | .000001 ≤ P \&lt; 0.0001 | Likely to occur between (1 in 10,000) and (1 in 1,000,000) times. |
-| 1 | Improbable | P ≤ 0.000001 | Likely to occur less frequently than 1 in a million times. |
+| 5 | Frequent | P >= 0.1 | Likely to occur 1 in 10 times or more often. |
+| 4 | Probable | .01 <=  P < 0.1 | Likely to occur between (1 in 10) and (1 in 100) times. |
+| 3 | Occasional | .0001 <= P < 0.01 | Likely to occur between (1 in 100) and (1 in 10,000) times. |
+| 2 | Remote | .000001 <= P <  0.0001 | Likely to occur between (1 in 10,000) and (1 in 1,000,000) times. |
+| 1 | Improbable | P <=  0.000001 | Likely to occur less frequently than 1 in a million times. |
 
-Probability of a risk is determined by estimating the likelihood that the risk will manifest as a harm for any given use of MDN software. &quot;Use&quot; means an instance of using a MDN software for its intended use.
+Probability of a risk is determined by estimating the likelihood that the risk will manifest as a harm for any given use of MDN software. "Use" means an instance of using a MDN software for its intended use.
 
 ## Risk Rating
 
@@ -196,4 +196,21 @@ __Notes on "As Far As Possible"__
 
 The term and understanding of the phrase for reducing risk "As Far As Possible" is hereby understood to be a holistic definition that balances unit cost, business goals, the incremental benefits and impact for improving risk.  What is "possible" is defined in the context of a specific and contemporary
 "willingess to pay" for the realization of the "possible."   If there is no one willing to pay for the possible then, by definition, it is not possible.
+
+
+## Software Reliability Estimation (SRE)
+All software build by MDN will be the target of Software Reliability Estimation (SRE) which is a novel mechanism (in medical software) for estimating the number of defects remaining in the software, but not yet discovered through testing and/or field failures.
+
+The process is described in "Software Reliability, Measurement, Prediction, Application, by John D. Musa et al. 1987, Bell Telephone Laboratories, publisher.
+
+This SRE analysis provides a mathematical model of software having a finite set of "bugs" in the a particular bundle software, where bugs are discovered through testing.   The process involves tracking the time between reported bugs and computing a mathematical model that forecasts the number of defects not yet found in the software.   
+The time between reported bugs/defects are shown to fit an exponential probability distribution (PDF), characterized by an early test efforts having a short interval of time between them, and later test efforts having a long interval of time between them.  
+
+The result is a statistical model and an estimate of the total number of bugs remaining unfound in the software, along with estimates of the time/cost for finding them through testing effort.
+The model also shows how well the assumptions fit the actual data.
+Software testing data that shows a poor fit to the mathematical model will require continued testing prior to release of the software to the field.   Software testing that is shown to fit the model will be used to compute an economic balance for releasing the software to production against the cost of finding the remaining (unfound) bugs by further testing.
+
+MDN believes this advanced approach to software testing will yield superior results by reducing defects discovered in the field, and possibly impacting subscriber experiences with the platform.
+
+
 

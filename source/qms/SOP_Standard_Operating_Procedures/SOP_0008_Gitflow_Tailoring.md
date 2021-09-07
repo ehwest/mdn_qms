@@ -58,7 +58,7 @@ $ git checkout -b myfeature develop
 
 Switched to a new branch "myfeature"
 
-##Incorporating a finished feature on develop
+##Incorporating a finished feature on the "dev" branch.
 
 Finished features may be merged into the develop branch to definitely add them to the upcoming release:
 
@@ -81,20 +81,11 @@ $ git push origin develop
 
 The --no-ff flag causes the merge to always create a new commit object, even if the merge could be performed with a fast-forward. This avoids losing information about the historical existence of a feature branch and groups together all commits that together added the feature.
 
-## Staging branches
+Staging branches may branch off from: dev, but must merge back into "dev" and "master".
 
-* May branch off from:
+## Branch naming convention:
 
-* dev
-
-* Must merge back into:
-
-* dev and master
-
-* Branch naming convention:
-
-* release-*
-
+### Release
 
 Release branches support preparation of a new production release. They allow for last-minute dotting of i’s and crossing t’s. Furthermore, they allow for minor bug fixes and preparing meta-data for a release (version number, build dates, etc.). By doing all of this work on a release branch, the develop branch is cleared to receive features for the next big release.
 
@@ -102,7 +93,7 @@ The key moment to branch off a new release branch from develop is when develop (
 
 It is exactly at the start of a release branch that the upcoming release gets assigned a version number—not any earlier. Up until that moment, the develop branch reflected changes for the “next release”, but it is unclear whether that “next release” will eventually become 0.3 or 1.0, until the release branch is started. That decision is made on the start of the release branch and is carried out by the project’s rules on version number bumping.
 
-##Creating a release branch 
+**Creating a release branch **
 
 Release branches are created from the develop branch. For example, say version 1.1.5 is the current production release and we have a big release coming up. The state of develop is ready for the “next release” and we have decided that this will become version 1.2 (rather than 1.1.6 or 2.0). So we branch off and give the release branch a name reflecting the new version number:
 
@@ -166,15 +157,9 @@ Deleted branch release-1.2 (was ff452fe).
 
 ## Hotfix Branches
 
-May branch off from:
+Hotfix branches may branch off from "master"  but must merge back into: "dev" and "master"
 
-master
-
-Must merge back into:
-
-develop and master
-
-Branch naming convention:
+## Branch naming convention
 
 hotfix-*
 
@@ -182,7 +167,7 @@ Hotfix branches are very much like release branches in that they are also meant 
 
 The essence is that work of team members (on the develop branch) can continue, while another person is preparing a quick production fix.
 
-## Creating the hotfix branch 
+### Creating the hotfix branch 
 Hotfix branches are created from the master branch. For example, say version 1.2 is the current production release running live and causing troubles due to a severe bug. But changes on develop are yet unstable. We may then branch off a hotfix branch and start fixing the problem:
 
 $ git checkout -b hotfix-1.2.1 master
@@ -210,7 +195,7 @@ $ git commit -m "Fixed severe production problem"
 
 5 files changed, 32 insertions(+), 17 deletions(-)
 
-## Finishing a hotfix branch 
+### Finishing a hotfix branch 
 When finished, the bugfix needs to be merged back into master, but also needs to be merged back into develop, in order to safeguard that the bugfix is included in the next release as well. This is completely similar to how release branches are finished.
 
 First, update master and tag the release.
@@ -239,7 +224,7 @@ $ git merge --no-ff hotfix-1.2.1
 
 Merge made by recursive.
 
-## Summary of changes
+### Summary of changes
 The one exception to the rule here is that, when a release branch currently exists, the hotfix changes need to be merged into that release branch, instead of develop. Back-merging the bugfix into the release branch will eventually result in the bugfix being merged into develop too, when the release branch is finished. (If work in develop immediately requires this bugfix and cannot wait for the release branch to be finished, you may safely merge the bugfix into develop now already as well.)
 
 
