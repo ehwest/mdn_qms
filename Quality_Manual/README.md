@@ -2,9 +2,17 @@ Document Number|Title|Revision|Effective|Owner
 ---------------|-------------------------------------|---|----|-----
 QM-0001|Quality Manual|R 1|9/1/2021|/s/ Ben West
 
-**Medical Data Networks, LLC.**
+# Medical Data Networks Quality Manual
 
-**Quality Manual**
+This is the Medical Data Networks Quality Manual.
+
+# Quality Manual
+
+```{toctree}
+```
+
+## Approvals
+
 
 **Approvals:**	
 
@@ -14,104 +22,14 @@ Approving Signature|Name|Role|Date
 /s/ Earle West     |Earle West|CQO|9/1/2021
 
 
+### Applicable Facility
 **Applicable Facility:**
 
 Medical Data Networks, LLC.,537 Montridge Ct.,Franklin, TN 37067 USA
 
-**Table of Contents**
-
-1. Purpose
-2. Scope
-3. Terms and Definitions
-4. Quality Management System
-4.1. General Requirements
-4.2. Documentation Requirements
-4.2.1. General
-4.2.2. Quality Manual
-4.2.3. Device Master Records (DMR)
-4.2.4. Control of Records
-5. Management Responsibilities
-5.1. Management Commitment
-5.2. Customer Focus
-5.3. Quality Policy
-5.4. Quality Objectives and Planning
-5.4.1. Quality Objectives
-5.4.2. Quality Management System Planning
-5.5. Responsibility, Authority, and Communication
-5.5.1. Responsibility and Authority
-5.5.2. Management Representation
-5.5.3. Internal Communications
-5.6. Management Review
-5.6.1. General
-5.6.2. Review Input
-5.6.3. Review Output
-6. Resource Management
-6.1. Provision of Resources
-6.2. Human Resources
-6.3. Infrastructure
-6.4. Work Environment and Contamination Control
-6.4.1. Work Environment
-6.4.2. Contamination Control
-7. Product Realization
-7.1. Planning of Product Realization
-7.2. Customer-Related Processes
-7.2.1. Determination of Requirements Related to the Product
-7.2.2. Review of Requirements Related to the Product
-7.2.3. Customer Communication
-7.3. Design and Development
-7.3.1. General
-7.3.2. Design and Development Planning
-7.3.3. Design and Development Inputs
-7.3.4. Design and Development Outputs
-7.3.5. Design and Debelopment Review
-7.3.6. Design and Development Verification
-7.3.7. Design and Development Validation
-7.3.8. Design and Development Transfer
-7.3.9. Control of Design and Development Change
-7.3.10. Design nad Development Files
-7.4. Purchasing
-7.4.1. Purchasing Process
-7.4.2. Purchasing Information
-7.4.3. Verification of Purchased Product
-7.5. Production and Service Provision
-7.5.1. Control of Production and Service Provision
-7.5.2. Cleanliness of Porduct and Contamination Control
-7.5.3. Installation Activities
-7.5.4. Servicing Activities
-7.5.5. Particular Requirements ofr Sterile Medical devices.
-7.5.6. Validation of Processes for Production and service Provision
-7.5.7. Particular Requirements for Validation of Processes for Sterilization and Sterile Barrier Systems
-7.5.8. Identification
-7.5.9. Traceability
-7.5.9.1. General
-7.5.9.2. Particular Requirements for Implantable Medical Devices
-7.5.10. Customer Property
-7.5.11. Preservation of Product
-7.6. Control of monitoring and Measuring Equipment
-8. Measurement, Analysis, and Improvement
-8.1. General
-8.2. Monitoring and Measuring
-8.2.1. Feedback
-8.2.2. Complaint Handling
-8.2.3. Reporting to Regulatory Authorities
-8.2.4. Internal Audits
-8.2.5. Monitoring and Measurement of Processes
-8.2.6. Monitoring and Measurement of Product
-8.3. Control of Nonconforming Product
-8.3.1. General
-8.3.2. Actions in Response to nonconforming Product Detected before delivery
-8.3.3. Actions in Response to nonconforming Product Detected after Delivery
-8.3.4. Rework 
-8.4. Analysis of Data
-8.5. Improvement
-8.5.1. General
-8.5.2. Corrective Actions
-8.5.3. Preventive Actions
-9. Appendix:  Regulatory Requirement Reference
-10. Appendix:  Quality System Document Links
-11. Revision History
 
 
+## Purpose
 1. **PURPOSE**
 
 The purpose of this manual is to provide the foundation for the company’s Quality Management System.  This manual establishes the quality and regulatory policies, defines the authorities and responsibilities of management, and provides general description of all processes comprising the quality system.
@@ -126,7 +44,8 @@ The Quality Management System complies with the following domestic and internati
 * Other regulatory authorities as appropriate
  
 
-2. **SCOPE**
+## Scope
+
 
 The Quality Management Systems defined in this manual applies to 
 providing "T1Pal"and "CoPilot" cloud-based applications to subscribers, specifically
@@ -147,7 +66,7 @@ purpose of regulatory compliance.
 
 This Quality Manual applies to the following facility:
 
-Medical Data Networks, LLC.,  537 Montridge Ct., Franklin, TN  37067
+    Medical Data Networks, LLC.,  537 Montridge Ct., Franklin, TN  37067
 
 The company has undertaken the following roles:
 
@@ -161,7 +80,7 @@ The following applicability **exclusions** apply:
 
 * Implantable Medical Devices (ISO Clause 7.5.9.2 & 8.2.6 Partial) – We do not provide or distribute implantable products.
 
-3. **TERMS AND DEFINITIONS**
+## TERMS AND DEFINITIONS
 
 Term|Definition
 -------------------------|--------------------------------------------------------------
@@ -183,9 +102,9 @@ Quality Policy|Statement by the organization of its intentions and principles in
 Supplier or Vendor|The organization that provides a product or service to an organization.
 
 
-4. **QUALITY MANAGEMENT SYSTEM**
+## Quality Management System
 
-4.1 General Requirements
+### General Requirements
 
 The quality systems have been established, documented, implemented, and maintained to ensure the products and services produced meet the quality standards of the organization and are in compliance with relevant regulatory bodies.  Our organization has applied a risk based approach to the control of the appropriate processes needed for the Quality Management Sytstem (QMS).
 
@@ -224,9 +143,9 @@ For all outsourced processes that may affect conformance to requirements, the co
 
 The company has documented procedures for the validation of the application of computer software used in the QMS.  Such software is validated prior to initial use and, as appropriate, after change to the software or its applications.  The specific approach and associated activities shall be proportionate to the risk associated with the use of the software.  Records of such activities are maintained.
 
-4.2 Documentation Requirements
+### Documentation Requirements
 
-4.2.1 General
+#### General
 
 The responsibility to develop and effectively implement quality system procedures is held by the designated owner for each policy procedure or SOP as determined by management.  Procedure details depend upon the complexity of the work, methods used, and the skills and training needed by personnel to carry out the activity. 
 
@@ -244,7 +163,7 @@ The Quality Management System includes:
 
 All management affected by the controlled documents are responsible to ensure that their personnel are adequately informed and trained, as necessary, to ensure the proper implementation of the procedures. Procedures and records may be created and/or maintained in the form of paper copy, electronic copy, or in other media as deemed appropriate.
 
-4.2.2 Quality Manual
+#### Quality Manual
 
 The company has established and maintains this document as the Quality Manual. It includes:
 
@@ -252,7 +171,7 @@ The company has established and maintains this document as the Quality Manual. I
 * Description and/or definition of procedures established for the quality management system.
 * A description of the interactions between the processes of the quality management system.
 
-4.2.3 Device Master Records (DMR)
+##### Device Master Records (DMR)
 
 For each medical device type or medical device family, we have established and maintain one or more files containing or referencing documents generated to demonstrate conformity to the requirement of ISO 13485 and applicable regulatory requirements.  The content of the file(s) includes:
 
@@ -265,7 +184,7 @@ For each medical device type or medical device family, we have established and m
 * Procedures for measuring and monitoring
 
 
-4.2.4 Control of Document
+##### Control of Document
 
 The company has established and maintains procedures to control all documentation and data related to the requirements of the applicable regulatory standards, including external documents, such as standard and electronic media.  These procedures define the controls for:
 
@@ -283,14 +202,14 @@ The company has established and maintains procedures to control all documentatio
 
 * The prevention of inadvertent use of obsolete documentation
 
-4.2.5 Control of Records 
+##### Control of Records 
 
 It is the responsibility of all personnel to keep records of all work or operations performed in the format prescribed by the various policies and procedures in the quality system.  All records shall contain the date of creation and the person responsible for their creation.  All records shall be made in a permanent and legible manner and changes to a record shall remain identifiable.  Controls necessary for the identification, storage, protection, retrieval, retention time, and disposition of records shall be included within the documented procedure requiring the record.  Methods for protecting confidential health information contained in records shall be defined and implemented. 
 
 
-5 **MANAGEMENT RESPONSIBILITIES**
+## MANAGEMENT RESPONSIBILITIES
 
-5.1 Management Commitment
+### Management Commitment
 
 Management is responsible for establishing a custodian of all quality records, including internal audits, management reviews, corrective actions, preventive actions, training records, proficiency test results, and other related records.  The record retention time is specified by relevant regulatory requirements or documented procedures, whether hard copy or electronic.  
 
@@ -306,24 +225,24 @@ Management demonstrates its commitment to the development and implementation of 
 
 * Providing necessary resources
 
-5.2 Customer Focus
+### Customer Focus
    
 Company Management ensures that customer requirements and applicable regulatory requirements (needs and expectations) are understood and are met with the aim of enhancing customer satisfaction.  These are generally established within product requirements and specifications and within quality management system documentation.
 
-5.3 Quality Policy
+### Quality Policy
 
 The Quality Policy is established by management with executive responsibility.  The company quality policy is stated below and is communicated throughout the organization to ensure commitment to quality within the organization.  The quality policy provides a framework for establishing and reviewing quality objectives and is reviewed periodically for continued effectiveness.
 
 
-Quality Policy
+#### Quality Policy
 
 **Every employee accepts responsibility for the quality of our processes and medical devices.** 
 
 This is achieved by continuously improving designs, implementing efficient procedures, and partnering with suppliers to meet or exceed the expectations of our customers, and satisfy the requirements of our quality system and appropriate regulations.
 
-5.4 Quality Objectives and Planning
+### Quality Objectives and Planning
 
-5.4.1 Quality Objectives
+#### Quality Objectives
 
 The company has identified the following Quality Objectives.  These objectives will be reviewed and updated as necessary to meet company goals.
 
@@ -336,13 +255,13 @@ The company has identified the following Quality Objectives.  These objectives w
 * Define and monitor metrics of effectiveness for key elements of the business and utilize the data to effectively manage and drive improvement with emphasis on Customers, Products, Services, and Stakeholders.
 
 
-5.4.2 Quality Management System Planning
+##### Quality Management System Planning
 
 Management ensures that the planning of the Quality Management System is implemented by appropriate management and carried out by all employees in order to meet the requirements provided in this manual. Management also ensures the integrity of the Quality Management System is maintained when changes to the Quality Management System are planned and implemented.  
 
-5.5 Responsibility, Authority, and Communication
+#### Responsibility, Authority, and Communication
 
-5.5.1 Responsibility and Authority
+##### Responsibility and Authority
 
 Management has defined and documented the responsibility, authority, and interrelation of personnel who manage, perform, and verify work within the Quality Management System.  These responsibilities are documented in official job descriptions, which define the tasks performed by employees, and an organization chart depicting the interrelation of all employees.
 
@@ -352,7 +271,7 @@ This is achieved by understanding and supporting the Quality Policy and the appr
 dedicating efforts to the continuous improvement, understanding how their activities impact quality, elimination and prevention of quality deficiencies; 
 and initiating action to prevent the occurrence of nonconformities related to product and processes.
 
-5.5.2 Management Representation
+##### Management Representation
 
 The Management Representative is appointed by management with executive responsibility and is responsible and fully authorized to manage the Quality Management System and related matters on an ongoing basis.  Roles and responsibilities of the Management Representative include the following:
 
@@ -366,7 +285,7 @@ The Management Representative is appointed by management with executive responsi
 
 * Ensures the promotion of awareness of applicable regulatory, quality management, and customer requirements throughout the organization.
 
-5.5.3 Internal Communications
+##### Internal Communications
 
 The Management Representative has the responsibility to work with other departments to ensure that adequate internal communication exists concerning the effectiveness and implementation of the Quality Management System.
 
@@ -380,13 +299,13 @@ Methods for internal communication include:
 
 * Formal Training
 
-5.6 Management Review
+#### Management Review
 
-5.6.1 General
+##### General
 
 Management acknowledges responsibility for the quality systems and reviews the systems to ensure continuous suitability and effectiveness in relation to domestic and international regulatory requirement, this Quality Manual, and company objectives.  Management representing each key functional area participates in this review that includes assessing opportunities for improvement and the need to change the Quality Management System, including the Quality Policy and Objectives.  Records of management reviews are maintained.
 
-5.6.2 Review Input
+#####  Review Input
 
 The activities reviewed during management reviews may include, but are not limited to:
 
@@ -400,7 +319,7 @@ The activities reviewed during management reviews may include, but are not limit
 * Changes that could affect the Quality Management System
 * New or revised regulatory requirements
 
-5.6.3 Review Output
+##### Review Output
 
 The output from management review meetings may include decisions and actions relating to:
 
@@ -410,9 +329,9 @@ The output from management review meetings may include decisions and actions rel
 * Resource requirements and allocation
 
 
-6 **RESOURCE MANAGEMENT**
+## RESOURCE MANAGEMENT
 
-6.1 Provision of Resources
+### Provision of Resources
 
 Management has the responsibility and authority to ensure there are adequate resources to support the Quality System throughout their functional areas of responsibility.  Each member of management is to provide adequate resources to:
 
@@ -423,7 +342,7 @@ Management has the responsibility and authority to ensure there are adequate res
 
 
 
-6.2 Human Resources
+### Human Resources
 
 Resource and training requirement are identified and addressed on a regular basis in order to support the growth and changing needs of the company.  For each job function, management provides sufficient personnel with appropriate background, education, and experience.
 
@@ -435,7 +354,7 @@ The company has established and maintains documented procedures for establishing
 * Ensuring that personnel are aware of the importance of their activities and how they contribute to the achievement of quality objectives
 * Maintaining appropriate records of education, training, skills, and experience.
 
-6.3 Infrastructure
+### Infrastructure
 
 Management maintains responsibility for infrastructure needed to produce quality products and services and documented the requirements for the work environment needed to achieve conformity to product requirements, prevent product mix-up, and ensure orderly handling product.  Infrastructure includes:
 
@@ -449,9 +368,9 @@ This infrastructure is reviewed and adjusted as needed to achieve company object
 
 A documented procedure shall be established for any infrastructure maintenance activities, including interval of performing the maintenance activities when required, necessary to maintain quality and records of such activities shall be maintained. As appropriate, the requirements shall apply to equipment used in production the control of work environment, and monitoring and measurement.
 
-6.4 Work Environment and Contamination Control
+### Work Environment and Contamination Control
 
-6.4.1 Work Environment
+####  Work Environment
 
 The company maintains responsibility and has documented the requirements for the work environment to assure its suitability for achieving conformity to product requirements.
 
@@ -461,13 +380,13 @@ Where appropriate to ensure quality and compliance with applicable Environmental
 * Documented requirements for environmental conditions and instructions for monitoring and controlling these conditions
 * Training for personnel working temporarily under special environmental conditions
 
-6.4.2 Contamination Control
+####  Contamination Control
 
 As appropriate, the organization has planned and documented arrangements for the control of contamination or potentially contaminated product in order to prevent contamination of the work environment, personnel, or product
 
-7 **PRODUCT REALIZATION**
+## **PRODUCT REALIZATION**
 
-7.1 Planning of Product Realization
+### Planning of Product Realization
 
 The quality planning requirements for individual development projects, related processes and supporting documentation are described in the procedures for each process, for example, the design control procedure, supplier qualification procedure and other process procedures.  The company has developed a documented risk management procedure and maintains records of risk management activities.
 
@@ -484,9 +403,9 @@ The quality planning process, when initiated, shall provide for the following:
 
 The company has established and maintains a process for identifying hazards associated with products and processes, estimating and evaluating the associated risks, controlling these risks and monitoring the effectiveness of the control including post-production information. Documented risk management activities are included throughout the product realization process, where appropriate.  Records arising from risk management are maintained in a risk management file.
 
-7.2 Customer-Related Processes
+### Customer-Related Processes
 
-7.2.1 Determination of Requirements Related to the Product
+#### Determination of Requirements Related to the Product
 
 The determination of the requirements relating to the product includes:
 
@@ -496,7 +415,7 @@ The determination of the requirements relating to the product includes:
 * Any user training needed to ensure specified performance and safe use of the product
 * Additional requirements determined by the organization
 
-7.2.2 Review of Requirements Related to the Product
+#### Review of Requirements Related to the Product
 
 Contracts, including purchase orders, are reviewed to ensure customer requirements and amendments are communicated in a controlled manner.  The contract review requires the appropriate review of each proposal, contract, or order to ensure that:
 
@@ -516,7 +435,7 @@ paper copy, electronic copy, or in other media as deemed appropriate.
 
 Records of contracts, contract reviews, proposals and contract amendments are maintained in the customer file.
 
-7.2.3 Customer Communication
+#### Customer Communication
 
 The company plans and documents effective arrangements for communicating with customers in relation to:
 
@@ -526,13 +445,13 @@ The company plans and documents effective arrangements for communicating with cu
 * Advisory notices
 We have documented procedures for communicating with regulatory authorities in accordance with applicable regulatory requirements
 
-7.3 Design and Development
+### Design and Development
 
-7.3.1 General
+####  General
 
 The company has documented and implemented procedures for the control of design and development.
 
-7.3.2 Design and Development Planning
+####  Design and Development Planning
 
 Documented procedures shall be used to control and verify the development of new products to ensure that the specified requirements are met.  
 
@@ -559,7 +478,7 @@ Design and development activities are planned the following items are documented
 * The resources needed, including necessary competence of personnel
 
 
-7.3.3 Design and Development Inputs
+#### Design and Development Inputs
 
 Design input requirements relating to the product are identified, documented, and reviewed for adequacy.  Design input requirements include:
 
@@ -575,7 +494,7 @@ Design input requirements relating to the product are identified, documented, an
 
 Design input requirements are reviewed for adequacy and incomplete, ambiguous, or conflicting requirements are resolved.  Requirements shall be complete, unambiguous, able to be verified or validated, and not in conflict with each other.
 
-7.3.4 Design and Development Outputs
+####  Design and Development Outputs
 
 Design outputs are provided in a form suitable for verification against design input and are approved prior to release.  Design outputs:
 
@@ -587,7 +506,7 @@ Design outputs are provided in a form suitable for verification against design i
 
 * Specify product characteristics essential for its safe and proper use
 
-7.3.5 Design and Development Review
+####  Design and Development Review
 
 The design control procedure requires that systematic design and development reviews be conducted to:
 
@@ -620,7 +539,7 @@ results, and other related records. The record retention time is
 specified by relevant regulatory requirements or documented
  procedures, whether hard copy or electronic.
 
-7.3.6 Design and Development Verification
+####  Design and Development Verification
 
 Design and development verification is performed in accordance with planned and documented arrangements to ensure that design outputs comply with design input requirements.
 The company documents verification plans that include methods, acceptance criteria and, as appropriate, statistical techniques with rational for sample size.
@@ -635,7 +554,7 @@ improvement, by:
 
 * Creating records of the results and conclusions of design verification and any necessary actions.
 
-7.3.7 Design and Development Validation
+####  Design and Development Validation
 
 Design validation is performed in accordance with planned and documented arrangements to ensure that the design is capable of meeting the requirements for the specified application or intended use, where known.  
 
@@ -649,13 +568,13 @@ Validation will be performed prior to the release for use of the product to the 
 
 Records of the results and conclusions of design validation and any necessary actions are maintained.
 
-7.3.8 Design and Development Transfer
+####  Design and Development Transfer
 
 Design transfer is performed in accordance with planned and documented arrangements to ensure the transfer of design and development outputs to manufacturing.  These procedures ensure that design and development outputs are verified as suitable for manufacturing before becoming final production specification and that production capability can meet production requirements.
 
 Records and conclusions of the results of design validation and any necessary actions are maintained.
 
-7.3.9 Control of Design and Development Changes
+####  Control of Design and Development Changes
 
 Design changes and modifications are identified, documented, reviewed, and approved by appropriate management prior to implementation.  The company determines the significance of the change to function, performance, usability, safety, and applicable regulatory requirements for the medical device and its intended use.
 
@@ -685,13 +604,13 @@ goals.
     improvement with emphasis on Customers, Products, Services, and
     Stakeholders.
 
-7.3.10 Design and Development Files
+####   Design and Development Files
 
 The company maintains a design and development file for each medical device type or medical device family.  This file includes or references records generated to demonstrate conformity to the requirements for design and development and records for design and development changes.
 
-7.4 Purchasing
+### Purchasing
 
-7.4.1 Purchasing Process
+####  Purchasing Process
 
 The company has established and maintains procedures to ensure that purchased products or services conform to specified information.  We establish criteria for the evaluation and selection of suppliers based upon the performance of the supplier, the effect of the purchased product on the quality of the medical device, and risk associated with the medical device.
 
@@ -701,7 +620,7 @@ Non-fulfillment of purchasing requirements shall be addressed with the supplier 
 
 Records of the results of evaluation, selection, monitoring, re-evaluation of supplier capability or performance and any necessary actions arising from these activities is maintained.
 
-7.4.2 Purchasing Information
+#####  Purchasing Information
 
 Purchasing documents clearly and completely describe or reference ordered products.   Purchasing documents clearly define, including as appropriate:
 
@@ -722,7 +641,7 @@ Methods for internal communication include:
 
 Where required for traceability purposes, purchasing information is maintained.
 
-7.4.3 Verification of Purchased Product
+##### Verification of Purchased Product
 
 The company shall establish and implement the necessary inspection activities to ensure that purchased product meets specified purchase requirements.  The extent of verification activities shall be based on the supplier evaluation results and proportionate to the risk associated with the purchased product.
 
@@ -732,9 +651,9 @@ When verification of purchased product is required at the supplier’s premises 
 
 Records of purchased product verification are maintained.
 
-7.5 Production and Service Provision
+### Production and Service Provision
 
-7.5.1 Control of Production and Service Provision
+####  Control of Production and Service Provision
 
 Production and service provision is planned, carried out, monitored, and controlled to ensure that product conforms to specification.  As appropriate, product control include but are not limited to:
 
@@ -754,7 +673,7 @@ Production and service provision is planned, carried out, monitored, and control
 
 Records are maintained for each medical device or batch of medical devices produced as necessary to meet traceability requirements.  These records identify the amount of product manufactured and approved for distribution.  These records are reviewed and approved.
 
-7.5.2 Cleanliness of Product and Contamination Control
+####  Cleanliness of Product and Contamination Control
 
 The company documents requirements for cleanliness of product or contamination control of product if:
 
@@ -774,7 +693,7 @@ Notwithstanding these generic requirements, all of the software (as a device) pr
 by this company are operated in a private data center and are not physically delivered
 to any customer or subscriber.  There is no need for cleaning or sterilization  any physical device.
 
-7.5.3 Installation Activities
+####  Installation Activities
 
 The company documents requirements for medical device installation and acceptance criteria for verification of installation, as appropriate.
 
@@ -782,7 +701,7 @@ If installation activities are performed by an external party, we provide docume
 
 All records of installation activities and verification of installation performed by us or our suppliers are maintained.
 
-7.5.4 Servicing Activities
+####  Servicing Activities
 
 If servicing activities are a specified requirement, the company documents servicing procedures, reference materials, and reference measurements, as necessary, for performing servicing activities and verifying that product requirement are met.
 
@@ -790,7 +709,7 @@ The company analyses records of servicing activities carried out by us or our su
 
 All records of servicing activities performed by us or our suppliers are maintained.
 
-7.5.5 Particular Requirements for Sterile Medical devices
+####  Particular Requirements for Sterile Medical devices
 
 All records of sterilization process parameters used for each sterilization batch are maintained and traceable to each production batch of medical devices.
 
@@ -810,7 +729,7 @@ As discussed above, notwithstanding these generic requirements, all of the softw
 by this company are operated in a private data center and are not physically delivered
 to any customer or subscriber.  There is no need for cleaning or sterilization  any physical device.
 
-7.5.6 Validation of Processes for Production and Service Provision
+####  Validation of Processes for Production and Service Provision
 
 The company validates processes for production and service provision where the resulting output cannot be or is not verified by subsequent monitoring or measurement.  This includes any processes where, as a consequence, deficiencies become apparent only after the product is in use or the service has been delivered.  Validation demonstrates the ability of these processes to achieve planned results consistently.  Validation procedures are documented and include, where applicable:
 
@@ -825,25 +744,25 @@ The company validates processes for production and service provision where the r
 The company documents procedures for the validation of the application of computer software sued in production and service provision. Such software applications are validated prior to initial use and, as appropriate, after changes to such software or its application.  The specific approach and activities associated with software validation and revalidation are proportionate to the risk associated with the use of the software, including the effect on the ability of the product to conform to specifications.
 Records of the results and conclusions of validation and necessary actions from the validation are maintained.
 
-7.5.7 Particular Requirements for Validation of Processes for Sterilization and Sterile Barrier Systems
+####  Particular Requirements for Validation of Processes for Sterilization and Sterile Barrier Systems
 
 The company documents procedures for the validation of processes for sterilization and sterile barrier systems.  Processes for sterilization and sterile barriers systems are validated prior to implementation and following product or process changes, as appropriate.
 
 Records of the results and conclusion of validation and necessary actions from the validation are maintained.
 
-7.5.8 Identification
+####  Identification
 
 The company has implemented documented procedures for product identification and identify product by suitable means throughout product realization.  Product is identified with respect to monitoring and measurement requirements though product realization.  Identification of product is maintained throughout production, storage, installation, servicing of product to ensure that only product that has passed the required inspections and tests or released under an authorized concession is dispatched, used, or installed.
 
 If required by applicable regulatory requirements, we shall document a system to assign unique device identification to the medical device.  We document procedures to ensure that medical devices returned to the organization are identified and distinguished from conforming product.
 
-7.5.9 Traceability
+####  Traceability
 
-7.5.9.1 General
+#####   General
 
 Documented procedures define procedures for traceability.  These procedures define the extent of traceability in accordance with applicable regulatory requirements and the records are maintained.
 
-7.5.9.2 Particular Requirements for Implantable Medical Devices
+#####   Particular Requirements for Implantable Medical Devices
 
 The records required for traceability of implanted medical devices include records of components, materials, and conditions for the work environment used, if these could cause the medical device not to satisfy its specified safety and performance requirements.
 
@@ -851,11 +770,11 @@ The company requires that suppliers of distribution services or distributors mai
 
 Records of the name and address of the shipping package consignee are maintained.
  
-7.5.10 Customer Property
+####   Customer Property
 
 The company has established documented procedures for preventing damage or deterioration to customer supplied materials through identification, handling, storage, packaging, preservation and delivery.  If any customer property is lost, damaged or otherwise found to be unsuitable for use, we shall report this to the customer and maintain records.
 
-7.5.11 Preservation of Product
+####   Preservation of Product
 
 Management maintains responsibility for infrastructure needed to
 produce quality products and services and documented the requirements
@@ -865,7 +784,7 @@ product. Infrastructure includes:
 
 The company has established documented procedures for preserving the conformity of product to requirements during processing, storage, handling, and distribution.  Preservation shall apply to the constituent parts of a medical device.  We protect product from alteration, contamination, or damage when exposed to expected conditions and hazards during processing, storage, handling, and distribution by designing and constructing suitable packaging and shipping containers and documenting requirements for special conditions needed if packaging alone cannot provide preservation.  If special conditions are required, they shall be controlled and recorded.  
 
-7.6 Control of Monitoring and Measuring Equipment
+### Control of Monitoring and Measuring Equipment
 
 All monitoring and measurement equipment, comparative references (such as gauges and templates), and test equipment used in the inspection of product, validation of the product, or the validation of production processes are calibrated and maintained within the Calibration Program.  Instruments used for purposes other than product inspections or control of production processes are exempted from the Calibration Program.  Calibration and verification is completed in accordance with documented procedures.
 
@@ -881,9 +800,9 @@ In addition, we assess and record the validity of past measurement results when 
 
 The company has documented procedures for the validation of the application of computer software used for the monitoring and measurement of requirements.  Such software application shall be validated prior to initial use and, as appropriate, after changes to such software or its application.  The specific approach and activities associated with software validation and revalidation shall be proportionate to the risk associated with the use of the software, including the effect on the ability of the product to conform to specifications. Records of the results and conclusion of validation and necessary actions from the validation shall be maintained.
 
-8 **MEASUREMENT, ANALYSIS, AND IMPROVEMENT**
+## MEASUREMENT, ANALYSIS, AND IMPROVEMENT
 
-8.1 General
+### General
 
 The company plans and implements the monitoring, measurement, analysis, and improvement processes needed to:
 
@@ -892,9 +811,9 @@ The company plans and implements the monitoring, measurement, analysis, and impr
 * Maintain and continually improve the effectiveness of the product
 * Maintain and continually improve the effectiveness of the QMS
 
-8.2 Monitoring and Measuring
+### Monitoring and Measuring
 
-8.2.1 Feedback
+####  Feedback
 
 As one of the measurements of the effectiveness of the quality management system, the company gathers and monitors information relating to whether the organization has met customer requirements.  The methods for obtaining and using this information are documented.  This feedback process includes provisions to gather data from production as well as post-production activities.
 
@@ -902,7 +821,7 @@ The information gathered in the feedback process serves as potential input into 
 
 If applicable regulatory requirements require us to gain specific experience from post-production activities, the review of this experience shall form part of the feedback process.
 
-8.2.2 Complaint Handling
+#### Complaint Handling
 
 The company has implemented documented procedures for timely complaint handling in accordance with applicable regulatory requirements.
 
@@ -922,11 +841,11 @@ If an investigation determines activities outside the organization contributed t
 
 Complaint handling records are maintained.
 
-8.2.3 Reporting to Regulatory Authorities
+####  Reporting to Regulatory Authorities
 
 If applicable regulatory requirements require notification of complaints that meet specified reporting criteria of adverse events or issuance of advisory notices, we have documented procedures for providing notification to the appropriate regulatory authorities.  Records of reporting to regulatory authorities are maintained.
 
-8.2.4 Internal Audits
+####  Internal Audits
 
 The company conducts internal audits at planned intervals to determine whether the quality management system:
 
@@ -940,13 +859,13 @@ Records of the audits and their results, including identification of the process
 
 The management responsible for the area being audited ensures that any necessary corrections and corrective actions are taken without undue delay to eliminate detected nonconformities and their causes.  Follow-up activities shall include the verification of the actions taken and the reporting of verification results. 
 
-8.2.5 Monitoring and Measurement of Processes
+####  Monitoring and Measurement of Processes
 
 Documented procedures shall define the methods used for controlling the manufacturing processes and make reference to any applicable instructions utilized to define how work is conducted.  Where required, these procedures are available at the workstation.
 
 The effectiveness of these processes is evaluated based on their ability to produce products and/or services that are consistent with the Quality Policy and Quality Objectives.  They will be evaluated during management review meetings.
 
-8.2.6 Monitoring and Measurement of Product
+####  Monitoring and Measurement of Product
 
 Product shall be inspected and/or tested in order to verify that the specified requirements for the product are met.  Required inspection and/or testing and the records to be established are detailed in the quality plan and/or documented procedures.  In-process inspection and testing are performed as required by documented procedure.
 
@@ -966,15 +885,15 @@ All inspection and testing is recorded and approved by the personnel performing 
 * Where the product fails to pass any inspection and/or test, the procedure for control of nonconforming product shall apply.
 
 
-8.3 Control of Nonconforming Product
+### Control of Nonconforming Product
 
-8.3.1 General
+####  General
 
 Product that does not conform to specified requirements shall be identified and controlled to prevent its unintended use or delivery.  The company has implemented a documented procedure to define the controls and related responsibilities and authorities for the identification, documentation, segregation, evaluation, and disposition of nonconforming product.  
 
 The evaluation of nonconformity includes a determination of the need for an investigation and notification of any external party responsible for the nonconformity.  Records of the nature of the nonconformities and any subsequent action taken, including the evaluation, any investigation, and the rationale for decisions is maintained.
 
-8.3.2 Actions in Response to Nonconforming Product Detected before Delivery
+####  Actions in Response to Nonconforming Product Detected before Delivery
 
 The company manages nonconforming product by one or more of the following ways:
 
@@ -984,29 +903,29 @@ The company manages nonconforming product by one or more of the following ways:
 
 The company ensures that nonconforming product is accepted by concession only if the justification is provided, approval is obtained, and applicable regulatory requirements are met.  Records of the acceptance by concession and the identity of the person authorizing the concession are maintained.
 
-8.3.3 Actions in Response to Nonconforming Product Detected after Delivery
+#### Actions in Response to Nonconforming Product Detected after Delivery
 
 When nonconforming product is detected after delivery or use has started, we take action appropriate to the effects, or potential effects, of the nonconformity.  Records of actions taking are maintained.
 
 The company has documented procedures for issuing advisory notices in accordance with applicable regulatory requirements.  These procedures are capable of being put into effect at any time.  Records of actions relating to the issuance of advisory notices shall be maintained.
 
-8.3.4 Rework
+#### Rework
 
 The company completes rework in accordance with documented procedures that take into account the potential adverse effect of the rework on the product.  These procedures shall undergo the same review and approval as the original procedure.
 
 After the completion of rework, product shall be verified to ensure that it meets applicable acceptance criteria and regulatory requirements.  Records of rework are maintained.
 
-8.4 Analysis of Data
+#### Analysis of Data
 
 Quality data are collected and analyzed to determine the effectiveness of the Quality Management system and to identify opportunities for improvement.  Data relating to customer satisfaction, product conformity to requirements, supplier performance, process performance and product trends used to determine corrective and preventive actions, are reviewed during management review meetings and documented in the minutes.  Trends in company level data are analyzed and compared to overall business goals and objectives.  Key product and service features are included in the analysis and if deficiencies are noted, action is taken to correct them to ensure customer satisfaction.
 
-8.5 Improvement
+### Improvement
 
-8.5.1 General
+#### General
 
 The company will identify and implement any changes necessary to ensure and maintain the continued suitability, adequacy, and effectiveness of the quality management system as well as medical device safety and performance through the use of the quality policy, quality objectives, audit results, post-market surveillance, analysis of date, corrective actions, preventive actions, and management review.
 
-8.5.2 Corrective Actions
+#### Corrective Actions
 
 The company has established and maintains documented procedures to implement corrective actions to eliminate the cause of nonconformities in order to prevent recurrence.  Any necessary corrective actions shall be taken without undue delay.  Corrective actions shall be proportionate to the effects of the nonconformities encountered.  
 
@@ -1019,7 +938,7 @@ The company has established and maintains documented procedures to implement cor
 
 Records of the results of any investigation and of action taken are maintained.
 
-8.5.3 Preventive Actions
+#### Preventive Actions
 
 The company has established and maintains documented procedures to implement preventive actions and eliminate the causes of potential nonconformities proportionate to the effects of the potential problems.  This documented procedure includes:
 * Determining potential nonconformities and their causes
@@ -1031,7 +950,7 @@ The company has established and maintains documented procedures to implement pre
 Records of the results of any investigations and of actions taken are maintained.
 
 
-9. **APPENDIX: REGULATORY REQUIREMENT REFERENCE**
+## APPENDIX: REGULATORY REQUIREMENT REFERENCE
 
 This appendix enumerates applicable regulatory requirements and provides
 a link for each to an applicable document in this Quality Management System.
@@ -1301,7 +1220,7 @@ Safety and Effectiveness Requirements|QP-0002
 Labeling Requirements|QP-0006
 
 
-10. **APPENDIX: Quality System Quick Access Facility**
+## APPENDIX: Quality System Quick Access Facility
 
 This appendix enumerates each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
 The state of the approval for each such document is provided.
@@ -1343,7 +1262,7 @@ The state of the approval for each such document is provided.
 |[QP-0030 R1](QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)| Canadian Medical Device Regulations Procedure|N/A | Not defined yet|
 
 
-12. **REVISION HISTORY**
+## REVISION HISTORY
 
 This Quality Manual is subject to change.
 Major revisions are enumerated below.   
