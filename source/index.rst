@@ -8,20 +8,15 @@ Welcome to Medical Data Networks Quality System's documentation!
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :numbered:
    :caption: Contents:
 
-   qms/CM_Communication_Materials/README.md
-   qms/PDP_Product_Development_Process/README.md
-   qms/PD_Product_Definition/README.md
-   qms/RM_Reference_Materials/README.md
-   qms/RSA_Regulatory_Support_Artifacts/README.md
-   qms/SD_System_Design/README.md
-   qms/SOP_Standard_Operating_Procedures/README.md
+   Quality_Manual/README.md
 
    appendix/README.md
 
+.. sectnum::
 
 
 Indices and tables
