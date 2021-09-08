@@ -134,13 +134,17 @@ The following key processes and interactions define the organizational structure
 .. figure:: ./media/OrganizationChart.png
   :width: 100%
   :name: Organization Chart
-  :caption:
+
+  Organizational Chart
 
 ```
 
+```{figure} ./media/OrganizationChart.png
+:width: 100%
+:name: Organization Chart
 
-![Organization Chart](./media/OrganizationChart.png)
-
+Organizational Chart
+```
 These quality system processes are managed in accordance with the requirements of ISO 13485 and applicable regulatory requirements.  Changes to be made to these processes shall be:
 
 * Evaluated for their impact on the quality management system
