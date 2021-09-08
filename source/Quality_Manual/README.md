@@ -9,6 +9,7 @@ This is the Medical Data Networks Quality Manual.
 # Quality Manual
 
 ```{toctree}
+
 ```
 
 ## Approvals
@@ -42,7 +43,7 @@ The Quality Management System complies with the following domestic and internati
 * EU Medical Device Regulation – MDR 2017/745
 * EU Medical Device Directive – MDD 93/42/EEC
 * Other regulatory authorities as appropriate
- 
+
 
 ## Scope
 
@@ -128,6 +129,15 @@ Templates may contain charts, checklists, or other form of records as
 If a particular development project or customer request cannot be fulfilled by the existing procedures, quality plans are created to ensure that the specific requirements are met.  Quality plans are consistent with all other requirements of the Quality System.  Consideration shall be given to the resources or skills required to meet specified requirements whenever there is a significant change to an existing product, process, test, inspection, verification, and measurement.
 	
 The following key processes and interactions define the organizational structure and responsibilities of the Quality Management System.  
+
+```{eval-rst}
+.. figure:: ./media/OrganizationChart.png
+  :width: 100%
+  :name: Organization Chart
+  :caption:
+
+```
+
 
 ![Organization Chart](./media/OrganizationChart.png)
 
@@ -226,7 +236,7 @@ Management demonstrates its commitment to the development and implementation of 
 * Providing necessary resources
 
 ### Customer Focus
-   
+
 Company Management ensures that customer requirements and applicable regulatory requirements (needs and expectations) are understood and are met with the aim of enhancing customer satisfaction.  These are generally established within product requirements and specifications and within quality management system documentation.
 
 ### Quality Policy
@@ -769,7 +779,7 @@ The records required for traceability of implanted medical devices include recor
 The company requires that suppliers of distribution services or distributors maintain records of the distribution of implantable medical devices to allow traceability and that these records are available for inspection.
 
 Records of the name and address of the shipping package consignee are maintained.
- 
+
 ####   Customer Property
 
 The company has established documented procedures for preventing damage or deterioration to customer supplied materials through identification, handling, storage, packaging, preservation and delivery.  If any customer property is lost, damaged or otherwise found to be unsuitable for use, we shall report this to the customer and maintain records.
