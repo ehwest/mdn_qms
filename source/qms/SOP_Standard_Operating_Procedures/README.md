@@ -7,6 +7,25 @@ approvers:
 - github.com/bewest
 approval_date: "2020-10-01"
 ---
+# Standard Operating Procedures
+
+
+```{toctree}
+SOP_0001_Control_of_Quality_Records.md
+SOP_0002_Employee_Qualification_and_Training.md
+SOP_0003_Corrective_and_Preventative_action.md
+SOP_0004_Risk_and_Hazard_Management.md
+SOP_0005_Complaint_Handling.md
+SOP_0006_Medical_Device_Reporting.md
+SOP_0007_Access_Controls_to_Software.md
+SOP_0008_Gitflow_Tailoring.md
+SOP_0009_Semantic_Versioning.md
+SOP_0010_Configuration_Management.md
+SOP_0011_Performance_Management.md
+SOP_0012_Billing_Management.md
+SOP_0013_Release_And_Operations_docker-based.md
+```
+
 \pagebreak
 <center>**Introduction**</center>
 
