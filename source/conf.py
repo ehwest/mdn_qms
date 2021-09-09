@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Medical Data Networks Quality System'
-copyright = '2021, Ben West, Earle West'
-author = 'Ben West, Earle West'
+project = 'Medical Data Networks Quality Management System Description'
+copyright = '2021, Medical Data Networks, LLC.'
+author = 'Ben West'
 
 
 # -- General configuration ---------------------------------------------------
