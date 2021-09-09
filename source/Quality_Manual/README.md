@@ -15,23 +15,12 @@ This is the Medical Data Networks Quality Manual.
 ## Approvals
 
 
-**Approvals:**	
-
 Approving Signature|Name|Role|Date
 -------------------|----|----|---
 /s/ Ben West       |Ben West|CEO|9/1/2021
-/s/ Earle West     |Earle West|CQO|9/1/2021
-
-
-### Applicable Facility
-**Applicable Facility:**
-
-Medical Data Networks, LLC.,537 Montridge Ct.,Franklin, TN 37067 USA
-
 
 
 ## Purpose
-1. **PURPOSE**
 
 The purpose of this manual is to provide the foundation for the company’s Quality Management System.  This manual establishes the quality and regulatory policies, defines the authorities and responsibilities of management, and provides general description of all processes comprising the quality system.
 
@@ -103,28 +92,23 @@ Quality Policy|Statement by the organization of its intentions and principles in
 Supplier or Vendor|The organization that provides a product or service to an organization.
 
 
-## Quality Management System
+## Quality Management System Description
 
-### General Requirements
+### Overview
 
 The quality systems have been established, documented, implemented, and maintained to ensure the products and services produced meet the quality standards of the organization and are in compliance with relevant regulatory bodies.  Our organization has applied a risk based approach to the control of the appropriate processes needed for the Quality Management Sytstem (QMS).
 
 The Quality Management System is defined through a four level hierarchy:
 
-* **Quality Manual:** ++(This document is the Quality Manual)++ A First-level document that provides a general overview of the Quality System and defines the Quality Policy. 
+* **Quality Manual:** +(This document is the Quality Manual)+ A First-level document that provides a general overview of the Quality System and defines the Quality Policy. 
 
-* **Quality Policies and Procedures:** Second-level documents that provide more detailed explanation of the Quality System clauses and detail the structure of the Quality System.
+* **Quality Policies and Procedures:** Second-level documents that provide more detailed explanation of the Quality System clauses and detail the structure of the Quality System.  A collection of pointers to Quality Procedures is provided in Appendix (chapter 3).
 
-* **Standard Operating Procedures and Work Instructions** (sometimes referred to as  "Run Books"): Third-level documents that provide step-by-step instructions on how activities are to be carried out and the requirements of products produced.
+* **Standard Operating Procedures and Work Instructions** (sometimes referred to as  "Run Books"): Third-level documents that provide step-by-step instructions on how activities are to be carried out and the requirements of products produced.  These detailed documents are maintained separately on the Quality Management change control system, a git repository.
+Each of the Quality Management system process descriptions points to one or more "Run Books" in the git repository.
 
 * **Forms and Records:** Fourth-level documents or data that contain the information, charts, checklists, or other form of records as evidence to demonstrate conformance to specified requirements and the effective operation of the Quality System.
-Certain folders contain Templates and Records
-used in connection with the Procedures are separate from a definition
-of the procedures.  An appropriately labeled README.md file provides
-a link to individual templates.
-Templates may contain charts, checklists, or other form of records as
-    evidence to demonstrate conformance to specified requirements and
-    the effective operation of the Quality System.
+The Quality System Process documents point to folders that contain both templates and records of Quality System events.
 
 If a particular development project or customer request cannot be fulfilled by the existing procedures, quality plans are created to ensure that the specific requirements are met.  Quality plans are consistent with all other requirements of the Quality System.  Consideration shall be given to the resources or skills required to meet specified requirements whenever there is a significant change to an existing product, process, test, inspection, verification, and measurement.
 	
@@ -137,7 +121,6 @@ The following key processes and interactions define the organizational structure
   :caption:
 
 ```
-
 
 ![Organization Chart](./media/OrganizationChart.png)
 
@@ -153,7 +136,7 @@ For all outsourced processes that may affect conformance to requirements, the co
 
 The company has documented procedures for the validation of the application of computer software used in the QMS.  Such software is validated prior to initial use and, as appropriate, after change to the software or its applications.  The specific approach and associated activities shall be proportionate to the risk associated with the use of the software.  Records of such activities are maintained.
 
-### Documentation Requirements
+### QMS Documentation Requirements
 
 #### General
 
@@ -181,7 +164,7 @@ The company has established and maintains this document as the Quality Manual. I
 * Description and/or definition of procedures established for the quality management system.
 * A description of the interactions between the processes of the quality management system.
 
-##### Device Master Records (DMR)
+#### Device Master Records (DMR)
 
 For each medical device type or medical device family, we have established and maintain one or more files containing or referencing documents generated to demonstrate conformity to the requirement of ISO 13485 and applicable regulatory requirements.  The content of the file(s) includes:
 
@@ -194,7 +177,7 @@ For each medical device type or medical device family, we have established and m
 * Procedures for measuring and monitoring
 
 
-##### Control of Document
+#### Control of Documents
 
 The company has established and maintains procedures to control all documentation and data related to the requirements of the applicable regulatory standards, including external documents, such as standard and electronic media.  These procedures define the controls for:
 
@@ -212,7 +195,7 @@ The company has established and maintains procedures to control all documentatio
 
 * The prevention of inadvertent use of obsolete documentation
 
-##### Control of Records 
+#### Control of Records 
 
 It is the responsibility of all personnel to keep records of all work or operations performed in the format prescribed by the various policies and procedures in the quality system.  All records shall contain the date of creation and the person responsible for their creation.  All records shall be made in a permanent and legible manner and changes to a record shall remain identifiable.  Controls necessary for the identification, storage, protection, retrieval, retention time, and disposition of records shall be included within the documented procedure requiring the record.  Methods for protecting confidential health information contained in records shall be defined and implemented. 
 
@@ -265,7 +248,7 @@ The company has identified the following Quality Objectives.  These objectives w
 * Define and monitor metrics of effectiveness for key elements of the business and utilize the data to effectively manage and drive improvement with emphasis on Customers, Products, Services, and Stakeholders.
 
 
-##### Quality Management System Planning
+#### Quality Management System Planning
 
 Management ensures that the planning of the Quality Management System is implemented by appropriate management and carried out by all employees in order to meet the requirements provided in this manual. Management also ensures the integrity of the Quality Management System is maintained when changes to the Quality Management System are planned and implemented.  
 
@@ -960,7 +943,7 @@ The company has established and maintains documented procedures to implement pre
 Records of the results of any investigations and of actions taken are maintained.
 
 
-## APPENDIX: REGULATORY REQUIREMENT REFERENCE
+# APPENDIX: REGULATORY REQUIREMENT REFERENCE
 
 This appendix enumerates applicable regulatory requirements and provides
 a link for each to an applicable document in this Quality Management System.
@@ -1230,7 +1213,7 @@ Safety and Effectiveness Requirements|QP-0002
 Labeling Requirements|QP-0006
 
 
-## APPENDIX: Quality System Quick Access Facility
+# APPENDIX: Quality System Quick Access Facility
 
 This appendix enumerates each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
 The state of the approval for each such document is provided.
@@ -1272,7 +1255,7 @@ The state of the approval for each such document is provided.
 |[QP-0030 R1](QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)| Canadian Medical Device Regulations Procedure|N/A | Not defined yet|
 
 
-## REVISION HISTORY
+# REVISION HISTORY
 
 This Quality Manual is subject to change.
 Major revisions are enumerated below.   
