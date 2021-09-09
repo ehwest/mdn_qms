@@ -16,6 +16,8 @@ Approving Signature|Name|Role|Date
 
 # Introduction
 
+## Purpose
+
 The purpose of this manual is to provide the foundation for the company’s Quality Management System.  This manual establishes the quality and regulatory policies, defines the authorities and responsibilities of management, and provides general description of all processes comprising the quality system.
 
 The Quality Management System complies with the following domestic and international regulations and standards:
@@ -42,12 +44,23 @@ including the following activities.
 By "cloud based" we mean that subscribers are enabled to receive
 the benefits of certain operating software applications, but do not carry or own any
 part of the servers, and/or database device(s) necessary to deliver features and functions
-of the product.  Subscribers are required to provide their own
+of the product.  
+
+Subscribers are required to provide their own
 internet (cloud) access arrangements to access the cloud based applications.
+
+In the case of "T1Pal" the subscriber must provide a known-working on-line access to
+the cloud device using a "browser" having an ïnternet connection. The browser
+may be configured on any of several types of devices that "act like a modern browser."
+
+In this context, for subscribers to access the "CoPilot" features and benefits,
+the subscriber must have a qualified iPhone device.
+
 We take the FDA's definition of "software" to mean "device" for the
 purpose of regulatory compliance.
 
-This Quality Manual applies to the following facility:
+This Quality Manual applies to the following facility where construction, testing, and distribution  of the 
+(software) device is carried out.:
 
     Medical Data Networks, LLC.,  537 Montridge Ct., Franklin, TN  37067
 
@@ -62,6 +75,7 @@ The following applicability **exclusions** apply:
 * Sterilization Requirement and Processes (ISO Clause 7.5.5 & 7.5.7) – Our are not provided or distributed sterile products or utilize sterile processes.  
 
 * Implantable Medical Devices (ISO Clause 7.5.9.2 & 8.2.6 Partial) – We do not provide or distribute implantable products.
+
 
 ## Terms and Definitions
 
@@ -84,36 +98,6 @@ Proposal|Offer or quote made by an organization in response to a request for a q
 Quality Policy|Statement by the organization of its intentions and principles in relation to its overall quality performance which provides a framework for action and for setting the organization’s quality objectives and targets.
 Supplier or Vendor|The organization that provides a product or service to an organization.
 
-This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC.
-More specifically, the QMS system used to deliver operating "T1Pal"and "CoPilot" software (...as an FDA device).  
-
-This particular document provides a complete overview of the Quality Management System (QMS) used 
-by Medical Data Networks LLC. 
-This QMS system is intended to be used to efficiently deliver certain software services (...as an FDA devices).  
-"T1Pal" and "CoPilot" are the names of products currently being delivered by this QMS system.
-This QMS system is a document-based quality management system.
-
-
-The present Quality Management System (QMS) is specifically intended to achieve and sustain alignment with FDA rules.
-The rules are generally categorized as follows:
-
-1. General Regulatory Controls (including Common Good Management Practice, CGMP) of the FDA for medical devices.
-2. "Special Controls" of the FDA that are applicable to T1Pal and/or any other product of Medical Data Networks, LLC..
-3. "Appropriate Validations" applicable to T1Pal and/or any other product of Medical Data Networks, LLC.
-
-**"Special Controls"** has further been defined by the FDA as follows:
-
-    A. Devices must protect against unauthorized access to and modification of data.
-
-    B. Device labeling must display the following warnings and limitations:
-
-        1.  **Dosing decisions should not be made based on this device.**
-
-        2.  **The user should follow instructions on the continuous glucose monitoring system.**
-
-        3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
-
-
 ## Folder and File Organization
 
 [FDA Rules](https://www.fda.gov/medical-devices/classify-your-medical-device/class-i-ii-exemptions) 
@@ -132,6 +116,7 @@ Three types of files are provided to registered users:
 
 One or more files are provided within each  QMS folder, and altogether these folders
 and files capture the authoritative description of the QMS.  
+
 Note that within each and every folder listed below, 
 a special README.md file is included.  
 The README.md file in each folder is intended to 
@@ -166,8 +151,6 @@ The git "master" branch of the git repository is the authoritative, approved, op
 Individuals may opt to "clone" the entire repository for local off-line reference, and/or may periodically synchronize their own local copy with the controlled "master" branch controlled repository.
 
 A globally unique and immutable electronic "hash" signature computed upon change to any aspect of the Quality Management System is used by the github storage system may be used to determine that a copy of the repository is (and all of the files within it are) identical to the "master" branch of the Quality Management System repository.
-
-  * [QMSD-0001_R1 Quality Management System Description -- THIS DOCUMENT](./README.md)
 
     * [QP-0001_R1 Quality_Manual -- Processes In Scope ](./Quality_Manual/README.md)
       *  [QP-0002_R1_Design_Control_Process](./Quality_Manual/QP-0002_R1_Design_Control_Process.md)
@@ -226,12 +209,8 @@ A globally unique and immutable electronic "hash" signature computed upon change
 
 # Quality System Requirements
 
-Web-site content (and/or any distributed promotional information) for the T1Pal and/or CoPilot  "device"
-is expected to meet all labelling requirements.
-
-However, "protections against unauthorized access to and modification of data" is provided by T1Pal and CoPilot features and functions that must be validated.
-For this reason, this QMS includes "Product Definition", "Product Development", and "System Design"
-sections needed to convey how this achievement is accomplished and validated.
+This QMS includes "Product Definition", "Product Development", and "System Design"
+sections as needed to convey how T1Pal and CoPilot service delivery is accomplished and validated.
 The present Quality Management System (QMS) is specifically designed to achieve and sustain the following goals.
 
 1. Registration of T1Pal and CoPilot with the FDA
@@ -251,34 +230,11 @@ In this environment, **"Special Controls"** has been defined by the FDA as follo
   
         3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
-
-Web-site content (and/or any distributed promotional information) for the T1Pal "device" 
-is expected to meet all labelling requirements.
-
-However, "protections against unauthorized access to and modification of data" is provided by T1Pal features and functions that must be validated.
-For this reason, this QMS includes "Product Definition", "Product Development", and "System Design" 
-sections needed to convey how this achievement is accomplished and validated.
-
-The order of the folders and files of the QMS system is not intended to convey any particular meaning, except that as a whole, the folders, documents, and their links within this QMS "git" management system capture the complete definition of the QMS.
-
-Within each document in the system, helpful (but not required) metadata is included within the file identifying the repository root, folder name, and file name. This practice is only intended to facilitate automated assembly and export of Quality Management System documents for casual use. 
-
-Authoritative and controlling Quality Management System documents are available for exraction from the Quality Management System repository, and once they are extracted, the copies should not be considered authoritative and/or controlling.
-
-Only the repository "master" branch contains authoritative and/or controlling files.  Other branches may be defined for the purposes of review and testing of the QMS system itself.
-
-The git "master" branch of the git repository is the authoritative, approved, operational set of documents that make up the Quality Management System for Medical Data Networks, LLC.
-
-Individuals may opt to "clone" the entire repository for local off-line reference, and/or may periodically synchronize their own local copy with the controlled "master" branch controlled repository.
-
-A globally unique and immutable electronic "hash" signature computed upon change to any aspect of the Quality Management System is used by the github storage system may be used to determine that a copy of the repository is (and all of the files within it are) identical to the "master" branch of the Quality Management System repository.
-
-This conveniently enables all consumers of the Quality Management System data procesing tools to determine whether or not they have an exact copy of all of the applicable documents. It also enables convenient read-only access to all incremental changes to any file that is part of the Quality Management System electronic record set. This ensures compliance with FDA Part 11 regulations for audit trail capabilities.
+This conveniently enables all users of the Quality Management System data procesing tools to determine whether or not they have an exact copy of all of the applicable documents. It also enables convenient read-only access to all incremental changes to any file that is part of the Quality Management System electronic record set. This ensures compliance with FDA Part 11 regulations for audit trail capabilities.
 
 # Change Control
 
-
-Note that the each and every one of the above folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  
+Each and every one of the Quality System folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  
 
 The integrity and traceability of all changes to the Quality Management system is maintained in a "git" repository having its document root located here:  https://github.com/ehwest/mdn_qms. It should be noted that the "master" branch of this repository is the current operational repository of the QMS.  Other branches may be used to draft and test changes to the QMS, but are not further described within the QMS.
 
@@ -295,14 +251,15 @@ All documents created or owned by Medical Data Network's employees are considere
 
 # Responsibilities
 
-1. The CEO and VP-level employees are responsible for overseeing and maintaining this QMS under QMS change-control procedures, and for assuring that all employees are trained in its applicable requirements.
-2. It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this QMS.
+The CEO and VP-level employees are responsible for overseeing and maintaining this QMS under QMS change-control procedures, and for assuring that all employees are trained in its applicable requirements.
 
-The quality systems have been established, documented, implemented, and maintained to ensure the products and services produced meet the quality standards of the organization and are in compliance with relevant regulatory bodies.  Our organization has applied a risk based approach to the control of the appropriate processes needed for the Quality Management Sytstem (QMS).
+It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this QMS.
+
+The Medical Data Networks, LLC quality system has been established, documented, implemented, and maintained to ensure the products and services produced meet the quality standards of the organization and are in compliance with relevant regulatory bodies.  Our organization has applied a risk based approach to the control of the appropriate processes needed for the Quality Management Sytstem (QMS).
 
 The Quality Management System is defined through a four level hierarchy:
 
-* **Quality Manual:** +(This document is the Quality Manual)+ A First-level document that provides a general overview of the Quality System and defines the Quality Policy. 
+* **Quality Manual:** _(This document is the Quality Manual)_ A First-level document that provides a general overview of the Quality System and defines the Quality Policy. 
 
 * **Quality Policies and Procedures:** Second-level documents that provide more detailed explanation of the Quality System clauses and detail the structure of the Quality System.  A collection of pointers to Quality Procedures is provided in Appendix (chapter 3).
 
@@ -356,15 +313,13 @@ The Quality Management System includes:
 
 All management affected by the controlled documents are responsible to ensure that their personnel are adequately informed and trained, as necessary, to ensure the proper implementation of the procedures. Procedures and records may be created and/or maintained in the form of paper copy, electronic copy, or in other media as deemed appropriate.
 
-## This Is the Quality Manual
-
 The company has established and maintains this document as the Quality Manual. It includes:
 
 * The scope of the quality management system.
 * Description and/or definition of procedures established for the quality management system.
 * A description of the interactions between the processes of the quality management system.
 
-### Device Master Records (DMR)
+## Device Master Records (DMR)
 
 For each medical device type or medical device family, we have established and maintain one or more files containing or referencing documents generated to demonstrate conformity to the requirement of ISO 13485 and applicable regulatory requirements.  The content of the file(s) includes:
 
@@ -377,7 +332,7 @@ For each medical device type or medical device family, we have established and m
 * Procedures for measuring and monitoring
 
 
-### Control of Documents
+## Control of Documents
 
 The company has established and maintains procedures to control all documentation and data related to the requirements of the applicable regulatory standards, including external documents, such as standard and electronic media.  These procedures define the controls for:
 
@@ -395,7 +350,7 @@ The company has established and maintains procedures to control all documentatio
 
 * The prevention of inadvertent use of obsolete documentation
 
-### Control of Records 
+## Control of Records 
 
 It is the responsibility of all personnel to keep records of all work or operations performed in the format prescribed by the various policies and procedures in the quality system.  All records shall contain the date of creation and the person responsible for their creation.  All records shall be made in a permanent and legible manner and changes to a record shall remain identifiable.  Controls necessary for the identification, storage, protection, retrieval, retention time, and disposition of records shall be included within the documented procedure requiring the record.  Methods for protecting confidential health information contained in records shall be defined and implemented. 
 
@@ -422,7 +377,7 @@ Management demonstrates its commitment to the development and implementation of 
 
 Company Management ensures that customer requirements and applicable regulatory requirements (needs and expectations) are understood and are met with the aim of enhancing customer satisfaction.  These are generally established within product requirements and specifications and within quality management system documentation.
 
-## Quality Policy
+### Quality Policy
 
 The *Quality Policy* is established by management with executive responsibility.  The company quality policy is stated below and is communicated throughout the organization to ensure commitment to quality within the organization.  The quality policy provides a framework for establishing and reviewing quality objectives and is reviewed periodically for continued effectiveness.
 
@@ -570,7 +525,7 @@ As appropriate, the organization has planned and documented arrangements for the
 
 # **Product Realization**
 
-The quality planning requirements for individual development projects, related processes and supporting documentation are described in the procedures for each process, for example, the design control procedure, supplier qualification procedure and other process procedures.  The company has developed a documented risk management procedure and maintains records of risk management activities.
+The quality planning requirements for individual development projects, related processes and supporting documentation are described in the procedures for each of several well-defined process, for example, the design control procedure, supplier qualification procedure and other process procedures.  The company has developed a documented risk management procedure and maintains records of risk management activities.
 
 
 The quality planning process, when initiated, shall provide for the following:
