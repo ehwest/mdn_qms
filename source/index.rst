@@ -14,8 +14,6 @@ Welcome to Medical Data Networks Quality System's documentation!
 
    Quality_Manual/README.md
 
-   appendix/README.md
-
 .. sectnum::
 
 
