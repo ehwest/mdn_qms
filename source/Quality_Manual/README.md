@@ -4,15 +4,15 @@
 
 **Medical Data Networks Quality Manual**
 
-Document Number|Title|Revision|Effective|Owner
+Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|---|----|-----
-QM-0001|Quality Manual|R 1|9/1/2021|/s/ Ben West
+QM-0001|Quality Manual|9/16/2021|/s/ Ben West
 
 **Approvals**
 
 Approving Signature|Name|Role|Date
 -------------------|----|----|---
-/s/ Ben West       |Ben West|CEO|9/1/2021
+/s/ Ben West       |Ben West|CEO|9/15/2021
 
 # Introduction
 
@@ -161,6 +161,16 @@ The following applicability **exclusions** apply:
 * Implantable Medical Devices (ISO Clause 7.5.9.2 & 8.2.6 Partial) – We do not provide or distribute implantable products.
 
 
+
+## Responsibilities
+
+The CEO and VP-level employees are responsible for overseeing and maintaining this QMS under QMS change-control procedures, and for assuring that all employees are trained in its applicable requirements.
+## License
+
+All documents that are part of the Medical Data Networks LLC repository are either licensed to Medical Data Networks LLC and/or are the private property of Medical Data Networks LLC.
+
+All documents created or owned by Medical Data Network's employees are considered proprietary trade secrets and are not for disclosure outside of Medical Data Networks LLC, without specific written permission of an officer of Medical Data Networks LLC.
+
 ## Terms and Definitions
 
 Term|Definition
@@ -184,8 +194,12 @@ Supplier or Vendor|The organization that provides a product or service to an org
 
 # Quality System Requirements
 
+## Product Definition, Design, Development, and Validation.
+
 This QMS includes "Product Definition", "Product Development", and "System Design"
-sections as needed to convey how T1Pal and CoPilot service delivery is accomplished and validated.
+sections as needed to convey how services of "T1Pal" and "CoPilot" are designed, delivered, and validated
+consistent with applicable rules.
+
 The present Quality Management System (QMS) is specifically designed to achieve and sustain the following goals.
 
 1. Registration of T1Pal and CoPilot with the FDA
@@ -207,7 +221,7 @@ In this environment, **"Special Controls"** has been defined by the FDA as follo
 
 This conveniently enables all users of the Quality Management System data procesing tools to determine whether or not they have an exact copy of all of the applicable documents. It also enables convenient read-only access to all incremental changes to any file that is part of the Quality Management System electronic record set. This ensures compliance with FDA Part 11 regulations for audit trail capabilities.
 
-# Change Control
+## Change Control
 
 Each and every one of the Quality System folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  
 
@@ -215,18 +229,6 @@ The integrity and traceability of all changes to the Quality Management system i
 
 As such, all documents and artifacts that are part of the Quality Management System are subject to change-control procedures such that each and every change to the Quality Management System documentation is tracked by explicit versioning enforced by the git repository system.
 
-
-# License
-
-
-All documents that are part of the Medical Data Networks LLC repository are either licensed to Medical Data Networks LLC and/or are the private property of Medical Data Networks LLC.
-
-All documents created or owned by Medical Data Network's employees are considered proprietary trade secrets and are not for disclosure outside of Medical Data Networks LLC, without specific written permission of an officer of Medical Data Networks LLC.
-
-
-# Responsibilities
-
-The CEO and VP-level employees are responsible for overseeing and maintaining this QMS under QMS change-control procedures, and for assuring that all employees are trained in its applicable requirements.
 
 It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this QMS.
 
@@ -270,7 +272,7 @@ For all outsourced processes that may affect conformance to requirements, the co
 
 The company has documented procedures for the validation of the application of computer software used in the QMS.  Such software is validated prior to initial use and, as appropriate, after change to the software or its applications.  The specific approach and associated activities shall be proportionate to the risk associated with the use of the software.  Records of such activities are maintained.
 
-# The Quality Management System At Work
+# The Quality Management System Structure
 
 The responsibility to develop and effectively implement quality system procedures is held by the designated owner for each policy procedure or SOP as determined by management.  Procedure details depend upon the complexity of the work, methods used, and the skills and training needed by personnel to carry out the activity. 
 
@@ -713,192 +715,6 @@ goals.
 ###   Design and Development Files
 
 The company maintains a design and development file for each medical device type or medical device family.  This file includes or references records generated to demonstrate conformity to the requirements for design and development and records for design and development changes.
-
-# Purchasing
-
-The company has established and maintains procedures to ensure that purchased products or services conform to specified information.  We establish criteria for the evaluation and selection of suppliers based upon the performance of the supplier, the effect of the purchased product on the quality of the medical device, and risk associated with the medical device.
-
-The company plans the monitoring and re-evaluation of supplier.  Supplier performance in meeting requirements for the purchased product is monitored.  The results of the monitoring provide an input into the supplier re-evaluation process.
-
-Non-fulfillment of purchasing requirements shall be addressed with the supplier proportionate to the risk associated with the purchased product and compliance with applicable regulatory requirements.  Supplier performance is monitored, and actions are taken as necessary to address any failure to meet specified requirements.  These actions may include disqualification of the supplier.
-
-Records of the results of evaluation, selection, monitoring, re-evaluation of supplier capability or performance and any necessary actions arising from these activities is maintained.
-
-##  Purchasing Information
-
-Purchasing documents clearly and completely describe or reference ordered products.   Purchasing documents clearly define, including as appropriate:
-
-* Product specifications
-* Requirements for product acceptance, procedures, processes, and equipment
-* Requirements for qualification of supplier personnel
-* Quality Management System requirements
-
-Purchasing reviews and approves all purchasing data for adequacy and completeness prior to communication to suppliers.  
-Purchasing information includes, as applicable, a written agreement that the supplier notify us of changes in the purchased product prior to implementation of any changes that affect the ability of the purchased product to meet specified purchase requirements
-
-The Management Representative has the responsibility to work with
-other departments to ensure that adequate internal communication
-exists concerning the effectiveness and implementation of the Quality
-Management System.
-
-Methods for internal communication include:
-
-Where required for traceability purposes, purchasing information is maintained.
-
-## Verification of Purchased Product
-
-The company shall establish and implement the necessary inspection activities to ensure that purchased product meets specified purchase requirements.  The extent of verification activities shall be based on the supplier evaluation results and proportionate to the risk associated with the purchased product.
-
-When we become aware of any changes to the purchased product, we will determines whether these changes affect the product realization process or the medical device.
-
-When verification of purchased product is required at the supplier’s premises (source inspection), purchasing documents will define the verification arrangements and the method of quality release.
-
-Records of purchased product verification are maintained.
-
-## Production and Service Provision
-
-Production and service provision is planned, carried out, monitored, and controlled to ensure that product conforms to specification.  As appropriate, product control include but are not limited to:
-
-* Documentation of procedures and methods for the control of production
-
-* Qualification of infrastructure
-
-* Implementation of monitoring and measurement of process parameters and product characteristics; availability and use of monitoring and measuring equipment
-
-* Availability and use of monitoring and measurement equipment
-
-* Implementation of measuring processes where required to assure product quality
-
-* Implementation of suitable release, delivery and post-delivery activities
-
-* Implementation of defined operations for labeling and packaging
-
-Records are maintained for each medical device or batch of medical devices produced as necessary to meet traceability requirements.  These records identify the amount of product manufactured and approved for distribution.  These records are reviewed and approved.
-
-##  Cleanliness of Product and Contamination Control
-
-The company documents requirements for cleanliness of product or contamination control of product if:
-
-* Product is cleaned by the organization prior to sterilization or its use
-
-* Product is supplied non-sterile and is to cleaned prior to sterilization or its use
-
-* Product cannot be cleaned prior to sterilization or its use, and its cleanliness is of significance in use
-
-* Product is supplied to be used non-sterile, and its cleanliness is of significance in use
-
-* Process agents are to be removed from product during manufacture
-
-If product is cleaned in accordance with the 1st two bullets, the requirements contained 6.4.1 do not apply prior to the cleaning process.
-
-Notwithstanding these generic requirements, all of the software (as a device) products provided
-by this company are operated in a private data center and are not physically delivered
-to any customer or subscriber.  There is no need for cleaning or sterilization  any physical device.
-
-##  Installation Activities
-
-The company documents requirements for medical device installation and acceptance criteria for verification of installation, as appropriate.
-
-If installation activities are performed by an external party, we provide documented requirements for the medical device installation and verification of installation.
-
-All records of installation activities and verification of installation performed by us or our suppliers are maintained.
-
-##  Servicing Activities
-
-If servicing activities are a specified requirement, the company documents servicing procedures, reference materials, and reference measurements, as necessary, for performing servicing activities and verifying that product requirement are met.
-
-The company analyses records of servicing activities carried out by us or our suppliers to determine if the information is to be handled as a complaint and/or as appropriate, for input to the corrective and preventative action process.
-
-All records of servicing activities performed by us or our suppliers are maintained.
-
-##  Particular Requirements for Sterile Medical devices
-
-All records of sterilization process parameters used for each sterilization batch are maintained and traceable to each production batch of medical devices.
-
-The output from management review meetings may include decisions and
-actions relating to:
-
-* Improvement needed to maintain the suitability, adequacy, and
-effectiveness of the Quality Management System and its procedures
-
-* Improvement of the product, services, training, infrastructure, work
-environment, and other processes
-
-* Changes needed to respond to applicable new or revised regulatory
-requirements
-
-As discussed above, notwithstanding these generic requirements, all of the software (as a device) products provided
-by this company are operated in a private data center and are not physically delivered
-to any customer or subscriber.  There is no need for cleaning or sterilization  any physical device.
-
-##  Validation of Processes for Production and Service Provision
-
-The company validates processes for production and service provision where the resulting output cannot be or is not verified by subsequent monitoring or measurement.  This includes any processes where, as a consequence, deficiencies become apparent only after the product is in use or the service has been delivered.  Validation demonstrates the ability of these processes to achieve planned results consistently.  Validation procedures are documented and include, where applicable:
-
-* Defined criteria for review and approval of the processes
-* Equipment qualification and qualification of personnel
-* Use of specific methods, procedures, and acceptance criteria
-* As appropriate, statistical techniques with rational for samples sizes
-* Requirement for records and revalidation, including criteria for revalidation
-* Software that may affect conformance to requirements
-* Records of validation shall be maintained
-
-The company documents procedures for the validation of the application of computer software sued in production and service provision. Such software applications are validated prior to initial use and, as appropriate, after changes to such software or its application.  The specific approach and activities associated with software validation and revalidation are proportionate to the risk associated with the use of the software, including the effect on the ability of the product to conform to specifications.
-Records of the results and conclusions of validation and necessary actions from the validation are maintained.
-
-##  Particular Requirements for Validation of Processes for Sterilization and Sterile Barrier Systems
-
-The company documents procedures for the validation of processes for sterilization and sterile barrier systems.  Processes for sterilization and sterile barriers systems are validated prior to implementation and following product or process changes, as appropriate.
-
-Records of the results and conclusion of validation and necessary actions from the validation are maintained.
-
-##  Identification
-
-The company has implemented documented procedures for product identification and identify product by suitable means throughout product realization.  Product is identified with respect to monitoring and measurement requirements though product realization.  Identification of product is maintained throughout production, storage, installation, servicing of product to ensure that only product that has passed the required inspections and tests or released under an authorized concession is dispatched, used, or installed.
-
-If required by applicable regulatory requirements, we shall document a system to assign unique device identification to the medical device.  We document procedures to ensure that medical devices returned to the organization are identified and distinguished from conforming product.
-
-##  Traceability
-
-Documented procedures define procedures for traceability.  These procedures define the extent of traceability in accordance with applicable regulatory requirements and the records are maintained.
-
-###   Particular Requirements for Implantable Medical Devices
-
-The records required for traceability of implanted medical devices include records of components, materials, and conditions for the work environment used, if these could cause the medical device not to satisfy its specified safety and performance requirements.
-
-The company requires that suppliers of distribution services or distributors maintain records of the distribution of implantable medical devices to allow traceability and that these records are available for inspection.
-
-Records of the name and address of the shipping package consignee are maintained.
-
-###   Customer Property
-
-The company has established documented procedures for preventing damage or deterioration to customer supplied materials through identification, handling, storage, packaging, preservation and delivery.  If any customer property is lost, damaged or otherwise found to be unsuitable for use, we shall report this to the customer and maintain records.
-
-###   Preservation of Product
-
-Management maintains responsibility for infrastructure needed to
-produce quality products and services and documented the requirements
-for the work environment needed to achieve conformity to product
-requirements, prevent product mix-up, and ensure orderly handling
-product. Infrastructure includes:
-
-The company has established documented procedures for preserving the conformity of product to requirements during processing, storage, handling, and distribution.  Preservation shall apply to the constituent parts of a medical device.  We protect product from alteration, contamination, or damage when exposed to expected conditions and hazards during processing, storage, handling, and distribution by designing and constructing suitable packaging and shipping containers and documenting requirements for special conditions needed if packaging alone cannot provide preservation.  If special conditions are required, they shall be controlled and recorded.  
-
-### Control of Monitoring and Measuring Equipment
-
-All monitoring and measurement equipment, comparative references (such as gauges and templates), and test equipment used in the inspection of product, validation of the product, or the validation of production processes are calibrated and maintained within the Calibration Program.  Instruments used for purposes other than product inspections or control of production processes are exempted from the Calibration Program.  Calibration and verification is completed in accordance with documented procedures.
-
-As necessary to ensure valid results, measuring equipment is:
-
-* Calibrated or verified, or both, at specified intervals, or prior to use, against measurement standards traceable to international or national measurement standards.  When no such standard exists, the basis used for calibration or verification shall be recorded.
-* Adjusted or re-adjusted as necessary.  Such adjustments or re-adjustments shall be recorded.
-* Identified in order to determine it calibration status
-* Safeguarded from adjustments that would invalidate the measurement result
-* Protected from damage and deterioration during handling, maintenance, and storage.
-
-In addition, we assess and record the validity of past measurement results when equipment is found not to conform to requirements and take appropriate actions in regard to the equipment and any product affected.  Records of calibration and verification activities are maintained.
-
-The company has documented procedures for the validation of the application of computer software used for the monitoring and measurement of requirements.  Such software application shall be validated prior to initial use and, as appropriate, after changes to such software or its application.  The specific approach and activities associated with software validation and revalidation shall be proportionate to the risk associated with the use of the software, including the effect on the ability of the product to conform to specifications. Records of the results and conclusion of validation and necessary actions from the validation shall be maintained.
 
 # Measurement, Analysis, and Improvement 
 
@@ -1354,11 +1170,14 @@ The state of the approval for each such document is provided.
 # Revision History
 
 This Quality Manual is subject to change.
+
 Major revisions are enumerated below.   
-The "latest" and only official version is found in the github document management system governs all QMS activity.
+Because the git repository for all QMS documents is github and github provides by default the latest
+official version,  version tracking is built into the system.
+By downloading a copy of the Quality Manual and and/or any of the procedures, you are guaranteed to have the latest version.
 
 REV #|Doc ID|Effective Date|Description of Change
 -----|------|--------------|---------------------
-01   | Quality Manual| 12/17/2014|Initial Release of the Quality Manual
+01   | Quality Manual| 9/15/2021|Initial Release of the Quality Manual
 
 
