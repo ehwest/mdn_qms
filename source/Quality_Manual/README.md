@@ -5,8 +5,8 @@
 **Medical Data Networks Quality Manual**
 
 Document Number|Title|Effective|Owner
----------------|-------------------------------------|---|----|-----
-QM-0001|Quality Manual|9/16/2021|/s/ Ben West
+---------------|-------------------------------------|---------|--------
+QM-0001        |Quality Manual                       |9/16/2021|/s/ Ben West
 
 **Approvals**
 
@@ -53,7 +53,7 @@ All of these files are managed in a collection of folders, making it easy to bro
 
 A "README.md" file in each folder is intended to 
 provide a link to the files in the folder and an overview of all of the files within the QMS folder.
-The root of this Quality Mangement System is QP-0001_R1 --this document--
+The root of this Quality Mangement System is QP-0001_R1 *(this document)*
 This Quality Manual itself is labelled "README.md" within the Quality_Manual folder.
 
 With the same Quality_Manual folder, we store the process descriptions for each of
@@ -64,7 +64,7 @@ In yet another "Quality_Manual_Records" folder, Quality Records are kept (unless
 
 Here is a list of all of the Quality System procedures together with a link to the .md content file.
 
-* [QP-0001_R1 Quality_Manual -- Processes In Scope *this document* ](./Quality_Manual/README.md)
+* [QP-0001_R1 Quality_Manual -- Processes In Scope *(this document)* ](./Quality_Manual/README.md)
   *  [QP-0002_R1_Design_Control_Process](./Quality_Manual/QP-0002_R1_Design_Control_Process.md)
   *  [QP-0003_R1_Document_Control_Process](./Quality_Manual/QP-0003_R1_Document_Control_Process.md)
   *  [QP-0004_R1_Training_and_Competency_Process](./Quality_Manual/QP-0004_R1_Training_and_Competency_Process.md)
@@ -156,7 +156,7 @@ The company has undertaken the following roles:
 
 The following applicability **exclusions** apply:
 
-* Sterilization Requirement and Processes (ISO Clause 7.5.5 & 7.5.7) – Our are not provided or distributed sterile products or utilize sterile processes.  
+* Sterilization Requirement and Processes (ISO Clause 7.5.5 & 7.5.7) – are not provided or distributed sterile products or utilize sterile processes.  
 
 * Implantable Medical Devices (ISO Clause 7.5.9.2 & 8.2.6 Partial) – We do not provide or distribute implantable products.
 
@@ -174,7 +174,7 @@ All documents created or owned by Medical Data Network's employees are considere
 ## Terms and Definitions
 
 Term|Definition
--------------------------|--------------------------------------------------------------
+----------------------------------|--------------------------------------------------------------
 Appropriate Management|CEO, COO, President, Vice Presidents, Directors, Managers, Team Leaders.
 Continual improvement|Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
 Controlled Document|Any document that affects the quality of the product and is reviewed and approved prior to release for use or reference.
@@ -196,11 +196,14 @@ Supplier or Vendor|The organization that provides a product or service to an org
 
 ## Product Definition, Design, Development, and Validation.
 
-This QMS includes "Product Definition", "Product Development", and "System Design"
-sections as needed to convey how services of "T1Pal" and "CoPilot" are designed, delivered, and validated
-consistent with applicable rules.
+This QMS includes "Product Definition", "Product Design", "Development", and "Validation"."
+sections as needed to convey how cloud-based operating software services (FDA "devices")  "T1Pal" and "CoPilot" are created, delivered, and validated consistent with applicable rules.
 
-The present Quality Management System (QMS) is specifically designed to achieve and sustain the following goals.
+## Alignment With Rules
+
+The present Quality Management System (QMS) is specifically designed to achieve and sustain the alignment of MDN 
+services and/or software "devices" to applicable rules.
+The applicable rules are:
 
 1. Registration of T1Pal and CoPilot with the FDA
 2. Meet FDA-defined "Special Controls" for T1Pal and CoPilot Operations
@@ -219,9 +222,13 @@ In this environment, **"Special Controls"** has been defined by the FDA as follo
   
         3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
-This conveniently enables all users of the Quality Management System data procesing tools to determine whether or not they have an exact copy of all of the applicable documents. It also enables convenient read-only access to all incremental changes to any file that is part of the Quality Management System electronic record set. This ensures compliance with FDA Part 11 regulations for audit trail capabilities.
-
 ## Change Control
+
+The change control mechanism built into the QMS system, particularly the
+github repository service, enables all users of the Quality Management System data procesing tools to determine whether or not they have an exact copy of all of the applicable documents. 
+It also enables convenient read-only access to all incremental changes to any file that is part of the Quality Management System electronic record set. 
+This ensures compliance with FDA Part 11 regulations for audit trail capabilities.
+
 
 Each and every one of the Quality System folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  
 
@@ -278,7 +285,7 @@ The responsibility to develop and effectively implement quality system procedure
 
 The Quality Management System includes:
 
-* Quality Manual (this document)
+* Quality Manual *(this document)*
 
 * Documented Quality Policy and Objectives
 
@@ -295,19 +302,6 @@ The company has established and maintains this document as the Quality Manual. I
 * The scope of the quality management system.
 * Description and/or definition of procedures established for the quality management system.
 * A description of the interactions between the processes of the quality management system.
-
-## Device Master Records (DMR)
-
-For each medical device type or medical device family, we have established and maintain one or more files containing or referencing documents generated to demonstrate conformity to the requirement of ISO 13485 and applicable regulatory requirements.  The content of the file(s) includes:
-
-* General description of the medical device, intended use/purpose, and labeling, including any instructions for use
-
-* Specifications for the product
-
-* Specifications or procedure for manufacturing, packaging, storage, handling, and distribution
-
-* Procedures for measuring and monitoring
-
 
 ## Control of Documents
 
@@ -362,6 +356,18 @@ The *Quality Policy* is established by management with executive responsibility.
 **Every employee accepts responsibility for the quality of our processes and medical devices.** 
 
 This is achieved by continuously improving designs, implementing efficient procedures, and partnering with suppliers to meet or exceed the expectations of our customers, and satisfy the requirements of our quality system and appropriate regulations.
+
+## Device Master Records (DMR)
+
+For each medical device type or medical device family, we have established and maintain one or more files containing or referencing documents generated to demonstrate conformity to the requirement of ISO 13485 and applicable regulatory requirements.  The content of the file(s) includes:
+
+* General description of the medical device, intended use/purpose, and labeling, including any instructions for use
+
+* Specifications for the product
+
+* Specifications or procedure for manufacturing, packaging, storage, handling, and distribution
+
+* Procedures for measuring and monitoring
 
 # Quality Objectives and Planning
 
