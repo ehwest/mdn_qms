@@ -1,6 +1,6 @@
 # Terms and Conditions applicable to all services of Medical Data Networks, LLC.
 
-# EFFECTIVE September 13, 2020
+# EFFECTIVE September 20, 2021
 
 These are the complete set of terms and conditions represent the agreement ("Agreement" between you and Medical Data Networks LLC (herein referred to as "MDN") doing Business As "MDN", "T1 Pal", "T1 Pal", "T1pal", "CoPilot", "Loop", and/or "Loop as a Service") governing the use of any of the services and products of Medical Data Networks, LLC and/or its officers, directors, employees, and contractors.
 

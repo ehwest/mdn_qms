@@ -1,5 +1,5 @@
 # T1 Pal Privacy Policy
-# EFFECTIVE October 1, 2021
+# EFFECTIVE September 20, 2021
 
 Your information and your privacy are important — to you and to us. This policy explains how we use your information and how we keep it safe.
 

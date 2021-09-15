@@ -1,8 +1,0 @@
-
-# FDA Correspondence
-
-```{toctree}
-```
-
-## Purpose
-
