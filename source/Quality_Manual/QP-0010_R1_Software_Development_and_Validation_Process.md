@@ -28,9 +28,12 @@ QP-0010|Software Development and Validation Process|R 1|9/20/2021|/s/ Ben West
  device (also known as “off-the-shelf software”) or software previously
  development for which adequate records of the development processes
  are not available.
- **Agile Product Development**|A management process, where incrementally-defined demands and solutions are sequentially processed by cross-functional teams including customers.  With this methodology the initial product is incrementally improved so as to deliver a "Minimum Viable Product (MVP)" having subsequent incremental improvements that are packaged as releases.
- **Continuous Improvement**|Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
- **Continuous Delivery**|Process of delivering incremental improvements and/or features frequently, in such a way that bugs can be quickly removed, and valuable features can be delivered prior to the next major release of the software product.
+
+ **Agile Product Development** - A management process, where incrementally-defined demands and solutions are sequentially processed by cross-functional teams including customers.  With this methodology the initial product is incrementally improved so as to deliver a "Minimum Viable Product (MVP)" having subsequent incremental improvements that are packaged as releases.
+
+ **Continuous Improvement** - Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
+
+ **Continuous Delivery** - Process of delivering incremental improvements and/or features frequently, in such a way that bugs can be quickly removed, and valuable features can be delivered prior to the next major release of the software product.
 
 3.2  **Responsibilities**
 
