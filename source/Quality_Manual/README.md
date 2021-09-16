@@ -176,6 +176,7 @@ All documents created or owned by Medical Data Network's employees are considere
 Term|Definition
 ----------------------------------|--------------------------------------------------------------
 Appropriate Management|CEO, COO, President, Vice Presidents, Directors, Managers, Team Leaders.
+Agile Product Development|A management process, where incrementally-defined demands and solutions are sequentially processed by cross-functional teams and their customers.  With this methodology the initial product is incrementally improved so as to deliver a "Minimum Viable Product (MVP)" having subsequent incremental improvements that are packaged as releases.
 Continual improvement|Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
 Controlled Document|Any document that affects the quality of the product and is reviewed and approved prior to release for use or reference.
 Corrective Action|A process improvement methodology aimed at identifying and eliminating the causes of known nonconformities and to prevent their recurrence.
@@ -184,6 +185,7 @@ Design History File (DHF)|A compilation of records that describes the design his
 Device History Record (DHR)|A compilation of records containing the production history of a finished device.
 Device Master Record (DMR)|A compilation of records containing the procedures and specifications for a finished device.
 Management with Executive Responsibility|Those senior employees who have the authority to establish or make changes to the organization’s quality policy and quality system.
+Minimum Viable Product (MVP)|A product version that may be developed and delivered to customers having the least overall cost (and time-to-market) that also acceptably/minimally meets all of the most important customer requirements.
 Preventive Action|A process improvement methodology aimed at identifying and eliminating potential causes of nonconformities before they occur.
 Process|A set of interrelated resources and activities that transform inputs into outputs.
 Process Leader|Person with primary process responsibility to document and maintain its procedures, work instructions, and forms; to control records; and to train process users.   Selected by management based upon primary job responsibilities.
@@ -281,7 +283,7 @@ The company has documented procedures for the validation of the application of c
 
 # The Quality Management System Structure
 
-The responsibility to develop and effectively implement quality system procedures is held by the designated owner for each policy procedure or SOP as determined by management.  Procedure details depend upon the complexity of the work, methods used, and the skills and training needed by personnel to carry out the activity. 
+The responsibility to develop and effectively implement quality system procedures is held by the designated owner for each quality procedure as determined by management.  Procedure details depend upon the complexity of the work, methods used, and the skills and training needed by personnel to carry out the activity. 
 
 The Quality Management System includes:
 
@@ -569,28 +571,17 @@ We have documented procedures for communicating with regulatory authorities in a
 
 Documented procedures shall be used to control and verify the development of new products to ensure that the specified requirements are met.  
 
-The **legacy** development process is executed in several phases.  
+All of the products of MDN are currently defined entirely by software. In addition,
+all of the supporting integrated services, data structures, and infrastructure component services are also
+defined by software, and managed using configuration files.
 
-Each phase has a checkpoint to ensure that all required elements for the specific phase have been properly planned and completed.  These planning records are maintained.
+Supporting this all-software approach to developing products, an "agile" process that implements "continuous integration"  and "çontinuous delivery" has been established
+for all products developed by MDN.  
 
-* Management reviews each phase to ensure that organizational and technical interfaces, which provide input into the design process, are defined.
+It should be noted that the goal of the original product release was to deliver
+a "Minimum Viable Product (MVP)" that represents a minimal set of features that all meet the customer expectations and requirements (including any regulatory requirements).
 
-* Necessary information is documented, transmitted, and regularly reviewed.
-
-Design and development activities are planned the following items are documented:
-
-* The design and development stages
-
-* The review(s) needed at each design and development stage
-
-* The verification, validation, and design transfer activities that are appropriate at each design and development stage
-
-* The responsibilities and authorities for design and development
-
-* The methods to ensure traceability of design and development outputs to design and development inputs
-
-* The resources needed, including necessary competence of personnel
-
+Following the delivery of the MVP, subsequent small (i.e. agile) releases would be expected to rapidly deliver new and improved capabilities (i.e. "as if" the process were continuous).
 
 ### Design and Development Inputs
 
