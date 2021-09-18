@@ -172,7 +172,7 @@ The issue tracking mechanism of the github repository shall be used to record al
 The figure below describes the calculations used to determine the readiness for any particular software
 is determined.
 
-![Software Readiness_Calculation](./media/how_sre_works_slides.png)
+![Software Readiness Calculation](./media/how_sre_works_slides.png)
 
 Using this model, we necessarily assume that testing activities for the package of code will follow
 a modified S-shaped curve as shown.  This assumption was derived from the common sense
