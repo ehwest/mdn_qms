@@ -1,20 +1,18 @@
-Document Number|Title|Revision|Effective|Owner
----------------|-------------------------------------|---|----|-----
-QP-0010|Software Development and Validation Process|R 1|9/20/2021|/s/ Ben West
+Document Number|Title                                      |Effective|Owner
+---------------|-------------------------------------------|---------|----
+QP-0010        |Software Development and Validation Process|9/20/2021|/s/ Ben West
 
 1.  **Purpose**
 
  This document defines the policies and procedures utilized for
- developing, verifying, and releasing software associated products. It
- defines an agile development process used and specifies the
- activities associated with software planning, requirement,
- architecture, detailed design, unit testing, integration and system
- testing, and release.
+ developing, verifying, and releasing software-defined products. It
+ defines an Agile development process used and specifies the
+ activities associated with software development and validation.
 
 2.  **Scope**
 
- This process applies to all software incorporated into distributed
- medical devices. Any software systems not intended for
+ This process applies to all software incorporated into (and/or defined as)
+a  medical device. Any software systems not intended for
  commercialization or the quality management system are exempt from
  this process.
 
@@ -22,7 +20,7 @@ QP-0010|Software Development and Validation Process|R 1|9/20/2021|/s/ Ben West
 
 3.1  **Definitions**
 
- **Software of Unknown Provenance (SOUP)** – Software item that is
+ **Software of Unknown Provenance (SOUP)** – A oftware component that is
  already development and generally available and that has not been
  developed for the purpose of being incorporated into the medical
  device (also known as “off-the-shelf software”) or software previously
@@ -32,9 +30,12 @@ QP-0010|Software Development and Validation Process|R 1|9/20/2021|/s/ Ben West
 
  **Agile Product Development** - A management process, where incrementally-defined demands and solutions are sequentially processed by cross-functional teams including customers.  With this methodology the initial product is incrementally improved so as to deliver a "Minimum Viable Product (MVP)" having subsequent incremental improvements that are packaged as releases.
 
- **Continuous Improvement** - Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
+ **Continuous Improvement** - A process for providing frequent, relatively small, no/low impact
+packages of code (or documentation) that incrementally improves on and/or contributes to
+incremental improvement to the overall system involved.   It should be noted that
+"continuous" is generally not defined as having an improvement cycle more often than daily.
 
- **Continuous Delivery** - Process of delivering incremental improvements and/or features frequently, in such a way that bugs can be quickly removed, and valuable features can be delivered prior to the next major release of the software product.
+ **Continuous Delivery** - Process of delivering incremental production improvements and/or features frequently, in such a way that bugs can be quickly removed, and valuable features can be delivered prior to the next major release of the software product.  It should be noted that CI and CD need not be linked and/or synchronized. Features delivered by CI methods may be bunled into different delivery releases.
 
  **Feature Flags** - A data structure included in a phased release of a new feature that enables system administrators to turn off/on a feature that is the target of new software development.  The Feature Flag is introduced early in the lifecycle of the new feature and is used to activate/deactivate the new feature as development of the feature may extend over multiple software releases.  A Feature Flag approach to developing new features enables features to be delivered with high quality and enables complex new features to be disabled in production, should the feature be defective in any way.
 
@@ -42,7 +43,7 @@ QP-0010|Software Development and Validation Process|R 1|9/20/2021|/s/ Ben West
  a package of software code under test.  
  This method uses the time-series data associated with the discovery of new bugs in a particular package of software under test.
 
- **Trunk-based development  - A version control management practice where developers merge small, frequent updates to a core “trunk” or main branch.
+ **Trunkflow development  - A version control management practice where developers merge small, frequent updates to a core “trunk” or main branch.  As compared to "gitflow" methods, Trunkflow methods generally have fewer branches (e.g. no feature branch, and/or no hotfix branch).
 
 3.2  **Responsibilities**
 
@@ -77,6 +78,7 @@ QP-0010|Software Development and Validation Process|R 1|9/20/2021|/s/ Ben West
 4.  **Software Development Process Overview**
 
 MDN products are all completely software-defined. 
+No hardware or physical packaging or labeling is involved in delivering cloud-based services (as devices).
 
 The software for all MDN products is positioned to execute on 
 hosting-center servers whose configuration is also entirely software defined.
@@ -107,12 +109,12 @@ which is then enhanced periodically with new features.
 Simultaneous development of many new features is enabled with this process.
 
 MDN uses the "github.com" service to store and provide all services for tracking code fragments.
-A key service provided by github.com is the calculation and comparion of code fragment hash numbers to
+A key service provided by github.com is the calculation and comparison of code fragment hash strings to
 facilitate reliable, automated tracking, assembly, testing, and deployment  of the many code fragments that 
 altogether define MDN applications.
 The github service infrastructure also enables fast context switching among the various branches of each of the applications.
 
-![Simplified TrunkFlow Adaptation of GitFlow](./media/git_cycle.png)
+![Simplified Trunkflow Adaptation of GitFlow](./media/git_cycle.png)
 
 The "master" branch of the application software package is the package of individual software
 components that is currently in production.  As such, no updates to the master branch may be made
@@ -121,7 +123,7 @@ testing in the "dev" branch may subsequently be merged with the master (producti
 
 The master branch of the repository may be used a source of code to be cloned and then used to develop features.
 Individual developers should create their own feature branches with clones of data from either the
-staging branch or the master branch.
+"dev" branch or the master branch.
 
 Not shown are additional branches that may be used to a) bundle multiple features into a smaller number
 of release branches, or b) carry out the development and testing of emergency "hot fixes"that clone
@@ -131,17 +133,15 @@ The process where individuals on the development and operations team are able
 to clone, branch, update, and merge different branches further enables numerous developers
 to work simultaneously on different features of the whole application with minimal conflict.
 This particular strategy is a simplified form of "gitflow" Agile development, often
-referred to as "trunkflow" agile development. 
+referred to as "trunkflow" Agile development. 
 
 The provenence of each and every code fragment and contributed code features is thus automatically
 captured, stored, and disclosed using the github system.
 
 It should be noted that MDN uses the same (clone, branch, merge) cadence for updating 
-its Quality Manual and other Quality System documents.  
-Updates to documents of the Quality Manabgement System are similarly versioned (but in a different repository), as shown
-in the figure above.
+its Quality Manual and other Quality System documents.  Updates to documents of the Quality Manabgement System are similarly versioned (but in a different repository), as shown in the figure above.
 
-MDN uses a simpler form of "gitflow" based devlopment called "TrunkFlow" development.
+MDN uses a simpler form of "gitflow" based devlopment called "Trunkflow" development.
 
 Automated testing is required for all MDN applictiona. 
 
@@ -152,7 +152,7 @@ It is the policy of MDN for software developers to provide automated test softwa
 highly automated tests of each and every component, feature, branch, and infrastructure service.
 Where automation is not practical and/or not provided for, manual test instructions should be provided.
 
-The principal use of the staging branch is to provide for execution of tests.
+The principal use of the dev branch is to provide for execution of tests.
 Bugs discovered during testing should be registered in the ïssues storage mechanism of the software
 repository.
 All bugs are classified into the following categories:
@@ -165,7 +165,9 @@ All bugs are classified into the following categories:
 For every bug reported, a time-stamp of the discovery time should be retained along with other
 information collected.   MDN uses statistical analyiss (Software Releasability Analysis) to determine
 how many bugs remain in the software, broken down by severity.
-No software shall be released that shows there is more than one Severity 1 remainining in the software.
+No software shall be released where this analysis shows 
+that the maximum liklihood estimator is more than 
+one Severity 1 remainining (p=0.95) in the software.
 
 The issue tracking mechanism of the github repository shall be used to record all issues.
 
