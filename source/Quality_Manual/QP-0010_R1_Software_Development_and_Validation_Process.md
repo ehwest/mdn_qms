@@ -171,6 +171,9 @@ The issue tracking mechanism of the github repository shall be used to record al
 
 The figure below describes the calculations used to determine the readiness for any particular software
 is determined.
+
+![Software Readiness_Calculation](./media/how_sre_works_slides.png)
+
 Using this model, we necessarily assume that testing activities for the package of code will follow
 a modified S-shaped curve as shown.  This assumption was derived from the common sense
 notion that the longer testing continues, the number of bugs to be
@@ -182,10 +185,6 @@ Code testing that clearly does not follow this S-shaped curve cannot be evaluate
 conclusions can be made about how many bugs remain, using this model.
 A condition of releasability for any code package, is a forecast using this tool, that indicates no
 more "Severity 1" problems may be found in the code under test.
-
-
-![Software Readiness_Calculation](./media/how_sre_works_slides.png)
-
 
 5.      Revision History
 
