@@ -1,6 +1,6 @@
-Document Number|Title|Revision|Effective|Owner
----------------|-------------------------------------|---|----|-----
-QP-0015|Quality Audit Process|R 1|9/1/2021|/s/ Ben West
+Document Number|Title|Effective|Owner
+---------------|-------------------------------------|----|-----
+QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
 
 1.  **Purpose**
 

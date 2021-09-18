@@ -1,6 +1,8 @@
-Document Number|Title|Revision|Effective|Owner
----------------|-------------------------------------|---|----|-----
-QP-0002|Design Control Process|R 1|9/1/2021|/s/ Ben West
+Document Number|Title                                      |Effective|Owner
+---------------|-------------------------------------------|---------|----
+QP-0002        |Design Control Process|9/20/2021|/s/ Ben West
+
+
 
 1.**PURPOSE**
 

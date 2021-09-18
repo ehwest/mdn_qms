@@ -1,6 +1,6 @@
-Document Number|Title|Revision|Effective|Owner
----------------|-------------------------------------|---|----|-----
-QP-0026|Process Validation Procedure|R 1|9/1/2021|/s/ Ben West
+Document Number|Title|Effective|Owner
+---------------|-------------------------------------|----|-----
+QP-0026|Process Validation Procedure|9/1/2021|/s/ Ben West
 
 1.  **Purpose**
  This document defines the policies and procedures for executing and

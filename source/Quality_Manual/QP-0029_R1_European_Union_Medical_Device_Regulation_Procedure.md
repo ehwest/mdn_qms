@@ -1,6 +1,6 @@
-Document Number|Title|Revision|Effective|Owner
----------------|-------------------------------------|---|----|-----
-QP-0029|European Union Medical Device Regulation Procedure|R 1|9/1/2021|/s/ Ben West
+Document Number|Title|Effective|Owner
+---------------|-------------------------------------|----|-----
+QP-0029|European Union Medical Device Regulation Procedure|9/1/2021|/s/ Ben West
 
 
 1.  **Purpose**

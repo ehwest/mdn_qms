@@ -1,6 +1,8 @@
-Document Number|Title|Revision|Effective|Owner
----------------|-------------------------------------|---|----|-----
-QP-0003|Document Control Process|R 1|9/1/2021|/s/ Ben West
+Document Number|Title                                      |Effective|Owner
+---------------|-------------------------------------------|---------|----
+QP-0003        |Document Control Process|9/20/2021|/s/ Ben West
+
+
 
 
 1.**Purpose**

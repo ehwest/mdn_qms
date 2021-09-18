@@ -1,6 +1,6 @@
-Document Number|Title|Revision|Effective|Owner
----------------|-------------------------------------|---|----|-----
-QP-0019|Customer Property Control Process|R 1|9/1/2021|/s/ Ben West
+Document Number|Title|Effective|Owner
+---------------|-------------------------------------|----|-----
+QP-0019|Customer Property Control Process|9/1/2021|/s/ Ben West
 
 1.  **Purpose**
 

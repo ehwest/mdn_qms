@@ -43,7 +43,7 @@ incremental improvement to the overall system involved.   It should be noted tha
  a package of software code under test.  
  This method uses the time-series data associated with the discovery of new bugs in a particular package of software under test.
 
- **Trunkflow development  - A version control management practice where developers merge small, frequent updates to a core “trunk” or main branch.  As compared to "gitflow" methods, Trunkflow methods generally have fewer branches (e.g. no feature branch, and/or no hotfix branch).
+ **Trunkflow development**  - A version control management practice where developers merge small, frequent updates to a core “trunk” or main branch.  As compared to "gitflow" methods, Trunkflow methods generally have fewer branches (e.g. no feature branch, and/or no hotfix branch).
 
 3.2  **Responsibilities**
 
@@ -108,7 +108,9 @@ The goal of this development process is to produce a "Minimum Viable Product (MV
 which is then enhanced periodically with new features. 
 Simultaneous development of many new features is enabled with this process.
 
-MDN uses the "github.com" service to store and provide all services for tracking code fragments.
+MDN uses a "Trunkflow software control mechanism supported by github.com to
+store and provide all services for tracking code fragments.
+
 A key service provided by github.com is the calculation and comparison of code fragment hash strings to
 facilitate reliable, automated tracking, assembly, testing, and deployment  of the many code fragments that 
 altogether define MDN applications.
@@ -141,8 +143,6 @@ captured, stored, and disclosed using the github system.
 It should be noted that MDN uses the same (clone, branch, merge) cadence for updating 
 its Quality Manual and other Quality System documents.  Updates to documents of the Quality Manabgement System are similarly versioned (but in a different repository), as shown in the figure above.
 
-MDN uses a simpler form of "gitflow" based devlopment called "Trunkflow" development.
-
 Automated testing is required for all MDN applictiona. 
 
 
@@ -166,7 +166,7 @@ For every bug reported, a time-stamp of the discovery time should be retained al
 information collected.   MDN uses statistical analyiss (Software Releasability Analysis) to determine
 how many bugs remain in the software, broken down by severity.
 No software shall be released where this analysis shows 
-that the maximum liklihood estimator is more than 
+that the Maximum Liklihood Estimator (MLE) is more than 
 one Severity 1 remainining (p=0.95) in the software.
 
 The issue tracking mechanism of the github repository shall be used to record all issues.
@@ -177,9 +177,10 @@ is determined.
 ![Software Readiness Calculation](./media/how_sre_works_slides.png)
 
 Using this model, we necessarily assume that testing activities for the package of code will follow
-a modified S-shaped curve as shown.  This assumption was derived from the common sense
-notion that the longer testing continues, the number of bugs to be
-found by such testing will decline over time.   With infinite testing, we expect to find all bugs.
+a modified S-shaped curve as shown.  This assumption was derived from the a-priori knowledge that
+the longer testing continues, the number of bugs to be
+found by such testing will decline over time (more precisely, that the discovery time of bugs
+discovered in the sofware is not Poisson).   With infinite testing, we expect to find all bugs.
 In addition, during early testing of any package of code, one would expect a rapid rate of finding bugs,
 which then levels off to a linear trajectory in the middle of a testing program.
 

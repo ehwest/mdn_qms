@@ -1,7 +1,7 @@
 
-Document Number|Title|Revision|Effective|Owner
----------------|-------------------------------------|---|----|-----
-QP-0002|Training and Competency Process|R 1|9/1/2021|/s/ Ben West
+Document Number|Title|Effective|Owner
+---------------|-------------------------------------|----|-----
+QP-0004|Training and Competency Process|9/1/2021|/s/ Ben West
 
 
 This document describes the process whereby Training and Competency of company associates is maintained.
