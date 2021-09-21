@@ -51,49 +51,40 @@ This QMS is made of these types of files.
 
 All of these files are managed in a collection of folders, making it easy to browse and select specific files of interest.
 
-A "README.md" file in each folder is intended to 
-provide a link to the files in the folder and an overview of all of the files within the QMS folder.
-The root of this Quality Mangement System is QP-0001_R1 *(this document)*
-This Quality Manual itself is labelled "README.md" within the Quality_Manual folder.
-
-With the same Quality_Manual folder, we store the process descriptions for each of
-30 distinct Quality Procedures.
-All of the Quality Manual documents are retained in "markdown" format and compiled into pdf or web formats for further distribution.
-In a separate "Quality_Manual_Forms" folder, one may find blank templates for capturing Quality Process records.
-In yet another "Quality_Manual_Records" folder, Quality Records are kept (unless otherwise specified.
+The root of this Quality Mangement System is QM-0001_Quality_Manual *(this document)*
 
 Here is a list of all of the Quality System procedures together with a link to the .md content file.
 
-* [QP-0001_R1 Quality_Manual -- Processes In Scope *(this document)* ](./Quality_Manual/README.md)
-  *  [QP-0002_R1_Design_Control_Process](./Quality_Manual/QP-0002_R1_Design_Control_Process.md)
-  *  [QP-0003_R1_Document_Control_Process](./Quality_Manual/QP-0003_R1_Document_Control_Process.md)
-  *  [QP-0004_R1_Training_and_Competency_Process](./Quality_Manual/QP-0004_R1_Training_and_Competency_Process.md)
-  *  [QP-0005_R1_Purchasing_and_Receiving_Process](./Quality_Manual/QP-0005_R1_Purchasing_and_Receiving_Process.md)
-  *  [QP-0006_R1_Labeling_and_Packaging_Control_Process](./Quality_Manual/QP-0006_R1_Labeling_and_Packaging_Control_Process.md)
-  *  [QP-0007_R1_Identification_and_Traceability_Process](./Quality_Manual/QP-0007_R1_Identification_and_Traceability_Process.md)
-  *  [QP-0008_R1_Nonconforming_Product_Procesa](./Quality_Manual/QP-0008_R1_Nonconforming_Product_Process.md)
-  *  [QP-0009_R1_Change_Control_Process](./Quality_Manual/QP-0009_R1_Change_Control_Process.md)
-  *  [QP-0010_R1_Software_Validation_Process](./Quality_Manual/QP-0010_R1_Software_Validation_Process.md)
-  *  [QP-0011_R1_Customer_Complaint_Handling_Procedure](./Quality_Manual/QP-0011_R1_Customer_Complaint_Handling_Procedure.md)
-  *  [QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process](./Quality_Manual/QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md)
-  *  [QP-0013_R1_Management_Review_and_Data_Analysis_Process](./Quality_Manual/QP-0013_R1_Management_Review_and_Data_Analysis_Process.md)
-  *  [QP-0014_R1_Calibration_and_Preventive_Maintenance_Process](./Quality_Manual/QP-0014_R1_Calibration_and_Preventive_Maintenance_Process.md)
-  *  [QP-0015_R1_Quality_Audit_Process](./Quality_Manual/QP-0015_R1_Quality_Audit_Process.md)
-  *  [QP-0016_R1_Preservation_of_Product_Process](./Quality_Manual/QP-0016_R1_Preservation_of_Product_Process.md)
-  *  [QP-0017_R1_Risk_Management_Process](./Quality_Manual/QP-0017_R1_Risk_Management_Process.md)
-  *  [QP-0018_R1_Record_Management_Process](./Quality_Manual/QP-0018_R1_Record_Management_Process.md)
-  *  [QP-0019_R1_Customer_Property_Control_Process](./Quality_Manual/QP-0019_R1_Customer_Property_Control_Process.md)
-  *  [QP-0020_R1_FDA_Audit_Management_Process](./Quality_Manual/QP-0020_R1_FDA_Audit_Management_Process.md)
-  *  [QP-0021_R1_Medical_Device_Reporting_and_Recall_Process](./Quality_Manual/QP-0021_R1_Medical_Device_Reporting_and_Recall_Process.md)
-  *  [QP-0022_R1_Infrastructure_and_Work_Environment](./Quality_Manual/QP-0022_R1_Infrastructure_and_Work_Environment.md)
-  *  [QP-0023_R1_Supplier_Management_Process](./Quality_Manual/QP-0023_R1_Supplier_Management_Process.md)
-  *  [QP-0024_R1_Post_Market_Surveillance_Process](Quality_Manual/QP-0024_R1_Post_Market_Surveillance_Process.md)
-  *  [QP-0025_R1_Unique_Device_Identification_Process](./Quality_Manual/QP-0025_R1_Unique_Device_Identification_Process.md)
-  *  [QP-0026_R1_Process_Validation_Procedure](./Quality_Manual/QP-0026_R1_Process_Validation_Procedure.md)
-  *  [QP-0027_R1_Technical_File_Process](./Quality_Manual/QP-0027_R1_Technical_File_Process.md)
-  *  [QP-0028_R1_European_Union_Medical_Device_Directive_Procedure](./Quality_Manual/QP-0028_R1_European_Union_Medical_Device_Directive_Procedure.md)
-  *  [QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure](./Quality_Manual/QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)
-  *  [QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure](./Quality_Manual/QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)
+* [QM-0001)Quality_Manual -- Processes In Scope *(this document)* ](./QM-0001_Quality_Manual.md)
+  *  [QP-0002_Design_Control_Process](./Quality_Manual/QP-0002_Design_Control_Process.md)
+  *  [QP-0003_Document_Control_Process](./Quality_Manual/QP-0003_Document_Control_Process.md)
+  *  [QP-0004_Training_and_Competency_Process](./Quality_Manual/QP-0004_Training_and_Competency_Process.md)
+  *  [QP-0005_Purchasing_and_Receiving_Process](./Quality_Manual/QP-0005_Purchasing_and_Receiving_Process.md)
+  *  [QP-0006_Labeling_and_Packaging_Control_Process](./Quality_Manual/QP-0006_Labeling_and_Packaging_Control_Process.md)
+  *  [QP-0007_Identification_and_Traceability_Process](./Quality_Manual/QP-0007_Identification_and_Traceability_Process.md)
+  *  [QP-0008_Nonconforming_Product_Procesa](./Quality_Manual/QP-0008_Nonconforming_Product_Process.md)
+  *  [QP-0009_Change_Control_Process](./Quality_Manual/QP-0009_Change_Control_Process.md)
+  *  [QP-0010_Software_Validation_Process](./Quality_Manual/QP-0010_Software_Validation_Process.md)
+  *  [QP-0011_Customer_Complaint_Handling_Procedure](./Quality_Manual/QP-0011_Customer_Complaint_Handling_Procedure.md)
+  *  [QP-0012_Corrective_and_Preventive_Action_CAPA_Process](./Quality_Manual/QP-0012_Corrective_and_Preventive_Action_CAPA_Process.md)
+  *  [QP-0013_Management_Review_and_Data_Analysis_Process](./Quality_Manual/QP-0013_Management_Review_and_Data_Analysis_Process.md)
+  *  [QP-0014_Calibration_and_Preventive_Maintenance_Process](./Quality_Manual/QP-0014_Calibration_and_Preventive_Maintenance_Process.md)
+  *  [QP-0015_Quality_Audit_Process](./Quality_Manual/QP-0015_Quality_Audit_Process.md)
+  *  [QP-0016_Preservation_of_Product_Process](./Quality_Manual/QP-0016_Preservation_of_Product_Process.md)
+  *  [QP-0017_Risk_Management_Process](./Quality_Manual/QP-0017_Risk_Management_Process.md)
+  *  [QP-0018_Record_Management_Process](./Quality_Manual/QP-0018_Record_Management_Process.md)
+  *  [QP-0019_Customer_Property_Control_Process](./Quality_Manual/QP-0019_Customer_Property_Control_Process.md)
+  *  [QP-0020_FDA_Audit_Management_Process](./Quality_Manual/QP-0020_FDA_Audit_Management_Process.md)
+  *  [QP-0021_Medical_Device_Reporting_and_Recall_Process](./Quality_Manual/QP-0021_Medical_Device_Reporting_and_Recall_Process.md)
+  *  [QP-0022_Infrastructure_and_Work_Environment](./Quality_Manual/QP-0022_Infrastructure_and_Work_Environment.md)
+  *  [QP-0023_Supplier_Management_Process](./Quality_Manual/QP-0023_Supplier_Management_Process.md)
+  *  [QP-0024_Post_Market_Surveillance_Process](Quality_Manual/QP-0024_Post_Market_Surveillance_Process.md)
+  *  [QP-0025_Unique_Device_Identification_Process](./Quality_Manual/QP-0025_Unique_Device_Identification_Process.md)
+  *  [QP-0026_Process_Validation_Procedure](./Quality_Manual/QP-0026_Process_Validation_Procedure.md)
+  *  [QP-0027_Technical_File_Process](./Quality_Manual/QP-0027_Technical_File_Process.md)
+  *  [QP-0028_European_Union_Medical_Device_Directive_Procedure](./Quality_Manual/QP-0028_European_Union_Medical_Device_Directive_Procedure.md)
+  *  [QP-0029_European_Union_Medical_Device_Regulation_Procedure](./Quality_Manual/QP-0029_European_Union_Medical_Device_Regulation_Procedure.md)
+  *  [QP-0030_Canadian_Medical_Device_Regulations_Procedure](./Quality_Manual/QP-0030_Canadian_Medical_Device_Regulations_Procedure.md)
 
 * [QF-0001 Quality_Manual_Forms_and_Templates](./Quality_Manual_Forms/README.md)
 
@@ -119,7 +110,7 @@ Here is a list of all of the Quality System procedures together with a link to t
 ## Scope
 
 The Quality Management Systems defined in this manual applies to 
-providing "T1Pal"and "CoPilot" cloud-based applications to subscribers, specifically
+providing the "Current Good Manufacturing Practices for delivering "T1Pal"and "CoPilot" cloud-based applications to subscribers, specifically
 including the following activities.
 
 * Product Design
@@ -131,6 +122,10 @@ By "cloud based" we mean that subscribers are enabled to receive
 the benefits of certain operating software applications, but do not maintain, carry, own, or lease  any
 particular part of any server, and/or database system necessary to deliver features and functions
 of the product.  
+
+It should be noted that in each of these cases, the products are not a complete solution.
+A complete solution requires the subscriber/customer to provide their own reliable
+Internet Network arrangement.   We do not define "Current Good Manufacturing Practices" to our products.
 
 Subscribers are required to provide their own
 internet (cloud) access arrangements to access the cloud based applications.
@@ -177,8 +172,9 @@ Term|Definition
 ----------------------------------|--------------------------------------------------------------
 Appropriate Management|CEO, COO, President, Vice Presidents, Directors, Managers, Team Leaders.
 Agile Product Development|A management process, where incrementally-defined demands and solutions are sequentially processed by cross-functional teams and their customers.  With this methodology the initial product is incrementally improved so as to deliver a "Minimum Viable Product (MVP)" having subsequent incremental improvements that are packaged as releases.
-Continual improvement|Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
-Controlled Document|Any document that affects the quality of the product and is reviewed and approved prior to release for use or reference.
+Continual improvement (CI)|Process of enhancing the Quality Management System to achieve improvements in overall quality, operations, and environmental performance in line with the organization’s Quality Policy.
+Continuous Delivery (CD)|A process for delivering frequent incremental updates to a software product.
+CI/CD|A combination of the above CI and CD methods, generally working asynchronously to develop and deliver incremental updates frequently..
 Corrective Action|A process improvement methodology aimed at identifying and eliminating the causes of known nonconformities and to prevent their recurrence.
 Customer|The recipient of a product or service provided by the organization.
 Design History File (DHF)|A compilation of records that describes the design history of the finished device.
@@ -200,6 +196,7 @@ Supplier or Vendor|The organization that provides a product or service to an org
 
 This QMS includes "Product Definition", "Product Design", "Development", and "Validation"."
 sections as needed to convey how cloud-based operating software services (FDA "devices")  "T1Pal" and "CoPilot" are created, delivered, and validated consistent with applicable rules.
+It is intended for this Quality Management System to describe the "Current Good Manufacturing Process" applicable to MDN products ("devices").
 
 ## Alignment With Rules
 
@@ -1132,36 +1129,36 @@ The state of the approval for each such document is provided.
 | **Document ID**| **Procedure**  | **Record-Keeping Template(s)** | **Implementation Status** |
 |----------------|----------------|-----------------|-------------|
 |                |                                             |             |             |
-|[QP-0001 R1](./README.md) (this document)|Quality Manual Update Process|N/A|Approved 9/1/2021|
-|[QP-0002 R1](QP-0002_R1_Design_Control_Process.md)|Design Control Process|[QF-0002 Design_Control_Records](./Design_Control/README.md)| Approved 9/1/2021|
-|[QP-0003 R1](./QP-0003_R1_Document_Control_Process.md)|Document Control Process|N/A| Approved 9/1/2021|
-|[QP-0004 R1](./QP-0004_R1_Training_and_Competency_Process.md)|Training and Competency Process|[QF-0004 Training and Competency Records](./Training_and_Competency_Records/README.md)|Approved 9/1/2021|
-|[QP-0005 R1](./QP-0005_R1_Purchasing_and_Receiving_Process.md)|Purchasing and Receiving Process |[QF-0005 Purchasing Controls](./Training_and_Competency_Records/README.md)|N/A|N/A|
-|[QP-0006 R1](./QP-0006_R1_Labeling_and_Packaging_Control_Process.md)|Labeling and packaging Control|N/A|N/A|
-|[QP-0007 R1](./QP-0007_R1_Identification_and_Traceability_Process.md)|[Traceability Records](./Traceability_Records/README.md)|Not defined yet |N/A
-|[QP-0008 R1](./QP-0008_R1_Nonconforming_Product_Process.md)|Nonconforming Product process|[QF-0008 Non Conforming Product](./Non_conforming_Product.md)|Not defined yet|
-|[QP-0009 R1](./QP-0009_R1_Change_Control_Process.md)| Change Control Process|N/A|Approved 9/1/2021|
-|[QP-0010 R1](QP-0010_R1_Software_Validation_Process.md)| Software Validation Process|N/A|Approved 9/1/2021|
-|[QP-0011 R1](./QP-0011_R1_Customer_Complaint_Handling_Procedure.md)| Customer Complaint Handling Procedure|[QF-0011 Customer Complaints](./Customer_Complaints/README.md)| Approved 9/1/2021|
-|[QP-0012 R1](./QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md)|Corrective and Preventive Action|[QF-0012 CAPA Forms](./Corrective_and_Preventive_Action./README.md)|Approved 9/1/2021|
-|[QP-0013 R1](./QP-0013_R1_Management_Review_and_Data_Analysis_Process.md)|Management Review and Data Analysis Process|[QF-0013 Management Review](./Management_Review/README.md)| Not defined yet|
-|[QP-0014 R1](./QP-0014_R1_Calibration_and_Preventive_Maintenance_Process.md)|Calibration and Preventive Maintenance Process|[QF-0014 Calibration and Preventive Maintenance Process](./Calibration_and_Preventive_Maintenance/README.md)|Not defined yet|
-|[QP-0015 R1](./QP-0015_R1_Quality_Audit_Process.md)|Quality Audit Process|[QF-0015 Internal Audit Records](./Internal_Audits/README.md)| Not defined yet           |
-|[QP-0016 R1](./QP-0016_R1_Preservation_of_Product_Process.md)                 | Preservation of Product Process|N/A| Approved 9/1/2021         |
-|[QP-0017 R1](./QP-0017_R1_Risk_Management_Process.md)| Risk Management Process|N/A| Approved 9/1/2021|
-|[QP-0018 R1](./QP-0018_R1_Record_Management_Process.md)| Record Management Process| N/A| Approved 9/1/2021|
-|[QP-0019 R1](./QP-0019_R1_Customer_Property_Control_Process.md)| Customer Property Control Process|N/A| Not defined yet|
-|[QP-0020 R1](./QP-0020_R1_FDA_Audit_Management_Process.md)| FDA Audit Management Process|N/A|Not defined yet|
-|[QP-0021 R1](./QP-0021_R1_Medical_Device_Reporting_and_Recall_Process.md)|Medical Device Reporting and Recall Process|[QF0021 Medical Device Reporting and Recall Records](./Medical_Device_Reporting_and_Recall/README.md)|Not defined yet|
-|[QP-0022 R1](./QP-0022_R1_Infrastructure_and_Work_Environment.md)|Infrastructure and Work Environment|N/A|Not defined yet|
-|[QP-0023 R1](./QP-0023_R1_Supplier_Management_Process.md)|Supplier Management Process|Not defined yet|
-|[QP-0024 R1](./QP-0024_R1_Post_Market_Surveillance_Process.m)|Post Market Surveillance Process|[QF-0024 Post Market Surveillance](./Post-Market_Surveillance/README.md)| Not defined yet|
-|[QP-0025 R1](./QP-0025_R1_Unique_Device_Identification_Process.md)|Unique Device Identification Process|| Not defined yet|
-|[QP-0026 R1](./QP-0026_R1_Process_Validation_Procedure.md)|Process Validation Procedure|N/A| Not defined yet|
-|[QP-0027 R1](./QP-0027_R1_Technical_File_Process.md)|Technical File Process|N/A| Not defined yet|
-|[QP-0028 R1](QP-0028_R1_European_Union_Medical_Device_Directive_Procedure.md)| European Union Medical Device Directive Procedure|| Not defined yet|
-|[QP-0029 R1](QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)| European_Union_Medical_Device_Regulation_Procedure|| Not defined yet|
-|[QP-0030 R1](QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)| Canadian Medical Device Regulations Procedure|N/A | Not defined yet|
+|[QP-0001](./README.md) (this document)|Quality Manual Update Process|N/A|Approved 9/1/2021|
+|[QP-0002](QP-0002_Design_Control_Process.md)|Design Control Process|[QF-0002 Design_Control_Records](./Design_Control/README.md)| Approved 9/1/2021|
+|[QP-0003](./QP-0003_Document_Control_Process.md)|Document Control Process|N/A| Approved 9/1/2021|
+|[QP-0004](./QP-0004_Training_and_Competency_Process.md)|Training and Competency Process|[QF-0004 Training and Competency Records](./Training_and_Competency_Records/README.md)|Approved 9/1/2021|
+|[QP-0005](./QP-0005_Purchasing_and_Receiving_Process.md)|Purchasing and Receiving Process |[QF-0005 Purchasing Controls](./Training_and_Competency_Records/README.md)|N/A|N/A|
+|[QP-0006](./QP-0006_Labeling_and_Packaging_Control_Process.md)|Labeling and packaging Control|N/A|N/A|
+|[QP-0007](./QP-0007_Identification_and_Traceability_Process.md)|[Traceability Records](./Traceability_Records/README.md)|Not defined yet |N/A
+|[QP-0008](./QP-0008_Nonconforming_Product_Process.md)|Nonconforming Product process|[QF-0008 Non Conforming Product](./Non_conforming_Product.md)|Not defined yet|
+|[QP-0009](./QP-0009_Change_Control_Process.md)| Change Control Process|N/A|Approved 9/1/2021|
+|[QP-0010](QP-0010_Software_Validation_Process.md)| Software Validation Process|N/A|Approved 9/1/2021|
+|[QP-0011](./QP-0011_Customer_Complaint_Handling_Procedure.md)| Customer Complaint Handling Procedure|[QF-0011 Customer Complaints](./Customer_Complaints/README.md)| Approved 9/1/2021|
+|[QP-0012](./QP-0012_Corrective_and_Preventive_Action_CAPA_Process.md)|Corrective and Preventive Action|[QF-0012 CAPA Forms](./Corrective_and_Preventive_Action./README.md)|Approved 9/1/2021|
+|[QP-0013](./QP-0013_Management_Review_and_Data_Analysis_Process.md)|Management Review and Data Analysis Process|[QF-0013 Management Review](./Management_Review/README.md)| Not defined yet|
+|[QP-0014](./QP-0014_Calibration_and_Preventive_Maintenance_Process.md)|Calibration and Preventive Maintenance Process|[QF-0014 Calibration and Preventive Maintenance Process](./Calibration_and_Preventive_Maintenance/README.md)|Not defined yet|
+|[QP-0015](./QP-0015_Quality_Audit_Process.md)|Quality Audit Process|[QF-0015 Internal Audit Records](./Internal_Audits/README.md)| Not defined yet           |
+|[QP-0016](./QP-0016_Preservation_of_Product_Process.md)                 | Preservation of Product Process|N/A| Approved 9/1/2021         |
+|[QP-0017](./QP-0017_Risk_Management_Process.md)| Risk Management Process|N/A| Approved 9/1/2021|
+|[QP-0018](./QP-0018_Record_Management_Process.md)| Record Management Process| N/A| Approved 9/1/2021|
+|[QP-0019](./QP-0019_Customer_Property_Control_Process.md)| Customer Property Control Process|N/A| Not defined yet|
+|[QP-0020](./QP-0020_FDA_Audit_Management_Process.md)| FDA Audit Management Process|N/A|Not defined yet|
+|[QP-0021](./QP-0021_Medical_Device_Reporting_and_Recall_Process.md)|Medical Device Reporting and Recall Process|[QF0021 Medical Device Reporting and Recall Records](./Medical_Device_Reporting_and_Recall/README.md)|Not defined yet|
+|[QP-0022](./QP-0022_Infrastructure_and_Work_Environment.md)|Infrastructure and Work Environment|N/A|Not defined yet|
+|[QP-0023](./QP-0023_Supplier_Management_Process.md)|Supplier Management Process|Not defined yet|
+|[QP-0024](./QP-0024_Post_Market_Surveillance_Process.m)|Post Market Surveillance Process|[QF-0024 Post Market Surveillance](./Post-Market_Surveillance/README.md)| Not defined yet|
+|[QP-0025](./QP-0025_Unique_Device_Identification_Process.md)|Unique Device Identification Process|| Not defined yet|
+|[QP-0026](./QP-0026_Process_Validation_Procedure.md)|Process Validation Procedure|N/A| Not defined yet|
+|[QP-0027](./QP-0027_Technical_File_Process.md)|Technical File Process|N/A| Not defined yet|
+|[QP-0028](QP-0028_European_Union_Medical_Device_Directive_Procedure.md)| European Union Medical Device Directive Procedure|| Not defined yet|
+|[QP-0029](QP-0029_European_Union_Medical_Device_Regulation_Procedure.md)| European_Union_Medical_Device_Regulation_Procedure|| Not defined yet|
+|[QP-0030](QP-0030_Canadian_Medical_Device_Regulations_Procedure.md)| Canadian Medical Device Regulations Procedure|N/A | Not defined yet|
 
 
 # Revision History
