@@ -98,26 +98,34 @@ Here is a list of all of the Quality System procedures together with a link to t
   *  [QP-0029_European_Union_Medical_Device_Regulation_Procedure](./QP-0029_European_Union_Medical_Device_Regulation_Procedure.md)
   *  [QP-0030_Canadian_Medical_Device_Regulations_Procedure](./QP-0030_Canadian_Medical_Device_Regulations_Procedure.md)
 
-* [QF-0001 Quality_Manual_Forms_and_Templates](./Quality_Manual_Forms/README.md)
+* Templates
 
-  * [QF-0002 Design_Control Records](./Design_Control/README.md)
-  * [QF-0004 Training_and_Competency_Records](./Training_and_Competency_Records/README.md)
-  * [QF-0005 Purchasing_Controls](./Purchasing_Controls/README.me)
-  * [QF-0007 Traceability_Records](./Traceability_Records/README.md)
-  * [QF-0008 Non_conforming_Product](./Non-conforming_Product/README.md)
-  * [QF-0011 Customer_Complaints](Customer_Complaints/README.md)
-  * [QF-0012 Corrective_and_Preventive_Action](Corrective_and_Preventive_Action/README.md)
-  * [QF-0013 Management_Review](./Management_Review/README.md)
-  * [QF-0014 Calibration_and_Preventive_Maintenance](./Calibration_and_Preventive_Maintenance/README.md)
-  * [QF-0015 Internal_Audits](./Internal_Audits/README.md)
-  * [QF-0021 Medical_Device_Reporting_and_Recalls](./Medical_Device_Reporting_and_Recalls/README.md)
-  * [QF-0023 Supplier_Qualification_Records](./Supplier_Qualification_Records/README.md)
-  * [QF-0024 Post-Market_Surveillance](./Post-Market_Surveillance/README.md)
+  * [QF-0002_PhaseReviewChecklistandSignoff.docx](./templates/QF-0002_PhaseReviewChecklistandSignoff.docx)
+  * [QF-0003_DocumentChangeOrderForm.docx](./templates/QF-0003_DocumentChangeOrderForm.docx)
+  * [QF-0004_CompetencyRecord.docx](./templates/QF-0004_CompetencyRecord.docx)
+  * [QF-0004_TrainingRecord.docx](./templates/QF-0004_TrainingRecord.docx)
+  * [QF-0005_IncomingInspectionRecord.docx](./templates/QF-0005_IncomingInspectionRecord.docx)
+  * [QF-0006_LabelingReviewAndApprovalForm.docx](./templates/QF-0006_LabelingReviewAndApprovalForm.docx)
+  * [QF-0008_Non-ConformanceReportForm.docx](./templates/QF-0008_Non-ConformanceReportForm.docx)
+  * [QF-0009_EngineeringChangeOrderForm.docx](./templates/QF-0009_EngineeringChangeOrderForm.docx)
+  * [QF-0011_CustomerComplaintForm.docx](./templates/QF-0011_CustomerComplaintForm.docx)
+  * [QF-0012_CorrectiveAndPreventiveActionForm.docx](./templates/QF-0012_CorrectiveAndPreventiveActionForm.docx)
+  * [QF-0021_HealthHazardEvaluation.docx](./templates/QF-0021_HealthHazardEvaluation.docx)
+  * [QF-0023-1_SupplierApprovalForm.docx](./templates/QF-0023-1_SupplierApprovalForm.docx)
+  * [QF-0023-2_SupplierProfileAndSurveyForm.docx](./templates/QF-0023-2_SupplierProfileAndSurveyForm.docx)
+  * [QF-0023-3_SupplierCorrectiveActionRequestForm.docx](./templates/QF-0023-3_SupplierCorrectiveActionRequestForm.docx)
+  * [QF-0023-4_FirstArticleInspectionForm.docx](./templates/QF-0023-4_FirstArticleInspectionForm.docx)
+  * [ 20YYQMSManagementReviewAgenda.docx](./templates/20YYQMSManagementReviewAgenda.docx)
+  * [ 20YYQMSManagementReviewMeetingMinutes.docx](./templates/20YYQMSManagementReviewMeetingMinutes.docx)
+  * [CalibrationandPreventiveMaintenanceLog.xlsx](./templates/CalibrationandPreventiveMaintenanceLog.xlsx)
+  * [CustomerComplaintLog.xls](./templates/CustomerComplaintLog.xls)
+  * [CustomerNeedsTemplate.docx](./templates/CustomerNeedsTemplate.docx)
+  * [ECOLog.xlsx](./templates/ECOLog.xlsx)
+  * [InternalAuditSchedule.docx](./templates/InternalAuditSchedule.docx)InternalAuditSchedule.docx
+  * [NCR_Log.xlsx](./templates/NCR_Log.xlsx)
+  * [Post-Market_Surveillence_Compiled_Database.xlsx](./templates/Post-Market_Surveillence_Compiled_Database.xlsx)
+  * [Training_Matrix.xlsx](./templates/Training_Matrix.xlsx)
 
-
-* [QBF-0001 Other_Businessl_Forms_and_Templates](./Quality_Manual_Forms/README.md)
-  * [QBF-0002 Customer_Fulfillment](./Customer_Fulfillment/README.md)
-  * [QBF-0003 Engineering-Change_Orders](Engineering-Change_Orders/README/md)
 
 ## Scope
 
