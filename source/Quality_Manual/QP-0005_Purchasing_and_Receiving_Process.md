@@ -10,11 +10,24 @@ QP-0005|Purchasing and Receiving Process|9/1/2021|/s/ Ben West
  These policies and procedures include purchasing approval procedure,
  and incoming receipt procedure.
 
+
 2.  **Scope**
 
  This document applies to purchases that are associated with the
  Quality Management System. Purchases not associated the Quality
  Management System are exempt from this process.
+
+As applied to all of the software-defined products of MDN, 
+specifically including T1Pal and CoPilot products,
+there are no components that are purchased from any supplier.
+The authorization, purchasing, and receiving process for software-defined
+products is entirely described in other process documents, specifically
+[QP-0010_Software_Development_and_Validation_Process.md](./source/Quality_Manual/QP-0010_Software_Development_and_Validation_Process.md)
+
+The company does not currently purchase any components for software-defined products, rendering
+those products exempt from this process.
+
+
 
 3.  **General**
 
