@@ -6,7 +6,7 @@
 
 Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|---------|--------
-QM-0001        |Quality Manual                       |9/16/2021|/s/ Ben West
+[QM-0001](./QM-0001_Quality_Manual.md)        |Quality Manual                       |9/16/2021|/s/ Ben West
 
 **Approvals**
 
@@ -45,55 +45,58 @@ are strictly managed by change-control procedures, and make this QMS work.
 
 This QMS is made of these types of files.
 
-1. Files describing procedures that shall be used by the QMS
-2. Files containing templates used by procedures
-3. Files Containing filled-in templates (i.e. operational records)
+1. Files describing procedures that shall be used by the QMS (QP prefix).
+2. Files containing templates used by procedures (QF prefix)
+3. Files Containing filled-in templates (i.e. operational records) (QR-prefix)
 
-All of these files are managed in a collection of folders, making it easy to browse and select specific files of interest.
+All of these marked down files are managed in a collection of files and folders hosted
+on this github repository: [github.com:ehwest/mdn-qms](https://github.com:ehwest/mdn-qms).
+This mark-down form of the QMS source enables a variety of rendered formats that
+contain the same content.
 
-A "README.md" file in each folder is intended to 
-provide a link to the files in the folder and an overview of all of the files within the QMS folder.
-The root of this Quality Mangement System is QP-0001_R1 *(this document)*
-This Quality Manual itself is labelled "README.md" within the Quality_Manual folder.
+The authoritative source of all QMS information is in this document 
+is found here:  [QM-0001](QM-0001_Quality_Manual.md).
 
+This [Quality Manual](./QM-0001_Quality_Manual.md) provides links to other files in the folder and provides
+an overview of all of the files within the MDN QMS.
 With the same Quality_Manual folder, we store the process descriptions for each of
 30 distinct Quality Procedures.
-All of the Quality Manual documents are retained in "markdown" format and compiled into pdf or web formats for further distribution.
+
 In a separate "Quality_Manual_Forms" folder, one may find blank templates for capturing Quality Process records.
 In yet another "Quality_Manual_Records" folder, Quality Records are kept (unless otherwise specified.
 
 Here is a list of all of the Quality System procedures together with a link to the .md content file.
 
-* [QP-0001_R1 Quality_Manual -- Processes In Scope *(this document)* ](./Quality_Manual/README.md)
-  *  [QP-0002_R1_Design_Control_Process](./Quality_Manual/QP-0002_R1_Design_Control_Process.md)
-  *  [QP-0003_R1_Document_Control_Process](./Quality_Manual/QP-0003_R1_Document_Control_Process.md)
-  *  [QP-0004_R1_Training_and_Competency_Process](./Quality_Manual/QP-0004_R1_Training_and_Competency_Process.md)
-  *  [QP-0005_R1_Purchasing_and_Receiving_Process](./Quality_Manual/QP-0005_R1_Purchasing_and_Receiving_Process.md)
-  *  [QP-0006_R1_Labeling_and_Packaging_Control_Process](./Quality_Manual/QP-0006_R1_Labeling_and_Packaging_Control_Process.md)
-  *  [QP-0007_R1_Identification_and_Traceability_Process](./Quality_Manual/QP-0007_R1_Identification_and_Traceability_Process.md)
-  *  [QP-0008_R1_Nonconforming_Product_Procesa](./Quality_Manual/QP-0008_R1_Nonconforming_Product_Process.md)
-  *  [QP-0009_R1_Change_Control_Process](./Quality_Manual/QP-0009_R1_Change_Control_Process.md)
-  *  [QP-0010_R1_Software_Validation_Process](./Quality_Manual/QP-0010_R1_Software_Validation_Process.md)
-  *  [QP-0011_R1_Customer_Complaint_Handling_Procedure](./Quality_Manual/QP-0011_R1_Customer_Complaint_Handling_Procedure.md)
-  *  [QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process](./Quality_Manual/QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md)
-  *  [QP-0013_R1_Management_Review_and_Data_Analysis_Process](./Quality_Manual/QP-0013_R1_Management_Review_and_Data_Analysis_Process.md)
-  *  [QP-0014_R1_Calibration_and_Preventive_Maintenance_Process](./Quality_Manual/QP-0014_R1_Calibration_and_Preventive_Maintenance_Process.md)
-  *  [QP-0015_R1_Quality_Audit_Process](./Quality_Manual/QP-0015_R1_Quality_Audit_Process.md)
-  *  [QP-0016_R1_Preservation_of_Product_Process](./Quality_Manual/QP-0016_R1_Preservation_of_Product_Process.md)
-  *  [QP-0017_R1_Risk_Management_Process](./Quality_Manual/QP-0017_R1_Risk_Management_Process.md)
-  *  [QP-0018_R1_Record_Management_Process](./Quality_Manual/QP-0018_R1_Record_Management_Process.md)
-  *  [QP-0019_R1_Customer_Property_Control_Process](./Quality_Manual/QP-0019_R1_Customer_Property_Control_Process.md)
-  *  [QP-0020_R1_FDA_Audit_Management_Process](./Quality_Manual/QP-0020_R1_FDA_Audit_Management_Process.md)
-  *  [QP-0021_R1_Medical_Device_Reporting_and_Recall_Process](./Quality_Manual/QP-0021_R1_Medical_Device_Reporting_and_Recall_Process.md)
-  *  [QP-0022_R1_Infrastructure_and_Work_Environment](./Quality_Manual/QP-0022_R1_Infrastructure_and_Work_Environment.md)
-  *  [QP-0023_R1_Supplier_Management_Process](./Quality_Manual/QP-0023_R1_Supplier_Management_Process.md)
-  *  [QP-0024_R1_Post_Market_Surveillance_Process](Quality_Manual/QP-0024_R1_Post_Market_Surveillance_Process.md)
-  *  [QP-0025_R1_Unique_Device_Identification_Process](./Quality_Manual/QP-0025_R1_Unique_Device_Identification_Process.md)
-  *  [QP-0026_R1_Process_Validation_Procedure](./Quality_Manual/QP-0026_R1_Process_Validation_Procedure.md)
-  *  [QP-0027_R1_Technical_File_Process](./Quality_Manual/QP-0027_R1_Technical_File_Process.md)
-  *  [QP-0028_R1_European_Union_Medical_Device_Directive_Procedure](./Quality_Manual/QP-0028_R1_European_Union_Medical_Device_Directive_Procedure.md)
-  *  [QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure](./Quality_Manual/QP-0029_R1_European_Union_Medical_Device_Regulation_Procedure.md)
-  *  [QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure](./Quality_Manual/QP-0030_R1_Canadian_Medical_Device_Regulations_Procedure.md)
+* [QP-0001_Quality_Manual -- Processes In Scope *(this document)* ](./QM-0001_Quality_Manual.md)
+  *  [QP-0002_Design_Control_Process](./QP-0002_Design_Control_Process.md)
+  *  [QP-0003_Document_Control_Process](./QP-0003_Document_Control_Process.md)
+  *  [QP-0004_Training_and_Competency_Process](./QP-0004_Training_and_Competency_Process.md)
+  *  [QP-0005_Purchasing_and_Receiving_Process](./QP-0005_Purchasing_and_Receiving_Process.md)
+  *  [QP-0006_Labeling_and_Packaging_Control_Process](./QP-0006_Labeling_and_Packaging_Control_Process.md)
+  *  [QP-0007_Identification_and_Traceability_Process](./QP-0007_Identification_and_Traceability_Process.md)
+  *  [QP-0008_Nonconforming_Product_Procesa](./QP-0008_Nonconforming_Product_Process.md)
+  *  [QP-0009_Change_Control_Process](./QP-0009_Change_Control_Process.md)
+  *  [QP-0010_Software_Validation_Process](./QP-0010_Software_Validation_Process.md)
+  *  [QP-0011_Customer_Complaint_Handling_Procedure](./QP-0011_Customer_Complaint_Handling_Procedure.md)
+  *  [QP-0012_Corrective_and_Preventive_Action_CAPA_Process](./QP-0012_Corrective_and_Preventive_Action_CAPA_Process.md)
+  *  [QP-0013_Management_Review_and_Data_Analysis_Process](./QP-0013_Management_Review_and_Data_Analysis_Process.md)
+  *  [QP-0014_Calibration_and_Preventive_Maintenance_Process](./QP-0014_Calibration_and_Preventive_Maintenance_Process.md)
+  *  [QP-0015_Quality_Audit_Process](./QP-0015_Quality_Audit_Process.md)
+  *  [QP-0016_Preservation_of_Product_Process](./QP-0016_Preservation_of_Product_Process.md)
+  *  [QP-0017_Risk_Management_Process](./QP-0017_Risk_Management_Process.md)
+  *  [QP-0018_Record_Management_Process](./QP-0018_Record_Management_Process.md)
+  *  [QP-0019_Customer_Property_Control_Process](./QP-0019_Customer_Property_Control_Process.md)
+  *  [QP-0020_FDA_Audit_Management_Process](./QP-0020_FDA_Audit_Management_Process.md)
+  *  [QP-0021_Medical_Device_Reporting_and_Recall_Process](./QP-0021_Medical_Device_Reporting_and_Recall_Process.md)
+  *  [QP-0022_Infrastructure_and_Work_Environment](./QP-0022_Infrastructure_and_Work_Environment.md)
+  *  [QP-0023_Supplier_Management_Process](./QP-0023_Supplier_Management_Process.md)
+  *  [QP-0024_Post_Market_Surveillance_Process](./QP-0024_Post_Market_Surveillance_Process.md)
+  *  [QP-0025_Unique_Device_Identification_Process](./QP-0025_Unique_Device_Identification_Process.md)
+  *  [QP-0026_Process_Validation_Procedure](./QP-0026_Process_Validation_Procedure.md)
+  *  [QP-0027_Technical_File_Process](./QP-0027_Technical_File_Process.md)
+  *  [QP-0028_European_Union_Medical_Device_Directive_Procedure](./QP-0028_European_Union_Medical_Device_Directive_Procedure.md)
+  *  [QP-0029_European_Union_Medical_Device_Regulation_Procedure](./QP-0029_European_Union_Medical_Device_Regulation_Procedure.md)
+  *  [QP-0030_Canadian_Medical_Device_Regulations_Procedure](./QP-0030_Canadian_Medical_Device_Regulations_Procedure.md)
 
 * [QF-0001 Quality_Manual_Forms_and_Templates](./Quality_Manual_Forms/README.md)
 
