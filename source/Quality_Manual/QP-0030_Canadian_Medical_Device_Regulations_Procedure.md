@@ -47,7 +47,7 @@ distribution of our medical devices intended for sale in the Canada.
 
  **ISO 13485** – Medical Device Quality Management Systems
 
-4.  **Procedure**
+## 4.  **Procedure**
 
 4.1.  The company maintains a Quality Management System compliant with
          ISO 13485, the Canadian Medical Device Regulations, and other

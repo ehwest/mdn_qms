@@ -3,7 +3,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0025|Unique Device Identification Process|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines the policies and procedures for implementing and
  maintaining unique device identification. This contains the procedures
@@ -60,23 +60,23 @@ QP-0025|Unique Device Identification Process|9/1/2021|/s/ Ben West
  and Data Capture Techniques – Code 128 Bar Code Symbology
  Specification
 
-4.  **Unique Device Identification (UDI) Procedure**
+## 4.  **Unique Device Identification (UDI) Procedure**
 
-4.1.  **UDI Issuing Agency**
+### 4.1.  **UDI Issuing Agency**
 
  The company utilizes an accredited issuing agency to establish a
  unique company code for UDI. The company has registered with this
  agency and obtained an appropriate company code to identify all
  products produced and distributed.
 
-4.2.  **UDI Components**
+### 4.2.  **UDI Components**
 
  The Unique Device Identification system utilized includes two
  components: the Device Identifier and the Production Identifier. When
  incorporated into barcode format, these may be separated into two
  barcodes or concatenated into a single barcode.
 
-4.2.1  **Device Identifier (DI)**
+#### 4.2.1  **Device Identifier (DI)**
 
  The Device Identifier identifies the specific device or device family
  that is produced by the company and contains the following components:
@@ -87,7 +87,7 @@ QP-0025|Unique Device Identification Process|9/1/2021|/s/ Ben West
 
 -   Unit of Measure (Packaging Configuration identifier)
 
-4.2.2  **Production Identifier (PI)**
+#### 4.2.2  **Production Identifier (PI)**
 
  The Production Identifier identifies the specific production lot from
  which the product was manufactured. The PI contains all the following
@@ -102,7 +102,7 @@ QP-0025|Unique Device Identification Process|9/1/2021|/s/ Ben West
 
 -   Manufacturing Date
 
-5.  **Barcodes**
+#### 5.  **Barcodes**
 
  The company utilizes the following specifications to ensure proper
  readability of barcodes on distributed products:
@@ -124,7 +124,7 @@ QP-0025|Unique Device Identification Process|9/1/2021|/s/ Ben West
 -   Each barcode contains a Unit of Measure from 0 to 9 (0 – Individual
      Product, 1 – Smallest Container of Individual Products, etc.)
 
-6.  **Global Unique Device Identification Database (GUDID) and European
+## 6.  **Global Unique Device Identification Database (GUDID) and European
     Database on Medical Device (EUDAMED)**
 
  The company has established and maintains a GUDID account with the FDA
@@ -190,7 +190,7 @@ QP-0025|Unique Device Identification Process|9/1/2021|/s/ Ben West
     -   Information on Product Sterility
 
 
-7.      Revision History
+## 7.      Revision History
 
 This document  QP-0025_R1_Unique_Device_Identification_Process.md
 is subject to revision. Only the latest approved version should be used.

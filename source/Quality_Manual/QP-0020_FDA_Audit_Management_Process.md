@@ -4,7 +4,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0020|FDA Audit Management Process|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines the policies and procedures for managing FDA
  inspections conducted at company facilities. All employees shall
@@ -49,7 +49,7 @@ QP-0020|FDA Audit Management Process|9/1/2021|/s/ Ben West
  **FDA Inspection Guides** – Guide to Inspections of Medical Device
  Manufacturers
 
-4.  **Procedure**
+## 4.  **Procedure**
 
  Although regulation allows for unscheduled FDA inspections,
  inspections are generally scheduled to ensure appropriate records and
@@ -57,7 +57,7 @@ QP-0020|FDA Audit Management Process|9/1/2021|/s/ Ben West
  FDA Audit activities. In the event the Management Representative is
  unavailable; the Deputy Management Representative will be substituted.
 
-4.1.  **Audit Preparation**
+### 4.1.  **Audit Preparation**
 
  In preparation for a FDA inspection, the following activities shall be
  completed:
@@ -71,7 +71,7 @@ QP-0020|FDA Audit Management Process|9/1/2021|/s/ Ben West
 
 -   General overview of code of conduct, room assignments, etc.
 
-4.2  **During the Audit**
+### 4.2  **During the Audit**
 
  During the FDA Inspection, all employees shall cooperate with the FDA
  to the fullest extent required by law and as established in relevant
@@ -89,7 +89,7 @@ QP-0020|FDA Audit Management Process|9/1/2021|/s/ Ben West
  the employee from unknowingly signing documents that can subject them
  or the company to liability.
 
-4.2.1  **Excluded Documentation and Records**
+#### 4.2.1  **Excluded Documentation and Records**
 
  Documents that the FDA may not inspect, unless voluntarily provided to
  the FDA include:
@@ -107,7 +107,7 @@ QP-0020|FDA Audit Management Process|9/1/2021|/s/ Ben West
 -   Personnel Data (other than records necessary to demonstrate
      competency and qualifications)
 
-4.2.2  **Record Requests**
+#### 4.2.2  **Record Requests**
 
  All records and procedures requested by the FDA inspector shall be
  provide as physical documents. These shall be printed in duplicate
@@ -115,13 +115,13 @@ QP-0020|FDA Audit Management Process|9/1/2021|/s/ Ben West
  provided to the FDA inspector; the second copy shall be provided to
  the notetaker or Management Rep.
 
-4.3.  **Audit Completion**
+#### 4.3.  **Audit Completion**
 
  Following the FDA Inspection, the Management Representative shall
  correspond with the FDA as necessary to obtain an Establishment
  Inspection Report and resolve any 483’s that were reported.
 
-5.      Revision History
+## 5.      Revision History
 
 This document  QP-0020_R1_FDA_Audit_Management_Process.md
 is subject to revision. Only the latest approved version should be used.

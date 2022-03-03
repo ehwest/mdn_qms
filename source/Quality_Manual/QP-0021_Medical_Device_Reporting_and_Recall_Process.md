@@ -4,7 +4,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines policies and procedures for evaluating,
  executing, and documenting medical device reportable events and
@@ -114,7 +114,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 
  **QF-0021-1** – Health Hazard Evaluation Form
 
-4.  **Criteria for Determining Adverse Events and Incidents**
+## 4.  **Criteria for Determining Adverse Events and Incidents**
 
  All events involving distributed medical devices that are associated
  with death or serious injury or the malfunction that is likely to
@@ -125,7 +125,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
  meet all three of the following criteria shall be deemed reportable to
  the appropriate regulatory authorities.
 
-4.1  **Criteria 1 – An event has occurred**
+### 4.1  **Criteria 1 – An event has occurred**
 
  Events may result from use by customers, testing performed on the
  device and/or new scientific information. Events include, but are not
@@ -149,7 +149,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 -   An inaccuracy in the labeling, instructions for use and/or
      promotional materials
 
-4.2  **Criteria 2 – The device is suspected to be a contributory
+### 4.2  **Criteria 2 – The device is suspected to be a contributory
          cause**
 
  In assessing the link between the device and the event, the following
@@ -164,7 +164,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 
 -   Any other relevant evidence
 
-4.3  **Criteria 3 – The event led, or might have led, to death or
+### 4.3  **Criteria 3 – The event led, or might have led, to death or
          serious injury**
 
  Serious injury can include, but not limited to:
@@ -185,7 +185,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 -   Foetal distress, foetal death or any congenital abnormality or birth
      defects
 
-4.  **Trend Reports**
+## 4.  **Trend Reports**
 
  Outside of the above criteria, internal trending of data may lead to
  the discovery of adverse trends involving user safety. Upon
@@ -198,20 +198,20 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
  documents for additional information regarding trending data that is
  required to be reported.
 
-4.5  **Use Error and Abnormal Use**
+### 4.5  **Use Error and Abnormal Use**
 
  For information regarding when it is required to report use error and
  abnormal use events, see the FDA, MEDDEV, Health Canada, etc. guidance
  documents.
 
-5.  **Medical Device Reporting**
+## 5.  **Medical Device Reporting**
 
  Adverse events and Incidents that meet the criteria listed in the
  section above shall be reported to the regulatory authorities of the
  zones of distribution. Medical Device Reporting shall following this
  procedure.
 
-5.1  **Required Information**
+### 5.1  **Required Information**
 
  The following information shall be captured upon initiation of the
  investigation:
@@ -236,7 +236,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 -   Proposed strategy with timelines for conducting the reporting and
      corrective actions
 
-5.2  **Investigations**
+### 5.2  **Investigations**
 
  All possible adverse events or incidents shall be investigated upon
  the date of awareness and documented on QF-0170 – Health Hazard
@@ -247,7 +247,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
  to the appropriate regulatory authorities. Otherwise, the
  investigation is closed and records are filled appropriately.
 
-5.3  **Investigation Outcome and Follow-Up**
+### 5.3  **Investigation Outcome and Follow-Up**
 
  All necessary corrective and preventative actions stemming from the
  investigation of an adverse event shall be documented and managed in
@@ -269,14 +269,14 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
      investigation such as increase post-market surveillance,
      design/manufacturing corrective actions, or recalling the device.
 
-5.4  **Periodic Summary Reporting**
+### 5.4  **Periodic Summary Reporting**
 
  In the certain scenarios it may be acceptable to submit periodic
  summary reports to regulatory authorizes. See the FDA, MEDDEV, Health
  Canada, etc. guidance documents for additional information regarding
  periodic summary reporting.
 
-5.5  **FDA Medical Device Reporting**
+### 5.5  **FDA Medical Device Reporting**
 
  For all Reportable Events, a completed Medical Device Report on the
  *FDA’s form 3500A* shall be submitted it to the FDA, through the
@@ -293,7 +293,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
  More information on electronic MDR submissions to the FDA can be found
  in the FDA Guidance Document for Electronic Medical Device Reporting.
 
-5.6  **EU Medical Device Reporting**
+### 5.6  **EU Medical Device Reporting**
 
  For Reportable Events occurring in the EU or involving medical devices
  distributed to the EU, a completed Incident Report (see “*Report Form
@@ -318,7 +318,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 
  \[Enter Name and Address\]
 
-5.7.  **Health Canada Medical Device Reporting**
+### 5.7.  **Health Canada Medical Device Reporting**
 
  For Reportable Event involving medical devices sold in Canada; (refer
  to CMDR sections 60 and 61 and GUI0059) a completed preliminary report
@@ -354,7 +354,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
  Email: [<u>mdpr@hc-sc.gc.ca</u>](mailto:mdpr@hc-sc.gc.ca) (preferred
  method with “MDPR” in subject line)
 
-6.  **Recalls**
+## 6.  **Recalls**
 
  Recalls may be voluntarily initiated or mandated by regulatory
  authorities. In the event of a mandatory regulatory recall, company
@@ -371,7 +371,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
  Notification to be returned with recalled product or notification that
  they do not have any recalled product.
 
-6.1.  **Required Information**
+### 6.1.  **Required Information**
 
  The following information shall be captured upon initiation of any
  recalls and documented in the associated CAPA file:
@@ -409,7 +409,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 -   Name and contact information for company’s official correspondent
      (e.g. Director of QA)
 
-6.2  **US FDA**
+### 6.2  **US FDA**
 
  The FDA shall be notified of any recalls in accordance with 21 CFR
  Part 806. An initial notice containing information from the above
@@ -421,7 +421,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 
  \[Address is specific to the region of the company\]
 
-6.3.  **European Union**
+### 6.3.  **European Union**
 
  For product distributed in the European Union, the Authorized
  Representative, Notified Body, and all affected Competent Authorities
@@ -434,7 +434,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
 
  \[Enter Name and Address\]
 
-6.4  **Health Canada**
+### 6.4  **Health Canada**
 
  Health Canada officials shall be notified of the recall if any of the
  impacted product is distributed in Canada. The Minister of Health
@@ -456,7 +456,7 @@ QP-0021|Medical Device Reporting and Recall Process|9/1/2021|/s/ Ben West
  Email: ONT-MET@hc-sc.gc.ca
 
 
-5.      Revision History
+## 5.      Revision History
 
 This document  QP-0021_R1_Medical_Device_Reportin_and_Recall_Process.md
 is subject to revision. Only the latest approved version should be used.

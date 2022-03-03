@@ -4,23 +4,23 @@ Document Number|Title                                      |Effective|Owner
 ---------------|-------------------------------------------|---------|----
 QP-0010        |Software Development and Validation Process|9/20/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines the policies and procedures utilized for
  developing, verifying, and releasing software-defined products. It
  defines an Agile development process used and specifies the
  activities associated with software development and validation.
 
-2.  **Scope**
+## 2.  **Scope**
 
  This process applies to all software incorporated into (and/or defined as)
 a  medical device. Any software systems not intended for
  commercialization or the quality management system are exempt from
  this process.
 
-3.  **General**
+## 3.  **General**
 
-3.1  **Definitions**
+### 3.1  **Definitions**
 
  **Software of Unknown Provenance (SOUP)** – A oftware component that is
  already development and generally available and that has not been
@@ -47,7 +47,7 @@ incremental improvement to the overall system involved.   It should be noted tha
 
  **Trunkflow development**  - A version control management practice where developers merge small, frequent updates to a core “trunk” or main branch.  As compared to "gitflow" methods, Trunkflow methods generally have fewer branches (e.g. no feature branch, and/or no hotfix branch).
 
-3.2  **Responsibilities**
+### 3.2  **Responsibilities**
 
  **Engineering** – Engineering is responsible for owning this process
  and ensuring each step is completed and documented.
@@ -77,7 +77,7 @@ incremental improvement to the overall system involved.   It should be noted tha
 
  **QP-0009** – Change Control Process
 
-4.  **Software Development Process Overview**
+## 4.  **Software Development Process Overview**
 
 MDN products are all completely software-defined. 
 No hardware or physical packaging or labeling is involved in delivering cloud-based services (as devices).
@@ -191,7 +191,7 @@ conclusions can be made about how many bugs remain, using this model.
 A condition of releasability for any code package, is a forecast using this tool, that indicates no
 more "Severity 1" problems may be found in the code under test.
 
-5.      Revision History
+## 5.      Revision History
 
 This document  QP-0010_R1_Software_Validation_Process.md
 is subject to revision. Only the latest approved version should be used.

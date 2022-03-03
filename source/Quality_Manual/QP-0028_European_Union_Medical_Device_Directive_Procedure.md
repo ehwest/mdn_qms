@@ -3,7 +3,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0028|European Union Medical Device Directive Procedure|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 To describe the requirements for compliance with the Medical Device
 Directive 93/42/EEC for the manufacture, distribution and related
 activities for our medical devices intended for sale in the European
@@ -72,7 +72,7 @@ Union.
 
     -   **MDD 93/42/EEC** – Medical Device Directive
 
-4.  **Procedure**
+## 4.  **Procedure**
 
 4.1.  The company designs, develops, manufactures and services
          products that are intended to be distributed globally. The

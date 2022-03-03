@@ -4,7 +4,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines the policies and procedures for performing
  quality audits to ensure the effectiveness of the quality management
@@ -12,16 +12,16 @@ QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
  These policies and procedures include auditor selection, audit
  planning, execution, reporting, and closure.
 
-2.  **Scope**
+## 2.  **Scope**
 
  This procedure applies to all Quality Management System audits
  including internal quality audits and supplier quality audits.
 
-3.  **General**
+## 3.  **General**
 
-3.1  **Definitions** – N/A
+### 3.1  **Definitions** – N/A
 
-3.2  **Responsibilities**
+### 3.2  **Responsibilities**
 
  **Quality Auditors** – Auditors are responsible for executing the
  following procedures and submitting all records to the Quality
@@ -63,7 +63,7 @@ QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
 
  **QP-0023** – Supplier Management Process
 
-4.  **Internal Audit Schedule**
+## 4.  **Internal Audit Schedule**
 
  The internal audit schedule is developed and maintained by the Quality
  Department. The audit schedule shall cover all areas of the quality
@@ -80,7 +80,7 @@ QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
 
 -   The name of lead auditor and date of audit once completed
 
-5.  **Quality Audit Procedure**
+## 5.  **Quality Audit Procedure**
 
  The following audit procedures are utilized to ensure that the quality
  system is in compliance with established quality system requirements
@@ -91,7 +91,7 @@ QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
  considering the associated risk and importance of the area to be
  audited.
 
-5.1  **Auditor Selection**
+### 5.1  **Auditor Selection**
 
  Auditors may be chosen from within any department in the company or
  utilize third party auditors based on their qualifications and
@@ -112,7 +112,7 @@ QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
 -   Candidate has demonstrated auditor competencies to a qualified
      auditor
 
-5.2  **Audit Preparation**
+### 5.2  **Audit Preparation**
 
  Audits are scheduled by the lead auditor with the area management
  during the designated month on the audit schedule. During the planning
@@ -130,7 +130,7 @@ QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
 -   Send the audit plan to participating auditors and auditee
      representatives
 
-5.3  **Audit Execution and Report**
+### 5.3  **Audit Execution and Report**
 
  An audit is initiated by an opening meeting and concluded by a closing
  meeting. The following items are completed during the audit and
@@ -161,7 +161,7 @@ QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
  audit report to auditee representative. Any audit disputes or issues
  shall be resolved by Quality Management.
 
-5.4  **Audit Findings**
+### 5.4  **Audit Findings**
 
  Upon completion of the audit, the auditor shall provide a report of
  the results to the management responsible for the area/organization
@@ -178,7 +178,7 @@ QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
  required to be implemented within 90 days. An extension may be granted
  at the Quality Management’s discretion with justification.
 
-5.5  **Audit Closure**
+### 5.5  **Audit Closure**
 
  Once all corrective actions have been completed, area management shall
  submit verification of the corrective actions to the auditing body.
@@ -187,7 +187,7 @@ QP-0015|Quality Audit Process|9/1/2021|/s/ Ben West
  management.
 
 
-6.      Revision History
+## 6.      Revision History
 
 This document  QP-0015_R1_Quality_Audit_Process.md
 is subject to revision. Only the latest approved version should be used.

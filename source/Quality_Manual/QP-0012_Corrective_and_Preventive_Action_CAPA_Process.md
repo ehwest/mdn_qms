@@ -6,7 +6,7 @@ Document Number|Title|Effective|Owner
 QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
 
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines the company’s policies and procedures for
  completing and documenting corrective and preventive actions. These
@@ -14,15 +14,15 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  severity categorization, activity plan, closure, and information
  awareness.
 
-2.  **Scope**
+## 2.  **Scope**
 
  This procedure applies to all corrective and preventive actions
  initiated. Issues regarding products that have not been released to
  commercialization are exempt from the CAPA process.
 
-3.  **General**
+## 3.  **General**
 
-3.1  **Definitions**
+### 3.1  **Definitions**
 
         -   **Corrective Action** – Action taken to eliminate the cause
              of an existing nonconformity, defect, or other undesirable
@@ -35,13 +35,13 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
              of a potential nonconformity, defect, or other undesirable
              situation in order to prevent occurrence
 
-3.2  **Responsibilities**
+### 3.2  **Responsibilities**
 
  **Quality Management** – Quality Management is responsible for the
  implementation and continued compliance with the procedures specified
  in this document and by the regulatory authorities.
 
-3.3  **Equipment and Materials** – N/A
+### 3.3  **Equipment and Materials** – N/A
 
 3.4  **Safety Precautions** – N/A
 
@@ -70,7 +70,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
 
  **QP-0011** – Customer Complaints
 
-4.  **Corrective and Preventive Action (CAPA) Procedure**
+## 4.  **Corrective and Preventive Action (CAPA) Procedure**
 
  The Corrective and Preventive Action (CAPA) process is a systemic
  approach to eliminating the cause of an existing or potential
@@ -81,7 +81,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  problem solving methodology utilized contains elements from PDCA,
  DMAIC, and 8D principles.
 
-4.1  **CAPA Inputs**
+### 4.1  **CAPA Inputs**
 
  Inputs for the CAPA process include, but are not limited to data
  analysis and management review of the following:
@@ -104,7 +104,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  dependent on items such as risk and type of error (systematic vs.
  random).
 
-4.2  **Problem Identification**
+### 4.2  **Problem Identification**
 
  Effort shall be taken to clearly and completely describe the problem
  associated with the CAPA. The problem statement shall define an
@@ -112,7 +112,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  Ambiguous information, feelings, opinions, etc shall not be included
  in the problem statement.
 
-4.3  **Severity Categorization**
+### 4.3  **Severity Categorization**
 
  The severity of a CAPA is determined utilizing the methodology
  described in ISO 14971. Each CAPA shall be classified as Minor,
@@ -121,7 +121,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  awareness, and the degree of the actions taken in the Action Plan.
  Tables in Appendix A shall be utilized to determine associated risk.
 
-4.4  **CAPA Action Plan**
+### 4.4  **CAPA Action Plan**
 
  The following planned activities shall be completed as necessary to
  carry out an effective CAPA. Containment and Disposition activities
@@ -135,7 +135,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  reasonable efforts shall be made to complete and close CAPA plans in a
  timely manner without undue delay.
 
-4.4.1  **Containment**
+#### 4.4.1  **Containment**
 
  The objective of the containment phase is to prevent the distribution
  or propagation of the identified defect or issue. This is done
@@ -146,7 +146,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  being held. Examples of containment activities include: QC Hold,
  Product Quarantine, and Production Shutdown.
 
-4.4.2  **Investigation**
+#### 4.4.2  **Investigation**
 
  The objective of the investigation activity is to gather and analyze
  as much information/data as necessary to determine the root cause of
@@ -167,7 +167,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  reported to customers, the advisory notice procedure defined in Doc
  QP-0011 shall be utilized.
 
-4.4.3  **Implementation Plan and Execution**
+#### 4.4.3  **Implementation Plan and Execution**
 
  The implementation is a four part activity; PDCA. The first is
  developing the implementation plan. the second is the execution of
@@ -181,7 +181,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
 
  <img src="./media/image2.png" style="width:2.98958in;height:2.98958in" />
 
-4.4.4  **Disposition**
+#### 4.4.4  **Disposition**
 
  The disposition of affected product may proceed at any point following
  the completion of the investigation. All associated product shall be
@@ -196,7 +196,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
 
 -   Use As Is with justification
 
-4.4.5  **Effectiveness Check**
+#### 4.4.5  **Effectiveness Check**
 
  The effectiveness check shall verify or validate that the corrective
  and preventive action had the intended results and did not adversely
@@ -204,7 +204,7 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  provide confidence that the risk of reoccurrence has been
  appropriately mitigated.
 
-4.5  **CAPA Closure and Information Awareness**
+### 4.5  **CAPA Closure and Information Awareness**
 
  Corrective and Preventive Actions shall remain open until all action
  items are completed and documented. Once complete, the documentation
@@ -220,12 +220,12 @@ QP-0012|Corrective and Preventive Action (CAPA) Process|9/1/2021|/s/ Ben West
  sections, an extension shall be submitted and approved by Quality
  Management. Granted extensions shall be noted on the CAPA Log.
 
-6.  **Appendix A – Risk Assessment**
+## 6.  **Appendix A – Risk Assessment**
 
  The following risk assessment methodology has been developed utilizing
  principles from ISO 14971.
 
-6.1  **Severity Assessment**
+### 6.1  **Severity Assessment**
 
 Severity Index|Severity Category|Description of Severity
 --------------|-----------------|-----------------------
@@ -235,7 +235,7 @@ S3|Moderate|Loss of efficacy and/or significannt injury
 S4|Serious|Significant injury that is epected to result in permanent impairment, even with major medical intervention.
 S5|Critical|Severe injury where major medical intervention is required to prevent loss of life or when loss of life cannot be prevented.
 
-6.2  **Probability of Occurrence Assessment**
+### 6.2  **Probability of Occurrence Assessment**
 
 Probability Index|Rate of Failure
 -----------------|--------------
@@ -245,7 +245,7 @@ P3|0.11% - 1.00%
 P4|1.01% - 10.00%
 P5|> 10.00%
 
-6.3  **Risk Assessment**
+### 6.3  **Risk Assessment**
 
 Risk Index R = s x p|Risk Category
 --------------------|-------------
@@ -253,7 +253,7 @@ R1 to R6 | Minor
 R8 to R10 | Moderate
 R12 to R25 | Major
 
-7.      Revision History
+## 7.      Revision History
 
 This document  QP-0012_R1_Corrective_and_Preventive_Action_CAPA_Process.md
 is subject to revision. Only the latest approved version should be used.

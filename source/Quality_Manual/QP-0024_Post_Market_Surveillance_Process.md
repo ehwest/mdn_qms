@@ -3,7 +3,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0024|Post Market Surveillance Process|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines the policies and procedures for post-market
  surveillance activities to gain information regarding the quality,
@@ -82,14 +82,14 @@ QP-0024|Post Market Surveillance Process|9/1/2021|/s/ Ben West
  **GHTF/SG2/N47R4:** Review of Current Requirements on Post Market
  Surveillance
 
-4.  **Post-Market Surveillance Procedure**
+## 4.  **Post-Market Surveillance Procedure**
 
  The inputs identified below define Post-Market Surveillance as
  performed to support international vigilance requirements. Post-Market
  Surveillance data is assessed as part of the Design Control Process
  and Management Review.
 
-4.1.  The company will identify applicable information from the sources
+### 4.1.  The company will identify applicable information from the sources
      below in order to be able to gather relevant information regarding
      quality, safety and performance of medical devices which have been
      placed on the market. Surveillance is an ongoing process of
@@ -117,7 +117,7 @@ QP-0024|Post Market Surveillance Process|9/1/2021|/s/ Ben West
          various regulatory agency websites, publications, etc. of both
          manufactured products and similar products from competitors
 
-4.2.  When establishing and documenting Post Market Surveillance, the
+### 4.2.  When establishing and documenting Post Market Surveillance, the
      company considers:
 
     -   Whether the design of the device, the material, the principles
@@ -190,7 +190,7 @@ QP-0024|Post Market Surveillance Process|9/1/2021|/s/ Ben West
 </table
 
 
-5.      Revision History
+## 5.      Revision History
 
 This document  QP-0024_R1_Post_Market_Surveillance_Process.md
 is subject to revision. Only the latest approved version should be used.

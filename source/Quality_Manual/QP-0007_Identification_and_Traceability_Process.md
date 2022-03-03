@@ -4,20 +4,20 @@ Document Number|Title|Effective|Owner
 QP-0007|Identification and Traceability Process|9/1/2021|/s/ Ben West
 
 
-1.  **Purpose**
+## 1.  **Purpose**
 
 This document defines policies and procedures for identification and
 traceability of product throughout manufacturing and distribution.
 These policies and procedures include product identification,
 traceability, and status identification.
 
-2.  **Scope**
+## 2.  **Scope**
 
 This procedure applies to all products manufactured, either in-house
 or by contract manufacturer, for distribution. Products produced under
 investigational device exemptions are exempt from this procedure.
 
-3.  **General**
+## 3.  **General**
 
 3.1  **Definitions** – N/A
 
@@ -50,14 +50,14 @@ in this document and by the regulatory authorities.
 
 **ISO 13485** – Medical Device Quality Management Systems
 
-4.  **Identification and Traceability Procedure**
+## 4.  **Identification and Traceability Procedure**
 
 The company is responsible for the identification and traceability
 requirements of products manufactured and distributed under the
 company name. These requirements apply to products manufactured within
 the company and those produced by contracted manufacturers.
 
-4.1  **Product Identification**
+### 4.1  **Product Identification**
 
 The final product and all components determined to be significant
 shall be identified throughout the manufacturing process.
@@ -65,7 +65,7 @@ Identification shall be unique and clearly marked on the product,
 where appropriate. Specific identification requirements for each
 product are maintained within the Device History Record.
 
-4.2  **Traceability Procedure**
+### 4.2  **Traceability Procedure**
 
 Traceability records for finished product are specified and maintained
 within the Device History Record. Traceability requirements are
@@ -100,7 +100,7 @@ device. Acceptance activities are a preapproved set of tests and/or
 reviews utilized to verify the build, operation, and performance of
 each unit prior to release for distribution.
 
-4.3  **Status Identification**
+### 4.3  **Status Identification**
 
 The identification of product status shall be maintained from receipt
 through production and storage to distribution. Any product found to
@@ -118,7 +118,7 @@ product shall be differentiated from distributable product until the
 product has been refurbished and passes all acceptance criteria.
 
 
-5.      Revision History
+## 5.      Revision History
 
 This document  QP-0007_R1_Identification_and_Traceability_Process.md
 is subject to revision. Only the latest approved version should be used.

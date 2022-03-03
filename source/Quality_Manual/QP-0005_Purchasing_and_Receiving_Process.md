@@ -4,7 +4,7 @@ Document Number|Title|Effective|Owner
 QP-0005|Purchasing and Receiving Process|9/1/2021|/s/ Ben West
 
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines the policies and procedures for ensuring that
  purchased product and services conforms to specified requirements.
@@ -12,7 +12,7 @@ QP-0005|Purchasing and Receiving Process|9/1/2021|/s/ Ben West
  and incoming receipt procedure.
 
 
-2.  **Scope**
+### 2.  **Scope**
 
  This document applies to purchases that are associated with the
  Quality Management System. Purchases not associated the Quality
@@ -30,7 +30,7 @@ those products exempt from this process.
 
 
 
-3.  **General**
+### 3.  **General**
 
 3.1  **Definitions**
 
@@ -48,7 +48,7 @@ those products exempt from this process.
      investigate and correct the nonconforming issues providing the
      appropriate written response.
 
-3.2  **Responsibilities**
+#### 3.2  **Responsibilities**
 
  **Operations** –Operations is responsible for maintaining the Approved
  Supplier List and completing purchase orders, incoming inspections and
@@ -58,17 +58,22 @@ those products exempt from this process.
  implementation and continued compliance with the procedures specified
  in this document and by the regulatory authorities.
 
-3.3  **Equipment and Materials** – N/A
+#### 3.3  **Equipment and Materials** 
+N/A
 
-3.4  **Safety Precautions** – N/A
+#### 3.4  **Safety Precautions**
+N/A
 
-3.5  **Training Requirements** – All Operations personnel shall be
-     trained on this procedure and training documented.
+#### 3.5  **Training Requirements**
 
-3.6  **Record Management** – Purchase Order and Incoming Inspection
-     records are managed and maintained by Operations.
+All Operations personnel shall be trained on this procedure and training
+documented.
 
-3.7  **Reference Documents and Materials**
+#### 3.6  **Record Management**
+Purchase Order and Incoming Inspection records are managed and maintained by
+Operations.
+
+#### 3.7  **Reference Documents and Materials**
 
 -   **21 CFR 820 FDA** – Quality System Regulations
 
@@ -89,7 +94,7 @@ those products exempt from this process.
 
 -   Purchase Requisition Form
 
-4.  **Purchasing Process**
+## 4.  **Purchasing Process**
 
  The purchasing process is managed by Operations and documented on the
  Purchase Requisition Form and/or Supplier Contracts. Upon receipt of
@@ -100,7 +105,7 @@ those products exempt from this process.
  incoming inspections will be completed and upon acceptance, the PO
  will be closed and the associated documentation filed.
 
-4.1  **Purchasing Information**
+### 4.1  **Purchasing Information**
 
  Purchasing information shall describe the product, processes,
  services, or software to be purchased including, where appropriate,
@@ -110,7 +115,7 @@ those products exempt from this process.
  item being purchased. The adequacy of specified purchase requirements
  shall be reviewed prior to their communication to the supplier.
 
-4.2  **Planning of Inventory Items**
+### 4.2  **Planning of Inventory Items**
 
  Purchasing agreements are established with key contract manufacturers
  and suppliers. These agreements may result in the submission of
@@ -125,9 +130,9 @@ those products exempt from this process.
  are those that require warehouse safety stock levels and reordering
  based upon vendor economic order quantities (EOQs) and lead time.
 
-4.3  **Purchase Order Processing**
+### 4.3  **Purchase Order Processing**
 
-4.3.1  **Purchase Request**
+#### 4.3.1  **Purchase Request**
 
  Any employee can communicate the need for a purchase by submitting a
  purchase requisition to Purchasing. The submission may be submitted
@@ -146,15 +151,15 @@ those products exempt from this process.
 
     -   Special instructions, where appropriate
 
-4.3.2  **Purchase Approval and Execution Procedure**
+#### 4.3.2  **Purchase Approval and Execution Procedure**
 
- Upon obtaining the required approvals of the PRF, the purchase order
- (PO) may be processed. If the purchase is for inventory items or if
- the item will be sold to a customer, the supplier must be on the
- Approved Supplier’s List (ASL). POs are sent to the supplier via
- agreed upon method (see ASL). In the case of credit card purchases, a
- PO will be completed for record. The PO shall contain applicable data
- to ensure that the correct product or service is supplied, including:
+Upon obtaining the required approvals of the PRF, the purchase order
+(PO) may be processed. If the purchase is for inventory items or if
+the item will be sold to a customer, the supplier must be on the
+Approved Supplier’s List (ASL). POs are sent to the supplier via
+agreed upon method (see ASL). In the case of credit card purchases, a
+PO will be completed for record. The PO shall contain applicable data
+to ensure that the correct product or service is supplied, including:
 
 -   A line item for each item ordered, including revision, where
      applicable.
@@ -174,7 +179,7 @@ those products exempt from this process.
 
  A copy of each PO is maintained by Purchasing.
 
-5.  **Incoming Receipt Procedure**
+## 5.  **Incoming Receipt Procedure**
 
  All products that impact quality shall undergo acceptance activities
  prior to being moved into inventory. The required acceptance
@@ -200,7 +205,7 @@ Table**<img src="./media/image1.png" style="width:4.75in;height:7.27361in" /
 
 
 
-6.      Revision History
+## 6.      Revision History
 
 This document  QP-0005_R1_Purchasing_and_Receiving_Process.md
 is subject to revision. Only the latest approved version should be used.

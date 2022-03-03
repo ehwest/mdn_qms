@@ -8,7 +8,7 @@ QP-0004|Training and Competency Process|9/1/2021|/s/ Ben West
 This document describes the process whereby Training and Competency of company associates is maintained.
 
 
-1.  **Purpose**
+## 1.  **Purpose**
 
 This document defines the policies and procedures for ensuring the
 competence of personnel performing work associated with the Quality
@@ -16,14 +16,14 @@ Management System. These policies and procedures define how
 requirements are established, fulfilled, recorded, and evaluated for
 effectiveness.
 
-1.  **Scope**
+### 1.  **Scope**
 
 This document applies to employees and job functions that are
 associated with the Quality Management System. Departments and job
 functions not associated with the Quality Management System are exempt
 from this process.
 
-1.  **General**
+### 1.  **General**
 
     1.  **Definitions** – N/A
 
@@ -69,7 +69,7 @@ this document and by the regulatory authorities.
 
 **QF-0004-2** – Competency Record
 
-1.  **Training and Competency Assessment Procedure**
+## 1.  **Training and Competency Assessment Procedure**
 
 The company utilizes two mechanisms to ensure employees are competent
 and have been effectively trained to perform the required job
@@ -86,7 +86,7 @@ Management does not require Quality System Training unless job
 function involves direct interaction with product and/or service
 quality.
 
-1.  **Personnel Qualifications**
+### 1.  **Personnel Qualifications**
 
 The Personnel Qualifications are determined by department management
 and defined within a job description that is maintained by Human
@@ -100,7 +100,7 @@ determined by Human Resources and is dependent on the requirements
 defined within the job description. Examples include job applications,
 resumes, certifications, etc.
 
-1.  **Quality System Training**
+## 1.  **Quality System Training**
 
 The Quality System Training requirements are established and
 maintained by department management. The training requirements are
@@ -123,7 +123,7 @@ Department management is responsible for ensuring the completion of
 this training. Training records are maintained by the Quality
 Department.
 
-1.  **Training and Competency Evaluation**
+### 1.  **Training and Competency Evaluation**
 
 The competency of non-product association employees and effectiveness
 of training is evaluated during employee evaluations. This review is
@@ -136,7 +136,7 @@ This assessment is completed by an experienced employee once the
 training period is completed, as determined by management. A
 documented record is maintained within QMS training records.
 
-5.      Revision History
+### 5.      Revision History
 
 This document  QP-0004_R1_Training and Competency Process
 is subject to revision. Only the latest approved version should be used.

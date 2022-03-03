@@ -4,7 +4,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0022|Infrastructure and Work Environment|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines the policies and procedures for controlling and
  sustaining the required infrastructure and work environment necessary
@@ -50,13 +50,13 @@ QP-0022|Infrastructure and Work Environment|9/1/2021|/s/ Ben West
 
  **ISO 13485** – Medical Device Quality Management Systems
 
-4.  **Infrastructure**
+## 4.  **Infrastructure**
 
  Operations, with supports from other departments, shall continuously
  evaluate infrastructure requirements and ensure adequate facilities,
  equipment, and services for the organization.
 
-4.1.  **Facilities**
+### 4.1.  **Facilities**
 
  The facilities shall provide the organization with sufficient
  capacity, storage, organization, and utilities necessary to complete
@@ -65,14 +65,14 @@ QP-0022|Infrastructure and Work Environment|9/1/2021|/s/ Ben West
 
  \[Will differ based upon the manufacturing requirements\]
 
-4.2.  **Equipment**
+### 4.2.  **Equipment**
 
  The company shall provide the equipment necessary for employees to
  complete their duties. All equipment utilized in the manufacturing of
  product shall be qualified for the application and validated, if
  applicable
 
-4.3  **Service**
+### 4.3  **Service**
 
  Services shall be contracted to ensure the company employees maintain
  sufficient services to complete directed tasks. These services
@@ -86,13 +86,13 @@ QP-0022|Infrastructure and Work Environment|9/1/2021|/s/ Ben West
 + HVAC
 + Pest Control
 
-5.  **Work Environment**
+## 5.  **Work Environment**
 
  Operations, with supports from other departments, shall create and
  maintain an environment that supports the goals and objectives of the
  organization.
 
-5.1  **Environmental Conditions**
+### 5.1  **Environmental Conditions**
 
  The company shall provide a work environment under the following
  guidelines:
@@ -108,7 +108,7 @@ QP-0022|Infrastructure and Work Environment|9/1/2021|/s/ Ben West
  services shall be monitored. Visual and/or physical identifier shall
  designate any controlled/restricted areas.
 
-5.2. **Health, Cleanliness, and Personnel Attire**
+### 5.2. **Health, Cleanliness, and Personnel Attire**
 
  The dress code and personnel hygiene requirements are maintained
  within the Employee Handbook. Additionally requirements may apply to
@@ -116,11 +116,11 @@ QP-0022|Infrastructure and Work Environment|9/1/2021|/s/ Ben West
  infectious conditions are banned from manufacturing or working with
  medical devices meant for distribution.
 
-5.3.  **Contamination Control**
+#### 5.3.  **Contamination Control**
 
 N/A
 
-6.      Revision History
+## 6.      Revision History
 
 This document  QP-0022_R1_Infrastructure_and_Work_Environment.md
 is subject to revision. Only the latest approved version should be used.

@@ -4,7 +4,7 @@ Document Number|Title|Effective|Owner
 QP-0029|European Union Medical Device Regulation Procedure|9/1/2021|/s/ Ben West
 
 
-1.  **Purpose**
+## 1.  **Purpose**
 
 To describe the requirements for compliance with the Medical Device
 Regulation 2017/745 for the manufacture, distribution and related
@@ -70,9 +70,9 @@ Union.
 
 3.6.  **References**
 
- **MDR 2017/745** – EU Medical Device Regulation
+**MDR 2017/745** – EU Medical Device Regulation
 
-4.  **Procedure**
+## 4.  **Procedure**
 
 4.1.  The company shall formally appoint a Person Responsible for
          Regulatory Complaint (PRRC) and maintain documented evidence

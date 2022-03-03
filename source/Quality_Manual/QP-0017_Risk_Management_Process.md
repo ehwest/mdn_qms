@@ -4,7 +4,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0017|Risk Management process|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  The purpose of this document is to define the policies and procedures
  for identifying, mitigating, and managing risk throughout the
@@ -13,13 +13,13 @@ QP-0017|Risk Management process|9/1/2021|/s/ Ben West
  acceptability, risk management reports, and production and
  post-production information.
 
-2.  **Scope**
+## 2.  **Scope**
 
  The risk management procedure applies to all distributable and new
  development products. Risk management principles may be applied to
  non-product specific applications such as project management.
 
-3.  **General**
+## 3.  **General**
 
 3.1  **Definitions**
 
@@ -81,7 +81,7 @@ QP-0017|Risk Management process|9/1/2021|/s/ Ben West
 
  **QP-0021** – Medical Device Reporting and Recall Process
 
-4.  **Risk Management Process**
+## 4.  **Risk Management Process**
 
  The company utilizes risk analysis, risk evaluation, risk control, and
  evaluation of residual risk acceptability to manage the risks
@@ -92,7 +92,7 @@ QP-0017|Risk Management process|9/1/2021|/s/ Ben West
  History File (DHF). The Failure Modes and Effects Analysis (FMEA) is
  the primary tool utilized for risk management.
 
-4.1.  **Risk Analysis**
+### 4.1.  **Risk Analysis**
 
  The risk analysis shall include the following:
 
@@ -114,17 +114,17 @@ QP-0017|Risk Management process|9/1/2021|/s/ Ben West
  information or data. The risk estimate includes a component of
  probability and a component of severity.
 
-4.2.  **Risk Evaluation**
+### 4.2.  **Risk Evaluation**
 
  For each identified hazard, the company shall determine if risk
  reduction activities are required based upon accepted criteria. The
  criteria utilized for this determination shall approved by management.
 
-4.3.  **Risk Control**
+### 4.3.  **Risk Control**
 
- Risk determined to be unacceptable by the risk evaluation shall be
- mitigated by risk controls. The following risk control options shall
- be utilized in the priority listed:
+Risk determined to be unacceptable by the risk evaluation shall be
+mitigated by risk controls. The following risk control options shall
+be utilized in the priority listed:
 
 -   Inherent safety by design
 
@@ -133,39 +133,39 @@ QP-0017|Risk Management process|9/1/2021|/s/ Ben West
 
 -   Information for safety included in labeling
 
- The implementation and effectiveness of control measures shall be
- verified and documented. Following implementation, the residual risk
- shall be re-analyzed and evaluated to determine if additional risk
- controls are required. The new controls shall be evaluated to ensure
- no new hazards are introduced by the control and determine any impact
- to the risk estimates of other hazards. All risks shall be reduced as
- far as possible.
+The implementation and effectiveness of control measures shall be
+verified and documented. Following implementation, the residual risk
+shall be re-analyzed and evaluated to determine if additional risk
+controls are required. The new controls shall be evaluated to ensure
+no new hazards are introduced by the control and determine any impact
+to the risk estimates of other hazards. All risks shall be reduced as
+far as possible.
 
-4.3.  **Risk / Benefit Analysis**
+### 4.3.  **Risk / Benefit Analysis**
 
- After completing all possible risk reduction, the company shall
- conduct a risk/benefit analysis of the residual risk. The company
- shall utilize data, literature, and expert opinion to determine if the
- medical benefits of the intended use outweigh the residual risk. The
- company shall only proceed if the medical benefit is determined to be
- great than the residual risk and the associated justification is
- documented.
+After completing all possible risk reduction, the company shall
+conduct a risk/benefit analysis of the residual risk. The company
+shall utilize data, literature, and expert opinion to determine if the
+medical benefits of the intended use outweigh the residual risk. The
+company shall only proceed if the medical benefit is determined to be
+great than the residual risk and the associated justification is
+documented.
 
-4.4.  **Evaluation of Overall Residual Risk Acceptability**
+### 4.4.  **Evaluation of Overall Residual Risk Acceptability**
 
- Following the completion of the risk analysis, evaluation, and control
- phases; the company shall determine if the overall residual risk posed
- by the medical device is acceptable versus the benefit provided by the
- medical device. For an overall residual risk that is judged
- acceptable, the company shall determine which information is necessary
- to include the in the associated labeling to disclose the overall
- residual risk.
+Following the completion of the risk analysis, evaluation, and control
+phases; the company shall determine if the overall residual risk posed
+by the medical device is acceptable versus the benefit provided by the
+medical device. For an overall residual risk that is judged
+acceptable, the company shall determine which information is necessary
+to include the in the associated labeling to disclose the overall
+residual risk.
 
-4.6.  **Risk Management Report**
+### 4.6.  **Risk Management Report**
 
- Prior to the release for commercial distribution of the medical
- device, the company shall complete a review and documented approval of
- the risk management process. This review shall ensure:
+Prior to the release for commercial distribution of the medical
+device, the company shall complete a review and documented approval of
+the risk management process. This review shall ensure:
 
 -   The risk management plan has been appropriately implemented
 
@@ -193,7 +193,7 @@ QP-0017|Risk Management process|9/1/2021|/s/ Ben West
 
 -   Changes have been made that potentially impact risk management
 
-5.      Revision History
+## 5.      Revision History
 
 This document  QP-0017_R1_Risk_Management_Process.md
 is subject to revision. Only the latest approved version should be used.

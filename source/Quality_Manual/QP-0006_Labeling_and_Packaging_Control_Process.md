@@ -4,14 +4,14 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0006|Labeling and Packaging Control Process|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
 This document defines the policies and procedures for controlling and
 maintaining the labeling associated with distributed products. These
 policies and procedures include labeling review and approval and
 labeling first article inspection.
 
-2.  **Scope**
+## 2.  **Scope**
 
 This procedure applies to all labeling that is required by the Quality
 Management System and applicable regulatory requirements. Labeling
@@ -21,9 +21,9 @@ technical description, and use of the device as defined below.
 Engineering changes to packaging that do not impact labeling are
 exempt from this procedure.
 
-3.  **General**
+## 3.  **General**
 
-    3.1  **Definitions**
+### 3.1  **Definitions**
 
         -   **Label** – A display of written, printed, or graphic matter
             upon the immediate container of any article.
@@ -37,23 +37,23 @@ exempt from this procedure.
         -   **Final Proof** – The production master or first article
             sample for a new or revised labeling/packaging item.
 
-3.2  **Responsibilities**
+### 3.2  **Responsibilities**
 
 **Quality Management** – Quality Management is responsible for the
 implementation and continued compliance with the procedures specified
 in this document and by the regulatory authorities.
 
-3.3  **Equipment and Materials** – N/A
+### 3.3  **Equipment and Materials** – N/A
 
-3.4  **Safety Precautions** – N/A
+### 3.4  **Safety Precautions** – N/A
 
-3.5  **Training Requirements** – All personnel responsible for the
+### 3.5  **Training Requirements** – All personnel responsible for the
     approval of labeling shall be competent in relevant areas.
 
-3.6  **Record Management** – Labeling records are managed and maintained
+### 3.6  **Record Management** – Labeling records are managed and maintained
     by the Quality Department.
 
-3.7  **Reference Documents and Materials**
+### 3.7  **Reference Documents and Materials**
 
 **21 CFR 820** FDA Quality System Regulations
 
@@ -77,7 +77,7 @@ Existing Device
 
 **QF-0006-1** – Labeling Review and Approval Form
 
-4.  **Procedure**
+## 4.  **Procedure**
 
 The company utilizes the following procedures to ensure labeling
 achieves the required objectives, is manufactured correctly, and meets
@@ -93,7 +93,7 @@ controlled within the associated Device Master Record (DMR). The
 primary identification label and labeling used for each production
 unit shall be maintained with the Device History Record (DHR).
 
-4.1  **Label Content**
+### 4.1  **Label Content**
 
 The following information is required to be presented in a legible,
 permanent, and prominent manner on the product labeling. The
@@ -128,7 +128,7 @@ and/or specific product types.
 
 -   Any special storage conditions applicable to the device.
 
-4.2  **Label Translations**
+### 4.2  **Label Translations**
 
 Labels may require translation based upon international distribution.
 Labeling items containing foreign languages require Certifications of
@@ -137,7 +137,7 @@ review and approval process. A list of labeling translations and
 approved regulatory jurisdiction is maintained with the Device Master
 Record (DMR)
 
-4.3  **Labeling Change Control**
+### 4.3  **Labeling Change Control**
 
 The labeling review and approval process is documented on the Labeling
 Review and Approval Form. All new labeling and labeling modifications
@@ -154,14 +154,14 @@ For all labeling changes that impact documents with the Document
 Control Library, the initiating party is responsible for ensuring
 updates are completed.
 
-4.1.1  **Labeling Information**
+#### 4.1.1  **Labeling Information**
 
 Section 1 of QF-0004-1 provides background information regarding the
 proposed submission or changes and any documentation that will be
 impacted by the change. This section shall be completed prior to
 submitting to reviewers for approval.
 
-4.1.2 **Review and Approval Process**
+#### 4.1.2 **Review and Approval Process**
 
 The approval process is documented in Section 2 of the Labeling and
 Approval Form. The appropriate parties shall review the changes
@@ -172,7 +172,7 @@ External reviews may be required for labeling that is managed by
 external vendors or requires approval by a customer, partner, or
 external party prior to use.
 
-4.1.3 **Reconciliation of Labels**
+#### 4.1.3 **Reconciliation of Labels**
 
 For labeling changes that render the previous versions invalid, a
 labeling reconciliation shall be completed to ensure the appropriate
@@ -180,7 +180,7 @@ disposition of the previous version of labeling. Label reconciliation
 documentation shall be stored and maintained by the Quality
 Department.
 
-4.4  **Labeling First Article Inspection**
+### 4.4  **Labeling First Article Inspection**
 
 When the first production lot of updated labeling is received, the
 labeling shall be inspected against approved specifications/drawings
@@ -194,10 +194,10 @@ Products containing new or updated labeling shall not be released for
 distribution until the labeling first article inspection has been
 completed.
 
-5. Appendix
+## 5. Appendix
     A**<img src="./media/image1.png" style="width:5.48958in;height:8.24531in" />
 
-6.      Revision History
+## 6.      Revision History
 
 This document  QP-0006_R1_Labeling_and_Packaging_Control_Process.md
 is subject to revision. Only the latest approved version should be used.

@@ -4,7 +4,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0023|Supplier Management|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  This document defines the policies and procedures for ensuring
  effective management and control of suppliers providing products and
@@ -97,7 +97,7 @@ QP-0023|Supplier Management|9/1/2021|/s/ Ben West
 
  Approved Supplier List and Audit Schedule
 
-4.  **Supplier Management Procedure**
+## 4.  **Supplier Management Procedure**
 
  The company utilizes a tiered system for managing suppliers. The
  supplier level is dependent upon risk associated with the product or
@@ -126,7 +126,7 @@ QP-0023|Supplier Management|9/1/2021|/s/ Ben West
      agency, or utility provider that provides a service or product
      that is not used in any products.
 
-4.1.  **Supplier Planning and Selection**
+### 4.1.  **Supplier Planning and Selection**
 
  The need for a new supplier is generally identified through activities
  associated with Design and Development, Engineering Change Orders,
@@ -149,7 +149,7 @@ III|Component & Services|N|Y|Y|Y|AR
 IV|Non-QMS              |N| | | | |
 
 
-4.2  **Supplier Evaluation and Approval**
+### 4.2  **Supplier Evaluation and Approval**
 
  Suppliers shall be evaluated to ensure the entity is capable of
  supplying products and/or services in accordance with company
@@ -201,7 +201,7 @@ IV|Non-QMS              |N| | | | |
  years to ensure continued compliance and performance. Tracking of
  these activities is maintained on the Supplier Audit Schedule.
 
-4.3.  **Supplier Controls**
+### 4.3.  **Supplier Controls**
 
  Supplier Controls to be considered are listed below. Where sufficient
  objective evidence of supplier controls to ISO 13485, 21 CFR 820 or
@@ -242,7 +242,7 @@ IV|Non-QMS              |N| | | | |
  supplier controls. First article inspections are documented on
  QF-0023-4 and verify critical specifications of the product.
 
-4.4.  **Supplier Measurement and Monitoring**
+### 4.4.  **Supplier Measurement and Monitoring**
 
  Suppliers are monitored and measured to ensure acceptable performance
  and identify areas in need of improvement. Data is obtained from
@@ -260,7 +260,7 @@ IV|Non-QMS              |N| | | | |
  the Management review process. Continual poor performance may initiate
  a supplier audit, SCAR’s, or debarment from the ASL.
 
-4.5.  **Feedback and Communication**
+### 4.5.  **Feedback and Communication**
 
  Performance feedback is provided to suppliers via corrective action
  requests, supplier audit reports, and general business correspondence.
@@ -289,13 +289,13 @@ IV|Non-QMS              |N| | | | |
  company specifications or failure to respond to or complete SCAR’s
  will result in Debarred status on the ASL.
 
-4.6  **Approved Supplier List**
+### 4.6  **Approved Supplier List**
 
  Upon evaluation and acceptance, a supplier is added to the Approved
  Supplier List (ASL). The Approved Supplier List is approved by
  Quality.
 
-4.6.1  **Required Information**
+#### 4.6.1  **Required Information**
 
  The following information is recorded for all suppliers listed on the
  ASL:
@@ -307,7 +307,7 @@ IV|Non-QMS              |N| | | | |
 + Part Number (if applicable)
 + Supplier Part Number
 
-4.6.2.  **Supplier Status**
+#### 4.6.2.  **Supplier Status**
 
  Each supplier on the ASL is assigned a status. This status can change
  as the results of Supplier Measurement and Monitoring, SCAR’s, and/or
@@ -329,7 +329,7 @@ IV|Non-QMS              |N| | | | |
      requirements for approval.
 
 
-5.      Revision History
+## 5.      Revision History
 
 This document  QP-0023_R1_Supplier_Management_Process.md
 is subject to revision. Only the latest approved version should be used.

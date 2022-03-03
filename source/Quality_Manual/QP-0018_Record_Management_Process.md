@@ -4,21 +4,21 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0018|Record Management Process|9/1/2021|/s/ Ben West
 
-1.  **Purpose**
+## 1.  **Purpose**
 
  The purpose of this document is to define the policies and procedures
  for managing records associated with the quality management system
  (QMS). These policies and procedures include record retention, record
  management, and record control.
 
-2.  **Scope**
+## 2.  **Scope**
 
  This procedure applies to all records required by the quality
  management system. Records not associated with quality systems, such
  as human resources and financial records, are exempt from this
  procedure.
 
-3.  **General**
+## 3.  **General**
 
 3.1. **Definitions** – N/A
 
@@ -56,13 +56,13 @@ QP-0018|Record Management Process|9/1/2021|/s/ Ben West
 
  **ISO 13485** – Medical Device Quality Management Systems
 
-4.  **Procedure**
+## 4.  **Procedure**
 
  The following procedures are utilized to ensure the records that
  provide evidence of conformity and effective operation of the quality
  management system are properly maintained and accessible.
 
-4.1. **Record Retention Periods**
+### 4.1. **Record Retention Periods**
 
  Records associated with the Quality Management System must be retained
  for a period of time at least equivalent to the lifetime of the
@@ -73,7 +73,7 @@ QP-0018|Record Management Process|9/1/2021|/s/ Ben West
  Preventive Action Process). If the retention time is not specified,
  the retention time shall default to five (5) years.
 
-4.2.  **Record Management**
+### 4.2.  **Record Management**
 
  All quality system records are required to be readily identifiable and
  legible. Identification of records is achieved utilizing a unique
@@ -88,7 +88,7 @@ QP-0018|Record Management Process|9/1/2021|/s/ Ben West
  single line through item needed modification, followed by the
  correction and the initials and date of the person making the change.
 
-4.3  **Record Controls**
+### 4.3  **Record Controls**
 
  All quality system records are stored with appropriate protection and
  retrievable by with Quality Department. All records (physical and
@@ -103,7 +103,7 @@ QP-0018|Record Management Process|9/1/2021|/s/ Ben West
  company server.
 
 
-5.      Revision History
+## 5.      Revision History
 
 This document  QP-0018_R1_Record_Management_Process.md
 is subject to revision. Only the latest approved version should be used.
