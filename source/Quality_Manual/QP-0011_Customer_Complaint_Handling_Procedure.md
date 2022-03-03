@@ -1,3 +1,7 @@
+
+# Complaint Handling Procedure
+
+
 Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0011|Customer Complaint Handling Procedure|9/1/2021|/s/ Ben West
@@ -204,15 +208,14 @@ QP-0011|Customer Complaint Handling Procedure|9/1/2021|/s/ Ben West
 
  Following decision tree is used to determine MDR reportability:
 
-1.  Is there death involved? Yes ☐ No ☐
+1.  Is there death involved? `Yes/No`
 
-2.  Is there serious injury involved? Yes ☐ No ☐
+2.  Is there serious injury involved? `Yes/No`
 
-3.  Is there a malfunction involved? Yes ☐ No ☐
+3.  Is there a malfunction involved? `Yes/No`
 
 4.  If answer to 3) is Yes, will it likely cause or contribute to a
-     death or serious injury if the malfunction were to recur? Yes ☐ No
-     ☐
+     death or serious injury if the malfunction were to recur? `Yes/No`
 
  If there is a yes to any of the questions above, file an MDR according
  to QP-0021 MDR procedure.

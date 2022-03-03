@@ -45,6 +45,7 @@ exclude_patterns = []
 sphinxmark_enable = True
 numfig = True
 numfig_secnum_depth=4
+source_suffix = ['.rst', '.md']
 
 
 # -- Options for HTML output -------------------------------------------------

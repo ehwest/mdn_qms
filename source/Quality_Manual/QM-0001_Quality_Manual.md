@@ -2,7 +2,7 @@
 ```{toctree}
 ```
 
-**Medical Data Networks Quality Manual**
+# Medical Data Networks Quality Manual
 
 Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|---------|--------
@@ -14,9 +14,9 @@ Approving Signature|Name|Role|Date
 -------------------|----|----|---
 /s/ Ben West       |Ben West|CEO|9/15/2021
 
-# Introduction
+## Introduction
 
-## Purpose
+### Purpose
 
 This document provides a complete overview of the Quality Management System (QMS) used by Medical Data Networks LLC. to deliver operating "T1Pal"and "CoPilot" software applications
 that run "ïn the cloud."
@@ -205,14 +205,14 @@ Proposal|Offer or quote made by an organization in response to a request for a q
 Quality Policy|Statement by the organization of its intentions and principles in relation to its overall quality performance which provides a framework for action and for setting the organization’s quality objectives and targets.
 Supplier or Vendor|The organization that provides a product or service to an organization.
 
-# Quality System Requirements
+## Quality System Requirements
 
-## Product Definition, Design, Development, and Validation.
+### Product Definition, Design, Development, and Validation.
 
 This QMS includes "Product Definition", "Product Design", "Development", and "Validation"."
 sections as needed to convey how cloud-based operating software services (FDA "devices")  "T1Pal" and "CoPilot" are created, delivered, and validated consistent with applicable rules.
 
-## Alignment With Rules
+### Alignment With Rules
 
 The present Quality Management System (QMS) is specifically designed to achieve and sustain the alignment of MDN 
 services and/or software "devices" to applicable rules.
@@ -235,7 +235,7 @@ In this environment, **"Special Controls"** has been defined by the FDA as follo
   
         3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
-## Change Control
+### Change Control
 
 The change control mechanism built into the QMS system, particularly the
 github repository service, enables all users of the Quality Management System data procesing tools to determine whether or not they have an exact copy of all of the applicable documents. 
@@ -292,7 +292,7 @@ For all outsourced processes that may affect conformance to requirements, the co
 
 The company has documented procedures for the validation of the application of computer software used in the QMS.  Such software is validated prior to initial use and, as appropriate, after change to the software or its applications.  The specific approach and associated activities shall be proportionate to the risk associated with the use of the software.  Records of such activities are maintained.
 
-# The Quality Management System Structure
+## The Quality Management System Structure
 
 The responsibility to develop and effectively implement quality system procedures is held by the designated owner for each quality procedure as determined by management.  Procedure details depend upon the complexity of the work, methods used, and the skills and training needed by personnel to carry out the activity. 
 
@@ -316,7 +316,7 @@ The company has established and maintains this document as the Quality Manual. I
 * Description and/or definition of procedures established for the quality management system.
 * A description of the interactions between the processes of the quality management system.
 
-## Control of Documents
+### Control of Documents
 
 The company has established and maintains procedures to control all documentation and data related to the requirements of the applicable regulatory standards, including external documents, such as standard and electronic media.  These procedures define the controls for:
 
@@ -334,7 +334,7 @@ The company has established and maintains procedures to control all documentatio
 
 * The prevention of inadvertent use of obsolete documentation
 
-## Control of Records 
+### Control of Records 
 
 It is the responsibility of all personnel to keep records of all work or operations performed in the format prescribed by the various policies and procedures in the quality system.  All records shall contain the date of creation and the person responsible for their creation.  All records shall be made in a permanent and legible manner and changes to a record shall remain identifiable.  Controls necessary for the identification, storage, protection, retrieval, retention time, and disposition of records shall be included within the documented procedure requiring the record.  Methods for protecting confidential health information contained in records shall be defined and implemented. 
 
@@ -370,7 +370,7 @@ The *Quality Policy* is established by management with executive responsibility.
 
 This is achieved by continuously improving designs, implementing efficient procedures, and partnering with suppliers to meet or exceed the expectations of our customers, and satisfy the requirements of our quality system and appropriate regulations.
 
-## Device Master Records (DMR)
+### Device Master Records (DMR)
 
 For each medical device type or medical device family, we have established and maintain one or more files containing or referencing documents generated to demonstrate conformity to the requirement of ISO 13485 and applicable regulatory requirements.  The content of the file(s) includes:
 
@@ -382,9 +382,9 @@ For each medical device type or medical device family, we have established and m
 
 * Procedures for measuring and monitoring
 
-# Quality Objectives and Planning
+## Quality Objectives and Planning
 
-## Quality Objectives
+### Quality Objectives
 
 The company has identified the following Quality Objectives.  These objectives will be reviewed and updated as necessary to meet company goals.
 
@@ -397,11 +397,11 @@ The company has identified the following Quality Objectives.  These objectives w
 * Define and monitor metrics of effectiveness for key elements of the business and utilize the data to effectively manage and drive improvement with emphasis on Customers, Products, Services, and Stakeholders.
 
 
-## Quality Management System Planning
+### Quality Management System Planning
 
 Management ensures that the planning of the Quality Management System is implemented by appropriate management and carried out by all employees in order to meet the requirements provided in this manual. Management also ensures the integrity of the Quality Management System is maintained when changes to the Quality Management System are planned and implemented.  
 
-## Responsibility and Authority
+### Responsibility and Authority
 
 Management has defined and documented the responsibility, authority, and interrelation of personnel who manage, perform, and verify work within the Quality Management System.  These responsibilities are documented in official job descriptions, which define the tasks performed by employees, and an organization chart depicting the interrelation of all employees.
 
@@ -411,7 +411,7 @@ This is achieved by understanding and supporting the Quality Policy and the appr
 dedicating efforts to the continuous improvement, understanding how their activities impact quality, elimination and prevention of quality deficiencies; 
 and initiating action to prevent the occurrence of nonconformities related to product and processes.
 
-## Management Representation
+### Management Representation
 
 The Management Representative is appointed by management with executive responsibility and is responsible and fully authorized to manage the Quality Management System and related matters on an ongoing basis.  Roles and responsibilities of the Management Representative include the following:
 
@@ -425,7 +425,7 @@ The Management Representative is appointed by management with executive responsi
 
 * Ensures the promotion of awareness of applicable regulatory, quality management, and customer requirements throughout the organization.
 
-## Internal Communications
+### Internal Communications
 
 The Management Representative has the responsibility to work with other departments to ensure that adequate internal communication exists concerning the effectiveness and implementation of the Quality Management System.
 
@@ -439,7 +439,7 @@ Methods for internal communication include:
 
 * Formal Training
 
-## Management Review
+### Management Review
 
 Management acknowledges responsibility for the quality systems and reviews the systems to ensure continuous suitability and effectiveness in relation to domestic and international regulatory requirement, this Quality Manual, and company objectives.  Management representing each key functional area participates in this review that includes assessing opportunities for improvement and the need to change the Quality Management System, including the Quality Policy and Objectives.  Records of management reviews are maintained.
 
@@ -519,7 +519,7 @@ Where appropriate to ensure quality and compliance with applicable Environmental
 
 As appropriate, the organization has planned and documented arrangements for the control of contamination or potentially contaminated product in order to prevent contamination of the work environment, personnel, or product
 
-# **Product Realization**
+## **Product Realization**
 
 The quality planning requirements for individual development projects, related processes and supporting documentation are described in the procedures for each of several well-defined process, for example, the design control procedure, supplier qualification procedure and other process procedures.  The company has developed a documented risk management procedure and maintains records of risk management activities.
 
@@ -536,9 +536,9 @@ The quality planning process, when initiated, shall provide for the following:
 
 The company has established and maintains a process for identifying hazards associated with products and processes, estimating and evaluating the associated risks, controlling these risks and monitoring the effectiveness of the control including post-production information. Documented risk management activities are included throughout the product realization process, where appropriate.  Records arising from risk management are maintained in a risk management file.
 
-## Customer-Related Processes
+### Customer-Related Processes
 
-### Determination of Requirements Related to the Product
+#### Determination of Requirements Related to the Product
 
 The determination of the requirements relating to the product includes:
 
@@ -548,7 +548,7 @@ The determination of the requirements relating to the product includes:
 * Any user training needed to ensure specified performance and safe use of the product
 * Additional requirements determined by the organization
 
-### Review of Requirements Related to the Product
+#### Review of Requirements Related to the Product
 
 Contracts, including purchase orders, are reviewed to ensure customer requirements and amendments are communicated in a controlled manner.  The contract review requires the appropriate review of each proposal, contract, or order to ensure that:
 
@@ -568,7 +568,7 @@ paper copy, electronic copy, or in other media as deemed appropriate.
 
 Records of contracts, contract reviews, proposals and contract amendments are maintained in the customer file.
 
-## Customer Communication
+### Customer Communication
 
 The company plans and documents effective arrangements for communicating with customers in relation to:
 
@@ -578,7 +578,7 @@ The company plans and documents effective arrangements for communicating with cu
 * Advisory notices
 We have documented procedures for communicating with regulatory authorities in accordance with applicable regulatory requirements
 
-## Design and Development
+### Design and Development
 
 Documented procedures shall be used to control and verify the development of new products to ensure that the specified requirements are met.  
 
@@ -805,7 +805,7 @@ All inspection and testing is recorded and approved by the personnel performing 
 * Where the product fails to pass any inspection and/or test, the procedure for control of nonconforming product shall apply.
 
 
-# Control of Nonconforming Product
+## Control of Nonconforming Product
 
 Product that does not conform to specified requirements shall be identified and controlled to prevent its unintended use or delivery.  The company has implemented a documented procedure to define the controls and related responsibilities and authorities for the identification, documentation, segregation, evaluation, and disposition of nonconforming product.  
 
@@ -841,7 +841,7 @@ Quality data are collected and analyzed to determine the effectiveness of the Qu
 
 The company will identify and implement any changes necessary to ensure and maintain the continued suitability, adequacy, and effectiveness of the quality management system as well as medical device safety and performance through the use of the quality policy, quality objectives, audit results, post-market surveillance, analysis of date, corrective actions, preventive actions, and management review.
 
-# Corrective Actions & Preventive Actions
+## Corrective Actions & Preventive Actions
 
 The company has established and maintains documented procedures to implement corrective actions to eliminate the cause of nonconformities in order to prevent recurrence.  Any necessary corrective actions shall be taken without undue delay.  Corrective actions shall be proportionate to the effects of the nonconformities encountered.  
 
