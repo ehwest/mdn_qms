@@ -23,7 +23,7 @@ specifically including T1Pal and CoPilot products,
 there are no components that are purchased from any supplier.
 The authorization, purchasing, and receiving process for software-defined
 products is entirely described in other process documents, specifically
-[QP-0010_Software_Development_and_Validation_Process.md](./source/Quality_Manual/QP-0010_Software_Development_and_Validation_Process.md)
+[QP-0010_Software_Development_and_Validation_Process.md](./QP-0010_Software_Development_and_Validation_Process.md)
 
 The company does not currently purchase any components for software-defined products, rendering
 those products exempt from this process.
