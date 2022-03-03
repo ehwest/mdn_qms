@@ -13,7 +13,6 @@ Welcome to Medical Data Networks Quality System's documentation!
    :caption: Contents:
 
 
-   Quality_Manual/README.md
    Quality_Manual/QM-0001_Quality_Manual.md
    Quality_Manual/QP-0002_Design_Control_Process.md
    Quality_Manual/QP-0003_Document_Control_Process.md
