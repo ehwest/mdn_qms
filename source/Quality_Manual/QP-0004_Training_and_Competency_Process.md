@@ -4,11 +4,9 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0004|Training and Competency Process|9/1/2021|/s/ Ben West
 
-
 This document describes the process whereby Training and Competency of company associates is maintained.
 
-
-## 1.  **Purpose**
+## Purpose
 
 This document defines the policies and procedures for ensuring the
 competence of personnel performing work associated with the Quality
@@ -16,60 +14,56 @@ Management System. These policies and procedures define how
 requirements are established, fulfilled, recorded, and evaluated for
 effectiveness.
 
-### 1.  **Scope**
+## Scope
 
 This document applies to employees and job functions that are
 associated with the Quality Management System. Departments and job
 functions not associated with the Quality Management System are exempt
 from this process.
 
-### 1.  **General**
+* **Responsibilities**
 
-    1.  **Definitions** – N/A
-
-    2.  **Responsibilities**
-
-**Department Management** – Department Managers are responsible for
+  * **Department Management** – Department Managers are responsible for
 ensuring each employee receives the necessary training and is
 competent to complete the assigned job functions. Department Managers
 are responsible for establishing and maintaining the training and
 competency requirements for each position.
 
-**Human Resources Management** – Human Resources is responsible for
+  * **Human Resources Management** – Human Resources is responsible for
 maintaining records and documentation associated with Personnel
 Qualifications.
 
-**Quality Management** – Quality Management is responsible for the
+  * **Quality Management** – Quality Management is responsible for the
 implementation and continued compliance with the process specified in
 this document and by the regulatory authorities.
 
-1.  **Equipment and Materials** – N/A
+  * **Equipment and Materials** – N/A
 
-2.  **Safety Precautions** – N/A
+  * **Safety Precautions** – N/A
 
-3.  **Training Requirements** – Department managers and employees
+  * **Training Requirements** – Department managers and employees
     working within the Quality Management System shall be trained to
     this procedure and the training documented.
 
-4.  **Reference Documents and Materials**
+## Reference Documents and Materials
 
-**21 CFR 820** – FDA Quality System Regulations
+* **21 CFR 820** – FDA Quality System Regulations
 
-**SOR/98-282** – Canadian Medical Device Regulations
+* **SOR/98-282** – Canadian Medical Device Regulations
 
-**MDR 2017/745** – EU Medical Device Regulation
+* **MDR 2017/745** – EU Medical Device Regulation
 
-**MDD 93/42/EEC** – EU Medical Device Directive
+* **MDD 93/42/EEC** – EU Medical Device Directive
 
-**ISO 13485** – Medical Device Quality Management Systems
+* **ISO 13485** – Medical Device Quality Management Systems
 
-**QP-0003** – Document Control Process
+* **QP-0003** – Document Control Process
 
-**QF-0004-1** – Training Record
+* **QR-0004-1** – Training Record
 
-**QF-0004-2** – Competency Record
+* **QR-0004-2** – Competency Record
 
-## 1.  **Training and Competency Assessment Procedure**
+## Training and Competency Assessment Procedure
 
 The company utilizes two mechanisms to ensure employees are competent
 and have been effectively trained to perform the required job
@@ -79,28 +73,28 @@ and is a compilation of education, experience, certifications, etc.
 Quality System Training is managed by department managers and includes
 the skills and training directly associated with internal policies and
 procedures.
->
+
 The company determines management positions to be considered competent
 to perform required job duties based on Personnel Qualifications.
 Management does not require Quality System Training unless job
 function involves direct interaction with product and/or service
 quality.
 
-### 1.  **Personnel Qualifications**
+## Personnel Qualifications
 
 The Personnel Qualifications are determined by department management
 and defined within a job description that is maintained by Human
 Resources. The job description is specific to the position and is
 comprised of information such as position title, location, description
 of responsibilities, and education/skill requirements.
->
+
 Documented evidence of Personnel Qualifications is maintained within
 each employee’s personnel files. The type of documented evidence is
 determined by Human Resources and is dependent on the requirements
 defined within the job description. Examples include job applications,
 resumes, certifications, etc.
 
-## 1.  **Quality System Training**
+## Quality System Training
 
 The Quality System Training requirements are established and
 maintained by department management. The training requirements are
@@ -123,20 +117,20 @@ Department management is responsible for ensuring the completion of
 this training. Training records are maintained by the Quality
 Department.
 
-### 1.  **Training and Competency Evaluation**
+## Training and Competency Evaluation
 
 The competency of non-product association employees and effectiveness
 of training is evaluated during employee evaluations. This review is
 completed annually by designated management and a documented record is
 maintained within each employee’s personnel file.
->
+
 The competency of product association employees and effectiveness of
-training is evaluated documented on the Competence Record (QF-0004-2).
+training is evaluated documented on the Competence Record (QR-0004-2).
 This assessment is completed by an experienced employee once the
 training period is completed, as determined by management. A
 documented record is maintained within QMS training records.
 
-### 5.      Revision History
+## Revision History
 
 This document  QP-0004_R1_Training and Competency Process
 is subject to revision. Only the latest approved version should be used.
@@ -147,5 +141,5 @@ The "latest" and only official version is found in the github document managemen
 REV #|Doc ID|Effective Date|Description of Change
 -----|------|--------------|---------------------
 01   | QP-0002|12/17/2014|Initial Release
-
+01   | QP-0002|3/10/2022|Error Corrections
 

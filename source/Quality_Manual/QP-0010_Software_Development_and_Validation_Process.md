@@ -4,80 +4,69 @@ Document Number|Title                                      |Effective|Owner
 ---------------|-------------------------------------------|---------|----
 QP-0010        |Software Development and Validation Process|9/20/2021|/s/ Ben West
 
-## 1.  **Purpose**
+## Purpose
 
  This document defines the policies and procedures utilized for
  developing, verifying, and releasing software-defined products. It
  defines an Agile development process used and specifies the
  activities associated with software development and validation.
 
-## 2.  **Scope**
+## Scope
 
- This process applies to all software incorporated into (and/or defined as)
-a  medical device. Any software systems not intended for
- commercialization or the quality management system are exempt from
- this process.
+This process applies to all software incorporated into (and/or defined as) a  medical device. Any software systems not intended for
+ commercialization or the quality management system are exempt from this process.
 
-## 3.  **General**
+## Definitions
 
-### 3.1  **Definitions**
+*  **Software of Unknown Provenance (SOUP)** – A oftware component that is
+already development and generally available and that has not been
+developed for the purpose of being incorporated into the medical
+device (also known as “off-the-shelf software”) or software previously
+development for which adequate records of the development processes
+are not available.  It should be noted that MDN does not use any software
+lacking a known provenance.
 
- **Software of Unknown Provenance (SOUP)** – A oftware component that is
- already development and generally available and that has not been
- developed for the purpose of being incorporated into the medical
- device (also known as “off-the-shelf software”) or software previously
- development for which adequate records of the development processes
- are not available.  It should be noted that MDN does not use any software
- lacking a known provenance.
+*  **Agile Product Development** - A management process, where incrementally-defined demands and solutions are sequentially processed by cross-functional teams including customers.  With this methodology the initial product is incrementally improved so as to deliver a "Minimum Viable Product (MVP)" having subsequent incremental improvements that are packaged as releases.
 
- **Agile Product Development** - A management process, where incrementally-defined demands and solutions are sequentially processed by cross-functional teams including customers.  With this methodology the initial product is incrementally improved so as to deliver a "Minimum Viable Product (MVP)" having subsequent incremental improvements that are packaged as releases.
-
- **Continuous Improvement** - A process for providing frequent, relatively small, no/low impact
+*  **Continuous Improvement** - A process for providing frequent, relatively small, no/low impact
 packages of code (or documentation) that incrementally improves on and/or contributes to
 incremental improvement to the overall system involved.   It should be noted that
 "continuous" is generally not defined as having an improvement cycle more often than daily.
 
- **Continuous Delivery** - Process of delivering incremental production improvements and/or features frequently, in such a way that bugs can be quickly removed, and valuable features can be delivered prior to the next major release of the software product.  It should be noted that CI and CD need not be linked and/or synchronized. Features delivered by CI methods may be bunled into different delivery releases.
+* **Continuous Delivery** - Process of delivering incremental production improvements and/or features frequently, in such a way that bugs can be quickly removed, and valuable features can be delivered prior to the next major release of the software product.  It should be noted that CI and CD need not be linked and/or synchronized. Features delivered by CI methods may be bunled into different delivery releases.
 
- **Feature Flags** - A data structure included in a phased release of a new feature that enables system administrators to turn off/on a feature that is the target of new software development.  The Feature Flag is introduced early in the lifecycle of the new feature and is used to activate/deactivate the new feature as development of the feature may extend over multiple software releases.  A Feature Flag approach to developing new features enables features to be delivered with high quality and enables complex new features to be disabled in production, should the feature be defective in any way.
+* **Feature Flags** - A data structure included in a phased release of a new feature that enables system administrators to turn off/on a feature that is the target of new software development.  The Feature Flag is introduced early in the lifecycle of the new feature and is used to activate/deactivate the new feature as development of the feature may extend over multiple software releases.  A Feature Flag approach to developing new features enables features to be delivered with high quality and enables complex new features to be disabled in production, should the feature be defective in any way.
 
- **Software Readiness Engineering (SRE)**  - A statistical method of analysis used to quantify the confidence, and the number of bugs remaining in
+* **Software Readiness Engineering (SRE)**  - A statistical method of analysis used to quantify the confidence, and the number of bugs remaining in
  a package of software code under test.  
  This method uses the time-series data associated with the discovery of new bugs in a particular package of software under test.
 
- **Trunkflow development**  - A version control management practice where developers merge small, frequent updates to a core “trunk” or main branch.  As compared to "gitflow" methods, Trunkflow methods generally have fewer branches (e.g. no feature branch, and/or no hotfix branch).
+* **Trunkflow development**  - A version control management practice where developers merge small, frequent updates to a core “trunk” or main branch.  As compared to "gitflow" methods, Trunkflow methods generally have fewer branches (e.g. no feature branch, and/or no hotfix branch).
 
-### 3.2  **Responsibilities**
+## Responsibilities
 
- **Engineering** – Engineering is responsible for owning this process
- and ensuring each step is completed and documented.
+* **Engineering** – Engineering is responsible for owning this process and ensuring each step is completed and documented.
 
- **Quality Management** – Quality Management is responsible for the
- implementation and continued compliance with the policies and
- procedures specified in this document and by the regulatory
- authorities.
+* **Quality Management** – Quality Management is responsible for the implementation and continued compliance with the policies and
+procedures specified in this document and by the regulatory authorities.
 
-3.3  **Equipment and Materials** – N/A
+* **Training Requirements** – All Engineering and Quality personnel
+shall be trained to this procedure and the training documented.
 
-3.4  **Safety Precautions** – N/A
+* **Record Management** – All records associated with this document
+shall be maintained within the associated Design History File.
 
-3.5  **Training Requirements** – All Engineering and Quality personnel
-     shall be trained to this procedure and the training documented.
+* **Reference Documents and Materials**
 
-3.6  **Record Management** – All records associated with this document
-     shall be maintained within the associated Design History File.
-
-3.7  **Reference Documents and Materials**
-
- **ANSI/AAMI/IEC 62304** – Medical Device Software – Software Life
+* **ANSI/AAMI/IEC 62304** – Medical Device Software – Software Life
  Cycle Processes
 
- **Guidance for Industry and FDA Staff** – General Principles of
+* **Guidance for Industry and FDA Staff** – General Principles of
  Software Validation
 
- **QP-0009** – Change Control Process
+* **QP-0009** – Change Control Process
 
-## 4.  **Software Development Process Overview**
+## Software Development Process Overview
 
 MDN products are all completely software-defined. 
 No hardware or physical packaging or labeling is involved in delivering cloud-based services (as devices).
@@ -87,7 +76,7 @@ hosting-center servers whose configuration is also entirely software defined.
 This hosting enables customers to access all of the services of MDN products 
 from their own internet service provider.
 
-4.1  **Cloud Infrastructure Services**
+##  Cloud Infrastructure Services
 
 The provenence of each and every component, such as  operating system kernels, databases, web servers, and other
 software-defined services is known and linked to a known repository and identifiable version serial number.
@@ -101,7 +90,7 @@ Infrastructure service providers frequently update their software services to ad
 and performance issues.  MVN operations staff receives notice of these updates and is expected to
 perform tests so as to validate MDN services.
 
-4.2  **MDN Application Software**
+## MDN Application Software
 
 MDN applications (including T1Pal, CoPilot, and Loop) are developed in an 
 "Agile" CI/CD development process outlined in the figure below.
@@ -148,7 +137,7 @@ its Quality Manual and other Quality System documents.  Updates to documents of 
 Automated testing is required for all MDN applictiona. 
 
 
-4.3  **Software Testing**
+## Software Testing
 
 It is the policy of MDN for software developers to provide automated test software so as to enable
 highly automated tests of each and every component, feature, branch, and infrastructure service.
@@ -191,7 +180,7 @@ conclusions can be made about how many bugs remain, using this model.
 A condition of releasability for any code package, is a forecast using this tool, that indicates no
 more "Severity 1" problems may be found in the code under test.
 
-## 5.      Revision History
+## Revision History
 
 This document  QP-0010_R1_Software_Validation_Process.md
 is subject to revision. Only the latest approved version should be used.
@@ -203,4 +192,5 @@ The "latest" and only official version is found in the github document managemen
 Doc ID    |Effective Date|Description of Change
 ----------|--------------|---------------------
 QP-0010   |09/20/2021    |Initial Release: 1
+QP-0010   |3/10/2020    |Markdown Corrections
 

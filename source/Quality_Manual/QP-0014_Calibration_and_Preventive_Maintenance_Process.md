@@ -4,7 +4,7 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0014|Calibration and Preventive Maintenance Process|9/1/2021|/s/ Ben West
 
-## 1.  **Purpose**
+## Purpose
 
  This document defines the policies and procedures for calibration and
  preventive maintenance (PM) activities. These policies and procedures
@@ -12,7 +12,7 @@ QP-0014|Calibration and Preventive Maintenance Process|9/1/2021|/s/ Ben West
  procedures, and impact assessment of all tools and equipment
  associated with the calibration and preventive maintenance programs.
 
-## 2.  **Scope**
+## Scope
 
  Calibration applies to measurement equipment/tools utilized in
  production and product acceptance activities while preventive
@@ -22,45 +22,35 @@ QP-0014|Calibration and Preventive Maintenance Process|9/1/2021|/s/ Ben West
  infrastructure or equipment that does not impact product quality is
  exempt from preventive maintenance.
 
-## 3.  **General**
+## Responsibilities
 
-### 3.1  **Definitions** – N/A
+* **Quality** – Quality Management is responsible for the implementation
+ and continued compliance with the procedures specified in this document and by the regulatory authorities.
 
-### 3.2  **Responsibilities**
-
- **Quality** – Quality Management is responsible for the implementation
- and continued compliance with the procedures specified in this
- document and by the regulatory authorities.
-
-3.3  **Equipment and Materials** – N/A
-
-3.4  **Safety Precautions** – N/A
-
-3.5  **Training Requirement** –Quality personnel shall be trained to the
+* **Training Requirement** –Quality personnel shall be trained to the
      procedures specified in this document.
 
-3.6  **Record Management** – All Calibration and PM records are managed
-     and maintained by the Quality Department.
+* **Record Management** – All Calibration and PM records are managed and maintained by the Quality Department.
 
-3.7  **Reference Documents and Materials**
+##  Reference Documents and Materials
 
- **21 CFR 820** – FDA Quality System Regulations
+* **21 CFR 820** – FDA Quality System Regulations
 
- **SOR/98-282** – Canadian Medical Device Regulations
+* **SOR/98-282** – Canadian Medical Device Regulations
 
- **MDR 2017/745** – EU Medical Device Regulation
+* **MDR 2017/745** – EU Medical Device Regulation
 
- **MDD 93/42/EEC** – EU Medical Device Directive
+* **MDD 93/42/EEC** – EU Medical Device Directive
 
- **ISO 13485** – Medical Device Quality Management Systems
+* **ISO 13485** – Medical Device Quality Management Systems
 
- **ISO 10012** – Measurement Management Systems
+* **ISO 10012** – Measurement Management Systems
 
- **QP-0007** – Identification and Traceability Process
+* **QP-0007** – Identification and Traceability Process
 
- **QP-0008** – Nonconforming Product Process
+* **QP-0008** – Nonconforming Product Process
 
-## 4.  **Calibration and Preventive Maintenance Procedure**
+## Calibration and Preventive Maintenance Procedure
 
 The calibration and preventive maintenance programs utilize the
 following procedures to achieve conformity of product to determined
@@ -78,24 +68,24 @@ revalidation shall be proportionate to the risk associated with the
 use of the software, including the effect on the ability of the
 product to conform to specifications.
 
-### 4.1  **Identification**
+### Identification
 
- All equipment, tools, infrastructure, etc included in the calibration
- and preventive maintenance programs shall be assigned a unique
- identification number. These ID numbers are maintained within the
- associated program and utilized to link the item to the required and
- completed activities. Where possible, labels shall be attached the
- items that include the following information:
+All equipment, tools, infrastructure, etc included in the calibration
+and preventive maintenance programs shall be assigned a unique
+identification number. These ID numbers are maintained within the
+associated program and utilized to link the item to the required and
+completed activities. Where possible, labels shall be attached the
+items that include the following information:
 
--   Identification Number
+* Identification Number
 
--   Name of Item
+* Name of Item
 
--   Date of Last Calibration or PM Activity
+* Date of Last Calibration or PM Activity
 
--   Due Date of Next Required Activity
+* Due Date of Next Required Activity
 
-### 4.2   **Calibration and Preventive Maintenance Procedures**
+### Calibration and Preventive Maintenance Procedures
 
 All calibration and PM activities shall follow documented procedures.
 These procedures are specific to the type of equipment, tool, etc and
@@ -126,7 +116,7 @@ operation and either scrapped or labeled appropriately to prevent
 inadvertent use. Any necessary adjustments or re-adjustments shall be
 documented.
 
-### 4.3  **Impact to Product Assessments**
+### Impact to Product Assessments
 
 Any equipment, tool, etc that is found to be out of specification
 during calibration and/or PM activities shall initiate an assessment
@@ -135,7 +125,7 @@ regards to product impact. The assessment and any appropriate actions
 taken shall be completed and recorded within the Nonconforming Product
 Process (QP-0008) and traceable to the Calibration and PM Programs.
 
-## 5.      Revision History
+## Revision History
 
 This document  QP-0014_R1_Calibration_and_Preventive_Maintenance_Process.md
 is subject to revision. Only the latest approved version should be used.
@@ -146,3 +136,4 @@ The "latest" and only official version is found in the github document managemen
 REV #|Doc ID|Effective Date|Description of Change
 -----|------|--------------|---------------------
 01   | QP-0014|12/17/2014|Initial Release
+02   | QP-0014|3/10/2022|Markdown Corrections

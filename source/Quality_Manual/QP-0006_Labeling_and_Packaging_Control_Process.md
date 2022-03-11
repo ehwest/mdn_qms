@@ -4,14 +4,14 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0006|Labeling and Packaging Control Process|9/1/2021|/s/ Ben West
 
-## 1.  **Purpose**
+## **Purpose**
 
 This document defines the policies and procedures for controlling and
 maintaining the labeling associated with distributed products. These
 policies and procedures include labeling review and approval and
 labeling first article inspection.
 
-## 2.  **Scope**
+## Scope
 
 This procedure applies to all labeling that is required by the Quality
 Management System and applicable regulatory requirements. Labeling
@@ -21,63 +21,45 @@ technical description, and use of the device as defined below.
 Engineering changes to packaging that do not impact labeling are
 exempt from this procedure.
 
-## 3.  **General**
+## Definitions
 
-### 3.1  **Definitions**
+* **Label** – A display of written, printed, or graphic matter upon the immediate container of any article.
 
-        -   **Label** – A display of written, printed, or graphic matter
-            upon the immediate container of any article.
+* **Labeling** – Any written, printed, or graphic matter affixed to or accompanying the medical device or any of
+its containers/wrappers that are related to identification, technical description, and use of the
+device; labeling excludes shipping documents.
 
-        -   **Labeling** – Any written, printed, or graphic matter
-            affixed to or accompanying the medical device or any of
-            its containers/wrappers that are related to
-            identification, technical description, and use of the
-            device; labeling excludes shipping documents.
+* **Final Proof** – The production master or first article sample for a new or revised labeling/packaging item.
 
-        -   **Final Proof** – The production master or first article
-            sample for a new or revised labeling/packaging item.
+## Responsibilities
 
-### 3.2  **Responsibilities**
-
-**Quality Management** – Quality Management is responsible for the
+* Quality Management – Quality Management is responsible for the
 implementation and continued compliance with the procedures specified
 in this document and by the regulatory authorities.
 
-### 3.3  **Equipment and Materials** – N/A
+* General Management – All personnel responsible for the approval of labeling shall be competent in relevant areas.
 
-### 3.4  **Safety Precautions** – N/A
+* Record Management – Labeling records are managed and maintained by the Quality Department.
 
-### 3.5  **Training Requirements** – All personnel responsible for the
-    approval of labeling shall be competent in relevant areas.
+* Reference Documents and Materials
 
-### 3.6  **Record Management** – Labeling records are managed and maintained
-    by the Quality Department.
+  * **21 CFR 820** FDA Quality System Regulations
 
-### 3.7  **Reference Documents and Materials**
+  * **SOR/98-282** – Canadian Medical Device Regulations
 
-**21 CFR 820** FDA Quality System Regulations
+  * **MDR 2017/745** – EU Medical Device Regulation
 
-**SOR/98-282** – Canadian Medical Device Regulations
+  * **MDD 93/42/EEC** – EU Medical Device Directive
 
-**MDR 2017/745** – EU Medical Device Regulation
+  * **ISO 13485** – Medical Device Quality Management Systems
 
-**MDD 93/42/EEC** – EU Medical Device Directive
+  * **FDA Guidance** – Labeling: Regulatory Requirements for Medical
 
-**ISO 13485** – Medical Device Quality Management Systems
+  * **GHFT/SG1/N70** – Label and Instructions for Use for Medical Devices
 
-**FDA Guidance** – Labeling: Regulatory Requirements for Medical
+  * **QF-0006-1** – Labeling Review and Approval Form
 
-Devices
-
-**FDA Guidance** – Deciding When to Submit a 510(k) for a Change to an
-
-Existing Device
-
-**GHFT/SG1/N70** – Label and Instructions for Use for Medical Devices
-
-**QF-0006-1** – Labeling Review and Approval Form
-
-## 4.  **Procedure**
+## **Procedure**
 
 The company utilizes the following procedures to ensure labeling
 achieves the required objectives, is manufactured correctly, and meets
@@ -93,7 +75,7 @@ controlled within the associated Device Master Record (DMR). The
 primary identification label and labeling used for each production
 unit shall be maintained with the Device History Record (DHR).
 
-### 4.1  **Label Content**
+### Label Content
 
 The following information is required to be presented in a legible,
 permanent, and prominent manner on the product labeling. The
@@ -103,32 +85,43 @@ insufficient space on the outer package label. Specific requirements
 may be imposed by regulatory authorities based upon product risk
 and/or specific product types.
 
--   The name of the device
+* The name of the device
 
--   The name and address of the manufacturer
+* The name and address of the manufacturer
 
--   the identifier of the device, including the identifier of any
+* The identifier of the device, including the identifier of any
     medical device that is part of a system, test kit, medical device
     group, medical device family or medical device group family;
 
--   The contents of the package, expressed in terms appropriate to the
+* The contents of the package, expressed in terms appropriate to the
     device
 
--   The word “Sterile”, device to be sold in a sterile condition;
+* The word “Sterile”, device to be sold in a sterile condition;
 
--   The expiration date of the device, if applicable
+* The expiration date of the device, if applicable
 
--   Indication for Use: unless self-evident, provides the medical
-    conditions, purposes and function of the device, including the
-    performance specifications
+* Indication for Use: unless self-evident, provides the medical
+conditions, purposes and function of the device, including the
+performance specifications
 
--   Directions for Use: full information as to the procedure recommended
-    for achieving the optimum performance of the device, including
-    cautions, warnings, contraindications and possible side effects
+* Directions for Use: full information as to the procedure recommended
+for achieving the optimum performance of the device, including
+cautions, warnings, contraindications and possible side effects
 
--   Any special storage conditions applicable to the device.
+* Any special storage conditions applicable to the device.
 
-### 4.2  **Label Translations**
+### Special Labeling Requirements
+Certain Additional System Requirements have been identified for products requiring no 510(k) premarket submissions.
+
+Requirement Title|Requirement Text
+---------------|-------------------------------------------
+REQ_2010 Data Privacy and Modification of Data|All devices sold shall operate in compliance with applicable privacy and modification regulations, including HIPAA
+REQ_2020 Protection against modification of data.|All devices shall provide measures to protect against unquthorized access to and modification of data.
+REQ_2030 Label A|Device labeling shall display the following warning:  "Dosing decisions should not be made based on this device.  The user should follow instructions on the continuous glucose monitoring system.
+REQ_2035 Label B|Device shall include the following limitation:  "This device is not intended to replace self-monitoring practices advised by a physician."
+
+
+### Label Translations
 
 Labels may require translation based upon international distribution.
 Labeling items containing foreign languages require Certifications of
@@ -137,7 +130,7 @@ review and approval process. A list of labeling translations and
 approved regulatory jurisdiction is maintained with the Device Master
 Record (DMR)
 
-### 4.3  **Labeling Change Control**
+### Labeling Change Control
 
 The labeling review and approval process is documented on the Labeling
 Review and Approval Form. All new labeling and labeling modifications
@@ -154,14 +147,14 @@ For all labeling changes that impact documents with the Document
 Control Library, the initiating party is responsible for ensuring
 updates are completed.
 
-#### 4.1.1  **Labeling Information**
+### Labeling Information
 
 Section 1 of QF-0004-1 provides background information regarding the
 proposed submission or changes and any documentation that will be
 impacted by the change. This section shall be completed prior to
 submitting to reviewers for approval.
 
-#### 4.1.2 **Review and Approval Process**
+### Review and Approval Process
 
 The approval process is documented in Section 2 of the Labeling and
 Approval Form. The appropriate parties shall review the changes
@@ -172,7 +165,7 @@ External reviews may be required for labeling that is managed by
 external vendors or requires approval by a customer, partner, or
 external party prior to use.
 
-#### 4.1.3 **Reconciliation of Labels**
+### Reconciliation of Labels
 
 For labeling changes that render the previous versions invalid, a
 labeling reconciliation shall be completed to ensure the appropriate
@@ -180,7 +173,7 @@ disposition of the previous version of labeling. Label reconciliation
 documentation shall be stored and maintained by the Quality
 Department.
 
-### 4.4  **Labeling First Article Inspection**
+### Labeling First Article Inspection
 
 When the first production lot of updated labeling is received, the
 labeling shall be inspected against approved specifications/drawings
@@ -194,10 +187,9 @@ Products containing new or updated labeling shall not be released for
 distribution until the labeling first article inspection has been
 completed.
 
-## 5. Appendix
     A**<img src="./media/image1.png" style="width:5.48958in;height:8.24531in" />
 
-## 6.      Revision History
+## Revision History
 
 This document  QP-0006_R1_Labeling_and_Packaging_Control_Process.md
 is subject to revision. Only the latest approved version should be used.
@@ -208,3 +200,4 @@ The "latest" and only official version is found in the github document managemen
 REV #|Doc ID|Effective Date|Description of Change
 -----|------|--------------|---------------------
 01   | QP-0006|12/17/2014|Initial Release
+02   | QP-0006|3/10/2022|Format Corrections
