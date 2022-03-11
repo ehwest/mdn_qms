@@ -3,78 +3,72 @@ Document Number|Title|Effective|Owner
 ---------------|-------------------------------------|----|-----
 QP-0027|Technical File Process|9/1/2021|/s/ Ben West
 
-## 1.  **Purpose**
+## Purpose
 
  This document defines the policies and procedures for creating and
  compiling the documentation necessary to fulfill the requirements of
  the EU Medical Device Regulation (MDR). The final compilation of
  documentation and records is referred to as a Technical File.
 
-2.  **Scope**
+## Scope
 
  This procedure applies to the development of all medical devices
  manufactured that are intended for international distribution.
 
-3.  **General**
+## Definitions
 
-3.1.  **Definitions**
-
-        -   **Technical File** – a structured compilation of technical
+* **Technical File** – a structured compilation of technical
              documentation needed to meet the requirements of the EU
              Medical Device Regulation
 
-        -   **Family of Devices** – A principal device and all of the
+* **Family of Devices** – A principal device and all of the
              accessories that are manufactured for use with it. In
              addition, derivatives of the principal device, with the
              same intended use, may be included in the Family
 
-3.2.  **Responsibilities**
+## Responsibilities
 
- **Quality Management** – Quality Management is responsible for
+*  **Quality Management** – Quality Management is responsible for
  ensuring continued compliance with the procedures specified in this
  document and by the regulatory authorities.
 
-3.3.  **Equipment and Materials** – N/A
-
-3.4.  **Safety Precautions** – N/A
-
-3.5.  **Training Requirement** –Quality personnel shall be trained to this
+* **Training Requirement** –Quality personnel shall be trained to this
      document based upon their responsibilities.
 
-3.6.  **Record Management** – Technical Files are managed and maintained
+* **Record Management** – Technical Files are managed and maintained
      by the Quality Department for a minimum of five (5) years
      following the last manufacturer of the associated medical device.
 
-3.7.  **Reference Documents and Materials**
+* **Reference Documents and Materials**
 
- **ISO 13485** Medical Device Quality Management Systems
+ * **ISO 13485** Medical Device Quality Management Systems
 
- **MDR 2017/745** – EU Medical Device Regulation
+ * **MDR 2017/745** – EU Medical Device Regulation
 
- **MDD 93/42/EEC** – EU Medical Device Directive
+ * **MDD 93/42/EEC** – EU Medical Device Directive
 
- **MEDDEV 2 12/1**: Guidelines on a Medical Device Vigilance System
+ * **MEDDEV 2 12/1**: Guidelines on a Medical Device Vigilance System
 
- **CP0433 Issue 2**: Documentation Submissions – Best Practices
+ * **CP0433 Issue 2**: Documentation Submissions – Best Practices
  Guideline
 
- **QP-0003** – Design Control Process
+ * **QP-0003** – Design Control Process
 
-## 4.  **Technical File Procedure**
+## Technical File Procedure
 
-### 4.1.  **Availability of the Technical Documentation**
+## Availability of the Technical Documentation
 
  The Technical Documentation is the responsibility of the quality
  department and shall be maintained for at least five years from the
  last date of manufacture of the product.
 
-### 4.2.  **Language of Technical Documentation**
+## Language of Technical Documentation
 
  All technical file documentation shall be maintained in English. The
  Technical File Summary may be translated if required by a Competent
  Authority
 
-### 4.3.  **Changes to the Technical File**
+## Changes to the Technical File
 
  Where the technical documentation or part thereof has been submitted
  to the Notified Body in connection with conformity assessment
@@ -83,7 +77,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  approval. See MB-MED guidance on “Reporting of design changes and
  change of the quality systems for additional information.
 
-## 5.  **Technical Documentation Sections – Technical File Summary**
+## Technical Documentation Sections – Technical File Summary
 
  This section consists of a summary of the essential technical data
  relevant to the conformity assessment procedures, including the
@@ -115,9 +109,9 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
 
 -   A statement of the bench testing and clinical data obtained.
 
-## 6.  **Technical Documentation Sections – Product Description**
+## Technical Documentation Sections – Product Description
 
-### 6.1.  **Device Description**
+### Device Description
 
  This should include the intended range of variants (for example, a
  group of catheters of a particular type differing only in length), and
@@ -132,7 +126,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  the device(s), e.g. a schematic diagram, photograph or drawing may be
  of assistance.
 
-### 6.2.  **Intended Use**
+### Intended Use
 
  A short description of the intended purpose/ application and/or method
  of use of the device(s) is needed. This may include, where
@@ -145,7 +139,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  the device(s). It is not necessary to detail the mechanism by which
  the device(s) achieves its intended purpose.
 
-### 6.3.  **Description of Incorporated Medicinal Substances**
+### Description of Incorporated Medicinal Substances
 
  Where the device(s) incorporates a medicinal substance, the ‘technical
  documentation’ should make clear the purpose of including the
@@ -156,7 +150,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  substance. The technical documentation should include the data on the
  tests conducted in this connection.
 
-### 6.4.  **Description of Incorporated Materials of Animal Origin**
+### Description of Incorporated Materials of Animal Origin
 
  Where the device(s) incorporates non-viable materials of animal
  origin, the risk analysis within the technical documentation should
@@ -165,7 +159,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  in sourcing of animals, veterinary controls and measures taken to
  eliminate/ inactivate transmissible agents).
 
-### 6.5. **Device Classification**
+### Device Classification
 
  The technical documentation should include the rule number(s) applied
  under the Regulation, together with a brief rationale for this
@@ -176,14 +170,14 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  self-evident from the lists given in Annex II of the IVDD or where the
  device is labeled as for “self-testing”.
 
-### 6.6.  **Special Considerations**
+### Special Considerations
 
  Where aspects of the device(s) are the subject of emerging concern
  (for example, the use of latex potentially leading to allergic
  reaction), the risk analysis within the ‘technical documentation’
  should address these aspects.
 
-### 6.7.  **Description of Manufacturing**
+### Description of Manufacturing
 
  A summary is required in general terms of the type of manufacturing
  method (for example, injection/blow molding, extrusion, chemical
@@ -193,7 +187,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  performances of the devices manufactured. What is not required is an
  exhaustive description of manufacturing processes.
 
-### 6.8.  **Description of Accessories**
+### Description of Accessories
 
  The technical documentation should include the description of other
  devices or equipment etc. which the device is intended to be used
@@ -213,9 +207,9 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  incompatibilities which may be covered, for example, in the label or
  the instructions for use.
 
-## 7.  **Technical Documentation Sections – Technical Requirements**
+## Technical Documentation Sections – Technical Requirements
 
-### 7.1.  **Safety and Performance Requirements**
+### Safety and Performance Requirements
 
  The manufacturer should make clear the Regulation(s) which apply to
  the particular device(s) concerned, including Directives other than
@@ -233,7 +227,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  concerned, a brief rationale should be given where this is not
  self-evident.
 
-### 7.2  **Safety and Performance Requirement Solutions**
+### Safety and Performance Requirement Solutions
 
  The manufacturer is required to demonstrate how each of the applicable
  SPR’s and any derived technical requirements/specifications for the
@@ -257,7 +251,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  for example, test reports or records of application of Standard
  Operating Procedures (SOPs) intended to assure such compliance.
 
-### 7.3  **List of Standards**
+### List of Standards
 
  Where the manufacturer demonstrates conformity with particular SPR’s
  by claiming compliance with available published standards, the
@@ -271,9 +265,9 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  Where device(s) do not comply with key relevant published standards, a
  rationale should be given.
 
-## 8.  **Technical Documentation Sections – Design Requirements**
+## Technical Documentation Sections – Design Requirements
 
-### 8.1.  **Risk Management**
+### Risk Management
 
  The manufacturer is required by the regulations to present the
  documented results of the risk analysis.
@@ -300,7 +294,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  standards, or new information with regards to unrecognized hazards,
  estimated risk, or estimated benefits of the device.
 
-### 8.2  **Material Specifications and Biocompatibility**
+### Material Specifications and Biocompatibility
 
  The technical documentation should specify the materials used in the
  construction of the device, together with the biological safety and
@@ -319,7 +313,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  for example sterilization, the results of which may affect the safety
  and performance of the finished device(s).
 
-### 8.3  **Product, Sub-Assembly, and Component Specifications**
+### Product, Sub-Assembly, and Component Specifications
 
  The manufacturer should determine what specifications, drawings,
  diagrams etc. are appropriate and sufficient to enable proper
@@ -337,13 +331,13 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  Equally, it may be necessary to have drawings for certain components
  or sub-assemblies but not for others.
 
-### 8.4.  **Test Specifications**
+### Test Specifications
 
  The procedures, work instructions etc. relating to the conduct of such
  checks, tests and trials form part of the manufacturer’s quality
  system.
 
-### 8.5.  **Performance and Compatibilities Intended**
+### Performance and Compatibilities Intended
 
  The manufacturer is required to identify the characteristics,
  performances and compatibilities needed to assure the safe and correct
@@ -358,7 +352,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  to do with sensitivity, specificity, limit of detection, and ratio of
  false to true results, where relevant.
 
-### 8.6.  **Labeling / Information Supplied by Manufacturer**
+### Labeling / Information Supplied by Manufacturer
 
  The manufacturer is required to include in the technical documentation
  the label, and where appropriate, the instructions for use, together
@@ -375,7 +369,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  Information may be provided, for example, by means of electronic
  display screens or synthesized voice messages.
 
-### 8.7  **Shelf-Life and Product Lifetime**
+### Shelf-Life and Product Lifetime
 
  In certain cases, such restrictions on use will reflect a time-related
  deterioration in characteristics that are important to product safety
@@ -385,13 +379,13 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  will support the device by way of availability of spare parts,
  manuals, training, service/repairs etc.
 
-### 8.8  **Performance Testing – Bench Data**
+### Performance Testing – Bench Data
 
  Bench testing includes in-vitro/animal studies, simulated use testing
  and validation of software and the results of special processes (e.g.
  sterilization validation report(s)).
 
-### 8.9.  **Performance Testing – Clinical Data**
+### Performance Testing – Clinical Data
 
  Clinical data includes data from market experience of the same or
  similar devices (particularly relevant to ‘well established’ devices),
@@ -410,7 +404,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  to demonstrate conformity with each of the applicable SPR’ for the
  particular device(s) concerned.
 
-### 8.10  **Design Changes**
+### Design Changes
 
  The technical documentation should include records of each design
  change and the reasons for these, together with any associated
@@ -419,9 +413,9 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
  and that the device continues to comply with the requirements of the
  regulations.
 
-## 9.  **Technical Documentation Sections – Administrative Requirements**
+## Technical Documentation Sections – Administrative Requirements
 
-### 9.1.  **Declaration of Conformity**
+### Declaration of Conformity
 
  The Declaration of Conformity is the attestment of the manufacturer
  that the medical device complies fully with all applicable Essential
@@ -457,7 +451,7 @@ QP-0027|Technical File Process|9/1/2021|/s/ Ben West
      been authorized to complete the Declaration of Conformity upon the
      manufacturer’s behalf.
 
-## 10.      Revision History
+## Revision History
 
 This document  QP-0027_R1_Technical_File_Process.md
 is subject to revision. Only the latest approved version should be used.
@@ -468,3 +462,4 @@ The "latest" and only official version is found in the github document managemen
 REV #|Doc ID|Effective Date|Description of Change
 -----|------|--------------|---------------------
 01   | QP-0027|12/17/2014|Initial Release
+01   | QP-0027|3/11/2022|Markdown Corrections
