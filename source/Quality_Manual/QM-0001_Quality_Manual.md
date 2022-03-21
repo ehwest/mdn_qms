@@ -18,33 +18,48 @@ Approving Signature|Name|Role|Date
 ## Purpose
 
 This document identified as **QM-0001_Quality_Manual_Introduction**
-provides an introduction to the Quality Management System used by Medical Data Networks, LLC..
+is one component of the complete Quality Management system (QMS)
+used by Medical Data Networks, LLC to enable and operate a
+"**Current Good Manufacturing Practices**" as defined
+in 21 CFR 820 (an FDA document)..
 
-The complete Quality Management System Description used by Medical Data Networks, LLC 
-is obtained by assembling a number of
-component documents of the the complete system (including this document as the introduction.
-The definitive list of such components is described within this document, below, under
-the heading "Component Documents of the Quality Management System".
+Other components of the QMS are 
+stored, managed, and tracked in this github repository:
+https://github.com/ehwest/mdn_qms.
+
+The authoritative list of all components of the QMS system description
+ is listed in the index file
+./source/index.rst.
+This index.rst file may be used by certain repository functions
+to automatically generate a formatted easy-to-read PDF file for training and casual use.
+(the "make" function 
+$ make latexpdf
+provides a pdf file with all of the components assembled correctly.
+Please note however, that only the repository markdown files are the control files of the repository.
+Clones of the repository and/or copies of the PDF file are not controlled.
+All files in the repository, including the index.rst file, the make file, and the
+markdown files of the QMS components are under change control procedures spelled out
+in this document.
+
 
 ## Access
 Since this document and all of the components of the Quality Management System Description are stored
-in a [QM-0001_Quality_Manual_Introduction](QM-0001_Quality_Manual_Introduction.md), 
+in a specific github repository, 
 access to the latest and/or any earlier version of any document is readily
-available and may be checked out for review.   For operational use, the latest version of
-any particular document should be used.
-
-In addition, a tool is provided to assemble all of the components into a single definitive Quality Management System Description.  
-The tool and its use are documented in the README.md file at the root of the Quality Management System Description repository.
-As described in the [change control process description](QP_0002_Change_Control.md) components of the Medical Data Networks Quality Management System Description is
-managed by change-control procedures.
+available and may be checked out for review by authorized reviewers.   For operational use, the latest version 
+approved by any officer of the company (Medical Data Networksm LLC).
+should be used.
 
 ## Scope
 
-Because the firm products are all entirely operating software applications, we rely on the FDA's characterization of these kinds of things
+Because the firm products are all entirely operating software applications, 
+made to work in a specifically commercially hosted cloud enironment,
+we rely on the FDA's characterization of these kinds of applications
 as "devices" for which US regulation oversight applies.
+
 In this context, the company does not provide hardware devices or components, only software-defined features and functions.
-"Labels"applicable to devices therefore refer to labelling on web sites, how-to guides, and all other communications by the 
-company addressing users of company software products.
+"Labels" applicable to devices therefore refer to a) labelling on product web sites, b) software application notifications,
+c) how-to guides, and d) all other communications by the company.
 
 [FDA Rules](https://www.fda.gov/medical-devices/classify-your-medical-device/class-i-ii-exemptions)
 say that all medical devices are subject to the Quality System Regulation (21 CFR 820),
@@ -52,7 +67,9 @@ also referred to as the
 “Current Good Manufacturing Practices” or “Good Manufacturing Practices,”
 unless there is an exception or exemption noted in 21 CFR 820.
 
-This Quality Management System is fully intended to comply with the following domestic and international regulations and standards:
+This Quality Management System (QMS) is fully 
+intended to ensure the compliance of the company and its products
+to this and other domestic and international regulations and standards:
 
 * Code of Federal Regulations (CFR), Title 21, Food and Drug
 * 21 CFR Part 820 – Quality System Regulation
@@ -71,86 +88,10 @@ This QMS is made of these types of files.
 * Files containing templates used by procedures (QF prefix)
 * Files Containing filled-in templates (i.e. operational records) (QR-prefix)
 
-All of these marked down files are managed in a collection of files and folders hosted
-on this github repository: [github.com:ehwest/mdn-qms](https://github.com:ehwest/mdn-qms).
-This mark-down form of the QMS source enables a variety of rendered formats that
-contain the same content.
-
-The authoritative source of all QMS information is in this document 
-is found here:  [QM-0001](QM-0001_Quality_Manual.md).
-
-This [Quality Manual Introduction](./QM-0001_Quality_Manual_Introduction) component 
-provides links to other files in the folder and provides
-an overview of all of the files within the MDN QMS.
-With the same Quality_Manual folder, we store the process descriptions for each of
-30 distinct Quality Procedures.
-
-In a separate "Quality_Manual_Forms" folder, one may find blank templates for capturing Quality Process records.
-In yet another "Quality_Manual_Records" folder, Quality Records are kept (unless otherwise specified.
-
 Here is a list of all of the components of the 
 Medical Data Networks Quality Management System Description.
 
-* [QP-0001_Quality_Management_System_Description_Introduction *(this document)* ](./QM-0001_Quality_Manual.md)
-  *  [QP-0002_Design_Control_Process](./QP-0002_Design_Control_Process.md)
-  *  [QP-0003_Document_Control_Process](./QP-0003_Document_Control_Process.md)
-  *  [QP-0004_Training_and_Competency_Process](./QP-0004_Training_and_Competency_Process.md)
-  *  [QP-0005_Purchasing_and_Receiving_Process](./QP-0005_Purchasing_and_Receiving_Process.md)
-  *  [QP-0006_Labeling_and_Packaging_Control_Process](./QP-0006_Labeling_and_Packaging_Control_Process.md)
-  *  [QP-0007_Identification_and_Traceability_Process](./QP-0007_Identification_and_Traceability_Process.md)
-  *  [QP-0008_Nonconforming_Product_Procesa](./QP-0008_Nonconforming_Product_Process.md)
-  *  [QP-0009_Change_Control_Process](./QP-0009_Change_Control_Process.md)
-  *  [QP-0010_Software_Validation_Process](./QP-0010_Software_Development_and_Validation_Process.md)
-  *  [QP-0011_Customer_Complaint_Handling_Procedure](./QP-0011_Customer_Complaint_Handling_Procedure.md)
-  *  [QP-0012_Corrective_and_Preventive_Action_CAPA_Process](./QP-0012_Corrective_and_Preventive_Action_CAPA_Process.md)
-  *  [QP-0013_Management_Review_and_Data_Analysis_Process](./QP-0013_Management_Review_and_Data_Analysis_Process.md)
-  *  [QP-0014_Calibration_and_Preventive_Maintenance_Process](./QP-0014_Calibration_and_Preventive_Maintenance_Process.md)
-  *  [QP-0015_Quality_Audit_Process](./QP-0015_Quality_Audit_Process.md)
-  *  [QP-0016_Preservation_of_Product_Process](./QP-0016_Preservation_of_Product_Process.md)
-  *  [QP-0017_Risk_Management_Process](./QP-0017_Risk_Management_Process.md)
-  *  [QP-0018_Record_Management_Process](./QP-0018_Record_Management_Process.md)
-  *  [QP-0019_Customer_Property_Control_Process](./QP-0019_Customer_Property_Control_Process.md)
-  *  [QP-0020_FDA_Audit_Management_Process](./QP-0020_FDA_Audit_Management_Process.md)
-  *  [QP-0021_Medical_Device_Reporting_and_Recall_Process](./QP-0021_Medical_Device_Reporting_and_Recall_Process.md)
-  *  [QP-0022_Infrastructure_and_Work_Environment](./QP-0022_Infrastructure_and_Work_Environment.md)
-  *  [QP-0023_Supplier_Management_Process](./QP-0023_Supplier_Management_Process.md)
-  *  [QP-0024_Post_Market_Surveillance_Process](./QP-0024_Post_Market_Surveillance_Process.md)
-  *  [QP-0025_Unique_Device_Identification_Process](./QP-0025_Unique_Device_Identification_Process.md)
-  *  [QP-0026_Process_Validation_Procedure](./QP-0026_Process_Validation_Procedure.md)
-  *  [QP-0027_Technical_File_Process](./QP-0027_Technical_File_Process.md)
-  *  [QP-0028_European_Union_Medical_Device_Directive_Procedure](./QP-0028_European_Union_Medical_Device_Directive_Procedure.md)
-  *  [QP-0029_European_Union_Medical_Device_Regulation_Procedure](./QP-0029_European_Union_Medical_Device_Regulation_Procedure.md)
-  *  [QP-0030_Canadian_Medical_Device_Regulations_Procedure](./QP-0030_Canadian_Medical_Device_Regulations_Procedure.md)
-
-* Templates
-
-  * [QF-0002_PhaseReviewChecklistandSignoff.docx](./templates/QF-0002_PhaseReviewChecklistandSignoff.docx)
-  * [QF-0003_DocumentChangeOrderForm.docx](./templates/QF-0003_DocumentChangeOrderForm.docx)
-  * [QF-0004_CompetencyRecord.docx](./templates/QF-0004_CompetencyRecord.docx)
-  * [QF-0004_TrainingRecord.docx](./templates/QF-0004_TrainingRecord.docx)
-  * [QF-0005_IncomingInspectionRecord.docx](./templates/QF-0005_IncomingInspectionRecord.docx)
-  * [QF-0006_LabelingReviewAndApprovalForm.docx](./templates/QF-0006_LabelingReviewAndApprovalForm.docx)
-  * [QF-0008_Non-ConformanceReportForm.docx](./templates/QF-0008_Non-ConformanceReportForm.docx)
-  * [QF-0009_EngineeringChangeOrderForm.docx](./templates/QF-0009_EngineeringChangeOrderForm.docx)
-  * [QF-0011_CustomerComplaintForm.docx](./templates/QF-0011_CustomerComplaintForm.docx)
-  * [QF-0012_CorrectiveAndPreventiveActionForm.docx](./templates/QF-0012_CorrectiveAndPreventiveActionForm.docx)
-  * [QF-0021_HealthHazardEvaluation.docx](./templates/QF-0021_HealthHazardEvaluation.docx)
-  * [QF-0023-1_SupplierApprovalForm.docx](./templates/QF-0023-1_SupplierApprovalForm.docx)
-  * [QF-0023-2_SupplierProfileAndSurveyForm.docx](./templates/QF-0023-2_SupplierProfileAndSurveyForm.docx)
-  * [QF-0023-3_SupplierCorrectiveActionRequestForm.docx](./templates/QF-0023-3_SupplierCorrectiveActionRequestForm.docx)
-  * [QF-0023-4_FirstArticleInspectionForm.docx](./templates/QF-0023-4_FirstArticleInspectionForm.docx)
-  * [ 20YYQMSManagementReviewAgenda.docx](./templates/20YYQMSManagementReviewAgenda.docx)
-  * [ 20YYQMSManagementReviewMeetingMinutes.docx](./templates/20YYQMSManagementReviewMeetingMinutes.docx)
-  * [CalibrationandPreventiveMaintenanceLog.xlsx](./templates/CalibrationandPreventiveMaintenanceLog.xlsx)
-  * [CustomerComplaintLog.xls](./templates/CustomerComplaintLog.xls)
-  * [CustomerNeedsTemplate.docx](./templates/CustomerNeedsTemplate.docx)
-  * [ECOLog.xlsx](./templates/ECOLog.xlsx)
-  * [InternalAuditSchedule.docx](./templates/InternalAuditSchedule.docx)InternalAuditSchedule.docx
-  * [NCR_Log.xlsx](./templates/NCR_Log.xlsx)
-  * [Post-Market_Surveillence_Compiled_Database.xlsx](./templates/Post-Market_Surveillence_Compiled_Database.xlsx)
-  * [Training_Matrix.xlsx](./templates/Training_Matrix.xlsx)
-
-The Quality Management Systems defined in this manual applies to 
+The Quality Management Systems defined in this manual specifically applies to 
 providing "T1Pal"and "CoPilot" cloud-based applications to subscribers, specifically
 including the following activities.
 
@@ -175,15 +116,15 @@ may be configured on any of several types of devices that "act like a modern bro
 In this context, for subscribers to access the "T1Pal"and/or the "CoPilot" features and benefits,
 the subscriber must have a qualified device (having a known-compatible version).
 
-This Quality Manual applies to the following facility where construction, testing, and distribution  of the 
+This Quality Manual applies to the following facilities where construction, testing, and distribution  of the 
 (software) device is carried out.:
 
-    Medical Data Networks, LLC.,  537 Montridge Ct., Franklin, TN  37067
+*   Medical Data Networks, LLC.,  537 Montridge Ct., Franklin, TN  37067  (Corp HQ / Control)
+*   Medical Data Networks, LLC.,  10299 Parkdale Ave, San Diego, CA 92126  (Software Assembly)
+*   Medical Data Networks, LLC.,  511 Laurelwood Lane, Charlottsville, VA, 22903  (Operations Management)
 
 The company has undertaken the following roles:
-
 * ISO 13485 – Design, Manufacturer, Contract Manufacturer, Importer.
-
 * US CFR 21 Part 820 – Specification Developer, Manufacturer, Contract Manufacturer, Importer, etc.
 
 The following applicability **exclusions** apply:
@@ -220,6 +161,7 @@ sections as needed to convey how cloud-based operating software services (FDA "d
 
 The present Quality Management System (QMS) is specifically designed to achieve and sustain the alignment of MDN 
 services and/or software "devices" to applicable rules.
+
 The applicable rules are:
 
 1. Registration of T1Pal and CoPilot with the FDA
@@ -227,9 +169,11 @@ The applicable rules are:
 3. Support "Appropriate Validations" for T1Pal and CoPilot as "devices".
 4. Implement certain "Special Controls" needed to sustain T1Pal Operations.
 
+
+
 In this environment, **"Special Controls"** has been defined by the FDA as follows:
 
-    A. Devices must protect against unauthorized access to and modification of data.
+    A. Devices must protect against **unauthorized access** to and modification of data.
 
     B. Device labeling must display the following warnings and limitations: 
 
@@ -239,393 +183,15 @@ In this environment, **"Special Controls"** has been defined by the FDA as follo
   
         3.  **This device is not intended to replace self-monitoring practices advised by a physician.**
 
+It should be noted that the published company "Terms and Conditions", together with other company
+website notes are intended to meet all of the labelling requirements.
+Further, an active acknowledgement of these Terms and conditions is an enforced 
+part of becoming a subscriber to the company "devices".
 
 ## Responsibilities
 
 The CEO and VP-level employees are responsible for overseeing and maintaining this QMS under QMS change-control procedures, and for assuring that all employees are trained in its applicable requirements.
 
-This section enumerates applicable regulatory requirements and provides
-a link for each to an applicable document in this Quality Management System.
-All officers of the company are required to align their work to these regulatory requirements, where applicable.
-
-**ISO 13485:2016** 
-
-Management Subsystem|QMS Document
--------------------------------|-----------
-Quality Management System/ Quality Manual / Quality Policy (4.1/4.2/5.3)|Quality Manual
-Organizational Roles (4.1.1) * Quality Planning (5.4) |Quality Manual
-Customer Focus/ Customer Satisfaction (5.2)|Quality Manual
-Management Commitment/ Responsibility/ Authority/ Internal Communication (5.1/5.5)|Quality Manual
-Provision of resources (6.1/6.2)|QP-0013
-Management review/ Analysis of Data (5.6/8.4) |QP-0013
-
-Documentation and Records Subsystem|QMS Document
--------------------------------|-----------
-Approval of documents and changes (4.2.4)|QP-0003
-Control of documents of external origin (4.2.4)|QP-0003
-Device Master Records (4.2.3)|QP-0003
-Approval of labelling incl. translation process (4.2.4)|QP-0003 / QP-0006
-Document distribution and linkage to the training process (4.2.4)|QP-0003 / QP-0006
-Document and Records retention (4.2.1/ 4.2.5)|QP-0018
-
-Human Resources(Source)|QMS Document
--------------------------------|-----------
-Competence evaluation and training (6.2/ 6.2)|QP-0004
-Records of education, training, skills and experience (4.2.5)|QP-0004
-Quality System, MDR (6.2)|QP-0004
-
-Risk Management(Source)|QMS Document
--------------------------------|-----------
-Risk Management (7.1/ MDR)|QP-0017
-
-Purchasing Controls Subsystem|QMS Document
--------------------------------|-----------
-Supplier evaluation and selection (7.4.1) |QP-0023
-Supplier controls and monitoring (7.4.1)|QP-0023
-Verification of purchased products- process (7.4.3)|QP-0005
-Specifications (adequacy) for products and services (7.4.2)|QP-0005
-
-Design and Development Subsystem|QMS Document
--------------------------------|-----------
-Design and Development Planning (7.3.2)|QP-0002
-Design and Development Inputs (7.3.3)|QP-0002
-Design and Development Outputs (7.3.4)|QP-0002
-Design and Development Review (7.3.5)|QP-0002
-Design and Development Verification (7.3.6)|QP-0002
-Design and Development Validation (7.3.7)|QP-0002
-Design and Development Transfer (7.3.8)|QP-0002
-Control of Design and Development Changes (7.3.9)|QP-0002 QP-0009
-Design and Development Files (7.3.10)|QP-0002
-
-Production & Process Controls Subsystem|QMS Document
--------------------------------|-----------
-Process to control nonconforming products (8.3)|QP-0008
-MRB- review, investigation and disposition of nonconforming products (8.3/8.5.2).|QP-0008
-Nonconforming products in distribution- internal company vs. customer controlled (8.3/8.5.2)|QP-0008
-Receiving Inspection (7.4.3, 8.3)|QP-0005
-Requirements for products and materials|QP-QP-0005
-Acceptance activities, status and records|QP-0005
-Handling of materials (6.3, 7.5.11)|QP-0016
-Warehousing (6.3/ 6.4)|QP-0022
-Control of production (7.5.1)|"Run Books"
-Product/ material identification and traceability (7.5.8)|QP-0007
-Process control and monitoring (7.5)|QP-0013
-monitoring and control of process parameters (8.2.5)|QP-0013
-approval of processes and process equipment (7.5.6):|QP-00133
-Handling of products (7.5.11) |QP-0016
-In-process and finished device testing/acceptance status (7.5.8/ 8.2.6)|"Run Books"
-Labeling and packaging operations (7.5.1)|QP-0006
-Device History Records- review (4.2.4)|QP-0007
-Handling of customer property (7.5.10) |QP-0019
-Calibration System- monitoring and measuring equipment (7.6)|QP-0004
-Preventive Maintenance program (6.3)|QP-0014
-Equipment qualification/ validation and process validation incl. software validation (7.5.6)|QP-0026
-
-Outsourcing / Planning of Product Realization|QMS Document
--------------------------------|-----------
-Identification and control of Outsourced processes (4.1/ 7.4.1)|QP-0023
-Notification of changes to Notified Body/ Health Canada (4.1, 7.2.1/ 7.3.7)|QP-0028 / QP-0029
-
-Customer Related Processes|QMS Document
--------------------------------|-----------
-Contract Review (7.2.1/7.2.2/7.2.3)|Run Books
-
-CAPA Subsystem |QMS Document
--------------------------------|-----------
-Experience from post-production phase/ Customer communication/ Feedback (7.2.3/8.2.1)|QP-0011
-CAPA- corrective/ preventive actions, Distribution of Nonconforming Products (8.3/8.5.1-3)|QP-0012
-EU Vigilance System incl. Advisory Notices (8.5.1)|QP-0011
-Mandatory Problem Reporting/ Recall (8.5.1)|QP-0021
-Analysis of data- Monitoring & Measurement of Processes/ Statistical Techniques (8.4/8.2.3)|QP-0013
-
-Internal Audits & Improvement|QMS Document
--------------------------------|-----------
-Audit program incl. ISO 13485, CMDR, MDR, other requirements (8.2.4) |QP-0015
-Process, documentation, linkage to CAPA (8.2.4/8.5.2)|QP-0015
-
-
-**FDA CFR 21 Part 820 – Quality System Regulation**
-
-Subpart A – General Provisions
-
-Requirement|Document ID
------------|----------
-Scope (820.1)|QM-0001_Quality_Manual_Introduction
-Definitions (820.3)|Quality Manual QM-0001
-Quality System (820.5)|Quality Manual QM-0001
-
-Subpart B – Quality System Requirements
-
-Requirement|Document ID
------------|----------
-Management Responsibility (820.20)|QP-0013 /QM-0001_Quality_Manual_Introduction
-Quality Audit (820.22)|QP-0015
-Personnel (820.25)|QP-0004
-
-Subpart C – Design Controls
-
-Requirement|Document ID
------------|----------
-Design Controls (820.30)|QP-0002
-
-Subpart D – Document Controls
-
-Requirement|Document ID
------------|----------
-Document Controls (820.40) |QP-0003
-
-Subpart E – Purchasing Controls
-
-Requirement|Document ID
------------|----------
-Purchasing Controls (820.50)|QP-0005
-
-Subpart F – Identification and Traceability
-
-Requirement|Document ID
------------|----------
-Identification (820.60)|QP-0007
-Traceability (820.65)|QP-0007
-
-Subpart G – Production and Process Controls
-
-Requirement|Document ID
------------|----------
-Production and Process Controls (820.70)|Run Books
-Inspection, Measuring, and Test Equipment (820.72)|QP-0014
-Process Validation (820.75)|QP-0026
-
-Subpart H – Acceptance Activities
-
-Requirement|Document ID
------------|----------
-Receiving, In-Process, and Finished Device Acceptance (820.80)|QP-0005
-Acceptance Status (820.86)|Run Books
-
-Subpart I – Nonconforming Product
-
-Requirement|Document ID
------------|----------
-Nonconforming Product (820.90)|QP-0008
-
-Subpart J – Corrective and Preventive Action
-
-Requirement|Document ID
------------|----------
-Corrective and Preventive Action (820.100)|QP-0012
-
-Subpart K – Labeling and Packaging Control
-
-Requirement|Document ID
------------|----------
-Device Labeling (820.120)|QP-0006
-Device Packaging (820.130)|QP-0006
-
-Subpart L – Handling, Storage, Distribution, and Installation
-
-Requirement|Document ID
------------|----------
-Handling (820.140)|QP-0016
-Storage (820.150)|QP-0016
-Distribution (820.160)|Run Books
-Installation (820.170)|Run Books
-
-Subpart M – Records
-
-Requirement|Document ID
------------|----------
-General Requirements (820.180)|QP-0018
-Device Master Record (820.181)|DMRs
-Device History Record (820.184)|QP-0007
-Quality System Record (820.186)|QP-0018
-Complaint Files (820.198)|QP-0011
-
-Subpart N – Servicing
-
-Requirement|Document ID
------------|----------
-Servicing (820.200)|Run Books & WI
-
-Subpart O – Statistical Techniques
-
-Requirement|Document ID
------------|----------
-Statistical Techniques|QP-0013
-
-
-**FDA CFR 21 Other Applicable Regulations **
-
-Part 11 – Electronic Records; Electronic Signatures
-
-Requirement|Document ID
------------|----------
-General Provisions|Run Books
-Electronic Records|Run Books
-Electronic Signatures|Run Books
-
-Part 801 – Labeling
-
-Requirement|Document ID
------------|----------
-General Labeling Provisions|QP-0006
-Labeling Requirements for Unique Device Identification|QP-0006
-Labeling Requirements for Over-the-Counter Devices|QP-0006
-Exemptions from Adequate Directions for Use|QP-0006
-Special Requirements for Specific Devices|QP-0006
-
-Part 803 – Medical Device Reporting
-
-Requirement|Document ID
------------|----------
-General Provisions|QP-0021
-Generally Applicable Requirements for Individual Adverse Event Reports|QP-0021
-User Facility Reporting Requirements|QP-0021
-Manufacturer Reporting Requirements|QP-0021
-
-Part 830 – Unique Device Identification
-
-Requirement|Document ID
------------|----------
-Requirement for a Unique Device Identifier|QP-0025
-FDA Accreditation of an Issuing Agency|QP-0025
-FDA as an Issuing Agency|QP-0025
-Global Unique Device Identification Database|QP-0025
-
-EU MDR Medical Device Regulation
-
-Requirement|Document ID
------------|----------
-EU Authorized Representative|QP-0028
-Safety and Performance Requirements (Annex I)|QP-0002 / QP-0027
-Information supplied by manufacturer (Annex I)|QP-0006
-Unique Device Identification (Article 27 & 28)|QP-0025
-Information and notification of post-production incidents (Chapter VII)|QP-0010/QP-0024
-Clinical Evaluation and Post Market Surveillance (Chapter 27)|QP-0024/QP-0027
-
-
-Canadian Medical Device Regulations
-
-Requirement|Document ID
------------|----------
-Review of Canadian Device Licenses/ Amendments  |QP-0029
-Safety and Effectiveness Requirements|QP-0002
-Labeling Requirements|QP-0006
-
-
-If applicable regulatory requirements require notification of complaints that meet specified reporting criteria of adverse events or issuance of advisory notices, we have documented procedures for providing notification to the appropriate regulatory authorities.  Records of reporting to regulatory authorities are maintained.
-
-The company conducts internal audits at planned intervals to determine whether the quality management system:
-
-The company has implemented a documented procedure to descript the responsibilities and requirements for planning and conducting audits and recording and reporting audit results.
-
-The audit program is planned, taking into consideration the status and importance of the processes and area to be audited, as well as the results of previous audits.  The audit criteria, scope, interval, and methods are defined and recorded.
-
-The selection of auditors and conduct of audits shall ensure objectivity and impartiality of the audit process.  Auditors do not audit their own work.
-
-Records of the audits and their results, including identification of the processes and areas audited and the conclusions, are maintained.
-
-The management responsible for the area being audited ensures that any necessary corrections and corrective actions are taken without undue delay to eliminate detected nonconformities and their causes.  Follow-up activities shall include the verification of the actions taken and the reporting of verification results. 
-
-Documented procedures shall define the methods used for controlling the manufacturing processes and make reference to any applicable instructions utilized to define how work is conducted.  Where required, these procedures are available at the workstation.
-
-The effectiveness of these processes is evaluated based on their ability to produce products and/or services that are consistent with the Quality Policy and Quality Objectives.  They will be evaluated during management review meetings.
-
-Product shall be inspected and/or tested in order to verify that the specified requirements for the product are met.  Required inspection and/or testing and the records to be established are detailed in the quality plan and/or documented procedures.  In-process inspection and testing are performed as required by documented procedure.
-
-Company procedures ensure that in-process inspection and testing are carried out, and defines the criteria for holding of products until these inspection and tests activities have been completed and necessary reports have been documented.  All final testing is conducted in accordance with the quality plan or documented procedures to complete the evidence of conformance of the finished product to the specified requirements.
-
-The quality plan or documented procedures require that:
-
-* Product is held until all the required testing has been carried out and the results meet specified requirements
-* Final inspection may include accumulation of in-process inspection results or specific final testing as appropriate
-* Final inspection and testing includes the verification that all previous inspection and testing activities, including those specified at receipt of products or in-process, have been carried out with results meeting the specified requirements.
-
-All inspection and testing is recorded and approved by the personnel performing the inspection and/or testing to provide evidence the product has been inspected and/or tested. The identity of the person authorizing release of product shall be recorded. 
-
-* These records show clearly whether the product has passed or failed the inspections and/or tests according to defined acceptance criteria.
-* As appropriate, these records identify the test equipment used to perform measurement activities.
-* Traceability exists between the test records and the product tested.
-* Where the product fails to pass any inspection and/or test, the procedure for control of nonconforming product shall apply.
-
-Product that does not conform to specified requirements shall be identified and controlled to prevent its unintended use or delivery.  The company has implemented a documented procedure to define the controls and related responsibilities and authorities for the identification, documentation, segregation, evaluation, and disposition of nonconforming product.  
-
-The evaluation of nonconformity includes a determination of the need for an investigation and notification of any external party responsible for the nonconformity.  Records of the nature of the nonconformities and any subsequent action taken, including the evaluation, any investigation, and the rationale for decisions is maintained.
-
-The company manages nonconforming product by one or more of the following ways:
-
-* Taking action to eliminate the detected nonconformity
-* Taking action to preclude its original intended use or application
-* Authorizing it use, release, or acceptance under concession
-
-The company ensures that nonconforming product is accepted by concession only if the justification is provided, approval is obtained, and applicable regulatory requirements are met.  Records of the acceptance by concession and the identity of the person authorizing the concession are maintained.
-
-When nonconforming product is detected after delivery or use has started, we take action appropriate to the effects, or potential effects, of the nonconformity.  Records of actions taking are maintained.
-
-The company has documented procedures for issuing advisory notices in accordance with applicable regulatory requirements.  These procedures are capable of being put into effect at any time.  Records of actions relating to the issuance of advisory notices shall be maintained.
-
-The company completes rework in accordance with documented procedures that take into account the potential adverse effect of the rework on the product.  These procedures shall undergo the same review and approval as the original procedure.
-
-After the completion of rework, product shall be verified to ensure that it meets applicable acceptance criteria and regulatory requirements.  Records of rework are maintained.
-
-Quality data are collected and analyzed to determine the effectiveness of the Quality Management system and to identify opportunities for improvement.  Data relating to customer satisfaction, product conformity to requirements, supplier performance, process performance and product trends used to determine corrective and preventive actions, are reviewed during management review meetings and documented in the minutes.  Trends in company level data are analyzed and compared to overall business goals and objectives.  Key product and service features are included in the analysis and if deficiencies are noted, action is taken to correct them to ensure customer satisfaction.
-
-The company will identify and implement any changes necessary to ensure and maintain the continued suitability, adequacy, and effectiveness of the quality management system as well as medical device safety and performance through the use of the quality policy, quality objectives, audit results, post-market surveillance, analysis of date, corrective actions, preventive actions, and management review.
-
-The company has established and maintains documented procedures to implement corrective actions to eliminate the cause of nonconformities in order to prevent recurrence.  Any necessary corrective actions shall be taken without undue delay.  Corrective actions shall be proportionate to the effects of the nonconformities encountered.  
-
-* Reviewing non-conformities (including complaints)
-* Determining the cause of nonconformities
-* Evaluating the need for action to ensure that nonconformities do not recur
-* Planning and documenting action needed and implementing such action, including, as appropriate, updating documentation
-* Verifying that the action does not adversely affect the ability to meet applicable regulatory requirements or the safety and performance of the medical device
-* Reviewing the effectiveness of the preventive action taken, as appropriate
-
-Records of the results of any investigation and of action taken are maintained.
-
-The company has established and maintains documented procedures to implement preventive actions and eliminate the causes of potential nonconformities proportionate to the effects of the potential problems.  This documented procedure includes:
-* Determining potential nonconformities and their causes
-* Evaluating the need for action to prevent occurrence of nonconformities
-* Planning and documenting action needed and implementing such action, including, as appropriate, updating documentation
-* Verifying that the action does not adversely affect the ability to meet applicable regulatory requirements or the safety and performance of the medical device
-* Reviewing the effectiveness of the preventive action taken, as appropriate
-
-Records of the results of any investigations and of actions taken are maintained.
-
-
-
-## Change Control
-
-The change control mechanism built into the QMS system, particularly the
-github repository service, enables all users of the Quality Management System data procesing tools to determine whether or not they have an exact copy of all of the applicable documents. 
-It also enables convenient read-only access to all incremental changes to any file that is part of the Quality Management System electronic record set. 
-This ensures compliance with FDA Part 11 regulations for audit trail capabilities.
-
-
-Each and every one of the Quality System folder names and the files within each such folder, and their links to other specific QMS folders within the Quality Management System repository,  altogether completely describe the Medical Data Networks LLC Quality Management System.  
-
-The integrity and traceability of all changes to the Quality Management system is maintained in a "git" repository having its document root located here:  https://github.com/ehwest/mdn_qms. It should be noted that the "master" branch of this repository is the current operational repository of the QMS.  Other branches may be used to draft and test changes to the QMS, but are not further described within the QMS.
-
-As such, all documents and artifacts that are part of the Quality Management System are subject to change-control procedures such that each and every change to the Quality Management System documentation is tracked by explicit versioning enforced by the git repository system.
-
-
-It is the responsibility of all employees, contractors and departments at Medical Data Networks to adhere to this QMS.
-
-The Medical Data Networks, LLC quality system has been established, documented, implemented, and maintained to ensure the products and services produced meet the quality standards of the organization and are in compliance with relevant regulatory bodies.  Our organization has applied a risk based approach to the control of the appropriate processes needed for the Quality Management Sytstem (QMS).
-
-The Quality Management System is defined through a four level hierarchy:
-
-* **Quality Manual:** _(This document is the Quality Manual)_ A First-level document that provides a general overview of the Quality System and defines the Quality Policy. 
-
-* **Quality Policies and Procedures:** Second-level documents that provide more detailed explanation of the Quality System clauses and detail the structure of the Quality System.  A collection of pointers to Quality Procedures is provided in Appendix (chapter 3).
-
-* **Standard Operating Procedures and Work Instructions** (sometimes referred to as  "Run Books"): Third-level documents that provide step-by-step instructions on how activities are to be carried out and the requirements of products produced.  These detailed documents are maintained separately on the Quality Management change control system, a git repository.
-Each of the Quality Management system process descriptions points to one or more "Run Books" in the git repository.
-
-* **Forms and Records:** Fourth-level documents or data that contain the information, charts, checklists, or other form of records as evidence to demonstrate conformance to specified requirements and the effective operation of the Quality System.
-The Quality System Process documents point to folders that contain both templates and records of Quality System events.
-
-If a particular development project or customer request cannot be fulfilled by the existing procedures, quality plans are created to ensure that the specific requirements are met.  Quality plans are consistent with all other requirements of the Quality System.  Consideration shall be given to the resources or skills required to meet specified requirements whenever there is a significant change to an existing product, process, test, inspection, verification, and measurement.
-	
 The following key processes and interactions define the organizational structure and responsibilities of the Quality Management System.  
 
 ```{eval-rst}
@@ -1025,44 +591,48 @@ Complaint handling records are maintained.
 
 ## Quality System Quick Access Facility
 
-This section enumerates each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
-The state of the approval for each such document is provided.
+This section informally enumerates each of the Quality Procedures used to operate Medical Data Networks, LLC so as to deliver quality products that align with applicable rules and regulations.
+The controlled version of this is managed by the ./source/index.rst file within the QMS repository.
+
+In addition the table below provides information on the "Record-Keeping Template(s)" which is information
+that is formally controlled by identifying the template within the procedure description.
+
 
 **Quality System Procedures**
 
-| **Document ID**| **Procedure**  | **Record-Keeping Template(s)** | **Implementation Status** |
-|----------------|----------------|-----------------|-------------|
-|                |                                             |             |             |
-|[QP-0001 R1](QM-0001_Quality_Manual_Introduction.md) (this document)|Quality Manual Update Process|N/A|Approved 9/1/2021|
-|[QP-0002 R1](./QP-0002_Design_Control_Process.md)|Design Control Process|[QF-0002 Design_Control_Records](./Design_Control/README.md)| Approved 9/1/2021|
-|[QP-0003 R1](./QP-0003_Document_Control_Process.md)|Document Control Process|N/A| Approved 9/1/2021|
-|[QP-0004 R1](./QP-0004_Training_and_Competency_Process.md)|Training and Competency Process|[QF-0004 Training and Competency Records](./Training_and_Competency_Records/README.md)|Approved 9/1/2021|
-|[QP-0005 R1](./QP-0005_Purchasing_and_Receiving_Process.md)|Purchasing and Receiving Process |[QF-0005 Purchasing Controls](./Training_and_Competency_Records/README.md)|N/A|N/A|
-|[QP-0006 R1](./QP-0006_Labeling_and_Packaging_Control_Process.md)|Labeling and packaging Control|N/A|N/A|
-|[QP-0007 R1](./QP-0007_Identification_and_Traceability_Process.md)|[Traceability Records](./Traceability_Records/README.md)|Not defined yet |N/A
-|[QP-0008 R1](./QP-0008_Nonconforming_Product_Process.md)|Nonconforming Product process|[QF-0008 Non Conforming Product](./Non_conforming_Product.md)|Not defined yet|
-|[QP-0009 R1](./QP-0009_Change_Control_Process.md)| Change Control Process|N/A|Approved 9/1/2021|
-|[QP-0010 R1](./QP-0010_Software_Development_and_Validation_Process.md)| Software Validation Process|N/A|Approved 9/1/2021|
-|[QP-0011 R1](./QP-0011_Customer_Complaint_Handling_Procedure.md)| Customer Complaint Handling Procedure|[QF-0011 Customer Complaints](./Customer_Complaints/README.md)| Approved 9/1/2021|
-|[QP-0012 R1](./QP-0012_Corrective_and_Preventive_Action_CAPA_Process.md)|Corrective and Preventive Action|[QF-0012 CAPA Forms](./Corrective_and_Preventive_Action./README.md)|Approved 9/1/2021|
-|[QP-0013 R1](./QP-0013_Management_Review_and_Data_Analysis_Process.md)|Management Review and Data Analysis Process|[QF-0013 Management Review](./Management_Review/README.md)| Not defined yet|
-|[QP-0014 R1](./QP-0014_Calibration_and_Preventive_Maintenance_Process.md)|Calibration and Preventive Maintenance Process|[QF-0014 Calibration and Preventive Maintenance Process](./Calibration_and_Preventive_Maintenance/README.md)|Not defined yet|
-|[QP-0015 R1](./QP-0015_Quality_Audit_Process.md)|Quality Audit Process|[QF-0015 Internal Audit Records](./Internal_Audits/README.md)| Not defined yet           |
-|[QP-0016 R1](./QP-0016_Preservation_of_Product_Process.md)                 | Preservation of Product Process|N/A| Approved 9/1/2021         |
-|[QP-0017 R1](./QP-0017_Risk_Management_Process.md)| Risk Management Process|N/A| Approved 9/1/2021|
-|[QP-0018 R1](./QP-0018_Record_Management_Process.md)| Record Management Process| N/A| Approved 9/1/2021|
-|[QP-0019 R1](./QP-0019_Customer_Property_Control_Process.md)| Customer Property Control Process|N/A| Not defined yet|
-|[QP-0020 R1](./QP-0020_FDA_Audit_Management_Process.md)| FDA Audit Management Process|N/A|Not defined yet|
-|[QP-0021 R1](./QP-0021_Medical_Device_Reporting_and_Recall_Process.md)|Medical Device Reporting and Recall Process|[QF0021 Medical Device Reporting and Recall Records](./Medical_Device_Reporting_and_Recall/README.md)|Not defined yet|
-|[QP-0022 R1](./QP-0022_Infrastructure_and_Work_Environment.md)|Infrastructure and Work Environment|N/A|Not defined yet|
-|[QP-0023 R1](./QP-0023_Supplier_Management_Process.md)|Supplier Management Process|Not defined yet|
-|[QP-0024 R1](./QP-0024_Post_Market_Surveillance_Process.md)|Post Market Surveillance Process|[QF-0024 Post Market Surveillance](./Post-Market_Surveillance/README.md)| Not defined yet|
-|[QP-0025 R1](./QP-0025_Unique_Device_Identification_Process.md)|Unique Device Identification Process|| Not defined yet|
+| **Document ID**| **Procedure**  | **Record-Keeping Template(s)** 
+|----------------|----------------|-----------------
+|                |                |             
+|[QP-0001 R1](QM-0001_Quality_Manual_Introduction.md) (this document)|Quality Manual Update Process|N/A
+|[QP-0002 R1](./QP-0002_Design_Control_Process.md)|Design Control Process|[QF-0002 Design_Control_Records](./Design_Control/README.md)
+|[QP-0003 R1](./QP-0003_Document_Control_Process.md)|Document Control Process|N/A
+|[QP-0004 R1](./QP-0004_Training_and_Competency_Process.md)|Training and Competency Process|[QF-0004 Training and Competency Records](./Training_and_Competency_Records/README.md)
+|[QP-0005 R1](./QP-0005_Purchasing_and_Receiving_Process.md)|Purchasing and Receiving Process |[QF-0005 Purchasing Controls](./Training_and_Competency_Records/README.md)|N/A
+|[QP-0006 R1](./QP-0006_Labeling_and_Packaging_Control_Process.md)|Labeling and packaging Control|N/A
+|[QP-0007 R1](./QP-0007_Identification_and_Traceability_Process.md)|[Traceability Records](./Traceability_Records/README.md)|Not defined yet 
+|[QP-0008 R1](./QP-0008_Nonconforming_Product_Process.md)|Nonconforming Product process|[QF-0008 Non Conforming Product](./Non_conforming_Product.md)
+|[QP-0009 R1](./QP-0009_Change_Control_Process.md)| Change Control Process
+|[QP-0010 R1](./QP-0010_Software_Development_and_Validation_Process.md)| Software Validation Process
+|[QP-0011 R1](./QP-0011_Customer_Complaint_Handling_Procedure.md)| Customer Complaint Handling Procedure|[QF-0011 Customer Complaints](./Customer_Complaints/README.md)
+|[QP-0012 R1](./QP-0012_Corrective_and_Preventive_Action_CAPA_Process.md)|Corrective and Preventive Action|[QF-0012 CAPA Forms](./Corrective_and_Preventive_Action./README.md)
+|[QP-0013 R1](./QP-0013_Management_Review_and_Data_Analysis_Process.md)|Management Review and Data Analysis Process|[QF-0013 Management Review](./Management_Review/README.md)Not defined yet
+|[QP-0014 R1](./QP-0014_Calibration_and_Preventive_Maintenance_Process.md)|Calibration and Preventive Maintenance Process|[QF-0014 Calibration and Preventive Maintenance Process](./Calibration_and_Preventive_Maintenance/README.md)|Not defined yet
+|[QP-0015 R1](./QP-0015_Quality_Audit_Process.md)|Quality Audit Process|[QF-0015 Internal Audit Records](./Internal_Audits/README.md)| Not defined yet           
+|[QP-0016 R1](./QP-0016_Preservation_of_Product_Process.md)                 | Preservation of Product Process|N/A
+|[QP-0017 R1](./QP-0017_Risk_Management_Process.md)| Risk Management Process|
+|[QP-0018 R1](./QP-0018_Record_Management_Process.md)| Record Management Process|N/A
+|[QP-0019 R1](./QP-0019_Customer_Property_Control_Process.md)| Customer Property Control Process|N/A
+|[QP-0020 R1](./QP-0020_FDA_Audit_Management_Process.md)| FDA Audit Management Process|N/A|Not defined yet
+|[QP-0021 R1](./QP-0021_Medical_Device_Reporting_and_Recall_Process.md)|Medical Device Reporting and Recall Process|[QF0021 Medical Device Reporting and Recall Records](./Medical_Device_Reporting_and_Recall/README.md)|Not defined yet
+|[QP-0022 R1](./QP-0022_Infrastructure_and_Work_Environment.md)|Infrastructure and Work Environment|N/A|Not defined yet
+|[QP-0023 R1](./QP-0023_Supplier_Management_Process.md)|Supplier Management Process|Not defined yet
+|[QP-0024 R1](./QP-0024_Post_Market_Surveillance_Process.md)|Post Market Surveillance Process|[QF-0024 Post Market Surveillance](./Post-Market_Surveillance/README.md)| Not defined yet
+|[QP-0025 R1](./QP-0025_Unique_Device_Identification_Process.md)|Unique Device Identification Process|| Not defined yet
 |[QP-0026 R1](./QP-0026_Process_Validation_Procedure.md)|Process Validation Procedure|N/A| Not defined yet|
-|[QP-0027 R1](./QP-0027_Technical_File_Process.md)|Technical File Process|N/A| Not defined yet|
-|[QP-0028 R1](QP-0028_European_Union_Medical_Device_Directive_Procedure.md)| European Union Medical Device Directive Procedure|| Not defined yet|
-|[QP-0029 R1](QP-0029_European_Union_Medical_Device_Regulation_Procedure.md)| European_Union_Medical_Device_Regulation_Procedure|| Not defined yet|
-|[QP-0030 R1](QP-0030_Canadian_Medical_Device_Regulations_Procedure.md)| Canadian Medical Device Regulations Procedure|N/A | Not defined yet|
+|[QP-0027 R1](./QP-0027_Technical_File_Process.md)|Technical File Process|N/A| Not defined yet
+|[QP-0028 R1](QP-0028_European Union Medical Device Directive Procedure.md)| European Union Medical Device Directive Procedure|| Not defined yet
+|[QP-0029 R1](QP-0029_European_Union_Medical_Device_Regulation_Procedure.md)| European_Union_Medical_Device_Regulation_Procedure|| Not defined yet
+|[QP-0030 R1](QP-0030_Canadian Medical Device Regulations Procedure.md)| Canadian Medical Device Regulations Procedure|N/A | Not defined yet
 
 
 
@@ -1086,5 +656,6 @@ REV #|Doc ID|Effective Date|Description of Change
 -----|------|--------------|---------------------
 01   |Quality Manual| 9/15/2021|Initial Release of the Quality Manual
 02   |QM-0001_Quality_Manual_Introduction|3/11/2022|Markdown Corrections
+02   |QM-0001_Quality_Manual_Introduction|3/17/2022|Details on QMS Records Added
 
 

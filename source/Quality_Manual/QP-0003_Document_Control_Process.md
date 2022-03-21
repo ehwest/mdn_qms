@@ -38,6 +38,15 @@ Quality Management – Quality Management is responsible for the implementation 
 
 ## Document Control Procedure
 
+The github repository management system is used by the company
+to create, manage versions, and render all documents under change-control
+as spelled out in this section.
+The particular github repository
+used is **https://github.com/ehwest/mdn_qms**
+The features of the github repository enable branches to be created for
+updates, changes, and managing new documents.
+The "master"branch of the repository is the current in-production version that applies.
+
 The procedures described in this document work in conjunction to establish a controlled environment in which changes and improvements can introduced into the quality systems while mitigating risk and ensuring the quality of the products and services provided.  The Document Control Library is restricted access and only designated personnel have the ability to add, remove, or change the contents of the databases.  The Document Control Administrator maintains a Controlled Document Index of all approved documents.
 
 ## Document Numbering System
@@ -103,3 +112,4 @@ REV #|Doc ID|Effective Date|Description of Change
 -----|------|--------------|---------------------
 01   | QP-0003|12/17/2014|Initial Release
 02   | QP-0003|3/10/2022|Corrections
+02   | QP-0003|3/18/2022|Identification of github repo and its roll

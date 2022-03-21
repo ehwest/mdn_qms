@@ -5,8 +5,20 @@ QP-0002        |Design and Development Control Process|9/20/2021|/s/ Ben West
 
 ## Purpose
 
-This procedure documents and defines the Design and Development Controls.  The company utilizes a phase gate design review system in the development of new products and the modification of existing products. 
-We generally follow the procedures described in this document on a feature-by-feature basis. Each feature of our products will therefore have its own set of process records.
+This procedure document defines the controls applicable
+to the Design and Development of company products and services.
+The company products are all software-based services that run as applications
+on commercial cloud hosting providers.
+
+The designs and design artifacts of the delivered applications are also therefore 
+all captured and maintained in
+software respositories, enabling the company and its customers to benefit
+from software-defined service capabilities, where the pathway from
+system design to operational realization.
+
+New feature design and development are therefore coupled and completely captured in
+github software repositories.   This enables significant automation from
+the creation of a proposed feature or service design to a testable and operational software application.
 
 ## Scope
 
@@ -14,7 +26,10 @@ This procedure applies to all design and development activities for products int
 
 ## Definitions
 
-* FDA Special Controls  --  For FDA Type 2 medical devices, the FDA has outlines Special Controls as applicable to these devices.
+### **Special Controls**
+
+For FDA Type 2 medical devices, the FDA has outlines **Special Controls** as applicable to these devices.
+These are the Special Controls:
 
 Requirement Title|Requirement Text
 ---------------|-------------------------------------------
@@ -23,11 +38,15 @@ REQ_2020 Protection against modification of data.|All devices shall provide meas
 REQ_2030 Label A|Device labeling shall display the following warning:  "Dosing decisions should not be made based on this device.  The user should follow instructions on the continuous glucose monitoring system.
 REQ_2035 Label B|Device shall include the following limitation:  "This device is not intended to replace self-monitoring practices advised by a physician."
 
-* Device History Record (DHR) – Compilation of records containing the production history of a finished device.  
-Access to production history for devices may be found in the collection of github repositories where all software and integration specifications are found.
+### General Terms and Definitions
 
-* Device Master Record (DMR) – Compilation of records containing the procedures and specifications for a finished device.  Specifics are contained in 21CRF820.181.
-Access to production history for devices may be found in the collection of github repositories where all software and integration specifications are found.
+* Device History Record (DHR) – Compilation of records containing the production history of a finished device.  
+Access to production history for devices may be found in the github repositorie https://github.com/bewest/t1dpalsys  where all design artifacts, software, scripts, and integration specifications are found.
+
+* Device Master Record (DMR) – Compilation of records containing the procedures and specifications for a finished device.  Specifics are contained in 21CRF820.181.  For the purposes of this document, all DMRs are entirely captured by
+the company github repository:  https://github.com/bewest/t1dpalsys.
+
+Access to production history for devices may be also found in the collection of github repositories where all software and integration specifications are found.
 
 * Design Input – Physical and performance requirements of a device that are used as a basis for device design
 
@@ -53,6 +72,9 @@ Access to design history for devices may be found in the collection of github re
 * Design Verification – Confirmation by examination and provision of objective evidence that specified requirements have been fulfilled.
 
 ## Responsibilities
+
+These groups have specific roles in the general process to implement the design and development controls.
+
 * Sales and Marketing – shall have the primary responsibility for determining customer need requirements and developing input specifications, however, all departments are expected to support the development of input requirements and subsequent specifications.
 
 * Operations – is responsible for overseeing the contract manufacturer in executing the transferred design into a salable product, assuring manufacturability and establishing manufacturing requirements. Operations is further responsible for ensuring the creation and maintenance of all DHRs.
@@ -95,22 +117,47 @@ Access to all records as part of the Design Control Process will be found in the
 
 The following phase gate system is utilized to control the product design and development process. 
 
+While there may be exceptions and/or further process tailoring, 
+this process described as "Design and Development" is applicable
+to individual features and/or improvements to the common technology
+platform that provides T1Pal services.  
+
+As such, there may be
+multiple individual features being developed simultaneously.  The Design and Development process
+ends when an electronic version of the Design is tested and pushed into the production lineup.
+
+This github repository contains all of the current system design artifacts:
+
+**https://github.com/bewest/t1dpalsys **
+
+Features of the github service platform (specified elsewhere), are relied on
+to provide a definitive history of changes and releases.
+The following sequences of processes are used for each and every new feature
+and/or bug fix in the system platform.
+
+It should be understood here that the contents of the Github repository
+is the system design, and the deployment of proposed updates to the production environment
+is fully automated.  All of the automation scripts and software components needed
+to deploy the platform are treated as software artifacts, subject to
+revision, change control, and release to production.
+
+The following sequence of steps are carried out as needed to define and deploy new features
+and/or bug fixes.
+
 ### Design Planning:
 
 * Once Executive Management determines that the opportunity is worthy of resources, a Project Team Leader is selected to lead the project and personnel resources from QA/RA, Engineering, Operations, Sales & Marketing and Finance as needed are assigned to form the core project team.  
-
 * The Project Team Leader shall chair individual project team meetings, assigning action items, with completion dates, to the appropriate team members with detailed planning and tracking of tasks. 
 
-* As a guidance and tracking tool, the Project teams will utilize the Design Review Phase Checklist to navigate correctly through the phase gated design and development process.
+* As a guidance and tracking tool, the Project teams will utilize the **Design Review Phase Checklist** to navigate correctly through the phase gated design and development process.
 
-* A NPD Project Plan/Schedule shall be developed by the Project Manager and shall include all key project tasks, individual assignments, major milestones such as Phase completion, overall timeline/product launch estimated target, and expected resources.  The NPD Project Plan/Schedule shall be reviewed and updated as necessary at each stage of the phase gate process.  
+* A **NPD Project Plan/Schedule** shall be developed by the Project Manager and shall include all key project tasks, individual assignments, major milestones such as Phase completion, overall timeline/product launch estimated target, and expected resources.  The NPD Project Plan/Schedule shall be reviewed and updated as necessary at each stage of the phase gate process.  
 
 
 ###  Design Phase Reveiw Meeting Requirement
 
 * Design Phase Review meetings are formal meetings with designated key knowledgeable representatives from a cross section of all disciplines within the company (as applicable to the product), and are intended to update the Leadership Team regarding the project meeting the requirements of the specific phase and gaining approval, or receiving disapproval, to move the project to the next Design Phase.
-
-* The Design Phase Review Checklist is utilized as the agenda for the phase review meetings and the meeting minutes are recorded.
+The **Design Phase Review Checklist** is utilized as the agenda for the phase review meetings and the meeting minutes are recorded.
 
 * At each Design Phase Review, each item for the specific phase must be reviewed on the checklist and where possible the link for each document shall be listed on the checklist.  If an item is not required for a specific product, a brief justification should be listed on the checklist.
 
@@ -129,6 +176,9 @@ In Phase 1 the project team’s efforts are focused on ensuring that the opportu
 
 * Regulatory Strategy:  Completed by QA/RA to determine the product classification and regulatory requirements for FDA, MDD/MDR, CMDR, and all other applicable authorities.  Outline the intended regulatory path for market approval in target markets.
 
+A document entitled **Feasibility & Concept Notes** will capture customer needs, business case, design concept, and regulatory strategy.
+This document is maintained on the Google Docs folder for reference and action.
+
 ### Phase 2 - Design Inputs and Development
 
 In Phase 2 the project team focuses on further defining the new product concept through development of the following documents: 
@@ -144,6 +194,8 @@ In Phase 2 the project team focuses on further defining the new product concept 
 * Initial Risk Assessments:  Initial drafts of risk assessments documenting the product/design use, potential risks, and associated mitigating actions.  These assessments are documented within design, process and usability Failure Modes and Effects Analyses (FMEA’s). 
 
 * Initial Traceability Matrix:  Initial drafts of spreadsheet developed by the Project Manager or Engineering linking the required documents throughout the project to the appropriate pre-requisite documents.   At this stage, the spreadsheet should clearly illustrate which design outputs will satisfy specific design inputs.
+
+A Design Input and Verification Checklist will capture all Phase 2 Design Inputs and expected Development Outputs and will be stored in a Google Docs folder.
 
 ### Phase 3 - Validation & Verification
 
@@ -169,9 +221,19 @@ In Phase 3 the project team plans and executes verification and validation activ
 
 * Regulatory Submission:  Actual product submission document (i.e. 510(k), PMA, etc) developed by QA/RA for submission to the appropriate regulatory bodies.
 
+The Design Input and Validation Checklist shall be updted to cover all Phase 3 documentation artifacts.
+
 
 ### Phase 4 - Design Transer to Manufacturing (Commercialization)
-In Phase 4 the project team validates that the design and process are correctly translated into production specifications, Item Masters, BOM’s, Work Instructions and acceptance criteria for the characteristics essential to device functionality.  This phase ensures, that the design is complete, and approved, for meeting the product’s intended use, that the design is documented in the DMR, and is fully placed under change control with a design transfer ECO and completion of the following documents and activities:
+
+In Phase 4 the project team validates that the design and process are correctly translated into production artifacts, Item Masters, BOM’s, Work Instructions and acceptance criteria for the characteristics essential to device functionality.  This phase ensures, that the design is complete, and approved, for meeting the product’s intended use, that the design is documented in the DMR, and is fully placed under change control with a design transfer ECO and completion of the following documents and activities:
+
+The Design and Manufacturing artifacts of this phase are entirely encoded in
+scripts, software, control files, and configuration files.   All of these are captured by the github repository 
+**https://github.com/bewest/t1dpalsys **
+
+A new "branch" is defined for each new feature package.   The branch is designed, tested, and released to production
+under control of the Operations Manager.
 
 * Training:  Operations documentation of the completion of training to all parties responsible for the manufacturing of the final release product.  These include: manufacturing technicians/operators, quality inspectors, final labelers, etc.
 
@@ -209,12 +271,20 @@ This phase typically comes six to twelve months after product market launch and 
 
 * The process for design changes after exiting Phase 4 of Design Control is the ECO process.  This process is specified in QP-0009 – Change Control Process.
 
+Proposed, Changed, and bug fixes and features are all captured by at least one branch of the github repository:  https://github.com/bewest/t1dpalsys
+
+Features of the github system provide for tracing, switching to, and testing features and bug fixes.
+
 ### Design History File (DHF)
 
 The design history file for products or product families will contain all design activities/documents used to develop the product, accessories, major components, labeling, packaging, and production processes.
 Access to the design history file may be found in the collection of github repositories where all software and integration specifications are found.
 
 The design github repository files (DHF) will provide design history for all device features.
+
+The github repository is here:
+
+**https://github.com/bewest/t1dpalsys**
 
 The DHF shall contain or reference the records necessary to demonstrate that the design was developed in accordance with the approved design plan and the requirements of the Quality System Regulation.  DHF records shall be retrievable by analysis of the github commit procedures -- for every feature.
 
@@ -228,19 +298,19 @@ Statistical techniques that are appropriate for the project under development sh
 
 ### Summary of Records
 
-* Project Plan Phase Checklist
+The table of design and development process artifacts below summarizes
+the design and development repositories.  These records are expected to be produced by the Design and Development Process.
+Please note thta the Github repository for Design and Development artifacts is the 
+*t1palsys*  repository.
 
-* Design Review and Transfer Meeting Minutes
 
-* Quality Plans for each Project
-
-* Design Risk Management Reports (Risk Management File)
-
-* Design Verification and Validation Reports
-
-* Design Transfer to Manufacturing Records
-
-* Design History File (DHF)  - github repositories 
+Record Type|Managed By
+--------------------------|
+Phase Review Checklist|Google Docs Phase Review Repository Checklist
+Design Risk Management Reports|Google Docs Risk Management Reports
+Design Verification and Validation Reports |Google Docs Verification and Validation Reports
+Design Transfer to Manufacturing|Github repository for Design Artifacts
+Design History File (DHF)|Github repository for Design Artifacts
 
 ### Revision History
 
@@ -254,6 +324,8 @@ REV #|Doc ID|Effective Date|Description of Change
 -----|------|--------------|---------------------
 01   | QP-0002|12/17/2014|Initial Release
 02   | QP-0002|3/10/2022|Multiple Corrections
+02   | QP-0002|3/17/2022|Update for Software Products
+02   | QP-0002|3/18/2022|Update for Software github repo updates
 
 
 
